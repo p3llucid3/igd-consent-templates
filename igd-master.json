@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-02-02",
+  "description": "Generic informed consent templates for emergency and hospital procedures",
+  "templates": {
+    "Tindakan Intubasi": {
+      "tindakan": "...",
+      "indikasi": "...",
+      "dasar_diagnosis": "...",
+      "tata_cara": "...",
+      "tujuan": "...",
+      "resiko": "...",
+      "komplikasi": "...",
+      "prognosis": "...",
+      "alternatif": "...",
+      "lain_lain": "-",
+      "checklist": false
+    }
+  }
+}
