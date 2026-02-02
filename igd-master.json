@@ -16,8 +16,8 @@
       "alternatif": "Ventilasi bag-mask, LMA, atau trakeostomi.",
       "lain_lain": "-",
       "checklist": false
-    }
-{
+    },
+
   "Tindakan Akselerasi": {
     "tindakan": "Upaya percepatan persalinan, meliputi induksi atau augmentasi kontraksi uterus.",
     "indikasi": "Tidak disebutkan khusus dalam panduan tindakan ini.",
@@ -886,4 +886,4 @@
     "checklist": false
   }
 }
-
+}
