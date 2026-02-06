@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2026-02-02",
+  "version": "1.1.1",
+  "updated_at": "2026-02-06",
   "description": "Generic informed consent templates for emergency and hospital medical procedures",
   "templates": {
 
@@ -884,6 +884,163 @@
     "alternatif": "Kateter perifer atau akses vena sentral bila kondisi memungkinkan dan waktu cukup.",
     "lain_lain": "-",
     "checklist": false
+  },
+
+  "Transfusi Albumin": {
+    "tindakan": "Pemberian albumin melalui pembuluh darah sebagai terapi penunjang.",
+    "indikasi": "Hipoalbuminemia berat, sirosis hati, sindrom nefrotik, sepsis, atau kondisi lain sesuai pertimbangan medis.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Albumin diberikan melalui infus intravena dengan dosis dan kecepatan sesuai kondisi klinis pasien serta pemantauan ketat.",
+    "tujuan": "Mempertahankan tekanan onkotik plasma dan memperbaiki keseimbangan cairan tubuh.",
+    "resiko": "Dapat berupa reaksi alergi, kelebihan cairan, gangguan elektrolit, atau reaksi transfusi.",
+    "komplikasi": "Reaksi anafilaksis, edema paru, atau gagal jantung pada pasien tertentu.",
+    "prognosis": "Baik apabila diberikan sesuai indikasi dan dipantau dengan baik.",
+    "alternatif": "Terapi suportif lain sesuai kondisi pasien.",
+    "lain_lain": "-"
+  },
+
+  "Terapi Fondaparinux": {
+    "tindakan": "Pemberian obat antikoagulan fondaparinux.",
+    "indikasi": "Pencegahan atau pengobatan tromboemboli vena dan sindrom koroner akut sesuai indikasi.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Fondaparinux diberikan melalui suntikan subkutan dengan dosis sesuai berat badan dan fungsi ginjal.",
+    "tujuan": "Mencegah pembentukan dan perluasan bekuan darah.",
+    "resiko": "Dapat berupa perdarahan, memar di tempat suntikan, atau trombositopenia.",
+    "komplikasi": "Perdarahan berat atau gangguan fungsi ginjal.",
+    "prognosis": "Baik dengan pemantauan ketat risiko perdarahan.",
+    "alternatif": "Antikoagulan lain sesuai kondisi klinis pasien.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Sistoskopi Pro Biopsi Buli": {
+    "tindakan": "Pemeriksaan kandung kemih menggunakan alat sistoskop disertai pengambilan jaringan.",
+    "indikasi": "Kecurigaan kelainan atau keganasan pada kandung kemih.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Sistoskop dimasukkan melalui uretra untuk melihat kandung kemih dan dilakukan pengambilan sampel jaringan.",
+    "tujuan": "Menegakkan diagnosis melalui pemeriksaan jaringan secara histopatologi.",
+    "resiko": "Dapat berupa nyeri, perdarahan ringan, atau infeksi saluran kemih.",
+    "komplikasi": "Perdarahan berlanjut, infeksi, atau cedera uretra.",
+    "prognosis": "Baik apabila dilakukan sesuai prosedur standar.",
+    "alternatif": "Pemeriksaan radiologi atau sitologi urin.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Kardioversi": {
+    "tindakan": "Pemberian kejutan listrik terkontrol pada jantung.",
+    "indikasi": "Gangguan irama jantung tertentu yang menyebabkan kondisi tidak stabil.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Pasien diberikan sedasi, elektroda dipasang di dada, dan kejutan listrik diberikan sesuai protokol.",
+    "tujuan": "Mengembalikan irama jantung ke kondisi normal.",
+    "resiko": "Dapat berupa nyeri dada, gangguan irama sementara, atau iritasi kulit.",
+    "komplikasi": "Aritmia berat, tromboemboli, atau henti jantung.",
+    "prognosis": "Baik bila dilakukan tepat indikasi dan waktu.",
+    "alternatif": "Terapi obat antiaritmia.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Ureterorenoskopi (URS)": {
+    "tindakan": "Pemeriksaan dan tindakan pada ureter dan ginjal menggunakan ureterorenoskop.",
+    "indikasi": "Batu ureter, sumbatan, atau kelainan saluran kemih bagian atas.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Alat dimasukkan melalui uretra menuju ureter untuk evaluasi dan tindakan sesuai kebutuhan.",
+    "tujuan": "Mengatasi sumbatan dan memperbaiki aliran urin.",
+    "resiko": "Dapat berupa nyeri, perdarahan, atau infeksi.",
+    "komplikasi": "Cedera ureter atau penyempitan saluran kemih.",
+    "prognosis": "Baik bila dilakukan sesuai standar.",
+    "alternatif": "ESWL atau terapi konservatif.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan TURP (Transurethral Resection of Prostate)": {
+    "tindakan": "Pengangkatan jaringan prostat melalui saluran kemih.",
+    "indikasi": "Pembesaran prostat yang menyebabkan gangguan berkemih.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Reseksi jaringan prostat dilakukan menggunakan alat melalui uretra.",
+    "tujuan": "Memperbaiki aliran urin dan mengurangi keluhan berkemih.",
+    "resiko": "Dapat berupa perdarahan, infeksi, atau gangguan ejakulasi.",
+    "komplikasi": "Perdarahan berat atau inkontinensia urin.",
+    "prognosis": "Baik pada sebagian besar pasien.",
+    "alternatif": "Terapi obat atau tindakan minimal invasif lain.",
+    "lain_lain": "-"
+  },
+
+  "Terapi Tetagam (Imunoglobulin Tetanus)": {
+    "tindakan": "Pemberian imunoglobulin tetanus sebagai pencegahan.",
+    "indikasi": "Luka berisiko tinggi pada pasien dengan status imunisasi tidak adekuat.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Imunoglobulin diberikan melalui suntikan intramuskular sesuai dosis.",
+    "tujuan": "Mencegah terjadinya infeksi tetanus.",
+    "resiko": "Dapat berupa nyeri lokal atau reaksi alergi.",
+    "komplikasi": "Reaksi anafilaksis jarang.",
+    "prognosis": "Baik bila diberikan tepat waktu.",
+    "alternatif": "Vaksinasi tetanus sesuai jadwal.",
+    "lain_lain": "-"
+  },
+
+  "Induksi Sputum": {
+    "tindakan": "Tindakan membantu pengeluaran dahak untuk pemeriksaan laboratorium.",
+    "indikasi": "Pasien sulit mengeluarkan dahak secara spontan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Pasien menghirup larutan saline hipertonik untuk merangsang pengeluaran sputum.",
+    "tujuan": "Mendapatkan sampel sputum yang adekuat untuk pemeriksaan.",
+    "resiko": "Dapat berupa batuk hebat atau sesak napas.",
+    "komplikasi": "Bronkospasme pada pasien sensitif.",
+    "prognosis": "Baik dengan pemantauan selama tindakan.",
+    "alternatif": "Bronkoskopi.",
+    "lain_lain": "-"
+  },
+
+  "Terapi OAT (Obat Anti Tuberkulosis)": {
+    "tindakan": "Pemberian kombinasi obat anti tuberkulosis sesuai standar.",
+    "indikasi": "Tuberkulosis aktif.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Pemberian obat secara teratur sesuai fase pengobatan dan panduan nasional.",
+    "tujuan": "Menyembuhkan tuberkulosis dan mencegah penularan.",
+    "resiko": "Dapat berupa gangguan fungsi hati, mual, atau reaksi alergi.",
+    "komplikasi": "Hepatotoksisitas atau resistensi obat.",
+    "prognosis": "Baik bila kepatuhan pengobatan terjaga.",
+    "alternatif": "Regimen alternatif sesuai hasil evaluasi medis.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Pungsi Pleura": {
+    "tindakan": "Pengambilan cairan dari rongga pleura.",
+    "indikasi": "Penumpukan cairan pleura untuk tujuan diagnostik atau terapeutik.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Penyisipan jarum ke rongga pleura dengan teknik steril untuk mengeluarkan cairan.",
+    "tujuan": "Meringankan sesak dan membantu penegakan diagnosis.",
+    "resiko": "Dapat berupa nyeri, perdarahan, atau pneumotoraks.",
+    "komplikasi": "Infeksi atau kolaps paru.",
+    "prognosis": "Baik bila dilakukan dengan teknik yang benar.",
+    "alternatif": "Drainase pleura berkelanjutan.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Pungsi Lumbal": {
+    "tindakan": "Pengambilan cairan serebrospinal melalui tulang belakang.",
+    "indikasi": "Evaluasi infeksi, perdarahan, atau gangguan sistem saraf pusat.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Jarum dimasukkan ke ruang subaraknoid dengan teknik steril.",
+    "tujuan": "Menegakkan diagnosis dan membantu terapi tertentu.",
+    "resiko": "Dapat berupa nyeri kepala, nyeri punggung, atau perdarahan.",
+    "komplikasi": "Infeksi atau herniasi otak jarang.",
+    "prognosis": "Baik bila dilakukan sesuai indikasi.",
+    "alternatif": "Pemeriksaan pencitraan lanjutan.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Pemasangan Oro Gastric Tube (OGT)": {
+    "tindakan": "Pemasangan selang melalui mulut menuju lambung.",
+    "indikasi": "Dekompresi lambung atau pemberian nutrisi dan obat.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Selang dimasukkan melalui mulut ke lambung dengan teknik aseptik.",
+    "tujuan": "Mengosongkan isi lambung atau memberikan nutrisi dan obat.",
+    "resiko": "Dapat berupa iritasi tenggorokan, muntah, atau aspirasi.",
+    "komplikasi": "Salah posisi selang atau aspirasi paru.",
+    "prognosis": "Baik dengan pemasangan yang benar.",
+    "alternatif": "Nasogastric tube atau nutrisi parenteral.",
+    "lain_lain": "-"
   }
+
 }
 }
