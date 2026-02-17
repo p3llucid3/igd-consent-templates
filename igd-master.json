@@ -1042,7 +1042,7 @@
     "lain_lain": "-"
   },
 
-  "Persalinan Normal": {
+  "Tindakan Persalinan Normal": {
     "tindakan": "Proses persalinan bayi melalui jalan lahir secara alami tanpa tindakan pembedahan.",
     "indikasi": "Kehamilan cukup bulan dengan kondisi ibu dan janin memungkinkan persalinan pervaginam.",
     "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
@@ -1052,6 +1052,97 @@
     "komplikasi": "Perdarahan pascapersalinan, distosia, asfiksia neonatorum, atau kebutuhan tindakan emergensi.",
     "prognosis": "Baik apabila proses persalinan berjalan sesuai kemajuan normal dan mendapat pemantauan yang adekuat.",
     "alternatif": "Persalinan dengan tindakan operatif seperti vakum, forsep, atau operasi sesar sesuai indikasi medis.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Persalinan dengan Vakum": {
+    "tindakan": "Tindakan membantu persalinan menggunakan alat vakum yang dipasang pada kepala bayi.",
+    "indikasi": "Persalinan kala II yang memanjang atau terdapat indikasi medis yang memerlukan percepatan persalinan pervaginam.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Alat vakum dipasang pada kepala bayi dan dilakukan tarikan terkontrol mengikuti kontraksi.",
+    "tujuan": "Membantu kelahiran bayi secara aman tanpa operasi.",
+    "resiko": "Dapat berupa memar pada kepala bayi, perdarahan, atau robekan jalan lahir.",
+    "komplikasi": "Perdarahan pada ibu, hematoma kepala bayi, atau kegagalan tindakan yang memerlukan operasi sesar.",
+    "prognosis": "Baik apabila dilakukan sesuai indikasi dan teknik yang benar.",
+    "alternatif": "Persalinan normal tanpa alat atau operasi sesar.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Persalinan dengan Forsep": {
+    "tindakan": "Tindakan membantu persalinan menggunakan alat forsep untuk menjepit dan menarik kepala bayi.",
+    "indikasi": "Gangguan kemajuan persalinan atau kondisi ibu dan janin yang memerlukan percepatan persalinan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Forsep dipasang pada kepala bayi dan dilakukan tarikan terkontrol sesuai kontraksi.",
+    "tujuan": "Mempercepat kelahiran bayi dan mencegah komplikasi lebih lanjut.",
+    "resiko": "Dapat berupa memar atau cedera pada bayi serta robekan jalan lahir.",
+    "komplikasi": "Perdarahan, infeksi, atau trauma jaringan.",
+    "prognosis": "Baik dengan pelaksanaan sesuai standar prosedur.",
+    "alternatif": "Vakum ekstraksi atau operasi sesar.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Sectio Caesarea Elektif": {
+    "tindakan": "Tindakan persalinan melalui pembedahan yang direncanakan sebelumnya.",
+    "indikasi": "Indikasi medis seperti plasenta previa, riwayat operasi sesar berulang, atau kondisi lain yang tidak memungkinkan persalinan normal.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Pembedahan dilakukan melalui sayatan pada dinding perut dan rahim untuk mengeluarkan bayi.",
+    "tujuan": "Melahirkan bayi dengan aman sesuai indikasi medis.",
+    "resiko": "Dapat berupa perdarahan, infeksi luka operasi, atau reaksi anestesi.",
+    "komplikasi": "Cedera organ sekitar atau gangguan penyembuhan luka.",
+    "prognosis": "Baik dengan perawatan pascaoperasi yang adekuat.",
+    "alternatif": "Persalinan pervaginam jika memungkinkan.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Sectio Caesarea Emergensi": {
+    "tindakan": "Tindakan operasi sesar yang dilakukan segera dalam kondisi darurat.",
+    "indikasi": "Gawat janin, perdarahan hebat, atau kondisi ibu yang mengancam jiwa.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Pembedahan segera dilakukan untuk mengeluarkan bayi melalui sayatan pada perut dan rahim.",
+    "tujuan": "Menyelamatkan ibu dan/atau bayi dalam keadaan darurat.",
+    "resiko": "Dapat berupa perdarahan berat, infeksi, atau komplikasi anestesi.",
+    "komplikasi": "Cedera organ sekitar atau gangguan hemodinamik.",
+    "prognosis": "Bergantung pada kondisi awal ibu dan bayi.",
+    "alternatif": "Tidak ada alternatif yang setara dalam kondisi darurat.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Episiotomi": {
+    "tindakan": "Tindakan membuat sayatan kecil pada perineum untuk memperlebar jalan lahir.",
+    "indikasi": "Risiko robekan luas atau kebutuhan mempercepat persalinan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Dilakukan sayatan terkontrol pada perineum dan dijahit kembali setelah persalinan.",
+    "tujuan": "Mengurangi risiko robekan tidak terkontrol.",
+    "resiko": "Dapat berupa nyeri, perdarahan, atau infeksi.",
+    "komplikasi": "Gangguan penyembuhan luka atau nyeri berkepanjangan.",
+    "prognosis": "Baik dengan perawatan luka yang tepat.",
+    "alternatif": "Persalinan tanpa episiotomi bila kondisi memungkinkan.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Manajemen Aktif Kala III": {
+    "tindakan": "Tindakan pengelolaan aktif setelah bayi lahir untuk mempercepat pengeluaran plasenta.",
+    "indikasi": "Semua persalinan untuk mencegah perdarahan pascapersalinan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Pemberian uterotonika, penegangan tali pusat terkendali, dan masase uterus.",
+    "tujuan": "Mencegah perdarahan pascapersalinan.",
+    "resiko": "Dapat berupa nyeri atau efek samping obat uterotonik.",
+    "komplikasi": "Perdarahan bila plasenta tidak keluar sempurna.",
+    "prognosis": "Baik dengan pelaksanaan sesuai protokol.",
+    "alternatif": "Manajemen ekspektatif sesuai pertimbangan klinis.",
+    "lain_lain": "-"
+  },
+
+  "Tindakan Spooling Telinga (Irigasi Telinga)": {
+    "tindakan": "Tindakan membersihkan liang telinga dengan cairan steril.",
+    "indikasi": "Sumbatan kotoran telinga atau benda asing lunak di liang telinga.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Cairan hangat dialirkan perlahan ke liang telinga untuk mengeluarkan sumbatan.",
+    "tujuan": "Membersihkan liang telinga dan memperbaiki pendengaran.",
+    "resiko": "Dapat berupa rasa tidak nyaman, pusing ringan, atau iritasi.",
+    "komplikasi": "Cedera liang telinga atau infeksi bila prosedur tidak tepat.",
+    "prognosis": "Baik apabila dilakukan dengan teknik yang benar.",
+    "alternatif": "Pembersihan manual dengan alat khusus.",
     "lain_lain": "-"
   }
 
