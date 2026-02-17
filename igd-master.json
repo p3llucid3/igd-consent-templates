@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "updated_at": "2026-02-06",
   "description": "Generic informed consent templates for emergency and hospital medical procedures",
   "templates": {
@@ -1039,6 +1039,19 @@
     "komplikasi": "Salah posisi selang atau aspirasi paru.",
     "prognosis": "Baik dengan pemasangan yang benar.",
     "alternatif": "Nasogastric tube atau nutrisi parenteral.",
+    "lain_lain": "-"
+  },
+
+  "Persalinan Normal": {
+    "tindakan": "Proses persalinan bayi melalui jalan lahir secara alami tanpa tindakan pembedahan.",
+    "indikasi": "Kehamilan cukup bulan dengan kondisi ibu dan janin memungkinkan persalinan pervaginam.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Pemantauan kemajuan persalinan, kondisi ibu dan janin, serta bantuan persalinan sesuai standar pelayanan kebidanan.",
+    "tujuan": "Melahirkan bayi dan plasenta secara aman dengan menjaga keselamatan ibu dan bayi.",
+    "resiko": "Dapat berupa nyeri hebat, perdarahan, robekan jalan lahir, infeksi, atau gangguan pada bayi.",
+    "komplikasi": "Perdarahan pascapersalinan, distosia, asfiksia neonatorum, atau kebutuhan tindakan emergensi.",
+    "prognosis": "Baik apabila proses persalinan berjalan sesuai kemajuan normal dan mendapat pemantauan yang adekuat.",
+    "alternatif": "Persalinan dengan tindakan operatif seperti vakum, forsep, atau operasi sesar sesuai indikasi medis.",
     "lain_lain": "-"
   }
 
