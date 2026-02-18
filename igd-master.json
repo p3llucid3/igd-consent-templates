@@ -1,1163 +1,782 @@
 {
-  "version": "1.1.2",
-  "updated_at": "2026-02-06",
-  "description": "Generic informed consent templates for emergency and hospital medical procedures",
+  "version": "1.2.0",
+  "updated_at": "2026-02-17",
+  "description": "Comprehensive informed consent templates categorized by medical package",
   "templates": {
 
     "Tindakan Intubasi": {
-      "tindakan": "Tindakan Intubasi",
-      "indikasi": "Gagal napas, jalan napas terancam, atau kebutuhan proteksi jalan napas.",
-      "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-      "tata_cara": "Preoksigenasi, laringoskopi, pemasangan tabung endotrakeal, dan konfirmasi posisi.",
+      "package": "Emergency & Critical Care",
+      "tindakan": "Tindakan Intubasi Endotrakeal",
+      "indikasi": "Gagal napas, penurunan kesadaran, proteksi jalan napas, atau henti napas.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+      "tata_cara": "Preoksigenasi, pemasangan laringoskop, pemasangan pipa endotrakeal, konfirmasi posisi dengan auskultasi dan/atau kapnografi.",
       "tujuan": "Menjaga patensi jalan napas dan memungkinkan ventilasi adekuat.",
-      "resiko": "Cedera gigi, trauma jalan napas, hipoksia sementara, atau spasme laring.",
-      "komplikasi": "Aspirasi, intubasi esofagus, pneumotoraks, atau edema laring.",
+      "resiko": "Cedera gigi, trauma jalan napas, hipoksia sementara, atau aspirasi.",
+      "komplikasi": "Intubasi esofagus, pneumotoraks, edema laring.",
       "prognosis": "Baik bila tindakan berhasil dan ventilasi adekuat tercapai.",
       "alternatif": "Ventilasi bag-mask, LMA, atau trakeostomi.",
       "lain_lain": "-",
       "checklist": false
     },
 
-  "Tindakan Akselerasi": {
-    "tindakan": "Upaya percepatan persalinan, meliputi induksi atau augmentasi kontraksi uterus.",
-    "indikasi": "Tidak disebutkan khusus dalam panduan tindakan ini.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemberian oksitosin atau agen lain untuk menstimulasi kontraksi, pemantauan ibu dan janin secara ketat.",
-    "tujuan": "Mendukung proses persalinan agar berlangsung aman dalam waktu yang tepat.",
-    "resiko": "Dapat berupa hiperstimulasi uterus, gawat janin, ruptur uteri, nyeri hebat, atau kegagalan induksi.",
-    "komplikasi": "Termasuk perdarahan postpartum, infeksi, gagal kemajuan persalinan yang memerlukan seksio sesarea.",
-    "prognosis": "Prognosis tergantung kondisi ibu dan janin serta respons terhadap terapi.",
-    "alternatif": "Observasi dan menunggu kemajuan spontan bila kondisi klinis memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Cross Incisi": {
-    "tindakan": "Pembuatan insisi silang untuk membuka, mengeluarkan cairan atau jaringan patologis.",
-    "indikasi": "Tidak disebutkan khusus dalam panduan tindakan ini.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pembersihan kulit, anestesi lokal, pembuatan dua insisi membentuk salib untuk membuka area lebih luas.",
-    "tujuan": "Mempermudah drainase serta mengoptimalkan penyembuhan jaringan.",
-    "resiko": "Berupa perdarahan, nyeri lokal, luka melebar, atau kerusakan jaringan kulit sekitar.",
-    "komplikasi": "Dapat berupa infeksi luka, terbentuknya jaringan parut hipertrofik, atau keterlambatan penyembuhan.",
-    "prognosis": "Prognosis baik bila infeksi terkontrol dan perawatan luka optimal.",
-    "alternatif": "Insisi linear atau terapi konservatif sesuai indikasi klinis.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Debridement": {
-    "tindakan": "Pembersihan jaringan nekrotik, terinfeksi, atau devitalisasi pada luka.",
-    "indikasi": "Luka dengan jaringan mati, infeksi lokal, atau penyembuhan tidak adekuat.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pengangkatan jaringan mati secara bedah, mekanik, atau sharp debridement dengan teknik steril.",
-    "tujuan": "Mengurangi beban infeksi, merangsang pembentukan jaringan sehat, dan mempercepat penyembuhan.",
-    "resiko": "Meliputi perdarahan, nyeri, kerusakan jaringan sehat, atau kontaminasi tambahan.",
-    "komplikasi": "Dapat berupa infeksi lanjutan, kebutuhan debridement berulang, atau kebutuhan tindakan operasi lanjutan seperti cangkok kulit.",
-    "prognosis": "Prognosis baik bila infeksi terkontrol dan perawatan luka adekuat.",
-    "alternatif": "Debridement enzimatik atau autolitik bila kondisi luka memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Defibrilasi": {
-    "tindakan": "Pemberian kejutan listrik non-sinkron untuk aritmia fatal (VF/pVT).",
-    "indikasi": "Fibrilasi ventrikel atau pulseless ventricular tachycardia.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Aplikasi paddle atau pad defibrilasi, pemberian energi sesuai panduan ACLS.",
-    "tujuan": "Menghentikan aritmia fatal dan mengembalikan ritme jantung terorganisir.",
-    "resiko": "Berupa luka bakar kulit ringan, kontraksi otot kuat, aritmia pasca-kejutan, atau cedera pada operator bila tidak aman.",
-    "komplikasi": "Termasuk gagal mengembalikan ritme, aritmia lanjut, atau kebutuhan resusitasi lanjutan.",
-    "prognosis": "Penentu utama prognosis adalah waktu defibrilasi dan kualitas resusitasi.",
-    "alternatif": "Tidak ada alternatif pada kondisi VF/pVT; tindakan wajib dilakukan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan EKG": {
-    "tindakan": "Pemeriksaan elektrokardiografi untuk merekam aktivitas listrik jantung.",
-    "indikasi": "Evaluasi irama, deteksi iskemia, gangguan konduksi, atau monitoring kondisi kardiovaskular.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemasangan elektroda pada ekstremitas dan dinding dada untuk perekaman 12 lead.",
-    "tujuan": "Identifikasi gangguan irama dan perubahan iskemik.",
-    "resiko": "Dapat berupa iritasi kulit dari elektroda atau ketidaknyamanan ringan.",
-    "komplikasi": "Nyaris tidak ada; jarang terjadi reaksi alergi pada perekat.",
-    "prognosis": "Tidak berpengaruh langsung; bergantung temuan EKG.",
-    "alternatif": "Telemetri, Holter, atau ekokardiografi sesuai indikasi.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Ekstraksi Benda Asing pada Mata": {
-    "tindakan": "Pengangkatan benda asing superfisial pada mata.",
-    "indikasi": "Keluhan nyeri, sensasi mengganjal, atau benda asing tampak pada kornea/konjungtiva.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Anestesi topikal, inspeksi slit-lamp bila ada, ekstraksi menggunakan spud/pinset mikro secara aseptik.",
-    "tujuan": "Menghilangkan benda asing dan mencegah kerusakan kornea.",
-    "resiko": "Berupa abrasi kornea, perdarahan minimal, iritasi pasca tindakan, atau sisa benda asing.",
-    "komplikasi": "Termasuk ulkus kornea, infeksi, perforasi bila kasus kompleks.",
-    "prognosis": "Baik dengan penanganan cepat.",
-    "alternatif": "Rujukan oftalmologi pada kasus dalam/kompleks.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Ekstraksi Benda Asing pada Telinga": {
-    "tindakan": "Pengangkatan benda asing dari liang telinga.",
-    "indikasi": "Nyeri, gangguan pendengaran, atau adanya benda asing terlihat.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Inspeksi otoskopik, ekstraksi menggunakan pinset, kuret, suction, atau irigasi sesuai jenis benda.",
-    "tujuan": "Mengeluarkan benda asing dan mencegah kerusakan telinga.",
-    "resiko": "Meliputi nyeri, abrasi kulit liang telinga, perdarahan ringan, atau kegagalan ekstraksi.",
-    "komplikasi": "Termasuk perforasi membran timpani, infeksi otitis eksterna, atau benda asing terdorong ke dalam.",
-    "prognosis": "Baik bila dilakukan oleh tenaga terlatih.",
-    "alternatif": "Rujukan THT bila benda keras/kompleks.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Ekstraksi Benda Asing pada Hidung": {
-    "tindakan": "Pengangkatan benda asing dari rongga hidung.",
-    "indikasi": "Obstruksi hidung, epistaksis, atau risiko aspirasi.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Inspeksi nasalis, ekstraksi dengan pinset atau teknik tekanan positif pada anak.",
-    "tujuan": "Mengembalikan patensi jalan napas anterior.",
-    "resiko": "Berupa epistaksis, nyeri lokal, atau benda asing terdorong ke posterior.",
-    "komplikasi": "Dapat berupa sinusitis, perforasi septum, atau aspirasi benda asing.",
-    "prognosis": "Baik bila ditangani segera.",
-    "alternatif": "Rujukan THT bila tidak berhasil.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Ekstraksi Benda Asing pada Mulut dan Tenggorokan": {
-    "tindakan": "Pengangkatan benda asing dari mulut atau orofaring.",
-    "indikasi": "Risiko aspirasi, nyeri, atau benda asing terlihat.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Inspeksi rongga mulut, penggunaan pinset, suction, atau alat endoskopik sesuai kebutuhan.",
-    "tujuan": "Mengamankan jalan napas dan mencegah aspirasi.",
-    "resiko": "Dapat berupa trauma mukosa, muntah refleks, atau benda asing terdorong ke laring.",
-    "komplikasi": "Termasuk aspirasi, perforasi, atau perdarahan signifikan.",
-    "prognosis": "Baik bila tidak terjadi aspirasi.",
-    "alternatif": "Rujukan THT/bedah bila diperlukan endoskopi.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Ekstraksi Benda Asing": {
-    "tindakan": "Pengangkatan benda asing superfisial di kulit atau jaringan.",
-    "indikasi": "Benda asing tampak atau teraba yang menimbulkan nyeri atau infeksi.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Anestesi lokal bila perlu, ekstraksi manual menggunakan pinset/forcep steril.",
-    "tujuan": "Mengeluarkan benda asing dan mencegah infeksi.",
-    "resiko": "Berupa perdarahan ringan, nyeri lokal, atau sisa fragmen benda asing.",
-    "komplikasi": "Infeksi lokal atau abses.",
-    "prognosis": "Baik bila ekstraksi bersih.",
-    "alternatif": "Observasi pada benda kecil yang tidak menyebabkan gejala.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Hecting Luka": {
-    "tindakan": "Penjahitan luka untuk menutup jaringan yang terbuka.",
-    "indikasi": "Luka robek yang memerlukan penutupan untuk menghentikan perdarahan atau mempercepat penyembuhan.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Membersihkan luka, anestesi lokal, debridement bila perlu, penjahitan lapis demi lapis secara aseptik.",
-    "tujuan": "Menutup luka agar penyembuhan optimal dan mencegah infeksi.",
-    "resiko": "Dapat berupa nyeri, perdarahan, reaksi alergi terhadap anestesi lokal, atau cedera jaringan sekitar.",
-    "komplikasi": "Termasuk infeksi luka, dehisensi (lepasnya jahitan), jaringan parut menebal (keloid), atau hasil kosmetik yang kurang baik.",
-    "prognosis": "Umumnya baik bila perawatan luka dilakukan dengan benar.",
-    "alternatif": "Penggunaan lem kulit atau steri-strip bila luka dangkal.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Perawatan ICCU": {
-    "tindakan": "Perawatan intensif di ICCU (Intensive Coronary Care Unit).",
-    "indikasi": "Kegawatan kardiovaskular seperti aritmia berat, gagal jantung akut, atau sindrom koroner akut.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Monitoring EKG kontinu, dukungan hemodinamik, pemberian obat antiaritmia, antikoagulan, trombolitik, dan intervensi emergensi sesuai kebutuhan.",
-    "tujuan": "Menstabilkan kondisi kardiak dan mencegah komplikasi lebih lanjut.",
-    "resiko": "Meliputi iritasi kulit dari elektroda, ketidaknyamanan akibat intervensi invasif, atau efek samping obat yang digunakan.",
-    "komplikasi": "Dapat berupa aritmia berulang, henti jantung, infark ulang, infeksi nosokomial, atau komplikasi alat invasif (misalnya CVC).",
-    "prognosis": "Prognosis sangat bergantung pada penyakit kardiak dasar dan kecepatan intervensi.",
-    "alternatif": "Perawatan ICU non-kardiak bila stabil.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Perawatan ICU": {
-    "tindakan": "Perawatan intensif di ICU untuk pasien dewasa dengan kondisi kritis.",
-    "indikasi": "Kegawatan multisistem, gagal napas, syok, sepsis, atau kebutuhan monitoring intensif.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Monitoring ketat, dukungan ventilasi mekanik, manajemen cairan, terapi vasopressor, antibiotik, dan intervensi emergensi.",
-    "tujuan": "Mempertahankan fungsi organ vital dan menstabilkan kondisi pasien.",
-    "resiko": "Berupa iritasi kulit akibat alat monitoring, risiko infeksi akibat akses invasif, serta efek samping sedasi dan ventilasi mekanik.",
-    "komplikasi": "Termasuk sepsis, ventilator-associated pneumonia (VAP), delirium ICU, tromboemboli, atau gagal organ multipel.",
-    "prognosis": "Bervariasi sesuai penyakit dasar; ICU mortality dipengaruhi kondisi awal pasien.",
-    "alternatif": "Perawatan HCU bila kondisi lebih stabil.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Insisi Abses": {
-    "tindakan": "Pembuatan sayatan untuk mengeluarkan nanah dari abses.",
-    "indikasi": "Abses terlokalisir yang membutuhkan drainase untuk menghilangkan infeksi.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pembersihan area, anestesi lokal, insisi pada titik fluktuasi, drainase nanah, irigasi, dan pemasangan balutan.",
-    "tujuan": "Menghilangkan nanah dan mengurangi infeksi serta rasa nyeri.",
-    "resiko": "Dapat berupa perdarahan, nyeri, luka melebar, atau reaksi terhadap anestesi lokal.",
-    "komplikasi": "Meliputi infeksi berkelanjutan, abses berulang, jaringan parut, atau terbentuknya fistula.",
-    "prognosis": "Baik bila drainase adekuat dan perawatan luka benar.",
-    "alternatif": "Antibiotik saja pada abses kecil tanpa fluktuasi atau kontraindikasi tindakan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Irigasi Mata": {
-    "tindakan": "Irigasi mata menggunakan larutan steril untuk menghilangkan iritan atau bahan kimia.",
-    "indikasi": "Paparan bahan kimia, partikel iritan, atau benda asing superfisial.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pembilasan mata dengan NaCl 0.9% dalam volume adekuat hingga pH atau kondisi mata stabil.",
-    "tujuan": "Mengurangi kerusakan jaringan mata dan menghilangkan agen iritan.",
-    "resiko": "Berupa iritasi berlanjut, hipersensitivitas, atau ketidaknyamanan selama irigasi.",
-    "komplikasi": "Termasuk abrasi kornea, infeksi sekunder, atau kerusakan jaringan jika paparan kimia berat.",
-    "prognosis": "Baik bila dilakukan cepat terutama pada cedera kimia.",
-    "alternatif": "Ekstraksi benda asing bila terdapat partikel padat.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Intubasi": {
-    "tindakan": "Tindakan Intubasi",
-    "indikasi": "Gagal napas, jalan napas terancam, henti napas, atau kebutuhan proteksi jalan napas.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Preoksigenasi, induksi anestesi bila diperlukan, laringoskopi, pemasangan tabung endotrakeal ke trakea, konfirmasi posisi dengan kapnografi atau auskultasi.",
-    "tujuan": "Memastikan jalan napas terbuka dan memungkinkan ventilasi mekanik.",
-    "resiko": "Dapat berupa cedera gigi, trauma orofaring, hipoksia sementara, bronkospasme, atau spasme laring selama prosedur.",
-    "komplikasi": "Termasuk intubasi esofagus, aspirasi, edema laring, perforasi trakea, atau pneumotoraks akibat ventilasi tekanan tinggi.",
-    "prognosis": "Baik bila intubasi berhasil cepat dan ventilasi adekuat tercapai.",
-    "alternatif": "Penggunaan alat jalan napas supraglotik, ventilasi bag-mask, atau trakeostomi bila intubasi sulit.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Laparotomi": {
-    "tindakan": "Tindakan Laparotomi",
-    "indikasi": "Perdarahan intraabdominal, perforasi viskus, peritonitis, atau abdomen akut yang membutuhkan eksplorasi bedah.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan di ruang operasi dengan anestesi umum, insisi abdominal, eksplorasi rongga abdomen, identifikasi sumber masalah, dan tindakan perbaikan sesuai temuan.",
-    "tujuan": "Menangani kegawatan abdomen dan mencegah kerusakan organ lebih lanjut.",
-    "resiko": "Dapat berupa kehilangan darah, reaksi anestesi, infeksi luka, atau cedera organ intraabdominal.",
-    "komplikasi": "Termasuk abses intraabdominal, perlekatan (adhesi), ileus paralitik, fistula, atau hernia insisional.",
-    "prognosis": "Tergantung penyebab dasar dan kecepatan penanganan.",
-    "alternatif": "Tindakan laparoskopi atau penanganan konservatif bila kondisi memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemberian MgSO4": {
-    "tindakan": "Tindakan Pemberian MgSO4",
-    "indikasi": "Preeklampsia berat atau eklampsia untuk pencegahan dan penanganan kejang.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemberian loading dose intravena diikuti infus pemeliharaan, dengan pemantauan refleks tendon, frekuensi napas, dan output urin.",
-    "tujuan": "Mencegah kejang eklamptik dan menurunkan risiko komplikasi neurologis.",
-    "resiko": "Berupa flushing, mual, kelemahan otot, penurunan refleks, atau depresi pernapasan.",
-    "komplikasi": "Toksisitas magnesium yang dapat menyebabkan henti napas atau henti jantung bila tidak dipantau ketat.",
-    "prognosis": "Umumnya baik bila monitoring ketat dilakukan.",
-    "alternatif": "Diazepam atau fenitoin (kurang direkomendasikan dibanding MgSO4).",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Perawatan NICU": {
-    "tindakan": "Tindakan Perawatan NICU",
-    "indikasi": "Neonatus membutuhkan pemantauan intensif atau dukungan organ.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Monitoring, dukungan ventilasi, pemberian nutrisi parenteral/enteral, terapi antibiotik, dan perawatan neonatal intensif.",
-    "tujuan": "Menstabilkan kondisi neonatus dan mencegah komplikasi.",
-    "resiko": "Meliputi stres sensorik, infeksi nosokomial, atau komplikasi dari alat invasif.",
-    "komplikasi": "Termasuk gagal napas, sepsis neonatal, atau perdarahan intrakranial.",
-    "prognosis": "Bergantung pada penyakit dasar dan usia gestasi.",
-    "alternatif": "Perawatan ruang bayi bila kondisi stabil.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Perawatan PICU": {
-    "tindakan": "Tindakan Perawatan PICU",
-    "indikasi": "Anak dengan kondisi kritis yang memerlukan monitoring intensif.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Monitoring hemodinamik, ventilasi mekanik bila perlu, dukungan kardiovaskular dan neurologis.",
-    "tujuan": "Stabilisasi kondisi dan dukungan organ pada pasien anak sakit kritis.",
-    "resiko": "Berupa stres psikologis, risiko infeksi terkait alat, atau efek samping obat.",
-    "komplikasi": "Termasuk pneumonia nosokomial, sepsis, aritmia, dan gagal organ.",
-    "prognosis": "Beragam tergantung kondisi dasar.",
-    "alternatif": "Ruang rawat anak bila tidak memerlukan dukungan intensif.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Perawatan HCU": {
-    "tindakan": "Tindakan Perawatan HCU",
-    "indikasi": "Pasien membutuhkan pemantauan ketat tetapi tidak memerlukan ICU.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Monitoring tanda vital, pemberian terapi IV, observasi ketat perkembangan kondisi.",
-    "tujuan": "Menjaga stabilitas pasien sebelum naik ICU atau dipindah ke ruang rawat biasa.",
-    "resiko": "Meliputi ketidaknyamanan akibat alat monitoring atau efek samping terapi.",
-    "komplikasi": "Termasuk perburukan kondisi yang memerlukan pemindahan ke ICU.",
-    "prognosis": "Baik bila kondisi dapat stabil tanpa intervensi invasif lanjutan.",
-    "alternatif": "Rawat inap biasa untuk kasus ringan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemasangan Infus": {
-    "tindakan": "Pemasangan akses intravena perifer.",
-    "indikasi": "Kebutuhan pemberian obat, cairan, atau transfusi.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemasukan kanula steril ke vena perifer, fiksasi, dan pengecekan patensi.",
-    "tujuan": "Memberikan akses intravena yang aman.",
-    "resiko": "Berupa nyeri, perdarahan kecil, atau infiltrasi cairan.",
-    "komplikasi": "Termasuk flebitis, infeksi lokal, emboli udara, atau ekstravasasi.",
-    "prognosis": "Baik bila pemasangan tepat dan perawatan benar.",
-    "alternatif": "Akses vena sentral bila membutuhkan akses jangka panjang.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemasangan Kateter": {
-    "tindakan": "Pemasangan kateter urin untuk drainase kandung kemih.",
-    "indikasi": "Retensi urin, monitoring output urin, atau kebutuhan medis tertentu.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Aseptic technique, memasukkan kateter fleksibel ke uretra hingga urin mengalir, mengembangkan balon kateter.",
-    "tujuan": "Mengosongkan kandung kemih dan melakukan monitoring urin.",
-    "resiko": "Berupa nyeri uretra, perdarahan kecil, atau ketidaknyamanan.",
-    "komplikasi": "Termasuk infeksi saluran kemih (UTI), trauma uretra, atau spasme kandung kemih.",
-    "prognosis": "Baik bila indikasi tepat dan dilakukan aseptik.",
-    "alternatif": "Intermittent catheterization.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemasangan NGT": {
-    "tindakan": "Pemasangan selang nasogastrik (NGT).",
-    "indikasi": "Dekompresi lambung, pemberian nutrisi enteral, atau administrasi obat.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Memasukkan selang melalui hidung ke lambung, konfirmasi posisi melalui aspirasi atau auskultasi.",
-    "tujuan": "Mengelola nutrisi dan cairan atau mengurangi tekanan gastrointestinal.",
-    "resiko": "Dapat berupa muntah, epistaksis, nyeri tenggorokan, atau salah masuk ke saluran napas.",
-    "komplikasi": "Aspiration pneumonia, trauma mukosa, atau malposisi NGT.",
-    "prognosis": "Baik bila konfirmasi posisi dilakukan benar.",
-    "alternatif": "Nutrisi parenteral bila enteral tidak memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pencabutan Kuku": {
-    "tindakan": "Pencabutan parsial atau total kuku.",
-    "indikasi": "Infeksi kuku, kuku tumbuh ke dalam, atau trauma kuku.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Anestesi digital block, angkat kuku dari dasar, setelah itu balut steril.",
-    "tujuan": "Mengurangi nyeri, infeksi, dan memperbaiki pertumbuhan kuku.",
-    "resiko": "Dapat berupa perdarahan, nyeri, atau reaksi terhadap anestesi lokal.",
-    "komplikasi": "Infeksi, pertumbuhan kuku abnormal, atau jaringan parut.",
-    "prognosis": "Baik bila dilakukan aseptik.",
-    "alternatif": "Perawatan konservatif dan foot care.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Penundaan Persalinan": {
-    "tindakan": "Penundaan persalinan",
-    "indikasi": "Kontraksi prematur atau kebutuhan maturasi paru janin.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemberian tokolitik, monitoring janin, observasi ketat kondisi ibu.",
-    "tujuan": "Menunda persalinan hingga kondisi ibu dan janin optimal.",
-    "resiko": "Efek samping tokolitik berupa takikardia, hipotensi, tremor, atau mual.",
-    "komplikasi": "Distres janin atau gagal respon terapi.",
-    "prognosis": "Tergantung usia gestasi dan respons terhadap terapi.",
-    "alternatif": "Melanjutkan persalinan bila penundaan tidak aman.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Persalinan Normal": {
-    "tindakan": "Persalinan melalui jalan lahir tanpa tindakan operatif.",
-    "indikasi": "Kehamilan cukup bulan dengan kondisi ibu dan janin baik.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Monitoring kemajuan persalinan, dukungan analgesia, penanganan kala I–IV sesuai standar obstetri.",
-    "tujuan": "Melahirkan bayi secara aman dan nyaman.",
-    "resiko": "Berupa robekan perineum, nyeri persalinan, perdarahan, atau retensi plasenta.",
-    "komplikasi": "Distosia, gawat janin, perdarahan postpartum, atau infeksi.",
-    "prognosis": "Baik bila persalinan berlangsung tanpa komplikasi.",
-    "alternatif": "Seksio sesarea bila risiko meningkat.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Observasi": {
-    "tindakan": "Pengamatan klinis intensif terhadap pasien tanpa intervensi aktif.",
-    "indikasi": "Pasien dengan kondisi yang memerlukan pemantauan perkembangan.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Monitoring tanda vital, evaluasi berkala, dan pencatatan respons klinis.",
-    "tujuan": "Mendeteksi perubahan kondisi secara dini.",
-    "resiko": "Berupa perburukan kondisi bila tidak dikenali tepat waktu.",
-    "komplikasi": "Dapat berupa gagal organ, syok, atau kondisi memburuk tiba-tiba.",
-    "prognosis": "Tergantung penyebab dan perkembangan kondisi.",
-    "alternatif": "Rawat inap dengan intervensi aktif.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan ORIF": {
-    "tindakan": "Open Reduction and Internal Fixation (ORIF).",
-    "indikasi": "Fraktur tidak stabil, fraktur intraartikular, atau fraktur dengan pergeseran signifikan.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Reduksi terbuka fragmen tulang dan fiksasi menggunakan plate, screw, atau nail.",
-    "tujuan": "Memperbaiki posisi tulang secara anatomis untuk penyembuhan optimal.",
-    "resiko": "Dapat berupa perdarahan, nyeri, cedera saraf lokal, atau reaksi anestesi.",
-    "komplikasi": "Infeksi tulang (osteomielitis), non-union, mal-union, atau loosening plate.",
-    "prognosis": "Baik bila fiksasi kuat dan rehabilitasi berjalan baik.",
-    "alternatif": "Imobilisasi konservatif atau pemasangan eksternal fixator.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Reposisi Sendi": {
-    "tindakan": "Reposisi sendi yang terlepas (dislokasi) secara manual.",
-    "indikasi": "Dislokasi sendi akibat trauma atau cedera dengan nyeri dan kehilangan fungsi.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Analgesia atau sedasi bila perlu, reposisi manual menggunakan teknik traksi-kontratraksi atau metode spesifik sendi, kemudian imobilisasi.",
-    "tujuan": "Mengembalikan posisi anatomis sendi dan mengurangi nyeri.",
-    "resiko": "Dapat berupa nyeri hebat saat reposisi, perdarahan jaringan lunak, dan spasme otot.",
-    "komplikasi": "Termasuk cedera saraf atau pembuluh darah, ketidakstabilan sendi berulang, fraktur terkait, atau avaskular nekrosis pada sendi tertentu (misal kepala femur).",
-    "prognosis": "Baik bila reposisi cepat dan stabil, disertai imobilisasi dan rehabilitasi.",
-    "alternatif": "Reposisi terbuka melalui pembedahan pada kasus yang gagal reposisi tertutup.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Resusitasi Jantung Paru (RJP)": {
-    "tindakan": "Resusitasi jantung paru pada pasien dengan henti jantung atau henti napas.",
-    "indikasi": "Pasien tanpa nadi dan/atau henti napas yang memerlukan tindakan resusitasi segera.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Kompresi dada, ventilasi bantuan, defibrilasi bila ritme shockable, dan pemberian obat sesuai protokol ACLS.",
-    "tujuan": "Mengembalikan sirkulasi spontan (ROSC) dan mempertahankan oksigenasi jaringan.",
-    "resiko": "Meliputi cedera iga, nyeri dada, kerusakan jaringan lunak, dan risiko paparan bagi petugas bila tidak menggunakan APD.",
-    "komplikasi": "Termasuk pneumotoraks, hemotoraks, perforasi organ internal, aspirasi, atau ROSC yang tidak stabil.",
-    "prognosis": "Sangat bergantung pada kecepatan tindakan, kualitas CPR, dan penyebab henti jantung.",
-    "alternatif": "Tidak ada alternatif dalam kondisi henti jantung; tindakan wajib dilakukan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Sectio Caesaria": {
-    "tindakan": "Persalinan melalui pembedahan dengan membuka dinding perut dan rahim.",
-    "indikasi": "Kegawatan obstetri seperti gawat janin, distosia, plasenta previa, atau indikasi maternal tertentu.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Anestesi regional atau umum, insisi abdomen, insisi uterus, pengeluaran bayi dan plasenta, serta penjahitan kembali.",
-    "tujuan": "Menyelamatkan ibu dan bayi ketika persalinan pervaginam tidak aman.",
-    "resiko": "Berupa perdarahan, infeksi, reaksi anestesi, dan nyeri luka operasi.",
-    "komplikasi": "Termasuk cedera kandung kemih atau usus, tromboemboli, endometritis, serta komplikasi kehamilan berikutnya seperti plasenta akreta.",
-    "prognosis": "Baik bila indikasi tepat dan tidak ada komplikasi intraoperatif.",
-    "alternatif": "Persalinan pervaginam bila kondisi memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Terapi Pemasangan CPEP": {
-    "tindakan": "Pemberian terapi tekanan positif kontinu pada jalan napas (CPEP).",
-    "indikasi": "Gangguan oksigenasi, atelektasis, atau insufisiensi pernapasan yang memerlukan bantuan tekanan positif.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemasangan interface (masker/nasal), pengaturan tekanan awal, pemantauan saturasi dan kerja napas, serta penyesuaian tekanan sesuai respons.",
-    "tujuan": "Mempertahankan alveoli tetap terbuka dan meningkatkan oksigenasi.",
-    "resiko": "Berupa ketidaknyamanan, distensi lambung, iritasi kulit oleh masker, atau kebocoran sistem.",
-    "komplikasi": "Meliputi barotrauma (pneumotoraks), penurunan curah jantung, dan aspirasi bila pasien tidak mampu melindungi jalan napas.",
-    "prognosis": "Baik pada pasien yang responsif, tetapi harus dimonitor ketat.",
-    "alternatif": "Ventilasi non-invasif lain atau ventilasi mekanik invasif bila gagal.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Transfusi": {
-    "tindakan": "Pemberian darah atau komponen darah melalui jalur intravena.",
-    "indikasi": "Anemia berat, perdarahan akut, gangguan pembekuan, atau kebutuhan spesifik komponen darah.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemberian darah setelah crossmatch dan verifikasi identitas, pemantauan vital sebelum-selama-setelah transfusi.",
-    "tujuan": "Memperbaiki kapasitas pembawa oksigen atau menormalkan komponen darah.",
-    "resiko": "Berupa demam, reaksi alergi, menggigil, atau ketidaknyamanan lokal pada jalur IV.",
-    "komplikasi": "Termasuk reaksi transfusi akut, hemolisis, TRALI, TACO, sepsis akibat kontaminasi, dan ketidaksesuaian golongan darah.",
-    "prognosis": "Baik bila dilakukan dengan standar transfusi ketat.",
-    "alternatif": "Suplementasi besi, eritropoietin, atau terapi suportif lain bila memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Trombolitik": {
-    "tindakan": "Pemberian obat pelarut bekuan darah (trombolitik).",
-    "indikasi": "Stroke iskemik akut, STEMI, emboli paru, atau kondisi lain sesuai protokol.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemberian agen trombolitik intravena sesuai dosis, monitoring ketat tanda vital dan status neurologis.",
-    "tujuan": "Melarutkan trombus dan memulihkan aliran darah.",
-    "resiko": "Berupa mual, hipotensi, atau reaksi alergi ringan.",
-    "komplikasi": "Termasuk perdarahan intrakranial, perdarahan mayor lainnya, reperfusion injury, atau aritmia.",
-    "prognosis": "Terbaik bila diberikan dalam window time dan sesuai indikasi.",
-    "alternatif": "Intervensi mekanik seperti trombektomi atau angioplasti.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Lain-lain (Non Spesifik)": {
-    "tindakan": "Tindakan lain yang tidak tercantum secara spesifik dalam daftar ini.",
-    "indikasi": "Tergantung kondisi klinis yang memerlukan intervensi spesifik.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan sesuai protokol tindakan spesifik yang relevan dengan kondisi pasien.",
-    "tujuan": "Menangani kondisi klinis sesuai indikasi untuk memperbaiki hasil kesehatan pasien.",
-    "resiko": "Dapat berupa perdarahan, infeksi, nyeri, reaksi anestesi, atau komplikasi spesifik tergantung tindakan.",
-    "komplikasi": "Termasuk kegagalan tindakan, perlunya tindakan ulang, infeksi nosokomial, dan komplikasi organ terkait tindakan.",
-    "prognosis": "Bervariasi menurut tindakan spesifik dan kondisi pasien.",
-    "alternatif": "Perawatan konservatif, pengamatan, atau rujukan ke layanan spesialis bila tersedia.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemasangan IUD": {
-    "tindakan": "Tindakan Pemasangan IUD",
-    "indikasi": "Kebutuhan kontrasepsi jangka panjang.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemeriksaan panggul, pemasangan spekulum, pemasangan IUD.",
-    "tujuan": "Kontrasepsi jangka panjang.",
-    "resiko": "Berupa kram, perdarahan ringan, ketidaknyamanan pasca pemasangan, atau infeksi lokal.",
-    "komplikasi": "Perforasi uterin (jarang), ekspulsi IUD, infeksi endometritis, atau pendarahan abnormal.",
-    "prognosis": "Prognosis baik bila pemasangan dilakukan oleh tenaga terlatih; kontrol bila terjadi nyeri hebat atau pendarahan.",
-    "alternatif": "Kontrasepsi hormonal sistemik, implant, atau metode barrier sesuai preferensi pasien.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan MOW Pasca SC": {
-    "tindakan": "Tindakan MOW Pasca SC",
-    "indikasi": "Permintaan sterilitas permanen setelah seksio sesarea.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan setelah proses kelahiran bayi dalam operasi sesar dengan mengidentifikasi tuba falopii lalu melakukan ligasi atau pemotongan.",
-    "tujuan": "Mencegah kehamilan di masa mendatang secara permanen.",
-    "resiko": "Berupa perdarahan, nyeri, infeksi luka operasi, atau efek samping anestesi.",
-    "komplikasi": "Termasuk kegagalan sterilitas (sangat jarang), kehamilan ektopik, atau perlengketan.",
-    "prognosis": "Baik bila prosedur dilakukan dengan teknik yang benar.",
-    "alternatif": "Kontrasepsi jangka panjang seperti IUD atau implant.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Restrain": {
-    "tindakan": "Tindakan Restrain",
-    "indikasi": "Pasien dengan agitasi, delirium, risiko mencederai diri sendiri, atau menarik alat medis vital sehingga membahayakan keselamatan.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemasangan alat restraint fisik (soft restraint) pada ekstremitas atau tubuh dengan teknik aman, monitoring berkala, evaluasi kebutuhan restraint setiap periode observasi.",
-    "tujuan": "Mencegah cedera pada pasien dan menjaga keselamatan prosedur medis yang sedang berlangsung.",
-    "resiko": "Dapat berupa abrasi kulit, nyeri, gangguan sirkulasi lokal, peningkatan agitasi, atau risiko psikologis seperti stres dan distress emosional.",
-    "komplikasi": "Termasuk cedera saraf perifer, tekanan berlebih pada kulit yang dapat menyebabkan dekubitus, atau kejadian asfiksia bila restraint digunakan tidak sesuai protokol.",
-    "prognosis": "Baik bila monitoring ketat dilakukan dan restraint dilepas segera ketika sudah tidak diperlukan.",
-    "alternatif": "De-eskalasi verbal, pendampingan keluarga, sedasi ringan sesuai indikasi medis.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-  
-  "Tindakan Pemasangan CVC": {
-    "tindakan": "Pemasangan Central Venous Catheter (CVC).",
-    "indikasi": "Kebutuhan akses vena sentral untuk pemberian obat vasopressor, kemoterapi, total parenteral nutrition, monitoring tekanan vena sentral, atau akses jangka panjang yang tidak dapat dipenuhi vena perifer.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan oleh tenaga terlatih; aseptik penuh, pemilihan situs (jugularis internal/subklavia/femoralis), puncture vena, introducer, pemasangan kanula/kateter, konfirmasi posisi dengan rontgen thoraks atau metode lain sesuai protokol.",
-    "tujuan": "Menyediakan akses vena sentral yang aman untuk terapi dan monitoring jangka menengah–panjang.",
-    "resiko": "Berupa perdarahan di titik pemasangan, pneumotoraks, hemotoraks, emboli udara, atau nyeri lokal.",
-    "komplikasi": "Termasuk infeksi kateter terkait (CRBSI), trombosis vena sentral, kerusakan saraf atau struktur sekitar, migrasi kateter, atau kegagalan pemasangan yang memerlukan ulang tindakan.",
-    "prognosis": "Baik bila pemasangan dan perawatan dilakukan secara aseptik serta monitoring rutin dilakukan.",
-    "alternatif": "Akses vena perifer, midline catheter, atau PICC sesuai kebutuhan klinis.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Amputasi": {
-    "tindakan": "Amputasi anggota tubuh sebagian atau seluruhnya.",
-    "indikasi": "Iskemia berat tanpa harapan revaskularisasi, infeksi berat yang tidak merespons terapi konservatif, trauma tidak dapat direkonstruksi, atau tumor maligna lokal yang memerlukan reseksi radikal.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan di ruang operasi dengan anestesi yang sesuai; penandaan lokasi, eksisi jaringan patologis, hemostasis, perawatan sisa jaringan (stump), dan penutupan sesuai teknik bedah serta perencanaan rehabilitasi prostesis.",
-    "tujuan": "Menyelamatkan nyawa, mengendalikan infeksi atau menghentikan perdarahan yang mengancam jiwa, serta meningkatkan kualitas hidup bila terapi konservatif gagal.",
-    "resiko": "Dapat berupa perdarahan intraoperatif, nyeri akut, reaksi anestesi, atau komplikasi sirkulasi pada ekstremitas tetangga.",
-    "komplikasi": "Termasuk infeksi luka pascaoperasi, necrosis sisa jaringan, hematoma, komplikasi umum operasi besar (sepsis, tromboemboli), neuroma, dan nyeri phantom limb.",
-    "prognosis": "Tergantung kondisi umum pasien dan penyakit penyebab; rehabilitasi dini dan manajemen nyeri penting untuk hasil fungsional.",
-    "alternatif": "Debridement berulang, vaskularisasi/revaskularisasi, limb-sparing surgery, atau terapi konservatif bila memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Rujuk": {
-    "tindakan": "Rujukan pasien ke fasilitas kesehatan atau layanan spesialis yang lebih tinggi.",
-    "indikasi": "Kondisi atau kebutuhan perawatan yang tidak dapat dipenuhi di fasilitas saat ini, misalnya perlu tindakan khusus, teknologi diagnostik/intervensi lanjutan, atau perawatan intensif.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Evaluasi kebutuhan rujukan, komunikasi ke fasilitas tujuan, penyusunan ringkasan medis, stabilisasi pasien sesuai kemampuan, dan pengaturan transportasi medis jika diperlukan.",
-    "tujuan": "Memastikan pasien memperoleh penanganan yang tepat pada fasilitas yang lebih mampu atau spesialis terkait.",
-    "resiko": "Dapat berupa risiko perjalanan medis seperti perburukan kondisi selama transportasi, keterlambatan penanganan definitif, atau komplikasi transportasi (mis. hemodinamik tidak stabil).",
-    "komplikasi": "Termasuk kegagalan mencapai fasilitas tujuan tepat waktu, eksaserbasi kondisi selama perjalanan, atau masalah administratif yang menunda intervensi.",
-    "prognosis": "Bervariasi berdasarkan kondisi dasar dan waktu sampai diterima di fasilitas tujuan.",
-    "alternatif": "Telekonsultasi, pengiriman tim medis khusus, atau penguatan kapasitas penanganan di fasilitas asal bila memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Kuretase": {
-    "tindakan": "Kuretase uterin atau dilatasi dan kuretase (D&C).",
-    "indikasi": "Evakuasi sisa jaringan intrauterin (mis. abortus inkomplit), perdarahan abnormal yang memerlukan diagnosis/terapi, atau pengambilan sampel endometrium untuk pemeriksaan patologis.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilatasi serviks bila perlu, kuret instrumentalia atau vacuum aspiration untuk mengeluarkan jaringan intrauterin, kontrol perdarahan, dan pemeriksaan jaringan yang diambil bila perlu.",
-    "tujuan": "Membersihkan rongga uterus dari jaringan patologis dan menghentikan perdarahan abnormal.",
-    "resiko": "Berupa kram, mual, pusing pasca tindakan, atau perdarahan ringan sampai sedang.",
-    "komplikasi": "Termasuk perforasi uterus, infeksi endometritis, adhesi intrauterin (Asherman syndrome), atau perdarahan berat yang memerlukan intervensi lanjutan.",
-    "prognosis": "Biasanya baik bila dilakukan sesuai indikasi; pemantauan pasca tindakan diperlukan untuk mendeteksi komplikasi.",
-    "alternatif": "Manajemen expectant, terapi medik (mis. prostaglandin), atau histeroskopi diagnostik/terapeutik bila tersedia.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Histerektomi": {
-    "tindakan": "Pengangkatan uterus sebagian atau seluruhnya (histerektomi).",
-    "indikasi": "Fibroid besar simptomatik, perdarahan uterin abnormal yang refrakter terhadap terapi konservatif, prolaps uterus berat, kanker ginekologis sesuai indikasi, atau infeksi berat refractory.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan di ruang operasi dengan anestesi; pendekatan bisa abdominal, vaginal, atau laparoskopi; pengangkatan uterus dan penutupan struktur terkait sesuai teknik bedah dan indikasi onkologi bila berlaku.",
-    "tujuan": "Mengatasi sumber penyakit di uterus untuk meredakan gejala atau mengobati kondisi yang mengancam nyawa.",
-    "resiko": "Dapat berupa perdarahan intraoperatif, reaksi anestesi, nyeri pascaoperasi, atau gangguan fungsi kandung kemih sementara.",
-    "komplikasi": "Termasuk infeksi luka operasi, cedera ureter atau kandung kemih, tromboemboli, perdarahan pascaoperasi, serta dampak jangka panjang pada fungsi hormonal bila ovarium ikut diangkat.",
-    "prognosis": "Baik bila indikasi tepat dan tidak ada komplikasi; perencanaan rehabilitasi dan edukasi pascaoperasi penting.",
-    "alternatif": "Terapi konservatif (mis. medik, embolisasi fibroid), histerektomi subtotal, atau prosedur uterus-sparing tergantung kondisi.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Appendiktomi": {
-    "tindakan": "Pengangkatan apendiks vermiformis (appendektomi).",
-    "indikasi": "Appendisitis akut dengan risiko perforasi atau peritonitis, atau appendisitis kronis simptomatik sesuai indikasi bedah.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan dengan pendekatan laparoskopi atau bedah terbuka; identifikasi apendiks, ligasi pembuluh suplai, amputasi apendiks, pembersihan rongga peritoneum bila ada kontaminasi.",
-    "tujuan": "Menghilangkan sumber infeksi dan mencegah komplikasi seperti perforasi atau abses intraabdominal.",
-    "resiko": "Berupa nyeri pascaoperasi, mual, atau reaksi terhadap anestesi.",
-    "komplikasi": "Termasuk infeksi luka, abses intraabdominal, perdarahan, cedera usus atau organ sekitar, atau ileus pascaoperasi.",
-    "prognosis": "Baik bila ditangani cepat sebelum terjadinya perforasi; mortalitas rendah pada penanganan tepat waktu.",
-    "alternatif": "Manajemen konservatif dengan antibiotik pada kasus selektif sesuai protokol lokal.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Fototerapi": {
-    "tindakan": "Fototerapi untuk pengobatan hiperbilirubinemia neonatal.",
-    "indikasi": "Jaundice/neonatal hyperbilirubinemia yang memerlukan penurunan kadar bilirubin.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pasang bayi di bawah lampu fototerapi dengan proteksi mata, optimalkan paparan kulit, monitor suhu dan kadar bilirubin secara berkala.",
-    "tujuan": "Menurunkan kadar bilirubin serum untuk mencegah kernikterus.",
-    "resiko": "Dapat berupa dehidrasi ringan karena kehilangan evaporasi, hipertermia atau hipotermia, dan iritasi kulit ringan.",
-    "komplikasi": "Termasuk ruam fototerapi, gangguan elektrolit jika hidrasi tidak adekuat, atau peningkatan frekuensi pengeluaran urin.",
-    "prognosis": "Baik bila terapi dan monitoring dilakukan sesuai protokol.",
-    "alternatif": "Pertukaran transfusi darah pada kasus hiperbilirubinemia berat yang tidak responsif.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Skin Traction": {
-    "tindakan": "Pemasangan skin traction untuk reduksi atau imobilisasi sementara fraktur.",
-    "indikasi": "Fraktur dengan indikasi traction sementara sebelum tindakan definitif, atau untuk reduksi ringan pada fraktur tertentu.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Pemasangan bahan perekat pada kulit, pemberian beban terukur pada arah traksi, pemantauan sirkulasi distal dan integritas kulit secara berkala.",
-    "tujuan": "Mempertahankan posisi fragmen tulang dan mengurangi nyeri serta edema sebelum penanganan definitif.",
-    "resiko": "Dapat berupa iritasi kulit, tekanan lokal, atau nyeri pada area pemasangan.",
-    "komplikasi": "Termasuk lecet kulit, gangguan sirkulasi distal, infeksi kulit, atau kegagalan mencapai stabilitas yang diinginkan sehingga memerlukan intervensi lain.",
-    "prognosis": "Sementara; hasil akhir bergantung pada penanganan definitif dan kondisi pasien.",
-    "alternatif": "Skin traction lain, skeletal traction, atau imobilisasi menggunakan splint/gips.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemasangan Gips": {
-    "tindakan": "Pemasangan gips untuk imobilisasi fraktur atau cedera jaringan lunak.",
-    "indikasi": "Fraktur stabil yang memerlukan imobilisasi, atau stabilisasi pasca-reposisi sendi.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (radiologi).",
-    "tata_cara": "Persiapan dan pembalutan lapisan pelindung, pembentukan gips sesuai anatomi, fiksasi, serta instruksi perawatan dan pemantauan sirkulasi distal.",
-    "tujuan": "Memberikan imobilisasi yang memadai untuk penyembuhan tulang atau jaringan lunak.",
-    "resiko": "Dapat berupa tekanan lokal, rasa tidak nyaman, atau pembengkakan yang memburuk setelah pemasangan.",
-    "komplikasi": "Termasuk iskemia distal (syndrome kompartemen), cedera saraf kompresif, lecet kulit, atau kebutuhan pelepasan gips mendesak.",
-    "prognosis": "Baik bila pemasangan dan pemantauan dilakukan benar.",
-    "alternatif": "Splint, immobilizer, atau tindakan bedah bila indikasi mengharuskan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemasangan WSD": {
-    "tindakan": "Pemasangan Water Seal Drain (WSD) untuk drainase rongga pleura.",
-    "indikasi": "Pneumotoraks yang memerlukan drainase, efusi pleura besar, atau empyema dengan indikasi drainase.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (thorax radiografi/USG).",
-    "tata_cara": "Pemasangan selang dada aseptik ke rongga pleura, koneksi ke sistem WSD, fiksasi dan pemantauan keluaran serta kondisi respirasi dan tanda vital.",
-    "tujuan": "Mengeluarkan udara/ cairan dari rongga pleura untuk re-ekspansi paru dan perbaikan fungsi pernapasan.",
-    "resiko": "Dapat berupa nyeri lokal, pendarahan superfisial, atau kebocoran udara pada tempat pemasangan.",
-    "komplikasi": "Termasuk infeksi saluran pemasangan, hemothoraks, organ intratorakal terluka (paru, diafragma), atau malposisi selang yang memerlukan reposisi.",
-    "prognosis": "Tergantung penyebab dasar; seringkali membaik setelah drainase adekuat.",
-    "alternatif": "Observasi pada pneumotoraks kecil, thorakosentesis diagnostik atau pembedahan jika diperlukan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Trakeostomi": {
-    "tindakan": "Pembuatan stoma trakeal dan pemasangan kanula trakeostomi.",
-    "indikasi": "Kebutuhan jalan napas definitif jangka panjang, obstruksi jalan napas bagian atas, atau kebutuhan ventilasi mekanik jangka panjang.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (endoskopi/CT leher bila perlu).",
-    "tata_cara": "Dilakukan di ruang operasi atau bedah terkontrol; insisi leher, eksposisi trákea, pembuatan stoma, pemasangan kanula, dan perawatan stoma pasca prosedur.",
-    "tujuan": "Menyediakan jalan napas definitif dan memfasilitasi ventilasi atau perawatan jalan napas efektif.",
-    "resiko": "Berupa perdarahan, emfisema subkutan, infeksi luka, atau nyeri leher.",
-    "komplikasi": "Termasuk stenosis trakea jangka panjang, disfungsi fonasi, aspirasi, migrasi kanula, fistula trakeoesofageal, atau cedera vaskular leher.",
-    "prognosis": "Bergantung pada indikasi dan perawatan stoma; perawatan jangka panjang diperlukan.",
-    "alternatif": "Intubasi endotrakeal sementara, dekannulasi setelah kondisi membaik, atau trakeostomi perkutaneus sesuai indikasi.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Thorakosentesis": {
-    "tindakan": "Pungsi dan drainase cairan pleura (thoracentesis).",
-    "indikasi": "Efusi pleura yang memerlukan evaluasi diagnostik atau pereda gejala (sesak napas).",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (radiografi/USG thorax).",
-    "tata_cara": "Posisi pasien, antisepsis, anestesi lokal, pemasangan jarum/kateter pleural, aspirasi cairan dengan teknik aseptik, pemeriksaan cairan jika diperlukan.",
-    "tujuan": "Mengurangi gejala, mendapatkan cairan untuk pemeriksaan diagnostik, atau memfasilitasi re-ekspansi paru.",
-    "resiko": "Dapat berupa nyeri lokal, batuk, atau pusing sementara setelah tindakan.",
-    "komplikasi": "Termasuk pneumotoraks, perdarahan intrapleural, infeksi, atau re-ekspansi edema paru jika dikuras terlalu cepat dalam efusi kronik besar.",
-    "prognosis": "Biasanya membaik gejala; pemantauan pasca tindakan penting untuk deteksi komplikasi.",
-    "alternatif": "Pemasangan WSD untuk drainase kontinu atau observasi jika efusi kecil dan tidak simptomatik.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Vena Seksi": {
-    "tindakan": "Eksposur atau seksi vena untuk akses vaskular (venaseksi).",
-    "indikasi": "Kebutuhan akses vena yang sulit diperoleh secara perkutaneus atau persiapan pembuatan fistula/AV shunt.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (USG vaskular).",
-    "tata_cara": "Dilakukan oleh tenaga terlatih; insisi dan eksposur vena, kontrol hemostasis, pemasangan kanula atau persiapan anastomosis sesuai indikasi.",
-    "tujuan": "Menyediakan akses vena yang aman untuk terapi atau prosedur vaskular lanjutan.",
-    "resiko": "Berupa perdarahan lokal, nyeri, atau hematoma di area operasi.",
-    "komplikasi": "Termasuk cedera saraf lokal, trombosis vena, infeksi luka, atau kebutuhan revisi pembedahan.",
-    "prognosis": "Baik bila dilakukan dengan teknik aseptik dan perawatan luka baik.",
-    "alternatif": "Akses vena perifer lain, pemasangan PICC, atau konsultasi bedah vaskular.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan AV Shunt": {
-    "tindakan": "Pembuatan arteriovenous (AV) shunt/fistula untuk akses hemodialisis.",
-    "indikasi": "Kebutuhan akses vaskular jangka panjang untuk hemodialisis pada pasien gagal ginjal kronik.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (USG vaskular untuk pemetaan pembuluh).",
-    "tata_cara": "Anastomosis arteri dan vena pada lokasi yang dipilih (mis. radiocephalic, brachiocephalic) dengan teknik pembedahan aseptik; pemantauan aliran pasca operasi.",
-    "tujuan": "Menyediakan akses vaskular yang tahan lama dan efisien untuk hemodialisis.",
-    "resiko": "Dapat berupa perdarahan operasi, nyeri lokal, atau hematoma pasca operasi.",
-    "komplikasi": "Termasuk trombosis shunt, stenosis vena, infeksi, aneurisma pembuluh, atau gagal maturasi shunt yang memerlukan revisi operasi.",
-    "prognosis": "Baik bila shunt matang dan dirawat dengan baik; beberapa shunt memerlukan intervensi lanjutan.",
-    "alternatif": "Pemasangan CVC atau PICC untuk akses sementara jika shunt tidak memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Hemodialisa": {
-    "tindakan": "Terapi hemodialisis eksternal untuk pasien dengan gagal ginjal akut atau kronik.",
-    "indikasi": "Gagal ginjal akut atau kronik dengan indikasi dialisis (hiperkalemia berat, uremia simptomatik, overload cairan refrakter, dll.).",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (laboratorium ginjal, elektrolit).",
-    "tata_cara": "Akses vaskular (AV shunt atau CVC), sambungan ke mesin dialisis, pemantauan tekanan, aliran darah, dan status hemodinamik selama prosedur.",
-    "tujuan": "Mengeluarkan limbah toksik dan cairan berlebih dari darah untuk menggantikan fungsi ginjal sementara atau permanen.",
-    "resiko": "Dapat berupa hipotensi selama dialisis, kram otot, mual, atau ketidaknyamanan terkait akses vaskular.",
-    "komplikasi": "Termasuk infeksi akses vaskular, trombosis akses, perdarahan, reaksi terhadap dialyzer, atau ketidakseimbangan elektrolit yang berbahaya.",
-    "prognosis": "Meningkatkan kelangsungan hidup pada gagal ginjal; hasil bergantung pada kondisi mendasar dan komplikasi.",
-    "alternatif": "Dialisis peritoneal atau terapi suportif konservatif tergantung indikasi dan ketersediaan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pungsi Abdomen": {
-    "tindakan": "Paracentesis atau pungsi abdomen untuk aspirasi cairan intraperitoneal.",
-    "indikasi": "Asites yang memerlukan diagnostik atau terapi (mengurangi distensi/dispnea).",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (USG abdomen).",
-    "tata_cara": "Posisi pasien, antisepsis, anestesi lokal, pemasukan jarum/kateter ke kavum peritoneal dengan panduan USG bila perlu, aspirasi cairan dengan teknik aseptik.",
-    "tujuan": "Mengurangi gejala dan memperoleh cairan untuk pemeriksaan diagnostik.",
-    "resiko": "Dapat berupa nyeri, pusing, atau ketidaknyamanan sementara setelah tindakan.",
-    "komplikasi": "Termasuk perdarahan intraabdominal, infeksi, perforasi organ intraabdominal, atau hipotensi jika cairan dikeluarkan banyak secara cepat.",
-    "prognosis": "Seringkali gejala berkurang; pemantauan penting untuk deteksi komplikasi.",
-    "alternatif": "Terapi diuretik, paracentesis terencana dengan drainage kontinu, atau perencanaan terapi sesuai penyebab asites.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pungsi Pleura": {
-    "tindakan": "Thoracentesis untuk aspirasi cairan pleura (pungsi pleura).",
-    "indikasi": "Efusi pleura simptomatik atau kebutuhan diagnostik cairan pleura.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (radiografi/USG thorax).",
-    "tata_cara": "Antisepsis, anestesi lokal, pemasangan jarum/kateter pleural pada ruang interkostal yang sesuai dengan panduan imaging bila perlu, aspirasi cairan dengan teknik aseptik.",
-    "tujuan": "Mengurangi sesak napas dan memperoleh cairan untuk pemeriksaan diagnostik.",
-    "resiko": "Dapat berupa nyeri lokal, batuk, atau ketidaknyamanan sementara.",
-    "komplikasi": "Termasuk pneumotoraks, perdarahan intrapleural, infeksi, atau re-ekspansi edema paru bila aspirasi terlalu cepat pada efusi kronik besar.",
-    "prognosis": "Gejala sering membaik; pemantauan pasca tindakan diperlukan.",
-    "alternatif": "Pemasangan WSD untuk drainase kontinu atau observasi jika efusi kecil dan tidak simptomatik.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Biopsi": {
-    "tindakan": "Pengambilan sampel jaringan untuk pemeriksaan patologis (biopsi).",
-    "indikasi": "Lesi yang memerlukan diagnosis histopatologis untuk penentuan terapi atau prognosis.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (imaging, endoskopi).",
-    "tata_cara": "Metode terbuka, perkutaneus, endoskopik, atau jarum jarak (core/needle biopsy) sesuai lokasi; sterilisasi, anestesi lokal atau umum bila perlu, pengiriman sampel ke patologi.",
-    "tujuan": "Mendapatkan diagnosis histologis untuk menentukan rencana terapi.",
-    "resiko": "Dapat berupa nyeri lokal, perdarahan ringan pada lokasi biopsi, atau ketidaknyamanan sementara.",
-    "komplikasi": "Termasuk perdarahan berat, infeksi, kerusakan organ di sekitarnya, atau hasil biopsi tidak representatif sehingga perlu pengulangan.",
-    "prognosis": "Diagnosis yang akurat meningkatkan peluang terapi tepat sasaran.",
-    "alternatif": "Pengamatan, imaging berulang, atau pengambilan sampel dengan teknik lain sesuai indikasi.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Eksisi": {
-    "tindakan": "Eksisi lesi atau massa (pengangkatan bedah sebagian atau seluruh lesi).",
-    "indikasi": "Lesi yang memerlukan pengangkatan untuk diagnosis atau terapi (mis. tumor, kista, massa kulit).",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang (imaging, biopsi awal).",
-    "tata_cara": "Dilakukan di ruang operasi atau prosedural dengan anestesi sesuai, eksisi lesi dengan margin sesuai indikasi, hemostasis, dan pengiriman spesimen untuk analisis patologi bila perlu.",
-    "tujuan": "Menghilangkan lesi patologis dan memperoleh materi untuk pemeriksaan histopatologis jika diperlukan.",
-    "resiko": "Berupa perdarahan, nyeri pascaoperasi, atau reaksi anestesi.",
-    "komplikasi": "Termasuk infeksi luka, kerusakan saraf atau struktur sekitar, kekambuhan lokal jika eksisi tidak lengkap, atau kebutuhan tindak lanjut onkologis.",
-    "prognosis": "Tergantung jenis lesi dan kelengkapan eksisi.",
-    "alternatif": "Biopsi diagnostik dulu, pengawasan, atau terapi non-bedah sesuai jenis lesi.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Eksisi Biopsi": {
-    "tindakan": "Eksisi biopsi (eksisi lesi kecil untuk diagnosis sekaligus terapi).",
-    "indikasi": "Lesi kulit atau subkutan yang dapat dieksisi secara total untuk pemeriksaan histopatologis.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Anestesi lokal, eksisi lesi kecil hingga margin yang sesuai, hemostasis, dan pengiriman spesimen ke patologi.",
-    "tujuan": "Mendapatkan diagnosis histologi serta mengobati lesi bila eksisi lengkap.",
-    "resiko": "Dapat berupa nyeri lokal, perdarahan, atau reaksi anestesi lokal.",
-    "komplikasi": "Termasuk infeksi luka, jaringan parut, atau hasil negatif yang memerlukan pengulangan tindakan.",
-    "prognosis": "Baik bila lesi jinak dan eksisi lengkap.",
-    "alternatif": "Biopsi jarum, punch biopsy, atau observasi tergantung karakteristik lesi.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Circumsisi": {
-    "tindakan": "Sirkumsisi (khitan) — eksisi kulit preputium.",
-    "indikasi": "Indikasi medis, kultur, atau pilihan pasien/keluarga sesuai kebijakan fasilitas dan persetujuan pasien/wali.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Anestesi lokal atau umum tergantung usia/pengelolaan, eksisi lapisan preputium dengan teknik bedah standar, hemostasis, dan perawatan luka pasca prosedur.",
-    "tujuan": "Mengatasi fimosis patologis, infeksi berulang, atau sesuai indikasi medis/kultural.",
-    "resiko": "Dapat berupa perdarahan, nyeri, pembengkakan lokal, atau reaksi anestesi.",
-    "komplikasi": "Termasuk infeksi luka, simfisis atau penyempitan uretra (jarang), atau masalah kosmetik yang memerlukan revisi.",
-    "prognosis": "Baik bila dilakukan pada fasilitas yang memenuhi syarat dan dengan teknik aseptik.",
-    "alternatif": "Pengelolaan konservatif untuk kasus non-patologis, atau prosedur pelebaran preputium.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Pemasangan Kateter Vena Umbilikalis (UVC)": {
-    "tindakan": "Pemasangan Kateter Vena Umbilikalis (UVC).",
-    "indikasi": "Kebutuhan akses vena pada neonatus untuk pemberian cairan, obat, nutrisi, transfusi darah, atau resusitasi ketika akses perifer sulit atau tidak memungkinkan.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Dilakukan secara aseptik; identifikasi vena umbilikalis, dilatasi ringan bila perlu, memasukkan kateter sesuai panjang yang direkomendasikan, fiksasi, dan konfirmasi posisi dengan imaging (rontgen atau USG).",
-    "tujuan": "Memberikan akses intravena yang stabil dan aman pada neonatus untuk terapi dan resusitasi.",
-    "resiko": "Dapat berupa perdarahan ringan di umbilikus, iritasi lokal, malposisi kateter, atau resistensi saat pemasangan.",
-    "komplikasi": "Termasuk infeksi aliran darah terkait kateter, trombosis vena porta, perforasi organ intraabdominal, emboli udara, aritmia akibat malposisi, atau nekrosis jika terjadi ekstravasasi.",
-    "prognosis": "Baik bila posisi kateter benar dan pemantauan ketat dilakukan.",
-    "alternatif": "Akses perifer, intraoseus, atau PICC bila kondisi memungkinkan.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Tindakan Akses Intraoseus": {
-    "tindakan": "Pemasangan akses intraoseus untuk emergensi.",
-    "indikasi": "Kegagalan atau kesulitan mendapatkan akses intravena dalam kondisi gawat darurat, seperti syok, henti jantung, trauma berat, dehidrasi berat, atau neonatus dengan pembuluh perifer sulit.",
-    "dasar_diagnosis": "Anamnesa, Pemeriksaan fisik, dan/atau dengan Pemeriksaan Penunjang.",
-    "tata_cara": "Teknik aseptik; identifikasi lokasi (tibia proksimal, tibia distal, humerus proksimal), pemasangan jarum IO menggunakan alat manual atau otomatis, konfirmasi aliran, dan fiksasi sebelum pemberian cairan atau obat.",
-    "tujuan": "Memberikan akses vaskular cepat dan efektif untuk pemberian obat dan cairan pada situasi emergensi.",
-    "resiko": "Dapat berupa nyeri lokal, sedikit perdarahan di tempat pemasangan, atau infiltrasi awal jika jarum tidak stabil.",
-    "komplikasi": "Termasuk ekstravasasi cairan, sindrom kompartemen, fraktur, osteomielitis, atau kerusakan lempeng pertumbuhan bila dilakukan tidak tepat.",
-    "prognosis": "Baik bila dilakukan cepat dan benar; akses ini efektif dalam resusitasi awal.",
-    "alternatif": "Kateter perifer atau akses vena sentral bila kondisi memungkinkan dan waktu cukup.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-
-  "Transfusi Albumin": {
-    "tindakan": "Pemberian albumin melalui pembuluh darah sebagai terapi penunjang.",
-    "indikasi": "Hipoalbuminemia berat, sirosis hati, sindrom nefrotik, sepsis, atau kondisi lain sesuai pertimbangan medis.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Albumin diberikan melalui infus intravena dengan dosis dan kecepatan sesuai kondisi klinis pasien serta pemantauan ketat.",
-    "tujuan": "Mempertahankan tekanan onkotik plasma dan memperbaiki keseimbangan cairan tubuh.",
-    "resiko": "Dapat berupa reaksi alergi, kelebihan cairan, gangguan elektrolit, atau reaksi transfusi.",
-    "komplikasi": "Reaksi anafilaksis, edema paru, atau gagal jantung pada pasien tertentu.",
-    "prognosis": "Baik apabila diberikan sesuai indikasi dan dipantau dengan baik.",
-    "alternatif": "Terapi suportif lain sesuai kondisi pasien.",
-    "lain_lain": "-"
-  },
-
-  "Terapi Fondaparinux": {
-    "tindakan": "Pemberian obat antikoagulan fondaparinux.",
-    "indikasi": "Pencegahan atau pengobatan tromboemboli vena dan sindrom koroner akut sesuai indikasi.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Fondaparinux diberikan melalui suntikan subkutan dengan dosis sesuai berat badan dan fungsi ginjal.",
-    "tujuan": "Mencegah pembentukan dan perluasan bekuan darah.",
-    "resiko": "Dapat berupa perdarahan, memar di tempat suntikan, atau trombositopenia.",
-    "komplikasi": "Perdarahan berat atau gangguan fungsi ginjal.",
-    "prognosis": "Baik dengan pemantauan ketat risiko perdarahan.",
-    "alternatif": "Antikoagulan lain sesuai kondisi klinis pasien.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Sistoskopi Pro Biopsi Buli": {
-    "tindakan": "Pemeriksaan kandung kemih menggunakan alat sistoskop disertai pengambilan jaringan.",
-    "indikasi": "Kecurigaan kelainan atau keganasan pada kandung kemih.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Sistoskop dimasukkan melalui uretra untuk melihat kandung kemih dan dilakukan pengambilan sampel jaringan.",
-    "tujuan": "Menegakkan diagnosis melalui pemeriksaan jaringan secara histopatologi.",
-    "resiko": "Dapat berupa nyeri, perdarahan ringan, atau infeksi saluran kemih.",
-    "komplikasi": "Perdarahan berlanjut, infeksi, atau cedera uretra.",
-    "prognosis": "Baik apabila dilakukan sesuai prosedur standar.",
-    "alternatif": "Pemeriksaan radiologi atau sitologi urin.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Kardioversi": {
-    "tindakan": "Pemberian kejutan listrik terkontrol pada jantung.",
-    "indikasi": "Gangguan irama jantung tertentu yang menyebabkan kondisi tidak stabil.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Pasien diberikan sedasi, elektroda dipasang di dada, dan kejutan listrik diberikan sesuai protokol.",
-    "tujuan": "Mengembalikan irama jantung ke kondisi normal.",
-    "resiko": "Dapat berupa nyeri dada, gangguan irama sementara, atau iritasi kulit.",
-    "komplikasi": "Aritmia berat, tromboemboli, atau henti jantung.",
-    "prognosis": "Baik bila dilakukan tepat indikasi dan waktu.",
-    "alternatif": "Terapi obat antiaritmia.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Ureterorenoskopi (URS)": {
-    "tindakan": "Pemeriksaan dan tindakan pada ureter dan ginjal menggunakan ureterorenoskop.",
-    "indikasi": "Batu ureter, sumbatan, atau kelainan saluran kemih bagian atas.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Alat dimasukkan melalui uretra menuju ureter untuk evaluasi dan tindakan sesuai kebutuhan.",
-    "tujuan": "Mengatasi sumbatan dan memperbaiki aliran urin.",
-    "resiko": "Dapat berupa nyeri, perdarahan, atau infeksi.",
-    "komplikasi": "Cedera ureter atau penyempitan saluran kemih.",
-    "prognosis": "Baik bila dilakukan sesuai standar.",
-    "alternatif": "ESWL atau terapi konservatif.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan TURP (Transurethral Resection of Prostate)": {
-    "tindakan": "Pengangkatan jaringan prostat melalui saluran kemih.",
-    "indikasi": "Pembesaran prostat yang menyebabkan gangguan berkemih.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Reseksi jaringan prostat dilakukan menggunakan alat melalui uretra.",
-    "tujuan": "Memperbaiki aliran urin dan mengurangi keluhan berkemih.",
-    "resiko": "Dapat berupa perdarahan, infeksi, atau gangguan ejakulasi.",
-    "komplikasi": "Perdarahan berat atau inkontinensia urin.",
-    "prognosis": "Baik pada sebagian besar pasien.",
-    "alternatif": "Terapi obat atau tindakan minimal invasif lain.",
-    "lain_lain": "-"
-  },
-
-  "Terapi Tetagam (Imunoglobulin Tetanus)": {
-    "tindakan": "Pemberian imunoglobulin tetanus sebagai pencegahan.",
-    "indikasi": "Luka berisiko tinggi pada pasien dengan status imunisasi tidak adekuat.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Imunoglobulin diberikan melalui suntikan intramuskular sesuai dosis.",
-    "tujuan": "Mencegah terjadinya infeksi tetanus.",
-    "resiko": "Dapat berupa nyeri lokal atau reaksi alergi.",
-    "komplikasi": "Reaksi anafilaksis jarang.",
-    "prognosis": "Baik bila diberikan tepat waktu.",
-    "alternatif": "Vaksinasi tetanus sesuai jadwal.",
-    "lain_lain": "-"
-  },
-
-  "Induksi Sputum": {
-    "tindakan": "Tindakan membantu pengeluaran dahak untuk pemeriksaan laboratorium.",
-    "indikasi": "Pasien sulit mengeluarkan dahak secara spontan.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Pasien menghirup larutan saline hipertonik untuk merangsang pengeluaran sputum.",
-    "tujuan": "Mendapatkan sampel sputum yang adekuat untuk pemeriksaan.",
-    "resiko": "Dapat berupa batuk hebat atau sesak napas.",
-    "komplikasi": "Bronkospasme pada pasien sensitif.",
-    "prognosis": "Baik dengan pemantauan selama tindakan.",
-    "alternatif": "Bronkoskopi.",
-    "lain_lain": "-"
-  },
-
-  "Terapi OAT (Obat Anti Tuberkulosis)": {
-    "tindakan": "Pemberian kombinasi obat anti tuberkulosis sesuai standar.",
-    "indikasi": "Tuberkulosis aktif.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Pemberian obat secara teratur sesuai fase pengobatan dan panduan nasional.",
-    "tujuan": "Menyembuhkan tuberkulosis dan mencegah penularan.",
-    "resiko": "Dapat berupa gangguan fungsi hati, mual, atau reaksi alergi.",
-    "komplikasi": "Hepatotoksisitas atau resistensi obat.",
-    "prognosis": "Baik bila kepatuhan pengobatan terjaga.",
-    "alternatif": "Regimen alternatif sesuai hasil evaluasi medis.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Pungsi Pleura": {
-    "tindakan": "Pengambilan cairan dari rongga pleura.",
-    "indikasi": "Penumpukan cairan pleura untuk tujuan diagnostik atau terapeutik.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Penyisipan jarum ke rongga pleura dengan teknik steril untuk mengeluarkan cairan.",
-    "tujuan": "Meringankan sesak dan membantu penegakan diagnosis.",
-    "resiko": "Dapat berupa nyeri, perdarahan, atau pneumotoraks.",
-    "komplikasi": "Infeksi atau kolaps paru.",
-    "prognosis": "Baik bila dilakukan dengan teknik yang benar.",
-    "alternatif": "Drainase pleura berkelanjutan.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Pungsi Lumbal": {
-    "tindakan": "Pengambilan cairan serebrospinal melalui tulang belakang.",
-    "indikasi": "Evaluasi infeksi, perdarahan, atau gangguan sistem saraf pusat.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Jarum dimasukkan ke ruang subaraknoid dengan teknik steril.",
-    "tujuan": "Menegakkan diagnosis dan membantu terapi tertentu.",
-    "resiko": "Dapat berupa nyeri kepala, nyeri punggung, atau perdarahan.",
-    "komplikasi": "Infeksi atau herniasi otak jarang.",
-    "prognosis": "Baik bila dilakukan sesuai indikasi.",
-    "alternatif": "Pemeriksaan pencitraan lanjutan.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Pemasangan Oro Gastric Tube (OGT)": {
-    "tindakan": "Pemasangan selang melalui mulut menuju lambung.",
-    "indikasi": "Dekompresi lambung atau pemberian nutrisi dan obat.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Selang dimasukkan melalui mulut ke lambung dengan teknik aseptik.",
-    "tujuan": "Mengosongkan isi lambung atau memberikan nutrisi dan obat.",
-    "resiko": "Dapat berupa iritasi tenggorokan, muntah, atau aspirasi.",
-    "komplikasi": "Salah posisi selang atau aspirasi paru.",
-    "prognosis": "Baik dengan pemasangan yang benar.",
-    "alternatif": "Nasogastric tube atau nutrisi parenteral.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Persalinan Normal": {
-    "tindakan": "Proses persalinan bayi melalui jalan lahir secara alami tanpa tindakan pembedahan.",
-    "indikasi": "Kehamilan cukup bulan dengan kondisi ibu dan janin memungkinkan persalinan pervaginam.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Pemantauan kemajuan persalinan, kondisi ibu dan janin, serta bantuan persalinan sesuai standar pelayanan kebidanan.",
-    "tujuan": "Melahirkan bayi dan plasenta secara aman dengan menjaga keselamatan ibu dan bayi.",
-    "resiko": "Dapat berupa nyeri hebat, perdarahan, robekan jalan lahir, infeksi, atau gangguan pada bayi.",
-    "komplikasi": "Perdarahan pascapersalinan, distosia, asfiksia neonatorum, atau kebutuhan tindakan emergensi.",
-    "prognosis": "Baik apabila proses persalinan berjalan sesuai kemajuan normal dan mendapat pemantauan yang adekuat.",
-    "alternatif": "Persalinan dengan tindakan operatif seperti vakum, forsep, atau operasi sesar sesuai indikasi medis.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Persalinan dengan Vakum": {
-    "tindakan": "Tindakan membantu persalinan menggunakan alat vakum yang dipasang pada kepala bayi.",
-    "indikasi": "Persalinan kala II yang memanjang atau terdapat indikasi medis yang memerlukan percepatan persalinan pervaginam.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Alat vakum dipasang pada kepala bayi dan dilakukan tarikan terkontrol mengikuti kontraksi.",
-    "tujuan": "Membantu kelahiran bayi secara aman tanpa operasi.",
-    "resiko": "Dapat berupa memar pada kepala bayi, perdarahan, atau robekan jalan lahir.",
-    "komplikasi": "Perdarahan pada ibu, hematoma kepala bayi, atau kegagalan tindakan yang memerlukan operasi sesar.",
-    "prognosis": "Baik apabila dilakukan sesuai indikasi dan teknik yang benar.",
-    "alternatif": "Persalinan normal tanpa alat atau operasi sesar.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Persalinan dengan Forsep": {
-    "tindakan": "Tindakan membantu persalinan menggunakan alat forsep untuk menjepit dan menarik kepala bayi.",
-    "indikasi": "Gangguan kemajuan persalinan atau kondisi ibu dan janin yang memerlukan percepatan persalinan.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Forsep dipasang pada kepala bayi dan dilakukan tarikan terkontrol sesuai kontraksi.",
-    "tujuan": "Mempercepat kelahiran bayi dan mencegah komplikasi lebih lanjut.",
-    "resiko": "Dapat berupa memar atau cedera pada bayi serta robekan jalan lahir.",
-    "komplikasi": "Perdarahan, infeksi, atau trauma jaringan.",
-    "prognosis": "Baik dengan pelaksanaan sesuai standar prosedur.",
-    "alternatif": "Vakum ekstraksi atau operasi sesar.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Sectio Caesarea Elektif": {
-    "tindakan": "Tindakan persalinan melalui pembedahan yang direncanakan sebelumnya.",
-    "indikasi": "Indikasi medis seperti plasenta previa, riwayat operasi sesar berulang, atau kondisi lain yang tidak memungkinkan persalinan normal.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Pembedahan dilakukan melalui sayatan pada dinding perut dan rahim untuk mengeluarkan bayi.",
-    "tujuan": "Melahirkan bayi dengan aman sesuai indikasi medis.",
-    "resiko": "Dapat berupa perdarahan, infeksi luka operasi, atau reaksi anestesi.",
-    "komplikasi": "Cedera organ sekitar atau gangguan penyembuhan luka.",
-    "prognosis": "Baik dengan perawatan pascaoperasi yang adekuat.",
-    "alternatif": "Persalinan pervaginam jika memungkinkan.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Sectio Caesarea Emergensi": {
-    "tindakan": "Tindakan operasi sesar yang dilakukan segera dalam kondisi darurat.",
-    "indikasi": "Gawat janin, perdarahan hebat, atau kondisi ibu yang mengancam jiwa.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Pembedahan segera dilakukan untuk mengeluarkan bayi melalui sayatan pada perut dan rahim.",
-    "tujuan": "Menyelamatkan ibu dan/atau bayi dalam keadaan darurat.",
-    "resiko": "Dapat berupa perdarahan berat, infeksi, atau komplikasi anestesi.",
-    "komplikasi": "Cedera organ sekitar atau gangguan hemodinamik.",
-    "prognosis": "Bergantung pada kondisi awal ibu dan bayi.",
-    "alternatif": "Tidak ada alternatif yang setara dalam kondisi darurat.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Episiotomi": {
-    "tindakan": "Tindakan membuat sayatan kecil pada perineum untuk memperlebar jalan lahir.",
-    "indikasi": "Risiko robekan luas atau kebutuhan mempercepat persalinan.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Dilakukan sayatan terkontrol pada perineum dan dijahit kembali setelah persalinan.",
-    "tujuan": "Mengurangi risiko robekan tidak terkontrol.",
-    "resiko": "Dapat berupa nyeri, perdarahan, atau infeksi.",
-    "komplikasi": "Gangguan penyembuhan luka atau nyeri berkepanjangan.",
-    "prognosis": "Baik dengan perawatan luka yang tepat.",
-    "alternatif": "Persalinan tanpa episiotomi bila kondisi memungkinkan.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Manajemen Aktif Kala III": {
-    "tindakan": "Tindakan pengelolaan aktif setelah bayi lahir untuk mempercepat pengeluaran plasenta.",
-    "indikasi": "Semua persalinan untuk mencegah perdarahan pascapersalinan.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Pemberian uterotonika, penegangan tali pusat terkendali, dan masase uterus.",
-    "tujuan": "Mencegah perdarahan pascapersalinan.",
-    "resiko": "Dapat berupa nyeri atau efek samping obat uterotonik.",
-    "komplikasi": "Perdarahan bila plasenta tidak keluar sempurna.",
-    "prognosis": "Baik dengan pelaksanaan sesuai protokol.",
-    "alternatif": "Manajemen ekspektatif sesuai pertimbangan klinis.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Spooling Telinga (Irigasi Telinga)": {
-    "tindakan": "Tindakan membersihkan liang telinga dengan cairan steril.",
-    "indikasi": "Sumbatan kotoran telinga atau benda asing lunak di liang telinga.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Cairan hangat dialirkan perlahan ke liang telinga untuk mengeluarkan sumbatan.",
-    "tujuan": "Membersihkan liang telinga dan memperbaiki pendengaran.",
-    "resiko": "Dapat berupa rasa tidak nyaman, pusing ringan, atau iritasi.",
-    "komplikasi": "Cedera liang telinga atau infeksi bila prosedur tidak tepat.",
-    "prognosis": "Baik apabila dilakukan dengan teknik yang benar.",
-    "alternatif": "Pembersihan manual dengan alat khusus.",
-    "lain_lain": "-"
-  },
-
-  "Tindakan Hemoroidektomi": {
-    "tindakan": "Tindakan pembedahan untuk mengangkat jaringan wasir (hemoroid) yang membesar atau menimbulkan keluhan.",
-    "indikasi": "Hemoroid derajat lanjut, perdarahan berulang, nyeri hebat, atau hemoroid yang tidak membaik dengan terapi konservatif.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
-    "tata_cara": "Dilakukan pembedahan pada area anus untuk mengangkat jaringan hemoroid dengan teknik yang sesuai, menggunakan anestesi lokal, regional, atau umum sesuai kondisi pasien.",
-    "tujuan": "Mengurangi keluhan nyeri, perdarahan, dan memperbaiki kualitas hidup pasien.",
-    "resiko": "Dapat berupa nyeri pascaoperasi, perdarahan, infeksi luka, atau kesulitan buang air besar sementara.",
-    "komplikasi": "Perdarahan berat, retensi urin, penyempitan anus, atau gangguan kontrol buang air besar yang jarang terjadi.",
-    "prognosis": "Umumnya baik dengan perawatan luka dan kontrol rutin pascaoperasi.",
-    "alternatif": "Terapi obat, perubahan pola makan dan gaya hidup, skleroterapi, ligasi karet (rubber band ligation), atau tindakan minimal invasif lain sesuai indikasi.",
-    "lain_lain": "-"
+    "Tindakan Resusitasi Jantung Paru (RJP)": {
+      "package": "Emergency & Critical Care",
+      "tindakan": "Tindakan Resusitasi Jantung Paru",
+      "indikasi": "Henti jantung dan/atau henti napas.",
+      "dasar_diagnosis": "Evaluasi klinis tidak ditemukan nadi dan napas.",
+      "tata_cara": "Kompresi dada, ventilasi bantuan, defibrilasi dan pemberian obat sesuai protokol ACLS.",
+      "tujuan": "Mengembalikan sirkulasi spontan (ROSC).",
+      "resiko": "Cedera iga, memar dada.",
+      "komplikasi": "Pneumotoraks, perdarahan internal.",
+      "prognosis": "Sangat tergantung kecepatan dan kualitas resusitasi.",
+      "alternatif": "Tidak ada alternatif pada kondisi henti jantung.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Defibrilasi": {
+      "package": "Emergency & Critical Care",
+      "tindakan": "Tindakan Defibrilasi",
+      "indikasi": "Fibrilasi ventrikel atau pulseless VT.",
+      "dasar_diagnosis": "Evaluasi EKG.",
+      "tata_cara": "Pemberian kejutan listrik non-sinkron sesuai protokol.",
+      "tujuan": "Menghentikan aritmia fatal.",
+      "resiko": "Luka bakar ringan pada kulit.",
+      "komplikasi": "Aritmia lanjutan.",
+      "prognosis": "Baik bila dilakukan segera.",
+      "alternatif": "Tidak ada pada kondisi shockable rhythm.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Perawatan ICU": {
+      "package": "Critical Care",
+      "tindakan": "Perawatan Intensif di ICU",
+      "indikasi": "Kondisi kritis membutuhkan monitoring ketat.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan penunjang.",
+      "tata_cara": "Monitoring hemodinamik, ventilasi mekanik, terapi cairan dan obat sesuai indikasi.",
+      "tujuan": "Menstabilkan fungsi organ vital.",
+      "resiko": "Infeksi nosokomial, komplikasi alat invasif.",
+      "komplikasi": "Sepsis, VAP, gagal organ multipel.",
+      "prognosis": "Tergantung kondisi dasar pasien.",
+      "alternatif": "HCU bila kondisi stabil.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Perawatan ICCU": {
+      "package": "Critical Care",
+      "tindakan": "Perawatan Intensif Jantung (ICCU)",
+      "indikasi": "Sindrom koroner akut, aritmia berat.",
+      "dasar_diagnosis": "Anamnesis, EKG, pemeriksaan laboratorium.",
+      "tata_cara": "Monitoring EKG kontinu dan terapi kardiovaskular.",
+      "tujuan": "Menstabilkan kondisi jantung.",
+      "resiko": "Efek samping obat.",
+      "komplikasi": "Aritmia berulang.",
+      "prognosis": "Tergantung penyakit dasar.",
+      "alternatif": "Rawat biasa bila stabil.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Reposisi Sendi": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Reposisi Sendi (Reduksi Dislokasi)",
+      "indikasi": "Dislokasi sendi akibat trauma dengan nyeri dan gangguan fungsi.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan radiologi.",
+      "tata_cara": "Dilakukan reposisi manual dengan teknik traksi-kontratraksi setelah analgesia/sedasi, dilanjutkan imobilisasi.",
+      "tujuan": "Mengembalikan posisi anatomis sendi dan mengurangi nyeri.",
+      "resiko": "Nyeri, spasme otot, cedera jaringan lunak.",
+      "komplikasi": "Cedera saraf, cedera pembuluh darah, redislocation.",
+      "prognosis": "Baik bila reposisi cepat dan stabil.",
+      "alternatif": "Reposisi terbuka melalui tindakan operasi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan ORIF": {
+      "package": "Orthopedi",
+      "tindakan": "Open Reduction and Internal Fixation (ORIF)",
+      "indikasi": "Fraktur tidak stabil atau bergeser.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+      "tata_cara": "Reduksi terbuka tulang dan fiksasi menggunakan plate, screw, atau nail.",
+      "tujuan": "Memperbaiki posisi tulang untuk penyembuhan optimal.",
+      "resiko": "Perdarahan, nyeri, risiko anestesi.",
+      "komplikasi": "Infeksi, non-union, mal-union.",
+      "prognosis": "Baik bila fiksasi stabil dan rehabilitasi adekuat.",
+      "alternatif": "Imobilisasi konservatif atau external fixator.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan OREF": {
+      "package": "Orthopedi",
+      "tindakan": "Open Reduction and External Fixation (OREF)",
+      "indikasi": "Fraktur terbuka atau fraktur kompleks.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "tata_cara": "Reduksi tulang dan pemasangan external fixator.",
+      "tujuan": "Menstabilkan tulang sambil mempertahankan akses luka.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi pin site, mal-union.",
+      "prognosis": "Baik dengan perawatan luka optimal.",
+      "alternatif": "ORIF atau imobilisasi konservatif.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Skin Traction": {
+      "package": "Orthopedi",
+      "tindakan": "Pemasangan Skin Traction",
+      "indikasi": "Fraktur yang memerlukan imobilisasi sementara.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "tata_cara": "Pemasangan traksi pada kulit dengan beban terukur.",
+      "tujuan": "Mengurangi nyeri dan mempertahankan posisi tulang.",
+      "resiko": "Iritasi kulit.",
+      "komplikasi": "Gangguan sirkulasi distal.",
+      "prognosis": "Baik sebagai tindakan sementara.",
+      "alternatif": "Skeletal traction atau gips.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Pemasangan Gips": {
+      "package": "Orthopedi",
+      "tindakan": "Pemasangan Gips",
+      "indikasi": "Fraktur stabil atau pasca reposisi.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "tata_cara": "Imobilisasi dengan gips sesuai anatomi.",
+      "tujuan": "Menjaga stabilitas tulang selama penyembuhan.",
+      "resiko": "Nyeri, tekanan lokal.",
+      "komplikasi": "Sindrom kompartemen.",
+      "prognosis": "Baik bila pemantauan adekuat.",
+      "alternatif": "Splint atau operasi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Amputasi": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Amputasi Ekstremitas",
+      "indikasi": "Infeksi berat, iskemia, trauma tidak dapat direkonstruksi.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi/laboratorium.",
+      "tata_cara": "Pengangkatan bagian ekstremitas dengan teknik bedah sesuai standar.",
+      "tujuan": "Menyelamatkan nyawa dan mencegah penyebaran infeksi.",
+      "resiko": "Perdarahan, nyeri.",
+      "komplikasi": "Infeksi, phantom limb pain.",
+      "prognosis": "Tergantung kondisi dasar pasien.",
+      "alternatif": "Rekonstruksi bila memungkinkan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Hemiarthroplasty": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Hemiarthroplasty",
+      "indikasi": "Fraktur leher femur atau kerusakan sendi berat.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "tata_cara": "Penggantian sebagian sendi dengan prostesis.",
+      "tujuan": "Mengembalikan fungsi sendi dan mengurangi nyeri.",
+      "resiko": "Perdarahan, risiko anestesi.",
+      "komplikasi": "Infeksi prostesis, dislokasi prostesis.",
+      "prognosis": "Baik dengan rehabilitasi adekuat.",
+      "alternatif": "Total hip replacement atau terapi konservatif.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Appendiktomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Appendiktomi",
+      "indikasi": "Appendisitis akut atau kronis dengan indikasi operasi.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan radiologi/laboratorium.",
+      "tata_cara": "Pengangkatan apendiks melalui operasi terbuka atau laparoskopi.",
+      "tujuan": "Menghilangkan sumber infeksi dan mencegah perforasi.",
+      "resiko": "Nyeri pascaoperasi, perdarahan.",
+      "komplikasi": "Infeksi luka, abses intraabdomen.",
+      "prognosis": "Baik bila dilakukan sebelum perforasi.",
+      "alternatif": "Terapi antibiotik pada kasus selektif.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Laparotomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Laparotomi",
+      "indikasi": "Abdomen akut, perforasi usus, perdarahan intraabdomen.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+      "tata_cara": "Operasi membuka dinding perut untuk eksplorasi dan penanganan penyebab.",
+      "tujuan": "Menangani kegawatan intraabdomen.",
+      "resiko": "Perdarahan, risiko anestesi.",
+      "komplikasi": "Infeksi luka, ileus paralitik.",
+      "prognosis": "Tergantung penyebab dan kondisi pasien.",
+      "alternatif": "Laparoskopi bila memungkinkan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Hemoroidektomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Hemoroidektomi",
+      "indikasi": "Hemoroid derajat lanjut atau perdarahan berulang.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pengangkatan jaringan hemoroid dengan teknik bedah sesuai standar.",
+      "tujuan": "Mengurangi nyeri dan perdarahan.",
+      "resiko": "Nyeri pascaoperasi, perdarahan.",
+      "komplikasi": "Infeksi luka, retensi urin, stenosis anus.",
+      "prognosis": "Umumnya baik dengan perawatan adekuat.",
+      "alternatif": "Ligasi karet atau terapi konservatif.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Biopsi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Biopsi",
+      "indikasi": "Lesi yang memerlukan pemeriksaan histopatologi.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau imaging.",
+      "tata_cara": "Pengambilan sampel jaringan dengan teknik aseptik.",
+      "tujuan": "Menegakkan diagnosis pasti.",
+      "resiko": "Nyeri lokal, perdarahan ringan.",
+      "komplikasi": "Infeksi atau perdarahan berat.",
+      "prognosis": "Baik bila diagnosis ditegakkan dini.",
+      "alternatif": "Observasi atau imaging lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Eksisi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Eksisi Lesi",
+      "indikasi": "Tumor atau massa yang perlu diangkat.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau imaging.",
+      "tata_cara": "Pengangkatan lesi dengan margin aman.",
+      "tujuan": "Menghilangkan lesi patologis.",
+      "resiko": "Perdarahan, nyeri.",
+      "komplikasi": "Infeksi, kekambuhan.",
+      "prognosis": "Tergantung jenis lesi.",
+      "alternatif": "Biopsi atau terapi non-bedah.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Insisi Abses": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Insisi dan Drainase Abses",
+      "indikasi": "Abses dengan fluktuasi.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Sayatan kecil pada abses untuk mengeluarkan nanah.",
+      "tujuan": "Mengurangi infeksi dan nyeri.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Abses berulang.",
+      "prognosis": "Baik bila drainase adekuat.",
+      "alternatif": "Antibiotik pada abses kecil.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Pungsi Abdomen": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Pungsi Abdomen (Paracentesis)",
+      "indikasi": "Asites yang memerlukan evaluasi atau terapi.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan USG abdomen.",
+      "tata_cara": "Pemasukan jarum ke rongga peritoneum dengan teknik steril.",
+      "tujuan": "Mengurangi distensi dan memperoleh cairan diagnostik.",
+      "resiko": "Nyeri lokal, hipotensi.",
+      "komplikasi": "Perdarahan, perforasi organ.",
+      "prognosis": "Baik dengan pemantauan adekuat.",
+      "alternatif": "Terapi diuretik.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Sistoskopi Pro Biopsi Buli": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih",
+      "indikasi": "Kecurigaan tumor, hematuria, atau kelainan kandung kemih.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang (USG/CT/urinalisis).",
+      "tata_cara": "Alat sistoskop dimasukkan melalui uretra untuk melihat kandung kemih dan dilakukan pengambilan jaringan bila diperlukan.",
+      "tujuan": "Menegakkan diagnosis melalui pemeriksaan histopatologi.",
+      "resiko": "Nyeri saat berkemih, perdarahan ringan.",
+      "komplikasi": "Infeksi saluran kemih, cedera uretra.",
+      "prognosis": "Baik bila dilakukan sesuai prosedur.",
+      "alternatif": "Pemeriksaan radiologi atau sitologi urin.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Ureterorenoskopi (URS)": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Ureterorenoskopi (URS)",
+      "indikasi": "Batu ureter atau sumbatan saluran kemih bagian atas.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan radiologi.",
+      "tata_cara": "Alat dimasukkan melalui uretra menuju ureter untuk evaluasi dan penghancuran atau pengambilan batu.",
+      "tujuan": "Menghilangkan sumbatan dan memperbaiki aliran urin.",
+      "resiko": "Nyeri, perdarahan ringan.",
+      "komplikasi": "Cedera ureter, striktur ureter.",
+      "prognosis": "Baik bila dilakukan sesuai indikasi.",
+      "alternatif": "ESWL atau terapi konservatif.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan TURP (Transurethral Resection of Prostate)": {
+      "package": "Urologi",
+      "tindakan": "Tindakan TURP",
+      "indikasi": "Pembesaran prostat yang menyebabkan gangguan berkemih.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, PSA dan/atau USG.",
+      "tata_cara": "Reseksi jaringan prostat melalui uretra menggunakan alat khusus.",
+      "tujuan": "Memperbaiki aliran urin.",
+      "resiko": "Perdarahan, infeksi.",
+      "komplikasi": "Gangguan ejakulasi, inkontinensia.",
+      "prognosis": "Baik pada sebagian besar pasien.",
+      "alternatif": "Terapi obat atau prosedur minimal invasif lain.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Pemasangan Kateter": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Pemasangan Kateter Urin",
+      "indikasi": "Retensi urin atau kebutuhan monitoring output urin.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Kateter dimasukkan melalui uretra secara aseptik.",
+      "tujuan": "Mengosongkan kandung kemih dan memonitor urin.",
+      "resiko": "Nyeri uretra, perdarahan ringan.",
+      "komplikasi": "Infeksi saluran kemih.",
+      "prognosis": "Baik bila dilakukan aseptik.",
+      "alternatif": "Kateter intermiten.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Pemasangan OGT": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Pemasangan Oro Gastric Tube (OGT)",
+      "indikasi": "Dekompresi lambung atau pemberian nutrisi/obat.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Selang dimasukkan melalui mulut ke lambung dengan teknik aseptik.",
+      "tujuan": "Mengosongkan lambung atau memberikan nutrisi.",
+      "resiko": "Iritasi tenggorokan, muntah.",
+      "komplikasi": "Aspirasi paru atau salah posisi selang.",
+      "prognosis": "Baik bila posisi terkonfirmasi.",
+      "alternatif": "Nasogastric tube atau nutrisi parenteral.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Persalinan Normal": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Persalinan Normal",
+      "indikasi": "Kehamilan cukup bulan dengan kondisi ibu dan janin memungkinkan persalinan pervaginam.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang (USG/CTG).",
+      "tata_cara": "Pemantauan kemajuan persalinan, kondisi ibu dan janin, serta bantuan persalinan sesuai standar kebidanan.",
+      "tujuan": "Melahirkan bayi secara aman melalui jalan lahir.",
+      "resiko": "Nyeri, robekan jalan lahir, perdarahan.",
+      "komplikasi": "Perdarahan pascapersalinan, distosia, infeksi.",
+      "prognosis": "Baik bila proses persalinan berjalan normal.",
+      "alternatif": "Persalinan operatif atau operasi sesar sesuai indikasi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Persalinan dengan Vakum": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Persalinan dengan Vakum",
+      "indikasi": "Kala II memanjang atau perlu percepatan persalinan.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan CTG.",
+      "tata_cara": "Alat vakum dipasang pada kepala bayi dan dilakukan tarikan terkontrol.",
+      "tujuan": "Membantu kelahiran tanpa operasi sesar.",
+      "resiko": "Memar pada kepala bayi, robekan jalan lahir.",
+      "komplikasi": "Perdarahan ibu atau kegagalan tindakan.",
+      "prognosis": "Baik bila dilakukan sesuai indikasi.",
+      "alternatif": "Forsep atau operasi sesar.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Sectio Caesarea Elektif": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Sectio Caesarea Elektif",
+      "indikasi": "Indikasi medis yang direncanakan sebelumnya.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, USG.",
+      "tata_cara": "Operasi membuka dinding perut dan rahim untuk melahirkan bayi.",
+      "tujuan": "Melahirkan bayi secara aman sesuai indikasi.",
+      "resiko": "Perdarahan, infeksi, risiko anestesi.",
+      "komplikasi": "Cedera organ sekitar, tromboemboli.",
+      "prognosis": "Baik dengan perawatan pascaoperasi adekuat.",
+      "alternatif": "Persalinan pervaginam bila memungkinkan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Sectio Caesarea Emergensi": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Sectio Caesarea Emergensi",
+      "indikasi": "Gawat janin atau kondisi ibu yang mengancam jiwa.",
+      "dasar_diagnosis": "Evaluasi klinis dan CTG.",
+      "tata_cara": "Operasi sesar segera untuk menyelamatkan ibu dan bayi.",
+      "tujuan": "Mengatasi kondisi darurat.",
+      "resiko": "Perdarahan berat, infeksi.",
+      "komplikasi": "Cedera organ, komplikasi anestesi.",
+      "prognosis": "Tergantung kondisi awal ibu dan bayi.",
+      "alternatif": "Tidak ada alternatif setara pada kondisi darurat.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Episiotomi": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Episiotomi",
+      "indikasi": "Risiko robekan luas atau kebutuhan percepatan persalinan.",
+      "dasar_diagnosis": "Evaluasi klinis selama persalinan.",
+      "tata_cara": "Sayatan kecil pada perineum untuk memperlebar jalan lahir.",
+      "tujuan": "Mengurangi risiko robekan tidak terkontrol.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi luka atau nyeri berkepanjangan.",
+      "prognosis": "Baik dengan perawatan luka adekuat.",
+      "alternatif": "Persalinan tanpa episiotomi bila memungkinkan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Kuretase": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Kuretase (Dilatasi dan Kuretase)",
+      "indikasi": "Abortus inkomplit atau perdarahan abnormal.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan USG.",
+      "tata_cara": "Dilatasi serviks dan pengangkatan jaringan dari rahim.",
+      "tujuan": "Membersihkan rongga rahim dan menghentikan perdarahan.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi, perforasi rahim.",
+      "prognosis": "Baik bila dilakukan sesuai prosedur.",
+      "alternatif": "Terapi medik atau observasi sesuai kondisi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Pemberian MgSO4": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Pemberian Magnesium Sulfat (MgSO4)",
+      "indikasi": "Preeklampsia berat atau eklampsia.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, tekanan darah dan laboratorium.",
+      "tata_cara": "Pemberian loading dose dan infus pemeliharaan dengan monitoring ketat.",
+      "tujuan": "Mencegah dan mengatasi kejang.",
+      "resiko": "Mual, kelemahan otot.",
+      "komplikasi": "Depresi napas bila terjadi toksisitas.",
+      "prognosis": "Baik dengan pemantauan ketat.",
+      "alternatif": "Antikonvulsan lain bila MgSO4 kontraindikasi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan MOW Pasca SC": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan MOW (Sterilisasi) Pasca SC",
+      "indikasi": "Permintaan sterilitas permanen.",
+      "dasar_diagnosis": "Anamnesis dan persetujuan pasien.",
+      "tata_cara": "Ligasi atau pemotongan tuba falopi saat operasi sesar.",
+      "tujuan": "Mencegah kehamilan di masa depan.",
+      "resiko": "Perdarahan, infeksi.",
+      "komplikasi": "Kegagalan sterilitas (sangat jarang).",
+      "prognosis": "Baik bila prosedur dilakukan sesuai standar.",
+      "alternatif": "Kontrasepsi jangka panjang.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Spooling Telinga (Irigasi Telinga)": {
+      "package": "THT & Mata",
+      "tindakan": "Tindakan Spooling Telinga (Irigasi Liang Telinga)",
+      "indikasi": "Sumbatan serumen atau benda asing lunak di liang telinga.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan otoskopi.",
+      "tata_cara": "Pengaliran cairan hangat steril ke liang telinga untuk mengeluarkan sumbatan.",
+      "tujuan": "Membersihkan liang telinga dan memperbaiki pendengaran.",
+      "resiko": "Rasa tidak nyaman, pusing ringan.",
+      "komplikasi": "Iritasi atau infeksi liang telinga.",
+      "prognosis": "Baik bila dilakukan sesuai prosedur.",
+      "alternatif": "Ekstraksi manual dengan alat khusus.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Ekstraksi Benda Asing Telinga": {
+      "package": "THT & Mata",
+      "tindakan": "Tindakan Ekstraksi Benda Asing pada Telinga",
+      "indikasi": "Adanya benda asing di liang telinga.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan otoskopi.",
+      "tata_cara": "Pengeluaran benda asing menggunakan alat khusus secara hati-hati.",
+      "tujuan": "Menghindari cedera atau infeksi lebih lanjut.",
+      "resiko": "Nyeri atau perdarahan ringan.",
+      "komplikasi": "Cedera liang telinga atau membran timpani.",
+      "prognosis": "Baik bila tindakan berhasil.",
+      "alternatif": "Rujukan ke spesialis THT.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Ekstraksi Benda Asing Hidung": {
+      "package": "THT & Mata",
+      "tindakan": "Tindakan Ekstraksi Benda Asing pada Hidung",
+      "indikasi": "Adanya benda asing di rongga hidung.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pengeluaran benda asing menggunakan alat khusus dengan teknik aseptik.",
+      "tujuan": "Menghindari sumbatan atau infeksi.",
+      "resiko": "Perdarahan ringan.",
+      "komplikasi": "Infeksi atau cedera mukosa.",
+      "prognosis": "Baik bila dilakukan segera.",
+      "alternatif": "Rujukan ke spesialis THT.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Ekstraksi Benda Asing Mata": {
+      "package": "THT & Mata",
+      "tindakan": "Tindakan Ekstraksi Benda Asing pada Mata",
+      "indikasi": "Adanya benda asing di permukaan mata.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan slit lamp.",
+      "tata_cara": "Pengangkatan benda asing secara hati-hati dengan anestesi lokal.",
+      "tujuan": "Mencegah iritasi dan kerusakan kornea.",
+      "resiko": "Nyeri ringan, iritasi.",
+      "komplikasi": "Abrasi kornea atau infeksi.",
+      "prognosis": "Baik bila segera ditangani.",
+      "alternatif": "Rujukan ke dokter mata.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Irigasi Mata": {
+      "package": "THT & Mata",
+      "tindakan": "Tindakan Irigasi Mata",
+      "indikasi": "Paparan bahan kimia atau iritasi mata.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pembilasan mata dengan larutan steril dalam jumlah cukup.",
+      "tujuan": "Mengurangi iritasi dan mencegah kerusakan lebih lanjut.",
+      "resiko": "Rasa perih sementara.",
+      "komplikasi": "Kerusakan kornea bila paparan berat.",
+      "prognosis": "Baik bila dilakukan segera.",
+      "alternatif": "Terapi tetes mata lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Ekstraksi Benda Asing Mulut dan Tenggorokan": {
+      "package": "THT & Mata",
+      "tindakan": "Tindakan Ekstraksi Benda Asing pada Mulut dan Tenggorokan",
+      "indikasi": "Adanya benda asing yang tersangkut di rongga mulut atau orofaring.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pengeluaran benda asing menggunakan alat khusus dengan teknik hati-hati.",
+      "tujuan": "Mencegah sumbatan jalan napas atau infeksi.",
+      "resiko": "Refleks muntah atau perdarahan ringan.",
+      "komplikasi": "Cedera mukosa atau aspirasi.",
+      "prognosis": "Baik bila segera ditangani.",
+      "alternatif": "Rujukan atau tindakan lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Transfusi Albumin": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Transfusi Albumin",
+      "indikasi": "Hipoalbuminemia berat, sirosis hati, sindrom nefrotik, atau kondisi lain sesuai indikasi medis.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan laboratorium.",
+      "tata_cara": "Pemberian albumin melalui infus intravena dengan pemantauan tanda vital.",
+      "tujuan": "Mempertahankan tekanan onkotik dan keseimbangan cairan tubuh.",
+      "resiko": "Reaksi alergi, kelebihan cairan.",
+      "komplikasi": "Reaksi anafilaksis atau edema paru.",
+      "prognosis": "Baik bila diberikan sesuai indikasi.",
+      "alternatif": "Terapi cairan lain sesuai kondisi klinis.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Terapi Enoxaparin": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Terapi Enoxaparin",
+      "indikasi": "Profilaksis atau terapi tromboemboli vena.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan laboratorium.",
+      "tata_cara": "Pemberian injeksi subkutan sesuai dosis berat badan.",
+      "tujuan": "Mencegah pembentukan bekuan darah.",
+      "resiko": "Perdarahan, memar di tempat suntikan.",
+      "komplikasi": "Perdarahan berat atau trombositopenia.",
+      "prognosis": "Baik dengan pemantauan ketat.",
+      "alternatif": "Fondaparinux atau heparin.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Terapi Fondaparinux": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Terapi Fondaparinux",
+      "indikasi": "Pencegahan dan pengobatan tromboemboli.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan penunjang.",
+      "tata_cara": "Pemberian injeksi subkutan sesuai dosis klinis.",
+      "tujuan": "Menghambat pembentukan trombus.",
+      "resiko": "Perdarahan atau memar lokal.",
+      "komplikasi": "Perdarahan berat.",
+      "prognosis": "Baik dengan pemantauan adekuat.",
+      "alternatif": "Enoxaparin atau antikoagulan lain.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Terapi Fibrinolitik": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Terapi Fibrinolitik",
+      "indikasi": "Infark miokard akut atau stroke iskemik sesuai kriteria.",
+      "dasar_diagnosis": "Anamnesis, EKG/CT scan, dan pemeriksaan laboratorium.",
+      "tata_cara": "Pemberian obat fibrinolitik intravena sesuai protokol.",
+      "tujuan": "Melarutkan bekuan darah yang menyumbat pembuluh.",
+      "resiko": "Perdarahan.",
+      "komplikasi": "Perdarahan intrakranial.",
+      "prognosis": "Baik bila diberikan dalam window period.",
+      "alternatif": "Tindakan intervensi kardiologi atau neurologi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Terapi Tetagam": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Terapi Imunoglobulin Tetanus (Tetagam)",
+      "indikasi": "Luka berisiko tinggi pada pasien dengan imunisasi tidak lengkap.",
+      "dasar_diagnosis": "Anamnesis dan evaluasi luka.",
+      "tata_cara": "Pemberian imunoglobulin secara intramuskular.",
+      "tujuan": "Mencegah infeksi tetanus.",
+      "resiko": "Nyeri lokal, reaksi alergi ringan.",
+      "komplikasi": "Reaksi anafilaksis (jarang).",
+      "prognosis": "Baik bila diberikan tepat waktu.",
+      "alternatif": "Vaksin tetanus sesuai jadwal.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Terapi OAT (Obat Anti Tuberkulosis)": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Terapi Obat Anti Tuberkulosis (OAT)",
+      "indikasi": "Tuberkulosis aktif.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan penunjang (BTA/TCM/Foto Toraks).",
+      "tata_cara": "Pemberian kombinasi obat sesuai fase pengobatan nasional.",
+      "tujuan": "Menyembuhkan infeksi dan mencegah penularan.",
+      "resiko": "Gangguan fungsi hati, mual.",
+      "komplikasi": "Hepatotoksisitas atau resistensi obat.",
+      "prognosis": "Baik dengan kepatuhan terapi.",
+      "alternatif": "Regimen alternatif sesuai hasil evaluasi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Pemasangan CVC": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Pemasangan Central Venous Catheter (CVC)",
+      "indikasi": "Kebutuhan akses vena sentral untuk terapi cairan, obat vasoaktif, atau hemodialisa.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pertimbangan klinis.",
+      "tata_cara": "Kateter dimasukkan ke vena besar (jugularis/subklavia/femoralis) dengan teknik aseptik.",
+      "tujuan": "Memberikan akses vaskular sentral yang stabil.",
+      "resiko": "Nyeri lokal, perdarahan.",
+      "komplikasi": "Pneumotoraks, infeksi, emboli udara.",
+      "prognosis": "Baik bila dilakukan dengan teknik steril dan pemantauan adekuat.",
+      "alternatif": "Akses vena perifer.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Pemasangan WSD": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Pemasangan Water Seal Drain (WSD)",
+      "indikasi": "Pneumotoraks atau efusi pleura.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan foto toraks.",
+      "tata_cara": "Pemasangan selang drainase pada rongga pleura dengan sistem water seal.",
+      "tujuan": "Mengeluarkan udara atau cairan dari rongga pleura.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi, cedera paru.",
+      "prognosis": "Baik dengan pemantauan rutin.",
+      "alternatif": "Aspirasi jarum pada kasus tertentu.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Trakeostomi": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Trakeostomi",
+      "indikasi": "Obstruksi jalan napas atau kebutuhan ventilasi jangka panjang.",
+      "dasar_diagnosis": "Anamnesis dan evaluasi klinis.",
+      "tata_cara": "Pembuatan lubang pada trakea untuk pemasangan kanul.",
+      "tujuan": "Menjaga jalan napas terbuka.",
+      "resiko": "Perdarahan, infeksi.",
+      "komplikasi": "Stenosis trakea, infeksi.",
+      "prognosis": "Tergantung kondisi dasar pasien.",
+      "alternatif": "Intubasi endotrakeal.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Thorakosentesis": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Thorakosentesis",
+      "indikasi": "Efusi pleura untuk tujuan diagnostik atau terapeutik.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
+      "tata_cara": "Pemasukan jarum ke rongga pleura untuk aspirasi cairan.",
+      "tujuan": "Mengurangi sesak dan mendapatkan cairan untuk analisis.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Pneumotoraks.",
+      "prognosis": "Baik bila dilakukan dengan teknik yang benar.",
+      "alternatif": "Pemasangan WSD.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Vena Seksi": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Vena Seksi",
+      "indikasi": "Kegagalan akses vena perifer pada kondisi emergensi.",
+      "dasar_diagnosis": "Evaluasi klinis kebutuhan akses intravena.",
+      "tata_cara": "Insisi kecil untuk membuka vena dan pemasangan kanul.",
+      "tujuan": "Mendapatkan akses intravena cepat.",
+      "resiko": "Perdarahan.",
+      "komplikasi": "Infeksi atau cedera saraf.",
+      "prognosis": "Baik bila dilakukan segera.",
+      "alternatif": "Akses intraoseus.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Akses Intraoseus": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Akses Intraoseus",
+      "indikasi": "Kondisi gawat darurat dengan kesulitan akses vena.",
+      "dasar_diagnosis": "Evaluasi klinis emergensi.",
+      "tata_cara": "Pemasangan jarum khusus ke rongga tulang untuk akses sirkulasi.",
+      "tujuan": "Memberikan cairan dan obat secara cepat.",
+      "resiko": "Nyeri lokal.",
+      "komplikasi": "Infeksi tulang atau ekstravasasi.",
+      "prognosis": "Baik pada kondisi darurat.",
+      "alternatif": "Vena seksi atau CVC.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Hemodialisa": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Hemodialisa",
+      "indikasi": "Gagal ginjal akut atau kronis dengan indikasi dialisis.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan laboratorium.",
+      "tata_cara": "Proses penyaringan darah menggunakan mesin dialisis.",
+      "tujuan": "Menggantikan fungsi ginjal dalam menyaring darah.",
+      "resiko": "Hipotensi, kram otot.",
+      "komplikasi": "Infeksi akses vaskular.",
+      "prognosis": "Tergantung penyakit dasar.",
+      "alternatif": "Dialisis peritoneal.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Pungsi Lumbal": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Pungsi Lumbal",
+      "indikasi": "Evaluasi infeksi atau perdarahan sistem saraf pusat.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging bila diperlukan.",
+      "tata_cara": "Pemasukan jarum ke ruang subaraknoid untuk mengambil cairan serebrospinal.",
+      "tujuan": "Menegakkan diagnosis.",
+      "resiko": "Nyeri kepala pascatindakan.",
+      "komplikasi": "Infeksi atau perdarahan.",
+      "prognosis": "Baik bila dilakukan sesuai prosedur.",
+      "alternatif": "Pemeriksaan imaging lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    }
+
   }
-
-}
 }
