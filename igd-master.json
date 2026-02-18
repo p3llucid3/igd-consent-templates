@@ -1144,6 +1144,19 @@
     "prognosis": "Baik apabila dilakukan dengan teknik yang benar.",
     "alternatif": "Pembersihan manual dengan alat khusus.",
     "lain_lain": "-"
+  },
+
+  "Tindakan Hemoroidektomi": {
+    "tindakan": "Tindakan pembedahan untuk mengangkat jaringan wasir (hemoroid) yang membesar atau menimbulkan keluhan.",
+    "indikasi": "Hemoroid derajat lanjut, perdarahan berulang, nyeri hebat, atau hemoroid yang tidak membaik dengan terapi konservatif.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+    "tata_cara": "Dilakukan pembedahan pada area anus untuk mengangkat jaringan hemoroid dengan teknik yang sesuai, menggunakan anestesi lokal, regional, atau umum sesuai kondisi pasien.",
+    "tujuan": "Mengurangi keluhan nyeri, perdarahan, dan memperbaiki kualitas hidup pasien.",
+    "resiko": "Dapat berupa nyeri pascaoperasi, perdarahan, infeksi luka, atau kesulitan buang air besar sementara.",
+    "komplikasi": "Perdarahan berat, retensi urin, penyempitan anus, atau gangguan kontrol buang air besar yang jarang terjadi.",
+    "prognosis": "Umumnya baik dengan perawatan luka dan kontrol rutin pascaoperasi.",
+    "alternatif": "Terapi obat, perubahan pola makan dan gaya hidup, skleroterapi, ligasi karet (rubber band ligation), atau tindakan minimal invasif lain sesuai indikasi.",
+    "lain_lain": "-"
   }
 
 }
