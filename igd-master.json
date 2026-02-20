@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "updated_at": "2026-02-17",
   "description": "Comprehensive informed consent templates categorized by medical package",
   "templates": {
@@ -774,6 +774,230 @@
       "komplikasi": "Infeksi atau perdarahan.",
       "prognosis": "Baik bila dilakukan sesuai prosedur.",
       "alternatif": "Pemeriksaan imaging lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    
+    "Tindakan Debridement Luka": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Debridement Luka",
+      "indikasi": "Luka dengan jaringan mati, infeksi, atau luka bakar yang memerlukan pembersihan jaringan.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau evaluasi luka.",
+      "tata_cara": "Pengangkatan jaringan mati atau terinfeksi dengan teknik bedah hingga jaringan sehat terlihat.",
+      "tujuan": "Mencegah penyebaran infeksi dan mempercepat penyembuhan luka.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi lanjutan atau kerusakan jaringan sekitar.",
+      "prognosis": "Baik bila luka dirawat secara adekuat.",
+      "alternatif": "Perawatan luka konservatif atau terapi enzimatik.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Insisi dan Drainase Abses": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Insisi dan Drainase Abses",
+      "indikasi": "Abses dengan fluktuasi dan nyeri.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Sayatan dilakukan pada abses untuk mengeluarkan nanah dan membersihkan rongga abses.",
+      "tujuan": "Mengurangi tekanan, nyeri, dan infeksi.",
+      "resiko": "Nyeri, perdarahan ringan.",
+      "komplikasi": "Infeksi berulang.",
+      "prognosis": "Baik bila drainase adekuat.",
+      "alternatif": "Antibiotik pada abses kecil.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Eksplorasi Luka": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Eksplorasi Luka",
+      "indikasi": "Luka dalam atau luka dengan kecurigaan benda asing.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pembukaan dan evaluasi luka secara menyeluruh untuk menilai kerusakan jaringan.",
+      "tujuan": "Menentukan luas cedera dan mencegah komplikasi.",
+      "resiko": "Nyeri dan perdarahan.",
+      "komplikasi": "Infeksi atau kerusakan jaringan tambahan.",
+      "prognosis": "Baik bila dilakukan segera.",
+      "alternatif": "Observasi pada luka superfisial.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Herniotomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Herniotomi",
+      "indikasi": "Hernia tanpa komplikasi.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pengembalian isi hernia ke rongga abdomen dan penutupan defek.",
+      "tujuan": "Mencegah inkarserasi dan strangulasi.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi luka atau kekambuhan.",
+      "prognosis": "Baik dengan teknik operasi yang tepat.",
+      "alternatif": "Observasi pada hernia kecil tanpa gejala.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Herniorafi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Herniorafi",
+      "indikasi": "Hernia dengan defek dinding yang memerlukan penguatan.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Penutupan dan penguatan dinding abdomen dengan atau tanpa mesh.",
+      "tujuan": "Mengurangi risiko kekambuhan hernia.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi mesh atau kekambuhan.",
+      "prognosis": "Baik dengan teknik yang adekuat.",
+      "alternatif": "Observasi pada kondisi tertentu.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Kolostomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Kolostomi",
+      "indikasi": "Obstruksi usus atau perforasi kolon.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
+      "tata_cara": "Pembuatan lubang pada dinding abdomen untuk mengeluarkan feses.",
+      "tujuan": "Mengalihkan aliran feses dan melindungi bagian usus yang sakit.",
+      "resiko": "Infeksi atau iritasi kulit sekitar stoma.",
+      "komplikasi": "Retraksi atau prolaps stoma.",
+      "prognosis": "Tergantung penyakit dasar.",
+      "alternatif": "Anastomosis primer bila memungkinkan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Gastrotomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Gastrotomi",
+      "indikasi": "Benda asing lambung atau indikasi bedah tertentu.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
+      "tata_cara": "Pembukaan dinding lambung untuk evaluasi atau pengangkatan benda asing.",
+      "tujuan": "Mengatasi masalah di dalam lambung.",
+      "resiko": "Perdarahan, risiko anestesi.",
+      "komplikasi": "Infeksi atau kebocoran lambung.",
+      "prognosis": "Baik bila ditangani cepat.",
+      "alternatif": "Endoskopi bila memungkinkan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Penjahitan Luka (Suturing)": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Penjahitan Luka (Suturing)",
+      "indikasi": "Luka terbuka yang memerlukan penutupan untuk mempercepat penyembuhan.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik luka.",
+      "tata_cara": "Pembersihan luka, anestesi lokal, dan penjahitan sesuai teknik aseptik.",
+      "tujuan": "Menutup luka dan mencegah infeksi.",
+      "resiko": "Nyeri lokal, perdarahan ringan.",
+      "komplikasi": "Infeksi luka atau dehisensi.",
+      "prognosis": "Baik dengan perawatan luka adekuat.",
+      "alternatif": "Penutupan sekunder atau lem jaringan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Debridement Luka Bakar": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Debridement Luka Bakar",
+      "indikasi": "Luka bakar dengan jaringan nekrotik.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pengangkatan jaringan mati pada luka bakar secara bedah.",
+      "tujuan": "Mencegah infeksi dan mempercepat penyembuhan.",
+      "resiko": "Perdarahan, nyeri.",
+      "komplikasi": "Infeksi atau jaringan parut luas.",
+      "prognosis": "Tergantung luas dan derajat luka bakar.",
+      "alternatif": "Perawatan luka konservatif pada luka superfisial.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Fasciotomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Fasciotomi",
+      "indikasi": "Sindrom kompartemen.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan evaluasi tekanan kompartemen.",
+      "tata_cara": "Sayatan pada fasia untuk mengurangi tekanan dalam kompartemen otot.",
+      "tujuan": "Mencegah kerusakan permanen otot dan saraf.",
+      "resiko": "Perdarahan, nyeri.",
+      "komplikasi": "Infeksi atau gangguan penyembuhan luka.",
+      "prognosis": "Baik bila dilakukan segera.",
+      "alternatif": "Tidak ada alternatif pada sindrom kompartemen akut.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Kolesistektomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Kolesistektomi",
+      "indikasi": "Kolesistitis atau batu empedu simptomatik.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan USG.",
+      "tata_cara": "Pengangkatan kantong empedu melalui operasi terbuka atau laparoskopi.",
+      "tujuan": "Menghilangkan sumber nyeri dan infeksi.",
+      "resiko": "Perdarahan, risiko anestesi.",
+      "komplikasi": "Cedera saluran empedu atau infeksi.",
+      "prognosis": "Baik pada sebagian besar pasien.",
+      "alternatif": "Terapi konservatif pada kasus ringan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Splenektomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Splenektomi",
+      "indikasi": "Ruptur limpa atau penyakit hematologi tertentu.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
+      "tata_cara": "Pengangkatan limpa melalui prosedur bedah.",
+      "tujuan": "Menghentikan perdarahan atau mengatasi penyakit tertentu.",
+      "resiko": "Perdarahan, risiko anestesi.",
+      "komplikasi": "Infeksi berat pascasplenektomi.",
+      "prognosis": "Tergantung kondisi dasar pasien.",
+      "alternatif": "Observasi pada cedera ringan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Relaparotomi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Relaparotomi",
+      "indikasi": "Komplikasi pasca operasi abdomen.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
+      "tata_cara": "Pembukaan kembali rongga abdomen untuk evaluasi dan penanganan komplikasi.",
+      "tujuan": "Mengatasi komplikasi yang mengancam jiwa.",
+      "resiko": "Perdarahan, infeksi.",
+      "komplikasi": "Adhesi atau kegagalan penyembuhan.",
+      "prognosis": "Tergantung kondisi pasien.",
+      "alternatif": "Terapi konservatif pada kasus tertentu.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Anastomosis Usus": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Anastomosis Usus",
+      "indikasi": "Reseksi usus akibat tumor, perforasi, atau trauma.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
+      "tata_cara": "Penyambungan kembali dua ujung usus secara bedah.",
+      "tujuan": "Memulihkan kontinuitas saluran cerna.",
+      "resiko": "Perdarahan, risiko anestesi.",
+      "komplikasi": "Kebocoran anastomosis atau infeksi.",
+      "prognosis": "Baik bila penyembuhan optimal.",
+      "alternatif": "Kolostomi sementara.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+
+    "Tindakan Revisi Luka Operasi": {
+      "package": "Bedah Umum",
+      "tindakan": "Tindakan Revisi Luka Operasi",
+      "indikasi": "Gangguan penyembuhan luka atau infeksi luka operasi.",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "tata_cara": "Pembersihan ulang luka dan perbaikan jaringan.",
+      "tujuan": "Memperbaiki penyembuhan luka.",
+      "resiko": "Nyeri, perdarahan.",
+      "komplikasi": "Infeksi berulang.",
+      "prognosis": "Baik dengan perawatan adekuat.",
+      "alternatif": "Perawatan luka konservatif.",
       "lain_lain": "-",
       "checklist": false
     }
