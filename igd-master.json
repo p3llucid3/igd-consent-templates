@@ -2045,7 +2045,23 @@
       "tata_cara": "Irigasi dan pembersihan sendi secara bedah untuk mengeluarkan pus dan jaringan terinfeksi.",
       "tindakan": "Tindakan Washout Sendi Septik",
       "tujuan": "Menghentikan infeksi dan mencegah kerusakan permanen sendi."
+    },
+  "Tindakan Hecting (Penjahitan Luka)": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Hecting (Penjahitan Luka)",
+    "indikasi": "Luka terbuka akibat trauma yang memerlukan penutupan untuk mempercepat penyembuhan dan mencegah infeksi.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan evaluasi kedalaman serta panjang luka.",
+    "tata_cara": "Pembersihan luka, pemberian anestesi lokal, dan penjahitan jaringan dengan teknik aseptik menggunakan benang sesuai indikasi.",
+    "tujuan": "Menutup luka, menghentikan perdarahan, dan mempercepat penyembuhan.",
+    "resiko": "Nyeri lokal, perdarahan ringan.",
+    "komplikasi": "Infeksi luka, reaksi terhadap benang, atau luka terbuka kembali.",
+    "prognosis": "Baik bila perawatan luka dilakukan sesuai anjuran.",
+    "alternatif": "Perawatan luka terbuka atau penggunaan lem jaringan pada luka kecil.",
+    "lain_lain": "-",
+    "checklist": false
     }
+
+    
   }
   
 }
