@@ -2059,7 +2059,157 @@
     "alternatif": "Perawatan luka terbuka atau penggunaan lem jaringan pada luka kecil.",
     "lain_lain": "-",
     "checklist": false
-    }
+    },
+
+  "Tindakan Pemasangan IUD (Intrauterine Device)": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pemasangan IUD (Intrauterine Device)",
+    "indikasi": "Keinginan kontrasepsi jangka panjang yang efektif dan reversibel.",
+    "dasar_diagnosis": "Anamnesis riwayat menstruasi, kehamilan, dan pemeriksaan ginekologis.",
+    "tata_cara": "Pemasangan alat kontrasepsi dalam rahim melalui serviks dengan teknik aseptik setelah memastikan tidak ada kontraindikasi.",
+    "tujuan": "Mencegah kehamilan jangka panjang.",
+    "resiko": "Nyeri perut bawah sementara, spotting.",
+    "komplikasi": "Perforasi uterus (jarang), ekspulsi, infeksi panggul.",
+    "prognosis": "Baik dengan kontrol rutin.",
+    "alternatif": "Implan, pil KB, suntik KB, metode permanen.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Pencabutan IUD": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pencabutan IUD",
+    "indikasi": "Keinginan hamil, efek samping, atau habis masa pakai.",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan ginekologis.",
+    "tata_cara": "Penarikan benang IUD secara perlahan dengan alat steril.",
+    "tujuan": "Mengakhiri kontrasepsi intrauterin.",
+    "resiko": "Nyeri ringan, spotting.",
+    "komplikasi": "Perdarahan ringan.",
+    "prognosis": "Baik.",
+    "alternatif": "Penggantian IUD baru atau metode lain.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Pemasangan Implan Kontrasepsi": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pemasangan Implan Kontrasepsi",
+    "indikasi": "Kontrasepsi hormonal jangka panjang.",
+    "dasar_diagnosis": "Anamnesis dan evaluasi kontraindikasi hormonal.",
+    "tata_cara": "Pemasangan batang implan subdermal dengan anestesi lokal.",
+    "tujuan": "Mencegah kehamilan.",
+    "resiko": "Memar lokal.",
+    "komplikasi": "Perdarahan tidak teratur.",
+    "prognosis": "Baik.",
+    "alternatif": "IUD, pil KB.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Pencabutan Implan Kontrasepsi": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pencabutan Implan Kontrasepsi",
+    "indikasi": "Keinginan hamil atau efek samping.",
+    "dasar_diagnosis": "Anamnesis dan palpasi lokasi implan.",
+    "tata_cara": "Insisi kecil dan pengangkatan implan dengan teknik steril.",
+    "tujuan": "Menghentikan kontrasepsi hormonal.",
+    "resiko": "Perdarahan ringan.",
+    "komplikasi": "Implan sulit ditemukan (jarang).",
+    "prognosis": "Baik.",
+    "alternatif": "Metode kontrasepsi lain.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Jahit Luka Perineum": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Jahit Luka Perineum",
+    "indikasi": "Robekan perineum pascapersalinan.",
+    "dasar_diagnosis": "Pemeriksaan fisik robekan jalan lahir.",
+    "tata_cara": "Penjahitan lapis demi lapis dengan teknik aseptik.",
+    "tujuan": "Mengembalikan anatomi dan mencegah perdarahan.",
+    "resiko": "Nyeri lokal.",
+    "komplikasi": "Infeksi luka.",
+    "prognosis": "Baik dengan perawatan luka.",
+    "alternatif": "Observasi pada robekan minimal.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Pengangkatan Kuku (Nail Avulsion)": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Pengangkatan Kuku (Nail Avulsion)",
+    "indikasi": "Infeksi kuku berat, hematoma subungual luas.",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik lokal.",
+    "tata_cara": "Pelepasan kuku dengan anestesi lokal dan teknik steril.",
+    "tujuan": "Mengurangi nyeri dan infeksi.",
+    "resiko": "Nyeri pascatindakan.",
+    "komplikasi": "Infeksi lokal.",
+    "prognosis": "Baik.",
+    "alternatif": "Terapi konservatif.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Ekstraksi Kista Ateroma Minor": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Ekstraksi Kista Ateroma Minor",
+    "indikasi": "Kista ateroma kecil tanpa inflamasi berat.",
+    "dasar_diagnosis": "Pemeriksaan fisik massa subkutan.",
+    "tata_cara": "Insisi kecil dan pengangkatan kapsul kista secara utuh.",
+    "tujuan": "Menghilangkan benjolan dan mencegah infeksi berulang.",
+    "resiko": "Perdarahan ringan.",
+    "komplikasi": "Infeksi luka atau residif.",
+    "prognosis": "Baik.",
+    "alternatif": "Observasi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan CVC Removal": {
+    "package": "Tindakan Penunjang",
+    "tindakan": "Tindakan Pelepasan Central Venous Catheter (CVC)",
+    "indikasi": "Terapi selesai atau dicurigai infeksi kateter.",
+    "dasar_diagnosis": "Evaluasi klinis dan kebutuhan terapi.",
+    "tata_cara": "Pelepasan kateter dengan teknik steril dan kompresi adekuat.",
+    "tujuan": "Menghentikan akses sentral.",
+    "resiko": "Perdarahan lokal.",
+    "komplikasi": "Emboli udara (jarang).",
+    "prognosis": "Baik.",
+    "alternatif": "-",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Pelepasan Water Seal Drain (WSD)": {
+    "package": "Tindakan Penunjang",
+    "tindakan": "Tindakan Pelepasan Water Seal Drain (WSD)",
+    "indikasi": "Resolusi pneumotoraks atau efusi pleura.",
+    "dasar_diagnosis": "Evaluasi klinis dan radiologi.",
+    "tata_cara": "Pelepasan drain dengan teknik steril dan penutupan luka.",
+    "tujuan": "Mengakhiri drainase pleura.",
+    "resiko": "Nyeri lokal.",
+    "komplikasi": "Rekurensi pneumotoraks.",
+    "prognosis": "Baik.",
+    "alternatif": "Observasi lanjutan.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Ekstubasi (Pelepasan Endotracheal Tube)": {
+    "package": "Advanced Airway & Ventilation",
+    "tindakan": "Tindakan Ekstubasi (Pelepasan Endotracheal Tube)",
+    "indikasi": "Pasien memenuhi kriteria weaning ventilator.",
+    "dasar_diagnosis": "Evaluasi klinis dan analisis gas darah.",
+    "tata_cara": "Penghentian ventilator bertahap dan pelepasan ETT dengan monitoring ketat.",
+    "tujuan": "Mengembalikan pernapasan spontan.",
+    "resiko": "Stridor atau gagal ekstubasi.",
+    "komplikasi": "Reintubasi.",
+    "prognosis": "Baik bila kriteria terpenuhi.",
+    "alternatif": "Ventilasi lanjutan.",
+    "lain_lain": "-",
+    "checklist": false
+  }
 
     
   }
