@@ -2358,6 +2358,273 @@
     "alternatif": "Eksisi bedah.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Lain-Lain (Tidak Tercantum dalam Daftar)": {
+    "package": "Standalone",
+    "tindakan": "Tindakan Lain-Lain (Tidak Tercantum dalam Daftar)",
+    "indikasi": "Kondisi medis yang memerlukan tindakan yang belum tercantum dalam sistem.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang sesuai kondisi klinis.",
+    "tata_cara": "Tindakan medis akan dilakukan sesuai standar profesi dan indikasi yang berlaku.",
+    "tujuan": "Menangani kondisi pasien sesuai kebutuhan medis.",
+    "resiko": "Risiko akan dijelaskan sesuai jenis tindakan yang dilakukan.",
+    "komplikasi": "Komplikasi yang mungkin timbul akan dijelaskan sesuai prosedur.",
+    "prognosis": "Tergantung kondisi dasar dan respons pasien terhadap terapi.",
+    "alternatif": "Alternatif tindakan akan dijelaskan sesuai situasi klinis.",
+    "lain_lain": "Penjelasan tambahan akan dituliskan sesuai tindakan spesifik yang dilakukan.",
+    "checklist": false
+  },
+  "Tindakan Eksisi Lipoma Minor": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Eksisi Lipoma Minor",
+    "indikasi": "Lipoma kecil yang nyeri, membesar, atau mengganggu kosmetik/fungsi.",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik massa subkutan.",
+    "tata_cara": "Insisi kulit dan pengangkatan jaringan lemak dengan teknik steril.",
+    "tujuan": "Menghilangkan benjolan dan keluhan.",
+    "resiko": "Perdarahan ringan, nyeri lokal.",
+    "komplikasi": "Infeksi luka atau residif.",
+    "prognosis": "Baik bila eksisi lengkap.",
+    "alternatif": "Observasi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Eksisi Nevus / Lesi Pigmentasi": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Eksisi Nevus / Lesi Pigmentasi",
+    "indikasi": "Nevus mencurigakan atau mengganggu kosmetik.",
+    "dasar_diagnosis": "Pemeriksaan klinis dermatologis.",
+    "tata_cara": "Eksisi lesi dengan margin adekuat di bawah anestesi lokal.",
+    "tujuan": "Menghilangkan lesi dan/atau pemeriksaan histopatologi.",
+    "resiko": "Perdarahan ringan.",
+    "komplikasi": "Infeksi atau parut.",
+    "prognosis": "Baik bila lesi jinak.",
+    "alternatif": "Observasi atau biopsi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Insisi Furunkel / Karbunkel": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Insisi Furunkel / Karbunkel",
+    "indikasi": "Infeksi kulit dengan koleksi pus.",
+    "dasar_diagnosis": "Pemeriksaan fisik lesi inflamasi.",
+    "tata_cara": "Insisi kecil dan drainase pus dengan teknik aseptik.",
+    "tujuan": "Mengurangi nyeri dan mengatasi infeksi.",
+    "resiko": "Nyeri lokal.",
+    "komplikasi": "Infeksi berulang.",
+    "prognosis": "Baik bila drainase adekuat.",
+    "alternatif": "Antibiotik saja pada kasus ringan.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Eksisi Granuloma Piogenik": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Eksisi Granuloma Piogenik",
+    "indikasi": "Lesi vaskular mudah berdarah.",
+    "dasar_diagnosis": "Pemeriksaan fisik.",
+    "tata_cara": "Eksisi lesi dengan hemostasis adekuat.",
+    "tujuan": "Menghentikan perdarahan dan menghilangkan lesi.",
+    "resiko": "Perdarahan ringan.",
+    "komplikasi": "Rekurensi.",
+    "prognosis": "Baik.",
+    "alternatif": "Kauterisasi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Drainase Hematoma Subkutan": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Drainase Hematoma Subkutan",
+    "indikasi": "Hematoma besar atau nyeri.",
+    "dasar_diagnosis": "Pemeriksaan fisik dan/atau USG.",
+    "tata_cara": "Evakuasi darah beku melalui insisi kecil atau aspirasi.",
+    "tujuan": "Mengurangi tekanan dan nyeri.",
+    "resiko": "Perdarahan ulang.",
+    "komplikasi": "Infeksi.",
+    "prognosis": "Baik.",
+    "alternatif": "Observasi bila kecil.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Debridement Jaringan Lunak Minor": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Debridement Jaringan Lunak Minor",
+    "indikasi": "Luka dengan jaringan nekrotik terbatas.",
+    "dasar_diagnosis": "Pemeriksaan fisik luka.",
+    "tata_cara": "Pengangkatan jaringan nonviabel dengan teknik steril.",
+    "tujuan": "Mencegah infeksi dan mempercepat penyembuhan.",
+    "resiko": "Nyeri atau perdarahan ringan.",
+    "komplikasi": "Infeksi.",
+    "prognosis": "Baik bila perawatan adekuat.",
+    "alternatif": "Perawatan konservatif.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Penutupan Luka dengan Lem Jaringan (Tissue Adhesive)": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Penutupan Luka dengan Lem Jaringan (Tissue Adhesive)",
+    "indikasi": "Luka kecil superfisial tanpa ketegangan.",
+    "dasar_diagnosis": "Pemeriksaan fisik luka.",
+    "tata_cara": "Aplikasi lem jaringan steril pada tepi luka.",
+    "tujuan": "Menutup luka tanpa jahitan.",
+    "resiko": "Reaksi lokal ringan.",
+    "komplikasi": "Luka terbuka kembali.",
+    "prognosis": "Baik pada luka selektif.",
+    "alternatif": "Hecting atau steri-strip.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Pemasangan Steri-Strip": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Pemasangan Steri-Strip",
+    "indikasi": "Luka superfisial kecil.",
+    "dasar_diagnosis": "Pemeriksaan fisik.",
+    "tata_cara": "Penempelan strip perekat steril untuk mendekatkan tepi luka.",
+    "tujuan": "Mendukung penyembuhan luka.",
+    "resiko": "Iritasi kulit ringan.",
+    "komplikasi": "Luka terbuka kembali.",
+    "prognosis": "Baik.",
+    "alternatif": "Lem jaringan atau jahitan.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Skin Tag Removal": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Skin Tag Removal",
+    "indikasi": "Skin tag yang mengganggu atau iritasi.",
+    "dasar_diagnosis": "Pemeriksaan fisik.",
+    "tata_cara": "Eksisi kecil atau kauterisasi dengan anestesi lokal.",
+    "tujuan": "Menghilangkan lesi jinak.",
+    "resiko": "Perdarahan ringan.",
+    "komplikasi": "Infeksi lokal.",
+    "prognosis": "Baik.",
+    "alternatif": "Observasi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+  "Tindakan Debridement Enzimatik Luka": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Debridement Enzimatik Luka",
+    "indikasi": "Luka kronis dengan jaringan nekrotik tanpa indikasi debridement bedah agresif.",
+    "dasar_diagnosis": "Pemeriksaan fisik luka dan evaluasi jaringan nonviabel.",
+    "tata_cara": "Aplikasi agen enzimatik topikal untuk melunakkan dan mengangkat jaringan nekrotik.",
+    "tujuan": "Mempercepat proses pembersihan luka.",
+    "resiko": "Iritasi lokal.",
+    "komplikasi": "Infeksi bila luka tidak dimonitor.",
+    "prognosis": "Baik dengan perawatan teratur.",
+    "alternatif": "Debridement bedah atau autolitik.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Debridement Autolitik Luka": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Debridement Autolitik Luka",
+    "indikasi": "Luka kronis dengan jaringan mati minimal hingga sedang.",
+    "dasar_diagnosis": "Evaluasi klinis luka.",
+    "tata_cara": "Penggunaan balutan khusus untuk mempertahankan kelembaban dan mendukung autolisis jaringan nekrotik.",
+    "tujuan": "Membersihkan luka secara bertahap.",
+    "resiko": "Maserasi kulit sekitar.",
+    "komplikasi": "Infeksi bila tidak terpantau.",
+    "prognosis": "Baik pada luka stabil.",
+    "alternatif": "Debridement bedah.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Irigasi Luka Tekanan Tinggi": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Irigasi Luka Tekanan Tinggi",
+    "indikasi": "Luka kontaminasi berat atau trauma terbuka.",
+    "dasar_diagnosis": "Evaluasi klinis luka traumatik.",
+    "tata_cara": "Irigasi menggunakan cairan steril dengan tekanan terkontrol.",
+    "tujuan": "Mengurangi beban bakteri dan debris.",
+    "resiko": "Nyeri lokal.",
+    "komplikasi": "Penyebaran kontaminan bila teknik tidak tepat.",
+    "prognosis": "Baik bila dilakukan segera.",
+    "alternatif": "Irigasi manual.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Delayed Primary Closure (Penutupan Luka Tertunda)": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Delayed Primary Closure (Penutupan Luka Tertunda)",
+    "indikasi": "Luka dengan risiko infeksi tinggi setelah periode observasi.",
+    "dasar_diagnosis": "Evaluasi luka setelah kontrol infeksi.",
+    "tata_cara": "Penutupan luka setelah beberapa hari observasi dengan memastikan tidak ada tanda infeksi.",
+    "tujuan": "Mengurangi risiko infeksi luka tertutup.",
+    "resiko": "Nyeri atau perdarahan ringan.",
+    "komplikasi": "Infeksi sekunder.",
+    "prognosis": "Baik bila infeksi terkontrol.",
+    "alternatif": "Penyembuhan sekunder.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Secondary Intention Healing Management": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Manajemen Luka dengan Penyembuhan Sekunder",
+    "indikasi": "Luka terbuka yang tidak dapat atau tidak dianjurkan ditutup primer.",
+    "dasar_diagnosis": "Evaluasi klinis kondisi luka.",
+    "tata_cara": "Perawatan luka terbuka berkala dengan balutan steril.",
+    "tujuan": "Mendukung granulasi dan epitelisasi alami.",
+    "resiko": "Waktu penyembuhan lebih lama.",
+    "komplikasi": "Infeksi atau parut luas.",
+    "prognosis": "Tergantung ukuran luka.",
+    "alternatif": "Skin graft.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Manajemen Ulkus Dekubitus Lanjut": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Manajemen Ulkus Dekubitus Lanjut",
+    "indikasi": "Ulkus dekubitus derajat lanjut dengan risiko infeksi.",
+    "dasar_diagnosis": "Evaluasi klinis dan klasifikasi derajat ulkus.",
+    "tata_cara": "Debridement, perawatan luka khusus, dan pengurangan tekanan area.",
+    "tujuan": "Mencegah perburukan dan mempercepat penyembuhan.",
+    "resiko": "Infeksi sekunder.",
+    "komplikasi": "Osteomielitis.",
+    "prognosis": "Tergantung derajat luka dan kondisi pasien.",
+    "alternatif": "Terapi konservatif.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Manajemen Ulkus Diabetikum": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Manajemen Ulkus Diabetikum",
+    "indikasi": "Luka kronis pada pasien diabetes dengan risiko infeksi dan gangguan perfusi.",
+    "dasar_diagnosis": "Evaluasi klinis luka dan kontrol glikemik.",
+    "tata_cara": "Debridement selektif, kontrol infeksi, dan perawatan luka khusus.",
+    "tujuan": "Mencegah amputasi dan mempercepat penyembuhan.",
+    "resiko": "Infeksi progresif.",
+    "komplikasi": "Gangren atau amputasi.",
+    "prognosis": "Tergantung kontrol gula darah dan perfusi.",
+    "alternatif": "Terapi konservatif atau amputasi pada kondisi berat.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Skin Substitutes / Artificial Dermis Application": {
+    "package": "Advanced Burn Surgical",
+    "tindakan": "Tindakan Aplikasi Skin Substitute / Artificial Dermis",
+    "indikasi": "Defek kulit luas yang memerlukan penutupan sementara atau permanen.",
+    "dasar_diagnosis": "Evaluasi klinis kedalaman dan luas luka.",
+    "tata_cara": "Aplikasi bahan substitusi kulit steril pada area luka.",
+    "tujuan": "Menutup luka dan merangsang regenerasi jaringan.",
+    "resiko": "Reaksi lokal.",
+    "komplikasi": "Gagal integrasi graft.",
+    "prognosis": "Baik bila vaskularisasi adekuat.",
+    "alternatif": "Skin graft.",
+    "lain_lain": "-",
+    "checklist": false
   }
 
 
