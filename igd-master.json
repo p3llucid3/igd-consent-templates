@@ -2209,7 +2209,157 @@
     "alternatif": "Ventilasi lanjutan.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Reposisi Fraktur Tertutup (Closed Reduction)": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Reposisi Fraktur Tertutup (Closed Reduction)",
+    "indikasi": "Fraktur dengan pergeseran tanpa indikasi operasi terbuka segera.",
+    "dasar_diagnosis": "Anamnesis trauma, pemeriksaan fisik, dan radiologi.",
+    "tata_cara": "Reposisi manual dengan analgesia/sedasi diikuti imobilisasi.",
+    "tujuan": "Mengembalikan alignment tulang.",
+    "resiko": "Nyeri, cedera jaringan lunak.",
+    "komplikasi": "Malunion atau redisplacement.",
+    "prognosis": "Baik bila imobilisasi adekuat.",
+    "alternatif": "Operasi (ORIF/OREF).",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Trepanasi Hematoma Subungual": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Trepanasi Hematoma Subungual",
+    "indikasi": "Hematoma subungual nyeri akibat trauma.",
+    "dasar_diagnosis": "Pemeriksaan fisik kuku.",
+    "tata_cara": "Perforasi kuku steril untuk mengeluarkan darah.",
+    "tujuan": "Mengurangi tekanan dan nyeri.",
+    "resiko": "Infeksi lokal.",
+    "komplikasi": "Perubahan pertumbuhan kuku.",
+    "prognosis": "Baik.",
+    "alternatif": "Observasi bila hematoma kecil.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Biopsi Kulit Insisional": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Biopsi Kulit Insisional",
+    "indikasi": "Lesi kulit mencurigakan memerlukan diagnosis histopatologi.",
+    "dasar_diagnosis": "Pemeriksaan klinis dermatologis.",
+    "tata_cara": "Pengambilan sebagian jaringan dengan anestesi lokal.",
+    "tujuan": "Menegakkan diagnosis.",
+    "resiko": "Perdarahan ringan.",
+    "komplikasi": "Infeksi luka.",
+    "prognosis": "Baik.",
+    "alternatif": "Biopsi eksisional.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Biopsi Kulit Eksisional": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Biopsi Kulit Eksisional",
+    "indikasi": "Lesi kulit kecil yang dapat diangkat seluruhnya.",
+    "dasar_diagnosis": "Pemeriksaan fisik.",
+    "tata_cara": "Eksisi lengkap lesi dengan anestesi lokal.",
+    "tujuan": "Diagnosis sekaligus terapi.",
+    "resiko": "Nyeri lokal.",
+    "komplikasi": "Infeksi atau parut.",
+    "prognosis": "Baik.",
+    "alternatif": "Biopsi insisional.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Sirkumsisi (Khitan)": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Sirkumsisi (Khitan)",
+    "indikasi": "Fimosis, infeksi berulang, atau indikasi sosial/keagamaan.",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan genital.",
+    "tata_cara": "Eksisi preputium dengan teknik steril.",
+    "tujuan": "Mengurangi infeksi dan memperbaiki higiene.",
+    "resiko": "Perdarahan ringan.",
+    "komplikasi": "Infeksi atau edema.",
+    "prognosis": "Baik.",
+    "alternatif": "Terapi topikal pada fimosis ringan.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Dilatasi Uretra": {
+    "package": "Urologi",
+    "tindakan": "Tindakan Dilatasi Uretra",
+    "indikasi": "Striktur uretra.",
+    "dasar_diagnosis": "Anamnesis gangguan miksi dan evaluasi urologis.",
+    "tata_cara": "Dilatasi bertahap dengan alat khusus steril.",
+    "tujuan": "Memperbaiki aliran urin.",
+    "resiko": "Nyeri atau perdarahan ringan.",
+    "komplikasi": "Striktur berulang.",
+    "prognosis": "Baik pada kasus ringan.",
+    "alternatif": "Uretrotomi internal.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Ekstraksi Serumen Manual": {
+    "package": "THT & Mata",
+    "tindakan": "Tindakan Ekstraksi Serumen Manual",
+    "indikasi": "Sumbatan serumen padat.",
+    "dasar_diagnosis": "Otoskopi.",
+    "tata_cara": "Pengangkatan serumen dengan kuret steril.",
+    "tujuan": "Memperbaiki pendengaran.",
+    "resiko": "Iritasi liang telinga.",
+    "komplikasi": "Cedera membran timpani (jarang).",
+    "prognosis": "Baik.",
+    "alternatif": "Irigasi telinga.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Tamponade Hidung (Epistaksis)": {
+    "package": "THT & Mata",
+    "tindakan": "Tindakan Tamponade Hidung (Epistaksis)",
+    "indikasi": "Perdarahan hidung yang tidak berhenti dengan kompresi sederhana.",
+    "dasar_diagnosis": "Pemeriksaan fisik.",
+    "tata_cara": "Pemasangan tampon anterior/posterior steril.",
+    "tujuan": "Menghentikan perdarahan.",
+    "resiko": "Nyeri lokal.",
+    "komplikasi": "Infeksi sinus.",
+    "prognosis": "Baik.",
+    "alternatif": "Kauterisasi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Kauterisasi Luka Minor": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Kauterisasi Luka Minor",
+    "indikasi": "Perdarahan superfisial kecil.",
+    "dasar_diagnosis": "Pemeriksaan fisik.",
+    "tata_cara": "Kauterisasi dengan alat elektrokauter atau kimia.",
+    "tujuan": "Menghentikan perdarahan.",
+    "resiko": "Nyeri ringan.",
+    "komplikasi": "Jaringan parut kecil.",
+    "prognosis": "Baik.",
+    "alternatif": "Penekanan langsung.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Aspirasi Kista Ganglion": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Aspirasi Kista Ganglion",
+    "indikasi": "Kista ganglion nyeri atau mengganggu fungsi.",
+    "dasar_diagnosis": "Pemeriksaan fisik dan/atau USG.",
+    "tata_cara": "Aspirasi cairan dengan jarum steril.",
+    "tujuan": "Mengurangi ukuran dan nyeri.",
+    "resiko": "Nyeri lokal.",
+    "komplikasi": "Rekurensi.",
+    "prognosis": "Baik.",
+    "alternatif": "Eksisi bedah.",
+    "lain_lain": "-",
+    "checklist": false
   }
+
 
     
   }
