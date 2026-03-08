@@ -2625,7 +2625,22 @@
     "alternatif": "Skin graft.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Percutaneous Coronary Intervention (PCI)": {
+    "package": "Cardiovascular Emergency",
+    "tindakan": "Tindakan Percutaneous Coronary Intervention (PCI)",
+    "indikasi": "Sindrom koroner akut seperti infark miokard dengan elevasi segmen ST (STEMI), infark miokard non-ST elevation (NSTEMI), atau angina tidak stabil dengan indikasi revaskularisasi.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan EKG, pemeriksaan biomarker jantung, serta pemeriksaan angiografi koroner.",
+    "tata_cara": "Kateter dimasukkan melalui pembuluh darah (biasanya arteri radial atau femoral) menuju arteri koroner untuk membuka sumbatan menggunakan balon dan/atau pemasangan stent.",
+    "tujuan": "Membuka kembali aliran darah pada arteri koroner yang tersumbat sehingga mengurangi kerusakan otot jantung.",
+    "resiko": "Perdarahan pada tempat pemasukan kateter, reaksi alergi terhadap kontras, atau gangguan irama jantung.",
+    "komplikasi": "Infark miokard, stroke, diseksi arteri, trombosis stent, atau gagal ginjal akibat kontras.",
+    "prognosis": "Umumnya baik bila dilakukan segera dan sesuai indikasi.",
+    "alternatif": "Terapi fibrinolitik atau operasi bypass arteri koroner (CABG) sesuai kondisi klinis.",
+    "lain_lain": "-",
+    "checklist": false
   }
+
 
 
     
