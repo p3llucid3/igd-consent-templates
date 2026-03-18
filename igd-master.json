@@ -2639,11 +2639,22 @@
     "alternatif": "Terapi fibrinolitik atau operasi bypass arteri koroner (CABG) sesuai kondisi klinis.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Induksi Sputum": {
+    "package": "Pulmonologi & Respirasi",
+    "tindakan": "Tindakan Induksi Sputum",
+    "indikasi": "Kecurigaan infeksi saluran napas seperti tuberkulosis atau pneumonia pada pasien yang tidak dapat mengeluarkan sputum secara spontan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang seperti foto toraks.",
+    "tata_cara": "Pasien menghirup larutan saline hipertonik melalui nebulizer untuk merangsang produksi sputum, kemudian sputum dikumpulkan untuk pemeriksaan laboratorium.",
+    "tujuan": "Mendapatkan sampel sputum yang adekuat untuk pemeriksaan diagnostik.",
+    "resiko": "Batuk, rasa tidak nyaman pada saluran napas, atau bronkospasme ringan.",
+    "komplikasi": "Bronkospasme berat atau desaturasi oksigen (jarang).",
+    "prognosis": "Baik bila prosedur dilakukan dengan pemantauan yang adekuat.",
+    "alternatif": "Pengambilan sputum spontan atau bronkoskopi.",
+    "lain_lain": "-",
+    "checklist": false
   }
 
-
-
-    
   }
   
 }
