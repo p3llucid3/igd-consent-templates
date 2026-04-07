@@ -2653,7 +2653,22 @@
     "alternatif": "Pengambilan sputum spontan atau bronkoskopi.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Repair Tendon": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Repair Tendon",
+    "indikasi": "Cedera atau putusnya tendon akibat trauma atau degenerasi yang menyebabkan gangguan fungsi gerak.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang seperti USG atau MRI.",
+    "tata_cara": "Eksplorasi luka, identifikasi ujung tendon, kemudian dilakukan penjahitan tendon dengan teknik bedah khusus dan imobilisasi pascatindakan.",
+    "tujuan": "Mengembalikan kontinuitas tendon dan fungsi gerak.",
+    "resiko": "Nyeri, perdarahan, atau cedera jaringan sekitar.",
+    "komplikasi": "Infeksi, ruptur ulang tendon, adhesi, atau keterbatasan gerak.",
+    "prognosis": "Baik bila dilakukan segera dan diikuti rehabilitasi yang adekuat.",
+    "alternatif": "Terapi konservatif pada kasus tertentu atau rekonstruksi tendon lanjutan.",
+    "lain_lain": "-",
+    "checklist": false
   }
+
 
   }
   
