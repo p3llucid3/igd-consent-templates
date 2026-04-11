@@ -2667,6 +2667,20 @@
     "alternatif": "Terapi konservatif pada kasus tertentu atau rekonstruksi tendon lanjutan.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Ekstraksi Clavus (Mata Ikan)": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Ekstraksi Clavus (Mata Ikan)",
+    "indikasi": "Clavus (mata ikan) yang menimbulkan nyeri, gangguan berjalan, atau tidak membaik dengan terapi konservatif.",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik lesi kulit pada area tekanan.",
+    "tata_cara": "Pengangkatan jaringan keras (inti clavus) secara hati-hati dengan alat steril, dapat didahului dengan pelunakan jaringan dan anestesi lokal bila diperlukan.",
+    "tujuan": "Menghilangkan sumber nyeri dan mencegah kekambuhan.",
+    "resiko": "Nyeri lokal, perdarahan ringan.",
+    "komplikasi": "Infeksi lokal atau kekambuhan bila faktor tekanan tidak diatasi.",
+    "prognosis": "Baik bila perawatan luka dan modifikasi tekanan dilakukan.",
+    "alternatif": "Terapi konservatif seperti keratolitik (asam salisilat) atau penggunaan pelindung tekanan.",
+    "lain_lain": "-",
+    "checklist": false
   }
 
 
