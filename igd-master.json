@@ -2681,8 +2681,21 @@
     "alternatif": "Terapi konservatif seperti keratolitik (asam salisilat) atau penggunaan pelindung tekanan.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Restrain (Pembatasan Fisik Pasien)": {
+    "package": "Emergency & Critical Care",
+    "tindakan": "Tindakan Restrain (Pembatasan Fisik Pasien)",
+    "indikasi": "Pasien dengan agitasi, delirium, gangguan kesadaran, atau perilaku yang berisiko membahayakan diri sendiri atau orang lain, serta untuk mencegah pelepasan alat medis (misalnya infus, kateter, ventilator).",
+    "dasar_diagnosis": "Evaluasi klinis kondisi pasien termasuk status mental, tingkat kesadaran, dan risiko keselamatan.",
+    "tata_cara": "Pembatasan gerak pasien menggunakan alat restrain sesuai standar dengan pemantauan ketat terhadap kondisi fisik dan psikologis pasien.",
+    "tujuan": "Menjaga keselamatan pasien dan tenaga medis serta mencegah cedera atau gangguan terapi.",
+    "resiko": "Ketidaknyamanan, iritasi kulit, atau cedera ringan akibat pembatasan.",
+    "komplikasi": "Cedera jaringan lunak, gangguan sirkulasi, atau distress psikologis.",
+    "prognosis": "Baik bila dilakukan sesuai indikasi dan dengan pemantauan berkala.",
+    "alternatif": "Pendekatan non-fisik seperti komunikasi, sedasi, atau pendampingan keluarga.",
+    "lain_lain": "Dilakukan sesuai indikasi medis dan akan dievaluasi secara berkala untuk penghentian restrain.",
+    "checklist": false
   }
-
 
   }
   
