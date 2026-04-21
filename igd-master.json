@@ -1,4 +1,4 @@
-{"updated_at": "2026-02-21",
+{"updated_at": "2026-04-21",
   "version": "1.2.3",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
@@ -2695,7 +2695,22 @@
     "alternatif": "Pendekatan non-fisik seperti komunikasi, sedasi, atau pendampingan keluarga.",
     "lain_lain": "Dilakukan sesuai indikasi medis dan akan dievaluasi secara berkala untuk penghentian restrain.",
     "checklist": false
+  },
+  "Tindakan Uji Mantoux (Tuberculin Skin Test)": {
+    "package": "Pulmonologi & Respirasi",
+    "tindakan": "Tindakan Uji Mantoux (Tuberculin Skin Test)",
+    "indikasi": "Skrining infeksi tuberkulosis laten atau evaluasi paparan tuberkulosis sesuai indikasi klinis.",
+    "dasar_diagnosis": "Anamnesis riwayat kontak tuberkulosis, faktor risiko, dan pertimbangan klinis.",
+    "tata_cara": "Penyuntikan sejumlah kecil tuberkulin secara intradermal pada lengan bawah, kemudian hasil dinilai 48–72 jam kemudian berdasarkan ukuran indurasi.",
+    "tujuan": "Menilai kemungkinan adanya respons imun terhadap kuman tuberkulosis.",
+    "resiko": "Nyeri ringan, kemerahan, atau gatal di lokasi suntikan.",
+    "komplikasi": "Reaksi alergi lokal atau iritasi kulit (jarang).",
+    "prognosis": "Baik, merupakan prosedur diagnostik sederhana dan aman.",
+    "alternatif": "Pemeriksaan IGRA (Interferon Gamma Release Assay) atau pemeriksaan lain sesuai indikasi.",
+    "lain_lain": "Pasien perlu kembali untuk pembacaan hasil dalam 48–72 jam.",
+    "checklist": false
   }
+
 
   }
   
