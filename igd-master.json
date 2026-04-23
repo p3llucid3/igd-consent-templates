@@ -2709,6 +2709,20 @@
     "alternatif": "Pemeriksaan IGRA (Interferon Gamma Release Assay) atau pemeriksaan lain sesuai indikasi.",
     "lain_lain": "Pasien perlu kembali untuk pembacaan hasil dalam 48–72 jam.",
     "checklist": false
+  },
+  "Tindakan Spooling Kateter Urin (Irigasi Kateter)": {
+    "package": "Urologi",
+    "tindakan": "Tindakan Spooling Kateter Urin (Irigasi Kateter)",
+    "indikasi": "Sumbatan kateter urin akibat bekuan darah, endapan, lendir, atau aliran urin yang tidak lancar.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, evaluasi aliran urin, dan pemeriksaan kondisi kateter.",
+    "tata_cara": "Pemasukan cairan steril melalui kateter urin secara perlahan untuk membersihkan sumbatan, kemudian cairan dikeluarkan kembali hingga aliran lancar.",
+    "tujuan": "Mengatasi sumbatan kateter dan memperlancar drainase urin.",
+    "resiko": "Rasa tidak nyaman, nyeri suprapubik ringan, atau hematuria ringan.",
+    "komplikasi": "Infeksi saluran kemih, trauma uretra atau kandung kemih, perdarahan, atau kateter tetap tersumbat.",
+    "prognosis": "Baik bila sumbatan dapat diatasi dan penyebab dasar ditangani.",
+    "alternatif": "Penggantian kateter urin atau tindakan urologi lanjutan.",
+    "lain_lain": "Bila terdapat perdarahan berulang atau bekuan banyak, dapat diperlukan evaluasi urologi lebih lanjut.",
+    "checklist": false
   }
 
 
