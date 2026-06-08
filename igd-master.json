@@ -2723,8 +2723,21 @@
     "alternatif": "Penggantian kateter urin atau tindakan urologi lanjutan.",
     "lain_lain": "Bila terdapat perdarahan berulang atau bekuan banyak, dapat diperlukan evaluasi urologi lebih lanjut.",
     "checklist": false
+  },
+  "Tindakan Akselerasi Persalinan dengan Oksitosin": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Akselerasi Persalinan dengan Oksitosin",
+    "indikasi": "Persalinan yang telah dimulai namun kemajuan persalinan tidak adekuat atau kontraksi uterus tidak efektif sehingga diperlukan percepatan proses persalinan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan obstetri, pemantauan kemajuan persalinan dengan partograf, serta evaluasi kondisi ibu dan janin.",
+    "tata_cara": "Pemberian oksitosin melalui infus intravena dengan peningkatan dosis bertahap sesuai respons kontraksi uterus dan pemantauan ketat kondisi ibu serta janin.",
+    "tujuan": "Meningkatkan frekuensi dan kekuatan kontraksi uterus sehingga proses persalinan berlangsung lebih efektif dan aman.",
+    "resiko": "Kontraksi uterus terlalu kuat atau terlalu sering, nyeri persalinan yang meningkat, serta gangguan denyut jantung janin.",
+    "komplikasi": "Hiperstimulasi uterus, gawat janin, ruptur uteri (jarang), perdarahan pascapersalinan, atau kebutuhan tindakan operatif.",
+    "prognosis": "Umumnya baik bila dilakukan sesuai indikasi dan dengan pemantauan ketat.",
+    "alternatif": "Observasi lanjutan, amniotomi bila memenuhi syarat, atau tindakan operatif sesuai indikasi obstetri.",
+    "lain_lain": "Selama tindakan dilakukan pemantauan kontraksi uterus, denyut jantung janin, tekanan darah, dan kondisi umum ibu secara berkala.",
+    "checklist": false
   }
-
 
   }
   
