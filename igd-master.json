@@ -2737,7 +2737,22 @@
     "alternatif": "Observasi lanjutan, amniotomi bila memenuhi syarat, atau tindakan operatif sesuai indikasi obstetri.",
     "lain_lain": "Selama tindakan dilakukan pemantauan kontraksi uterus, denyut jantung janin, tekanan darah, dan kondisi umum ibu secara berkala.",
     "checklist": false
+  },
+  "Tindakan Induksi Persalinan": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Induksi Persalinan",
+    "indikasi": "Kehamilan yang memerlukan persalinan segera atau terencana karena pertimbangan medis pada ibu dan/atau janin, sementara persalinan belum dimulai secara spontan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan obstetri, penilaian kondisi serviks, pemantauan janin, dan/atau pemeriksaan penunjang sesuai indikasi.",
+    "tata_cara": "Persalinan dirangsang menggunakan metode farmakologis (misalnya oksitosin atau prostaglandin) dan/atau metode mekanik sesuai kondisi klinis dengan pemantauan ibu dan janin secara berkala.",
+    "tujuan": "Memulai proses persalinan agar kelahiran dapat berlangsung dengan aman bagi ibu dan bayi.",
+    "resiko": "Nyeri persalinan, kontraksi uterus yang terlalu kuat atau terlalu sering, serta ketidaknyamanan selama proses induksi.",
+    "komplikasi": "Gawat janin, hiperstimulasi uterus, kegagalan induksi, kebutuhan tindakan operatif, atau ruptur uteri pada kondisi tertentu.",
+    "prognosis": "Umumnya baik bila dilakukan sesuai indikasi dan dengan pemantauan yang adekuat.",
+    "alternatif": "Observasi lanjutan, tindakan operatif (sectio caesarea), atau metode lain sesuai pertimbangan klinis.",
+    "lain_lain": "Keberhasilan induksi dipengaruhi oleh kondisi serviks, usia kehamilan, kondisi ibu, dan kondisi janin.",
+    "checklist": false
   }
+
 
   }
   
