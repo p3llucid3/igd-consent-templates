@@ -2892,7 +2892,68 @@
     "alternatif": "Terapi medikamentosa seperti diuretik atau observasi sesuai kondisi klinis.",
     "lain_lain": "Pada pengeluaran cairan dalam jumlah besar, pasien perlu pemantauan tekanan darah dan kondisi umum.",
     "checklist": false
+  },
+  
+  "Tindakan Kolesistektomi": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Kolesistektomi",
+    "indikasi": "Batu empedu simptomatik, kolesistitis, atau kelainan kandung empedu lain dengan indikasi operasi.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, laboratorium, dan/atau USG abdomen.",
+    "tata_cara": "Pengangkatan kandung empedu melalui teknik laparoskopi atau operasi terbuka sesuai kondisi klinis.",
+    "tujuan": "Menghilangkan sumber nyeri, infeksi, atau sumbatan akibat penyakit kandung empedu.",
+    "resiko": "Nyeri pascaoperasi, perdarahan, infeksi, atau risiko anestesi.",
+    "komplikasi": "Cedera saluran empedu, kebocoran empedu, infeksi intraabdomen, atau perdarahan.",
+    "prognosis": "Umumnya baik bila dilakukan sesuai indikasi dan tanpa komplikasi berat.",
+    "alternatif": "Terapi konservatif, antibiotik, atau observasi pada kasus tertentu.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Eksplorasi Duktus Koledokus": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Eksplorasi Duktus Koledokus",
+    "indikasi": "Batu atau sumbatan pada saluran empedu utama.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, laboratorium fungsi hati, USG, MRCP, ERCP, atau imaging lain.",
+    "tata_cara": "Pembukaan dan eksplorasi saluran empedu utama untuk mengeluarkan batu atau mengatasi sumbatan.",
+    "tujuan": "Memperlancar aliran empedu dan mencegah infeksi atau kerusakan hati.",
+    "resiko": "Perdarahan, infeksi, nyeri, atau kebocoran empedu.",
+    "komplikasi": "Kolangitis, pankreatitis, kebocoran empedu, atau striktur saluran empedu.",
+    "prognosis": "Baik bila sumbatan berhasil diatasi.",
+    "alternatif": "ERCP atau terapi konservatif sesuai kondisi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan ERCP": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+    "indikasi": "Sumbatan saluran empedu, batu duktus koledokus, kolangitis, atau kelainan saluran pankreatobilier.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, laboratorium, USG, CT scan, atau MRCP.",
+    "tata_cara": "Endoskop dimasukkan melalui mulut menuju duodenum untuk evaluasi dan tindakan pada saluran empedu atau pankreas.",
+    "tujuan": "Menegakkan diagnosis dan/atau mengatasi sumbatan saluran empedu.",
+    "resiko": "Mual, nyeri perut, perdarahan, atau reaksi terhadap sedasi.",
+    "komplikasi": "Pankreatitis, perforasi, perdarahan, atau infeksi saluran empedu.",
+    "prognosis": "Baik bila tindakan berhasil dan komplikasi tidak terjadi.",
+    "alternatif": "MRCP, operasi eksplorasi saluran empedu, atau terapi konservatif.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+
+  "Tindakan Drainase Abses Hepar": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Drainase Abses Hepar",
+    "indikasi": "Abses hati berukuran besar, tidak membaik dengan antibiotik, atau berisiko pecah.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, laboratorium, USG abdomen, dan/atau CT scan.",
+    "tata_cara": "Pengeluaran cairan abses menggunakan jarum atau kateter dengan panduan imaging atau melalui operasi.",
+    "tujuan": "Mengeluarkan sumber infeksi dan mempercepat penyembuhan.",
+    "resiko": "Nyeri, perdarahan, atau infeksi lokal.",
+    "komplikasi": "Perdarahan intraabdomen, kebocoran empedu, sepsis, atau cedera organ sekitar.",
+    "prognosis": "Baik bila drainase adekuat dan terapi antibiotik sesuai.",
+    "alternatif": "Antibiotik saja pada abses kecil dan stabil.",
+    "lain_lain": "-",
+    "checklist": false
   }
+
 
     
     
