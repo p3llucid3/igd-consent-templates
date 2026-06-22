@@ -2877,7 +2877,23 @@
     "alternatif": "Akses vena perifer atau intraoseus sesuai kondisi.",
     "lain_lain": "-",
     "checklist": false
+  },
+  
+  "Tindakan Parasentesis": {
+    "package": "Tindakan Penunjang",
+    "tindakan": "Tindakan Parasentesis",
+    "indikasi": "Asites yang memerlukan pengambilan cairan untuk diagnosis atau pengurangan keluhan seperti perut tegang dan sesak.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang seperti USG abdomen.",
+    "tata_cara": "Jarum atau kateter dimasukkan ke rongga perut dengan teknik steril untuk mengambil cairan asites sesuai indikasi.",
+    "tujuan": "Mendapatkan sampel cairan untuk pemeriksaan atau mengurangi tekanan akibat penumpukan cairan di rongga perut.",
+    "resiko": "Nyeri lokal, perdarahan ringan, atau keluar cairan dari bekas tusukan.",
+    "komplikasi": "Perdarahan intraabdomen, infeksi, hipotensi, atau cedera organ sekitar.",
+    "prognosis": "Baik bila dilakukan sesuai indikasi dan dengan pemantauan adekuat.",
+    "alternatif": "Terapi medikamentosa seperti diuretik atau observasi sesuai kondisi klinis.",
+    "lain_lain": "Pada pengeluaran cairan dalam jumlah besar, pasien perlu pemantauan tekanan darah dan kondisi umum.",
+    "checklist": false
   }
+
     
     
   }
