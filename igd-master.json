@@ -2952,7 +2952,24 @@
     "alternatif": "Antibiotik saja pada abses kecil dan stabil.",
     "lain_lain": "-",
     "checklist": false
+  },
+
+    
+  "Tindakan Pemasangan K-Wire (Kirschner Wire)": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Pemasangan K-Wire (Kirschner Wire)",
+    "indikasi": "Fraktur, dislokasi, atau cedera tulang dan sendi yang memerlukan fiksasi sementara maupun definitif untuk mempertahankan posisi tulang selama proses penyembuhan.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan radiologi seperti foto rontgen atau CT scan sesuai indikasi.",
+    "tata_cara": "Pemasangan kawat Kirschner (K-Wire) melalui kulit atau melalui sayatan kecil dengan bantuan fluoroskopi atau panduan radiologi hingga mencapai posisi tulang yang diinginkan. Setelah posisi tulang stabil, kawat dipertahankan sesuai kebutuhan dan luka ditutup sesuai prosedur.",
+    "tujuan": "Menstabilkan fragmen tulang atau sendi sehingga proses penyembuhan berlangsung dengan posisi yang baik dan fungsi anggota gerak dapat dipulihkan.",
+    "resiko": "Nyeri, perdarahan ringan, infeksi pada lokasi pemasangan, atau iritasi jaringan sekitar.",
+    "komplikasi": "Infeksi pin tract, pergeseran atau patahnya kawat, cedera saraf atau pembuluh darah, keterlambatan penyatuan tulang, atau kekakuan sendi.",
+    "prognosis": "Umumnya baik bila tindakan dilakukan sesuai indikasi, posisi tulang stabil, dan pasien mengikuti program kontrol serta rehabilitasi.",
+    "alternatif": "Imobilisasi konservatif dengan gips atau splint, pemasangan plate dan screw (ORIF), external fixator, atau tindakan lain sesuai jenis fraktur dan kondisi pasien.",
+    "lain_lain": "Kawat dapat dilepas setelah dinilai penyembuhan tulang telah memadai berdasarkan evaluasi klinis dan radiologi.",
+    "checklist": false
   }
+
 
 
     
