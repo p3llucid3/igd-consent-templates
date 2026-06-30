@@ -2968,11 +2968,23 @@
     "alternatif": "Imobilisasi konservatif dengan gips atau splint, pemasangan plate dan screw (ORIF), external fixator, atau tindakan lain sesuai jenis fraktur dan kondisi pasien.",
     "lain_lain": "Kawat dapat dilepas setelah dinilai penyembuhan tulang telah memadai berdasarkan evaluasi klinis dan radiologi.",
     "checklist": false
+  },
+  
+  "Tindakan Pemeriksaan Dalam (Vaginal Toucher) pada Pasien Belum Menikah": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pemeriksaan Dalam (Vaginal Toucher) pada Pasien Belum Menikah",
+    "indikasi": "Kondisi medis tertentu yang memerlukan pemeriksaan organ reproduksi bagian dalam untuk membantu menegakkan diagnosis atau menentukan tata laksana, apabila manfaat pemeriksaan lebih besar daripada risikonya dan tidak terdapat metode pemeriksaan lain yang memberikan informasi yang memadai.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, serta pertimbangan klinis sesuai kondisi pasien.",
+    "tata_cara": "Pemeriksaan dilakukan oleh dokter dengan menggunakan sarung tangan steril dan pelumas, secara hati-hati sesuai standar profesi, dengan menjaga privasi pasien. Pemeriksaan hanya dilakukan setelah pasien memperoleh penjelasan yang memadai dan memberikan persetujuan tindakan. Pendamping (chaperone) akan dihadirkan sesuai kebijakan rumah sakit atau atas permintaan pasien.",
+    "tujuan": "Menilai kondisi organ reproduksi bagian dalam, membantu menegakkan diagnosis, menentukan kemajuan persalinan bila relevan, atau menentukan penatalaksanaan yang paling tepat.",
+    "resiko": "Rasa tidak nyaman, nyeri ringan, atau perdarahan ringan yang umumnya bersifat sementara.",
+    "komplikasi": "Komplikasi serius sangat jarang terjadi, namun dapat berupa perdarahan, infeksi, atau trauma pada jaringan bila terdapat kondisi tertentu.",
+    "prognosis": "Pemeriksaan ini merupakan prosedur diagnostik yang umumnya aman apabila dilakukan sesuai indikasi dan standar profesi.",
+    "alternatif": "Pemeriksaan penunjang lain seperti USG transabdominal, MRI, atau metode diagnostik lain sesuai kondisi klinis, dengan mempertimbangkan keterbatasan masing-masing pemeriksaan.",
+    "lain_lain": "Pemeriksaan dilakukan semata-mata atas indikasi medis, dengan tetap menghormati hak, martabat, privasi, dan kenyamanan pasien. Pasien berhak mengajukan pertanyaan, meminta pendamping, atau menolak tindakan setelah memperoleh penjelasan mengenai manfaat dan risikonya.",
+    "checklist": false
   }
 
-
-
-    
     
   }
   
