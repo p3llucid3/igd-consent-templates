@@ -2983,7 +2983,23 @@
     "alternatif": "Pemeriksaan penunjang lain seperti USG transabdominal, MRI, atau metode diagnostik lain sesuai kondisi klinis, dengan mempertimbangkan keterbatasan masing-masing pemeriksaan.",
     "lain_lain": "Pemeriksaan dilakukan semata-mata atas indikasi medis, dengan tetap menghormati hak, martabat, privasi, dan kenyamanan pasien. Pasien berhak mengajukan pertanyaan, meminta pendamping, atau menolak tindakan setelah memperoleh penjelasan mengenai manfaat dan risikonya.",
     "checklist": false
+  },
+  
+  "Tindakan Pemeriksaan Inspekulo pada Pasien Belum Menikah": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pemeriksaan Inspekulo pada Pasien Belum Menikah",
+    "indikasi": "Kondisi medis tertentu yang memerlukan visualisasi vagina dan leher rahim, seperti perdarahan, dugaan infeksi, benda asing, trauma, atau kondisi lain yang tidak dapat dinilai secara memadai dengan pemeriksaan luar maupun pemeriksaan penunjang.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, serta pertimbangan klinis sesuai kondisi pasien.",
+    "tata_cara": "Spekulum steril dimasukkan secara perlahan ke dalam vagina untuk melihat kondisi dinding vagina dan leher rahim. Pemeriksaan dilakukan dengan teknik yang hati-hati, menjaga privasi pasien, dan hanya setelah pasien memperoleh penjelasan serta memberikan persetujuan tindakan. Pendamping (chaperone) akan dihadirkan sesuai kebijakan rumah sakit atau atas permintaan pasien.",
+    "tujuan": "Menilai kondisi vagina dan leher rahim secara langsung sehingga membantu menegakkan diagnosis dan menentukan tata laksana yang tepat.",
+    "resiko": "Rasa tidak nyaman, nyeri ringan, atau perdarahan ringan yang umumnya bersifat sementara.",
+    "komplikasi": "Komplikasi serius sangat jarang terjadi, namun dapat berupa perdarahan, infeksi, atau cedera ringan pada jaringan sekitar.",
+    "prognosis": "Pemeriksaan ini merupakan prosedur diagnostik yang umumnya aman apabila dilakukan sesuai indikasi dan standar profesi.",
+    "alternatif": "Pemeriksaan non-invasif seperti USG transabdominal atau pemeriksaan penunjang lain sesuai kondisi klinis, dengan mempertimbangkan keterbatasan masing-masing metode.",
+    "lain_lain": "Tindakan dilakukan semata-mata berdasarkan indikasi medis, dengan tetap menghormati hak, martabat, privasi, dan kenyamanan pasien. Pasien berhak memperoleh penjelasan, mengajukan pertanyaan, meminta pendamping, atau menolak tindakan setelah memahami manfaat, risiko, dan alternatif pemeriksaan.",
+    "checklist": false
   }
+
 
     
   }
