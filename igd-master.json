@@ -3084,7 +3084,23 @@
     "alternatif": "Tidak ada alternatif skrining lain yang setara; keterlambatan meningkatkan risiko kebutaan permanen",
     "lain_lain": "-",
     "checklist": false
+  },
+    
+  "Tindakan Perawatan Perinatologi": {
+    "package": "Critical Care",
+    "tindakan": "Tindakan Perawatan Perinatologi",
+    "indikasi": "Bayi baru lahir yang memerlukan observasi dan perawatan khusus di ruang perinatologi, seperti bayi prematur, berat badan lahir rendah, riwayat asfiksia ringan-sedang, hiperbilirubinemia, hipoglikemia, atau kondisi lain yang memerlukan pemantauan intensif namun tidak memerlukan ventilasi mekanik invasif",
+    "dasar_diagnosis": "Penilaian klinis neonatus berdasarkan skor APGAR, usia gestasi, berat badan lahir, hasil pemeriksaan fisik, dan pemeriksaan penunjang (kadar bilirubin, gula darah, dan lain-lain) yang menunjukkan perlunya perawatan khusus",
+    "tata_cara": "Bayi ditempatkan di ruang perinatologi dengan inkubator atau warmer sesuai kebutuhan termoregulasi, dilakukan pemantauan tanda vital berkala, saturasi oksigen, kadar gula darah, terapi sinar (fototerapi) bila diperlukan, pemberian nutrisi enteral/parenteral, serta evaluasi berkala oleh dokter spesialis anak",
+    "tujuan": "Menstabilkan kondisi neonatus, mencegah komplikasi lebih lanjut, dan memastikan tumbuh kembang optimal selama masa adaptasi ekstrauterin",
+    "resiko": "Hipotermia atau hipertermia, hipoglikemia, infeksi nosokomial, gangguan pemberian nutrisi, ketidakstabilan hemodinamik",
+    "komplikasi": "Sepsis neonatorum, gangguan pernapasan yang memburuk hingga memerlukan perawatan NICU, kernikterus akibat hiperbilirubinemia berat, gangguan elektrolit",
+    "prognosis": "Umumnya baik dengan pemantauan dan tata laksana yang adekuat, tergantung kondisi dasar dan usia gestasi bayi",
+    "alternatif": "Perawatan gabung dengan ibu (rawat gabung) bila kondisi bayi stabil dan tidak memerlukan pemantauan khusus, atau eskalasi ke NICU/PICU bila kondisi memburuk",
+    "lain_lain": "-",
+    "checklist": false
   }
+
 
 
 
