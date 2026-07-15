@@ -1,0 +1,58 @@
+{
+  "Tindakan Exchange Transfusion Neonatus": {
+    "alternatif": "Fototerapi intensif.",
+    "checklist": false,
+    "dasar_diagnosis": "Pemeriksaan laboratorium bilirubin dan evaluasi klinis.",
+    "indikasi": "Hiperbilirubinemia berat atau penyakit hemolitik neonatus.",
+    "komplikasi": "Infeksi atau instabilitas hemodinamik.",
+    "lain_lain": "-",
+    "package": "Neonatal Advanced Critical",
+    "prognosis": "Baik bila dilakukan sesuai indikasi.",
+    "resiko": "Gangguan elektrolit.",
+    "tata_cara": "Penggantian bertahap darah neonatus melalui akses vaskular dengan darah donor sesuai protokol.",
+    "tindakan": "Tindakan Exchange Transfusion pada Neonatus",
+    "tujuan": "Menurunkan kadar bilirubin dan mencegah kernikterus."
+  },
+  "Tindakan Pemasangan Umbilical Arterial Catheter (UAC)": {
+    "alternatif": "Monitoring non-invasif.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis kebutuhan monitoring invasif.",
+    "indikasi": "Monitoring tekanan darah invasif dan pemeriksaan gas darah serial pada neonatus.",
+    "komplikasi": "Trombosis atau infeksi.",
+    "lain_lain": "-",
+    "package": "Neonatal Advanced Critical",
+    "prognosis": "Baik bila pemantauan ketat dilakukan.",
+    "resiko": "Iskemia distal.",
+    "tata_cara": "Pemasangan kateter melalui arteri umbilikalis dengan teknik steril.",
+    "tindakan": "Tindakan Pemasangan Umbilical Arterial Catheter (UAC)",
+    "tujuan": "Monitoring hemodinamik dan sampling darah berulang."
+  },
+  "Tindakan Pemberian Surfaktan Intraventrikular pada Neonatus": {
+    "alternatif": "Ventilasi suportif tanpa surfaktan.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis neonatus dan foto toraks menunjukkan gambaran RDS.",
+    "indikasi": "Respiratory Distress Syndrome pada bayi prematur.",
+    "komplikasi": "Perdarahan paru atau instabilitas hemodinamik.",
+    "lain_lain": "-",
+    "package": "Neonatal Advanced Critical",
+    "prognosis": "Baik bila diberikan dini dan dimonitor adekuat.",
+    "resiko": "Desaturasi sementara.",
+    "tata_cara": "Pemberian surfaktan melalui pipa endotrakeal dengan teknik aseptik dan monitoring ketat.",
+    "tindakan": "Tindakan Pemberian Surfaktan pada Neonatus",
+    "tujuan": "Menurunkan tegangan permukaan alveoli dan memperbaiki oksigenasi."
+  },
+  "Tindakan Ventilasi Frekuensi Tinggi (High Frequency Ventilation) Neonatal": {
+    "alternatif": "Ventilasi mekanik konvensional.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan analisis gas darah.",
+    "indikasi": "Gagal napas neonatal refrakter terhadap ventilasi konvensional.",
+    "komplikasi": "Perdarahan intraventrikular.",
+    "lain_lain": "-",
+    "package": "Neonatal Advanced Critical",
+    "prognosis": "Tergantung kondisi dasar neonatus.",
+    "resiko": "Hipotensi.",
+    "tata_cara": "Penggunaan ventilator frekuensi tinggi dengan pengaturan khusus neonatal.",
+    "tindakan": "Tindakan Ventilasi Frekuensi Tinggi pada Neonatus",
+    "tujuan": "Meningkatkan oksigenasi dengan risiko barotrauma minimal."
+  }
+}
