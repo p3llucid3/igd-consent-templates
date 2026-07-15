@@ -1,1 +1,21 @@
-PLACEHOLDER_TEST_SMALL
+{
+  "updated_at": "2026-07-14",
+  "version": "1.2.4",
+  "description": "Clean and non-redundant informed consent templates categorized by medical package",
+  "templates": {
+    "Tindakan Akses Intraoseus": {
+      "alternatif": "Vena seksi atau CVC.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis emergensi.",
+      "indikasi": "Kondisi gawat darurat dengan kesulitan akses vena.",
+      "komplikasi": "Infeksi tulang atau ekstravasasi.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik pada kondisi darurat.",
+      "resiko": "Nyeri lokal.",
+      "tata_cara": "Pemasangan jarum khusus ke rongga tulang untuk akses sirkulasi.",
+      "tindakan": "Tindakan Akses Intraoseus",
+      "tujuan": "Memberikan cairan dan obat secara cepat."
+    }
+  }
+}
