@@ -143,6 +143,20 @@
       "tindakan": "Tindakan Biopsi Kulit Insisional",
       "tujuan": "Menegakkan diagnosis."
     },
+    "Tindakan Bladder Irrigation": {
+      "alternatif": "Penggantian kateter.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan observasi output urin.",
+      "indikasi": "Hematuria dengan bekuan darah atau sumbatan kateter urin.",
+      "komplikasi": "Infeksi saluran kemih.",
+      "lain_lain": "-",
+      "package": "Bedside Minor Procedures",
+      "prognosis": "Baik bila dilakukan aseptik.",
+      "resiko": "Nyeri suprapubik ringan.",
+      "tata_cara": "Pembilasan kandung kemih melalui kateter dengan cairan steril sesuai protokol.",
+      "tindakan": "Tindakan Bladder Irrigation",
+      "tujuan": "Mencegah obstruksi dan menjaga patensi kateter."
+    },
     "Tindakan Bronkoskopi Diagnostik atau Terapeutik": {
       "alternatif": "Imaging lanjutan.",
       "checklist": false,
@@ -324,6 +338,20 @@
       "tata_cara": "Pengangkatan jaringan mati pada luka bakar secara bedah.",
       "tindakan": "Tindakan Debridement Luka Bakar",
       "tujuan": "Mencegah infeksi dan mempercepat penyembuhan."
+    },
+    "Tindakan Defibrilasi": {
+      "alternatif": "Tidak ada pada kondisi shockable rhythm.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi EKG.",
+      "indikasi": "Fibrilasi ventrikel atau pulseless VT.",
+      "komplikasi": "Aritmia lanjutan.",
+      "lain_lain": "-",
+      "package": "Emergency & Critical Care",
+      "prognosis": "Baik bila dilakukan segera.",
+      "resiko": "Luka bakar ringan pada kulit.",
+      "tata_cara": "Pemberian kejutan listrik non-sinkron sesuai protokol.",
+      "tindakan": "Tindakan Defibrilasi",
+      "tujuan": "Menghentikan aritmia fatal."
     },
     "Tindakan Dekompresi Kranial (Craniectomy)": {
       "alternatif": "Terapi medikamentosa penurun tekanan intrakranial.",
@@ -591,6 +619,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Enema Terapeutik": {
+      "alternatif": "Laksatif oral.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis gangguan eliminasi.",
+      "indikasi": "Konstipasi berat atau persiapan prosedur diagnostik tertentu.",
+      "komplikasi": "Iritasi mukosa rektum.",
+      "lain_lain": "-",
+      "package": "Bedside Minor Procedures",
+      "prognosis": "Baik bila digunakan sesuai indikasi.",
+      "resiko": "Kram perut ringan.",
+      "tata_cara": "Pemberian cairan melalui rektum sesuai protokol medis.",
+      "tindakan": "Tindakan Enema Terapeutik",
+      "tujuan": "Merangsang defekasi dan mengosongkan kolon distal."
+    },
     "Tindakan Episiotomi": {
       "alternatif": "Persalinan tanpa episiotomi bila memungkinkan.",
       "checklist": false,
@@ -829,6 +871,20 @@
       "tindakan": "Tindakan Induksi Persalinan",
       "tujuan": "Memulai proses persalinan agar kelahiran dapat berlangsung dengan aman bagi ibu dan bayi."
     },
+    "Tindakan Induksi Sputum": {
+      "package": "Pulmonologi & Respirasi",
+      "tindakan": "Tindakan Induksi Sputum",
+      "indikasi": "Kecurigaan infeksi saluran napas seperti tuberkulosis atau pneumonia pada pasien yang tidak dapat mengeluarkan sputum secara spontan.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang seperti foto toraks.",
+      "tata_cara": "Pasien menghirup larutan saline hipertonik melalui nebulizer untuk merangsang produksi sputum, kemudian sputum dikumpulkan untuk pemeriksaan laboratorium.",
+      "tujuan": "Mendapatkan sampel sputum yang adekuat untuk pemeriksaan diagnostik.",
+      "resiko": "Batuk, rasa tidak nyaman pada saluran napas, atau bronkospasme ringan.",
+      "komplikasi": "Bronkospasme berat atau desaturasi oksigen (jarang).",
+      "prognosis": "Baik bila prosedur dilakukan dengan pemantauan yang adekuat.",
+      "alternatif": "Pengambilan sputum spontan atau bronkoskopi.",
+      "lain_lain": "-",
+      "checklist": false
+    },
     "Tindakan Insisi Furunkel / Karbunkel": {
       "alternatif": "Antibiotik saja pada kasus ringan.",
       "checklist": false,
@@ -870,6 +926,20 @@
       "tata_cara": "Pemasangan kateter balon melalui arteri femoralis menuju aorta desendens dengan sinkronisasi inflasi-deflasi terhadap siklus jantung.",
       "tindakan": "Tindakan Intra-Aortic Balloon Pump (IABP)",
       "tujuan": "Meningkatkan perfusi koroner dan menurunkan beban kerja jantung."
+    },
+    "Tindakan Intubasi": {
+      "alternatif": "Ventilasi bag-mask, LMA, atau trakeostomi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang.",
+      "indikasi": "Gagal napas, penurunan kesadaran, proteksi jalan napas, atau henti napas.",
+      "komplikasi": "Intubasi esofagus, pneumotoraks, edema laring.",
+      "lain_lain": "-",
+      "package": "Emergency & Critical Care",
+      "prognosis": "Baik bila ventilasi adekuat tercapai.",
+      "resiko": "Cedera gigi, trauma jalan napas, hipoksia sementara, atau aspirasi.",
+      "tata_cara": "Preoksigenasi, pemasangan laringoskop, pemasangan pipa endotrakeal, konfirmasi posisi dengan auskultasi dan/atau kapnografi.",
+      "tindakan": "Tindakan Intubasi Endotrakeal",
+      "tujuan": "Menjaga patensi jalan napas dan memungkinkan ventilasi adekuat."
     },
     "Tindakan Irigasi Luka Tekanan Tinggi": {
       "alternatif": "Irigasi manual.",
@@ -1039,6 +1109,20 @@
       "tindakan": "Tindakan Kuretase (Dilatasi dan Kuretase)",
       "tujuan": "Membersihkan rongga rahim dan menghentikan perdarahan."
     },
+    "Tindakan Lain-Lain (Tidak Tercantum dalam Daftar)": {
+      "package": "Standalone",
+      "tindakan": "Tindakan Lain-Lain (Tidak Tercantum dalam Daftar)",
+      "indikasi": "Kondisi medis yang memerlukan tindakan yang belum tercantum dalam sistem.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang sesuai kondisi klinis.",
+      "tata_cara": "Tindakan medis akan dilakukan sesuai standar profesi dan indikasi yang berlaku.",
+      "tujuan": "Menangani kondisi pasien sesuai kebutuhan medis.",
+      "resiko": "Risiko akan dijelaskan sesuai jenis tindakan yang dilakukan.",
+      "komplikasi": "Komplikasi yang mungkin timbul akan dijelaskan sesuai prosedur.",
+      "prognosis": "Tergantung kondisi dasar dan respons pasien terhadap terapi.",
+      "alternatif": "Alternatif tindakan akan dijelaskan sesuai situasi klinis.",
+      "lain_lain": "Penjelasan tambahan akan dituliskan sesuai tindakan spesifik yang dilakukan.",
+      "checklist": false
+    },
     "Tindakan Laparotomi": {
       "alternatif": "Laparoskopi bila memungkinkan.",
       "checklist": false,
@@ -1192,6 +1276,20 @@
       "tata_cara": "Pemberian obat bronkodilator atau mukolitik melalui nebulizer.",
       "tindakan": "Tindakan Nebulisasi Terapi Inhalasi",
       "tujuan": "Melebarkan saluran napas dan mengurangi sesak."
+    },
+    "Tindakan Negative Pressure Wound Therapy (NPWT / Wound VAC)": {
+      "alternatif": "Perawatan luka konvensional.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis luka dan kondisi jaringan.",
+      "indikasi": "Luka kronis atau luka besar yang memerlukan stimulasi penyembuhan.",
+      "komplikasi": "Infeksi atau perdarahan ringan.",
+      "lain_lain": "-",
+      "package": "Bedside Minor Procedures",
+      "prognosis": "Baik bila pemantauan adekuat.",
+      "resiko": "Nyeri saat penggantian balutan.",
+      "tata_cara": "Pemasangan dressing khusus dengan sistem tekanan negatif terkontrol.",
+      "tindakan": "Tindakan Negative Pressure Wound Therapy (NPWT)",
+      "tujuan": "Mempercepat penyembuhan dan mengurangi eksudat."
     },
     "Tindakan OREF": {
       "alternatif": "ORIF atau imobilisasi konservatif.",
@@ -1459,6 +1557,20 @@
       "tindakan": "Tindakan Pemasangan Kateter Urin",
       "tujuan": "Mengosongkan kandung kemih dan memonitor produksi urin."
     },
+    "Tindakan Pemasangan Nasogastric Tube (NGT)": {
+      "alternatif": "OGT atau nutrisi parenteral.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis kebutuhan dekompresi atau nutrisi enteral.",
+      "indikasi": "Dekompresi lambung atau pemberian nutrisi/obat melalui hidung.",
+      "komplikasi": "Aspirasi atau salah posisi selang.",
+      "lain_lain": "-",
+      "package": "Bedside Minor Procedures",
+      "prognosis": "Baik bila posisi terkonfirmasi.",
+      "resiko": "Rasa tidak nyaman atau epistaksis ringan.",
+      "tata_cara": "Pemasangan selang melalui hidung menuju lambung dengan teknik aseptik dan konfirmasi posisi.",
+      "tindakan": "Tindakan Pemasangan Nasogastric Tube (NGT)",
+      "tujuan": "Mengosongkan lambung atau memberikan nutrisi enteral."
+    },
     "Tindakan Pemasangan Oro Gastric Tube (OGT)": {
       "alternatif": "Nasogastric tube atau nutrisi parenteral.",
       "checklist": false,
@@ -1472,6 +1584,20 @@
       "tata_cara": "Selang dimasukkan melalui mulut ke lambung dengan teknik aseptik dan konfirmasi posisi.",
       "tindakan": "Tindakan Pemasangan Oro Gastric Tube (OGT)",
       "tujuan": "Mengosongkan lambung atau memberikan nutrisi."
+    },
+    "Tindakan Pemasangan Rectal Tube": {
+      "alternatif": "Manajemen konservatif.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis distensi atau kebutuhan drainase feses.",
+      "indikasi": "Distensi abdomen akibat retensi gas atau inkontinensia feses berat.",
+      "komplikasi": "Iritasi mukosa atau trauma rektum.",
+      "lain_lain": "-",
+      "package": "Bedside Minor Procedures",
+      "prognosis": "Baik bila digunakan sesuai indikasi.",
+      "resiko": "Ketidaknyamanan lokal.",
+      "tata_cara": "Pemasangan selang rektal secara aseptik untuk drainase gas atau feses.",
+      "tindakan": "Tindakan Pemasangan Rectal Tube",
+      "tujuan": "Mengurangi distensi dan menjaga kebersihan perineal."
     },
     "Tindakan Pemasangan Steri-Strip": {
       "alternatif": "Lem jaringan atau jahitan.",
@@ -2313,6 +2439,20 @@
       "tindakan": "Tindakan Reposisi Sendi (Reduksi Dislokasi)",
       "tujuan": "Mengembalikan posisi anatomis sendi dan mengurangi nyeri."
     },
+    "Tindakan Restrain (Pembatasan Fisik Pasien)": {
+      "package": "Emergency & Critical Care",
+      "tindakan": "Tindakan Restrain (Pembatasan Fisik Pasien)",
+      "indikasi": "Pasien dengan agitasi, delirium, gangguan kesadaran, atau perilaku yang berisiko membahayakan diri sendiri atau orang lain, serta untuk mencegah pelepasan alat medis (misalnya infus, kateter, ventilator).",
+      "dasar_diagnosis": "Evaluasi klinis kondisi pasien termasuk status mental, tingkat kesadaran, dan risiko keselamatan.",
+      "tata_cara": "Pembatasan gerak pasien menggunakan alat restrain sesuai standar dengan pemantauan ketat terhadap kondisi fisik dan psikologis pasien.",
+      "tujuan": "Menjaga keselamatan pasien dan tenaga medis serta mencegah cedera atau gangguan terapi.",
+      "resiko": "Ketidaknyamanan, iritasi kulit, atau cedera ringan akibat pembatasan.",
+      "komplikasi": "Cedera jaringan lunak, gangguan sirkulasi, atau distress psikologis.",
+      "prognosis": "Baik bila dilakukan sesuai indikasi dan dengan pemantauan berkala.",
+      "alternatif": "Pendekatan non-fisik seperti komunikasi, sedasi, atau pendampingan keluarga.",
+      "lain_lain": "Dilakukan sesuai indikasi medis dan akan dievaluasi secara berkala untuk penghentian restrain.",
+      "checklist": false
+    },
     "Tindakan Resusitasi Cairan Luka Bakar": {
       "alternatif": "Terapi cairan konservatif pada luka bakar ringan.",
       "checklist": false,
@@ -2326,6 +2466,20 @@
       "tata_cara": "Pemberian cairan intravena sesuai formula resusitasi luka bakar dengan monitoring ketat urin dan hemodinamik.",
       "tindakan": "Tindakan Resusitasi Cairan pada Luka Bakar",
       "tujuan": "Mempertahankan perfusi organ dan mencegah syok hipovolemik."
+    },
+    "Tindakan Resusitasi Jantung Paru (RJP)": {
+      "alternatif": "Tidak ada alternatif pada kondisi henti jantung.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis tidak ditemukan nadi dan napas.",
+      "indikasi": "Henti jantung dan/atau henti napas.",
+      "komplikasi": "Pneumotoraks, perdarahan internal.",
+      "lain_lain": "-",
+      "package": "Emergency & Critical Care",
+      "prognosis": "Sangat tergantung kecepatan dan kualitas resusitasi.",
+      "resiko": "Cedera iga, memar dada.",
+      "tata_cara": "Kompresi dada, ventilasi bantuan, defibrilasi dan pemberian obat sesuai protokol ACLS.",
+      "tindakan": "Tindakan Resusitasi Jantung Paru",
+      "tujuan": "Mengembalikan sirkulasi spontan (ROSC)."
     },
     "Tindakan Resusitasi Neonatus": {
       "package": "Neonatologi",
@@ -2872,6 +3026,20 @@
       "tata_cara": "Perforasi kuku steril untuk mengeluarkan darah.",
       "tindakan": "Tindakan Trepanasi Hematoma Subungual",
       "tujuan": "Mengurangi tekanan dan nyeri."
+    },
+    "Tindakan Uji Mantoux (Tuberculin Skin Test)": {
+      "package": "Pulmonologi & Respirasi",
+      "tindakan": "Tindakan Uji Mantoux (Tuberculin Skin Test)",
+      "indikasi": "Skrining infeksi tuberkulosis laten atau evaluasi paparan tuberkulosis sesuai indikasi klinis.",
+      "dasar_diagnosis": "Anamnesis riwayat kontak tuberkulosis, faktor risiko, dan pertimbangan klinis.",
+      "tata_cara": "Penyuntikan sejumlah kecil tuberkulin secara intradermal pada lengan bawah, kemudian hasil dinilai 48–72 jam kemudian berdasarkan ukuran indurasi.",
+      "tujuan": "Menilai kemungkinan adanya respons imun terhadap kuman tuberkulosis.",
+      "resiko": "Nyeri ringan, kemerahan, atau gatal di lokasi suntikan.",
+      "komplikasi": "Reaksi alergi lokal atau iritasi kulit (jarang).",
+      "prognosis": "Baik, merupakan prosedur diagnostik sederhana dan aman.",
+      "alternatif": "Pemeriksaan IGRA (Interferon Gamma Release Assay) atau pemeriksaan lain sesuai indikasi.",
+      "lain_lain": "Pasien perlu kembali untuk pembacaan hasil dalam 48–72 jam.",
+      "checklist": false
     },
     "Tindakan Ureterorenoskopi (URS)": {
       "alternatif": "ESWL atau terapi konservatif.",
