@@ -73,6 +73,20 @@
       "tindakan": "Tindakan Appendiktomi",
       "tujuan": "Menghilangkan sumber infeksi dan mencegah perforasi."
     },
+    "Tindakan Arthroscopy Sendi": {
+      "alternatif": "Operasi terbuka.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan MRI.",
+      "indikasi": "Cedera intraartikular seperti robekan meniskus atau ligamentum.",
+      "komplikasi": "Infeksi sendi atau perdarahan.",
+      "lain_lain": "-",
+      "package": "Advanced Orthopedic Surgical",
+      "prognosis": "Baik dengan rehabilitasi adekuat.",
+      "resiko": "Nyeri pascatindakan.",
+      "tata_cara": "Pemasukan kamera kecil ke dalam sendi melalui sayatan kecil untuk evaluasi dan tindakan.",
+      "tindakan": "Tindakan Arthroscopy Sendi",
+      "tujuan": "Diagnosis dan perbaikan kelainan intraartikular secara minimal invasif."
+    },
     "Tindakan Aspirasi Kista Ganglion": {
       "package": "Orthopedi",
       "tindakan": "Tindakan Aspirasi Kista Ganglion",
@@ -171,6 +185,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Cardiopulmonary Resuscitation Lanjutan (ACLS Advanced Intervention)": {
+      "alternatif": "Tidak ada alternatif pada henti jantung.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis tidak ada nadi dan napas dengan monitor EKG.",
+      "indikasi": "Henti jantung dengan kebutuhan intervensi farmakologis dan manajemen jalan napas lanjutan.",
+      "komplikasi": "Kerusakan organ akibat hipoksia berkepanjangan.",
+      "lain_lain": "-",
+      "package": "Advanced Cardiovascular Intervention",
+      "prognosis": "Tergantung waktu respon dan kondisi dasar.",
+      "resiko": "Cedera akibat kompresi atau efek samping obat.",
+      "tata_cara": "Pemberian obat sesuai algoritma ACLS dan manajemen jalan napas definitif.",
+      "tindakan": "Tindakan Intervensi Lanjutan dalam Resusitasi (ACLS Advanced Intervention)",
+      "tujuan": "Mengembalikan sirkulasi spontan."
+    },
     "Tindakan Continuous Positive Airway Pressure (CPAP)": {
       "alternatif": "NIV atau intubasi endotrakeal.",
       "checklist": false,
@@ -184,6 +212,20 @@
       "tata_cara": "Pemasangan masker CPAP dengan tekanan positif kontinu sesuai protokol dan monitoring ketat.",
       "tindakan": "Tindakan Continuous Positive Airway Pressure (CPAP)",
       "tujuan": "Meningkatkan oksigenasi dan mencegah intubasi."
+    },
+    "Tindakan Continuous Renal Replacement Therapy (CRRT)": {
+      "alternatif": "Hemodialisa intermiten.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis, pemeriksaan laboratorium fungsi ginjal, dan kondisi hemodinamik.",
+      "indikasi": "Gagal ginjal akut pada pasien kritis dengan instabilitas hemodinamik.",
+      "komplikasi": "Infeksi akses vaskular atau gangguan elektrolit.",
+      "lain_lain": "-",
+      "package": "Advanced ICU Technology",
+      "prognosis": "Tergantung penyakit dasar dan respons terapi.",
+      "resiko": "Perdarahan akibat antikoagulan.",
+      "tata_cara": "Pemasangan akses vaskular sentral dan penyaringan darah secara kontinu menggunakan mesin CRRT.",
+      "tindakan": "Tindakan Continuous Renal Replacement Therapy (CRRT)",
+      "tujuan": "Menggantikan fungsi ginjal secara bertahap dan stabil."
     },
     "Tindakan Damage Control Surgery": {
       "alternatif": "Operasi definitif langsung bila kondisi stabil.",
@@ -563,6 +605,20 @@
       "tindakan": "Tindakan Episiotomi",
       "tujuan": "Mengurangi risiko robekan tidak terkontrol."
     },
+    "Tindakan Escharotomi": {
+      "alternatif": "Observasi pada luka bakar superfisial tanpa gangguan perfusi.",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik menunjukkan tanda gangguan perfusi atau ventilasi.",
+      "indikasi": "Luka bakar derajat dalam dengan gangguan sirkulasi atau ventilasi akibat jaringan eskar yang ketat.",
+      "komplikasi": "Infeksi luka.",
+      "lain_lain": "-",
+      "package": "Burn Intensive",
+      "prognosis": "Baik bila dilakukan segera.",
+      "resiko": "Perdarahan atau nyeri.",
+      "tata_cara": "Insisi pada jaringan eskar untuk mengurangi tekanan dan memperbaiki perfusi.",
+      "tindakan": "Tindakan Escharotomi",
+      "tujuan": "Mencegah nekrosis jaringan dan gangguan pernapasan."
+    },
     "Tindakan Escharotomy": {
       "alternatif": "Fasciotomi bila tekanan melibatkan kompartemen otot.",
       "checklist": false,
@@ -590,6 +646,20 @@
       "tata_cara": "Penggantian bertahap darah neonatus melalui akses vaskular dengan darah donor sesuai protokol.",
       "tindakan": "Tindakan Exchange Transfusion pada Neonatus",
       "tujuan": "Menurunkan kadar bilirubin dan mencegah kernikterus."
+    },
+    "Tindakan Extracorporeal Membrane Oxygenation (ECMO)": {
+      "alternatif": "Ventilasi mekanik atau inotropik maksimal.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis, analisis gas darah, dan ekokardiografi.",
+      "indikasi": "Gagal napas atau gagal jantung refrakter terhadap terapi maksimal.",
+      "komplikasi": "Trombosis atau infeksi.",
+      "lain_lain": "-",
+      "package": "Advanced ICU Technology",
+      "prognosis": "Sebagai terapi penunjang pada kondisi sangat kritis.",
+      "resiko": "Perdarahan berat.",
+      "tata_cara": "Kanulasi pembuluh darah besar dan sirkulasi darah melalui mesin oksigenator eksternal.",
+      "tindakan": "Tindakan Extracorporeal Membrane Oxygenation (ECMO)",
+      "tujuan": "Memberikan dukungan sirkulasi dan oksigenasi sementara."
     },
     "Tindakan Fototerapi pada Hiperbilirubinemia Neonatus": {
       "package": "Perinatologi",
@@ -787,6 +857,20 @@
       "tindakan": "Tindakan Insisi dan Drainase Abses",
       "tujuan": "Mengurangi tekanan dan infeksi."
     },
+    "Tindakan Intra-Aortic Balloon Pump (IABP)": {
+      "alternatif": "Terapi inotropik atau perangkat sirkulasi mekanik lain.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis, EKG, dan ekokardiografi.",
+      "indikasi": "Syok kardiogenik refrakter atau komplikasi infark miokard.",
+      "komplikasi": "Iskemia tungkai atau emboli.",
+      "lain_lain": "-",
+      "package": "Advanced Cardiovascular Intervention",
+      "prognosis": "Sebagai terapi penunjang sementara.",
+      "resiko": "Perdarahan atau komplikasi vaskular.",
+      "tata_cara": "Pemasangan kateter balon melalui arteri femoralis menuju aorta desendens dengan sinkronisasi inflasi-deflasi terhadap siklus jantung.",
+      "tindakan": "Tindakan Intra-Aortic Balloon Pump (IABP)",
+      "tujuan": "Meningkatkan perfusi koroner dan menurunkan beban kerja jantung."
+    },
     "Tindakan Irigasi Luka Tekanan Tinggi": {
       "alternatif": "Irigasi manual.",
       "checklist": false,
@@ -969,6 +1053,20 @@
       "tindakan": "Tindakan Laparotomi",
       "tujuan": "Menangani kegawatan intraabdomen."
     },
+    "Tindakan Lumbar Drain": {
+      "alternatif": "EVD pada kasus tertentu.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan imaging neurologis.",
+      "indikasi": "Kebutuhan drainase cairan serebrospinal pada kondisi tertentu seperti kebocoran CSF.",
+      "komplikasi": "Infeksi atau perdarahan.",
+      "lain_lain": "-",
+      "package": "Advanced Neurocritical",
+      "prognosis": "Baik bila dilakukan sesuai indikasi.",
+      "resiko": "Nyeri punggung atau sakit kepala.",
+      "tata_cara": "Pemasangan kateter pada ruang subaraknoid lumbal secara aseptik.",
+      "tindakan": "Tindakan Lumbar Drain",
+      "tujuan": "Mengontrol tekanan cairan serebrospinal."
+    },
     "Tindakan MOW Pasca Sectio Caesarea": {
       "alternatif": "Kontrasepsi jangka panjang.",
       "checklist": false,
@@ -1025,6 +1123,20 @@
       "tindakan": "Tindakan Massive Transfusion Protocol (MTP)",
       "tujuan": "Mengganti kehilangan darah dan mempertahankan perfusi organ."
     },
+    "Tindakan Monitoring Hemodinamik Lanjutan (Advanced Hemodynamic Monitoring)": {
+      "alternatif": "Monitoring klinis dan non-invasif.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan kebutuhan monitoring invasif.",
+      "indikasi": "Syok atau instabilitas hemodinamik kompleks.",
+      "komplikasi": "Gangguan vaskular lokal.",
+      "lain_lain": "-",
+      "package": "Advanced ICU Technology",
+      "prognosis": "Baik bila digunakan untuk terapi terarah.",
+      "resiko": "Perdarahan atau infeksi.",
+      "tata_cara": "Pemasangan perangkat monitoring untuk evaluasi curah jantung dan parameter hemodinamik lanjutan.",
+      "tindakan": "Tindakan Monitoring Hemodinamik Lanjutan",
+      "tujuan": "Mengoptimalkan terapi cairan dan obat vasoaktif."
+    },
     "Tindakan Monitoring Invasif Hemodinamik Trauma": {
       "alternatif": "Monitoring non-invasif pada kondisi stabil.",
       "checklist": false,
@@ -1038,6 +1150,34 @@
       "tata_cara": "Pemasangan alat monitoring invasif seperti arterial line atau CVC untuk pemantauan tekanan dan pemberian terapi.",
       "tindakan": "Tindakan Monitoring Invasif Hemodinamik pada Trauma",
       "tujuan": "Memantau perfusi organ dan respons terhadap terapi."
+    },
+    "Tindakan Monitoring Luka Bakar Luas": {
+      "alternatif": "Rawat inap biasa pada luka bakar ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan parameter laboratorium.",
+      "indikasi": "Luka bakar luas dengan risiko gangguan organ.",
+      "komplikasi": "Sepsis atau gagal organ multipel.",
+      "lain_lain": "-",
+      "package": "Burn Intensive",
+      "prognosis": "Tergantung luas luka dan respons terapi.",
+      "resiko": "Perburukan sistemik yang cepat.",
+      "tata_cara": "Monitoring ketat tanda vital, keseimbangan cairan, dan fungsi organ secara serial.",
+      "tindakan": "Tindakan Monitoring Luka Bakar Luas",
+      "tujuan": "Mendeteksi dini komplikasi sistemik."
+    },
+    "Tindakan Monitoring Tekanan Intrakranial Invasif": {
+      "alternatif": "Monitoring klinis dan imaging serial.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis neurologis dan imaging.",
+      "indikasi": "Cedera kepala berat atau peningkatan tekanan intrakranial yang dicurigai.",
+      "komplikasi": "Malfungsi alat atau infeksi.",
+      "lain_lain": "-",
+      "package": "Advanced Neurocritical",
+      "prognosis": "Baik bila monitoring dilakukan secara adekuat.",
+      "resiko": "Perdarahan atau infeksi.",
+      "tata_cara": "Pemasangan sensor tekanan intrakranial melalui prosedur bedah steril.",
+      "tindakan": "Tindakan Monitoring Tekanan Intrakranial Invasif",
+      "tujuan": "Memantau tekanan intrakranial secara kontinu."
     },
     "Tindakan Nebulisasi Terapi Inhalasi": {
       "alternatif": "Inhaler dosis terukur.",
@@ -1137,6 +1277,20 @@
       "tindakan": "Tindakan Observasi Trauma Intensif",
       "tujuan": "Mendeteksi dini komplikasi atau perburukan."
     },
+    "Tindakan Pacing Transkutan (External Pacing)": {
+      "alternatif": "Pacemaker transvenous.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan EKG.",
+      "indikasi": "Bradikardia simptomatik sebagai tindakan sementara sebelum pacemaker transvenous.",
+      "komplikasi": "Iritasi kulit atau gagal capture.",
+      "lain_lain": "-",
+      "package": "Advanced Cardiovascular Intervention",
+      "prognosis": "Baik sebagai tindakan bridging.",
+      "resiko": "Nyeri dada atau ketidaknyamanan.",
+      "tata_cara": "Pemasangan pad pacing eksternal dengan pengaturan output listrik sesuai respons klinis.",
+      "tindakan": "Tindakan Pacing Transkutan (External Pacing)",
+      "tujuan": "Menstimulasi jantung secara sementara."
+    },
     "Tindakan Parasentesis": {
       "package": "Tindakan Penunjang",
       "tindakan": "Tindakan Parasentesis",
@@ -1165,6 +1319,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Pemasangan Arterial Line": {
+      "alternatif": "Monitoring non-invasif.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis kebutuhan monitoring hemodinamik ketat.",
+      "indikasi": "Monitoring tekanan darah invasif dan analisis gas darah serial pada pasien kritis.",
+      "komplikasi": "Iskemia distal atau infeksi.",
+      "lain_lain": "-",
+      "package": "Advanced Cardiovascular Intervention",
+      "prognosis": "Baik bila teknik steril dan pemantauan adekuat.",
+      "resiko": "Perdarahan atau hematoma.",
+      "tata_cara": "Kanulasi arteri perifer (umumnya arteri radialis) dengan teknik aseptik.",
+      "tindakan": "Tindakan Pemasangan Arterial Line",
+      "tujuan": "Monitoring tekanan darah real-time dan akses sampling darah."
+    },
     "Tindakan Pemasangan Central Venous Catheter (CVC)": {
       "alternatif": "Akses vena perifer atau intraoseus.",
       "checklist": false,
@@ -1178,6 +1346,20 @@
       "tata_cara": "Kateter dimasukkan ke vena besar dengan teknik aseptik dan panduan anatomi atau ultrasonografi.",
       "tindakan": "Tindakan Pemasangan Central Venous Catheter (CVC)",
       "tujuan": "Memberikan akses vaskular sentral yang stabil."
+    },
+    "Tindakan Pemasangan External Ventricular Drain (EVD)": {
+      "alternatif": "Terapi medikamentosa penurun tekanan intrakranial.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis neurologis dan pemeriksaan CT-scan kepala.",
+      "indikasi": "Hidrosefalus akut, perdarahan intraventrikular, atau peningkatan tekanan intrakranial.",
+      "komplikasi": "Infeksi sistem saraf pusat atau malfungsi drain.",
+      "lain_lain": "-",
+      "package": "Advanced Neurocritical",
+      "prognosis": "Tergantung kondisi neurologis dasar pasien.",
+      "resiko": "Perdarahan atau nyeri lokal.",
+      "tata_cara": "Pemasangan kateter ke ventrikel lateral melalui prosedur bedah steril untuk drainase cairan serebrospinal.",
+      "tindakan": "Tindakan Pemasangan External Ventricular Drain (EVD)",
+      "tujuan": "Menurunkan tekanan intrakranial dan mengalirkan cairan serebrospinal."
     },
     "Tindakan Pemasangan Gips": {
       "alternatif": "Splint atau operasi.",
@@ -1304,6 +1486,20 @@
       "tata_cara": "Penempelan strip perekat steril untuk mendekatkan tepi luka.",
       "tindakan": "Tindakan Pemasangan Steri-Strip",
       "tujuan": "Mendukung penyembuhan luka."
+    },
+    "Tindakan Pemasangan Temporary Pacemaker Transvenous": {
+      "alternatif": "Pacemaker eksternal sementara atau terapi farmakologis.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan EKG menunjukkan gangguan konduksi.",
+      "indikasi": "Bradikardia berat atau blok AV derajat tinggi dengan instabilitas hemodinamik.",
+      "komplikasi": "Infeksi, perforasi miokard, dislokasi lead.",
+      "lain_lain": "-",
+      "package": "Advanced Cardiovascular Intervention",
+      "prognosis": "Baik bila indikasi tepat dan pemasangan berhasil.",
+      "resiko": "Perdarahan atau aritmia saat pemasangan.",
+      "tata_cara": "Pemasangan lead pacemaker melalui vena sentral menuju ventrikel kanan dengan panduan fluoroskopi atau monitor EKG.",
+      "tindakan": "Tindakan Pemasangan Temporary Pacemaker Transvenous",
+      "tujuan": "Menjaga frekuensi jantung adekuat dan mempertahankan perfusi organ."
     },
     "Tindakan Pemasangan Umbilical Arterial Catheter (UAC)": {
       "alternatif": "Monitoring non-invasif.",
@@ -1893,6 +2089,20 @@
       "tindakan": "Perawatan Intensif di ICU",
       "tujuan": "Menstabilkan fungsi organ vital."
     },
+    "Tindakan Perawatan Luka Bakar Intensif": {
+      "alternatif": "Perawatan rawat jalan pada luka bakar ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "indikasi": "Luka bakar sedang hingga berat.",
+      "komplikasi": "Infeksi luka atau jaringan parut luas.",
+      "lain_lain": "-",
+      "package": "Burn Intensive",
+      "prognosis": "Tergantung luas dan kedalaman luka bakar.",
+      "resiko": "Nyeri atau iritasi kulit.",
+      "tata_cara": "Pembersihan luka, aplikasi balutan steril, dan evaluasi jaringan secara berkala.",
+      "tindakan": "Tindakan Perawatan Luka Bakar Intensif",
+      "tujuan": "Mencegah infeksi dan mempercepat penyembuhan."
+    },
     "Tindakan Perawatan Metode Kanguru (Kangaroo Mother Care)": {
       "package": "Perinatologi",
       "tindakan": "Tindakan Perawatan Metode Kanguru (Kangaroo Mother Care)",
@@ -2103,6 +2313,20 @@
       "tindakan": "Tindakan Reposisi Sendi (Reduksi Dislokasi)",
       "tujuan": "Mengembalikan posisi anatomis sendi dan mengurangi nyeri."
     },
+    "Tindakan Resusitasi Cairan Luka Bakar": {
+      "alternatif": "Terapi cairan konservatif pada luka bakar ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan estimasi luas luka bakar.",
+      "indikasi": "Luka bakar ≥ 10% luas permukaan tubuh atau tanda syok.",
+      "komplikasi": "Edema paru atau gagal ginjal.",
+      "lain_lain": "-",
+      "package": "Burn Intensive",
+      "prognosis": "Baik bila resusitasi dilakukan secara adekuat dan tepat waktu.",
+      "resiko": "Kelebihan cairan atau gangguan elektrolit.",
+      "tata_cara": "Pemberian cairan intravena sesuai formula resusitasi luka bakar dengan monitoring ketat urin dan hemodinamik.",
+      "tindakan": "Tindakan Resusitasi Cairan pada Luka Bakar",
+      "tujuan": "Mempertahankan perfusi organ dan mencegah syok hipovolemik."
+    },
     "Tindakan Resusitasi Neonatus": {
       "package": "Neonatologi",
       "tindakan": "Tindakan Resusitasi Neonatus",
@@ -2173,6 +2397,20 @@
       "tindakan": "Tindakan Sectio Caesarea Emergensi",
       "tujuan": "Mengatasi kondisi darurat."
     },
+    "Tindakan Sedasi dan Analgesia Kontinu pada Pasien Neurokritikal": {
+      "alternatif": "Sedasi intermiten atau terapi suportif.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan kebutuhan stabilisasi neurologis.",
+      "indikasi": "Pasien dengan cedera otak berat atau ventilasi mekanik yang membutuhkan kontrol agitasi.",
+      "komplikasi": "Gangguan hemodinamik atau delirium.",
+      "lain_lain": "-",
+      "package": "Advanced Neurocritical",
+      "prognosis": "Tergantung kondisi neurologis dasar.",
+      "resiko": "Hipotensi atau depresi napas.",
+      "tata_cara": "Pemberian obat sedatif dan analgesik secara infus kontinu dengan monitoring ketat.",
+      "tindakan": "Tindakan Sedasi dan Analgesia Kontinu pada Pasien Neurokritikal",
+      "tujuan": "Menstabilkan kondisi neurologis dan mencegah peningkatan tekanan intrakranial."
+    },
     "Tindakan Sepsis Bundle Awal (1 Jam Pertama)": {
       "alternatif": "Terapi suportif pada infeksi ringan tanpa disfungsi organ.",
       "checklist": false,
@@ -2214,6 +2452,20 @@
       "tata_cara": "Sistoskop dimasukkan melalui uretra untuk visualisasi kandung kemih dan dilakukan pengambilan jaringan bila diperlukan.",
       "tindakan": "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih",
       "tujuan": "Menegakkan diagnosis melalui pemeriksaan histopatologi."
+    },
+    "Tindakan Skeletal Traction": {
+      "alternatif": "ORIF atau external fixation.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+      "indikasi": "Fraktur femur atau fraktur tidak stabil yang memerlukan traksi jangka menengah.",
+      "komplikasi": "Infeksi pada tempat pin atau cedera saraf.",
+      "lain_lain": "-",
+      "package": "Advanced Orthopedic Surgical",
+      "prognosis": "Baik bila perawatan pin site adekuat.",
+      "resiko": "Nyeri dan perdarahan ringan.",
+      "tata_cara": "Pemasangan pin atau kawat pada tulang dengan pemberian beban traksi terkontrol.",
+      "tindakan": "Tindakan Skeletal Traction",
+      "tujuan": "Menjaga alignment tulang dan mengurangi spasme otot."
     },
     "Tindakan Skin Graft Full Thickness": {
       "alternatif": "Split thickness graft.",
@@ -2425,6 +2677,20 @@
       "tindakan": "Tindakan Tamponade Uterus",
       "tujuan": "Mengendalikan perdarahan dan mempertahankan kondisi ibu."
     },
+    "Tindakan Targeted Temperature Management (TTM)": {
+      "alternatif": "Terapi suportif standar.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis pasca resusitasi.",
+      "indikasi": "Pasien pasca henti jantung dengan penurunan kesadaran.",
+      "komplikasi": "Aritmia atau infeksi.",
+      "lain_lain": "-",
+      "package": "Advanced ICU Technology",
+      "prognosis": "Meningkatkan peluang luaran neurologis baik.",
+      "resiko": "Gangguan elektrolit.",
+      "tata_cara": "Pengendalian suhu tubuh secara terkontrol menggunakan perangkat pendingin eksternal atau intravaskular.",
+      "tindakan": "Tindakan Targeted Temperature Management (TTM)",
+      "tujuan": "Mengurangi kerusakan neurologis pasca henti jantung."
+    },
     "Tindakan Terapi Enoxaparin": {
       "alternatif": "Fondaparinux atau heparin.",
       "checklist": false,
@@ -2481,6 +2747,20 @@
       "tindakan": "Tindakan Terapi Imunoglobulin Tetanus (Tetagam)",
       "tujuan": "Mencegah infeksi tetanus."
     },
+    "Tindakan Terapi Nutrisi Luka Bakar": {
+      "alternatif": "Diet oral pada luka bakar ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi status gizi dan kondisi klinis.",
+      "indikasi": "Luka bakar luas dengan kebutuhan metabolik meningkat.",
+      "komplikasi": "Aspirasi atau gangguan metabolik.",
+      "lain_lain": "-",
+      "package": "Burn Intensive",
+      "prognosis": "Baik bila kebutuhan nutrisi terpenuhi.",
+      "resiko": "Gangguan toleransi nutrisi.",
+      "tata_cara": "Pemberian nutrisi enteral atau parenteral sesuai kebutuhan kalori tinggi.",
+      "tindakan": "Tindakan Terapi Nutrisi pada Luka Bakar",
+      "tujuan": "Mendukung penyembuhan jaringan dan mencegah malnutrisi."
+    },
     "Tindakan Terapi Obat Anti Tuberkulosis (OAT)": {
       "alternatif": "Regimen alternatif sesuai hasil evaluasi.",
       "checklist": false,
@@ -2495,6 +2775,20 @@
       "tindakan": "Tindakan Terapi Obat Anti Tuberkulosis (OAT)",
       "tujuan": "Menyembuhkan infeksi dan mencegah penularan."
     },
+    "Tindakan Terapi Trombolisis Stroke Iskemik Intravenous": {
+      "alternatif": "Trombektomi mekanik pada kasus tertentu.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis neurologis dan CT-scan kepala tanpa perdarahan.",
+      "indikasi": "Stroke iskemik akut dalam periode waktu yang memenuhi kriteria.",
+      "komplikasi": "Perdarahan intrakranial.",
+      "lain_lain": "-",
+      "package": "Advanced Neurocritical",
+      "prognosis": "Baik bila diberikan dalam window period.",
+      "resiko": "Perdarahan sistemik.",
+      "tata_cara": "Pemberian agen trombolitik intravena sesuai protokol nasional dan internasional.",
+      "tindakan": "Tindakan Terapi Trombolisis Stroke Iskemik Intravenous",
+      "tujuan": "Melarutkan bekuan darah dan memulihkan perfusi otak."
+    },
     "Tindakan Thorakosentesis": {
       "alternatif": "Pemasangan WSD.",
       "checklist": false,
@@ -2508,6 +2802,34 @@
       "tata_cara": "Pemasukan jarum ke rongga pleura untuk aspirasi cairan.",
       "tindakan": "Tindakan Thorakosentesis",
       "tujuan": "Mengurangi sesak dan mendapatkan cairan untuk analisis."
+    },
+    "Tindakan Total Hip Replacement": {
+      "alternatif": "Hemiarthroplasty atau terapi konservatif.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+      "indikasi": "Kerusakan sendi panggul berat akibat osteoartritis atau fraktur kompleks.",
+      "komplikasi": "Infeksi prostesis atau dislokasi.",
+      "lain_lain": "-",
+      "package": "Advanced Orthopedic Surgical",
+      "prognosis": "Baik dengan rehabilitasi adekuat.",
+      "resiko": "Perdarahan atau risiko anestesi.",
+      "tata_cara": "Penggantian seluruh sendi panggul dengan prostesis.",
+      "tindakan": "Tindakan Total Hip Replacement",
+      "tujuan": "Mengurangi nyeri dan memperbaiki fungsi sendi."
+    },
+    "Tindakan Total Knee Replacement": {
+      "alternatif": "Terapi konservatif atau osteotomi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+      "indikasi": "Osteoartritis lutut berat dengan gangguan fungsi signifikan.",
+      "komplikasi": "Infeksi atau kekakuan sendi.",
+      "lain_lain": "-",
+      "package": "Advanced Orthopedic Surgical",
+      "prognosis": "Baik dengan rehabilitasi yang terarah.",
+      "resiko": "Perdarahan atau nyeri pascaoperasi.",
+      "tata_cara": "Penggantian permukaan sendi lutut dengan prostesis.",
+      "tindakan": "Tindakan Total Knee Replacement",
+      "tujuan": "Mengurangi nyeri dan meningkatkan mobilitas."
     },
     "Tindakan Trakeostomi": {
       "alternatif": "Intubasi endotrakeal.",
@@ -2593,6 +2915,20 @@
       "tindakan": "Tindakan Ventilasi Frekuensi Tinggi pada Neonatus",
       "tujuan": "Meningkatkan oksigenasi dengan risiko barotrauma minimal."
     },
+    "Tindakan Ventilasi Mekanik Invasif": {
+      "alternatif": "Ventilasi non-invasif pada kondisi yang sesuai.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan analisis gas darah menunjukkan kegagalan respirasi.",
+      "indikasi": "Gagal napas berat yang memerlukan kontrol ventilasi penuh.",
+      "komplikasi": "Ventilator-associated pneumonia.",
+      "lain_lain": "-",
+      "package": "Advanced ICU Technology",
+      "prognosis": "Tergantung penyakit dasar dan respons terapi.",
+      "resiko": "Barotrauma atau volutrauma.",
+      "tata_cara": "Pemasangan ventilator melalui pipa endotrakeal atau trakeostomi dengan pengaturan parameter sesuai kondisi pasien.",
+      "tindakan": "Tindakan Ventilasi Mekanik Invasif",
+      "tujuan": "Menjaga oksigenasi dan ventilasi adekuat."
+    },
     "Tindakan Ventilasi Non-Invasif (NIV)": {
       "alternatif": "Intubasi endotrakeal bila gagal.",
       "checklist": false,
@@ -2606,6 +2942,20 @@
       "tata_cara": "Pemasangan masker ventilasi dengan tekanan positif sesuai protokol.",
       "tindakan": "Tindakan Ventilasi Non-Invasif (NIV)",
       "tujuan": "Meningkatkan ventilasi dan oksigenasi tanpa intubasi."
+    },
+    "Tindakan Washout Sendi Septik (Septic Joint Debridement)": {
+      "alternatif": "Aspirasi serial dan antibiotik pada kasus ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, aspirasi sendi, dan laboratorium.",
+      "indikasi": "Artritis septik dengan akumulasi cairan purulen.",
+      "komplikasi": "Kekakuan sendi atau infeksi berulang.",
+      "lain_lain": "-",
+      "package": "Advanced Orthopedic Surgical",
+      "prognosis": "Baik bila ditangani dini.",
+      "resiko": "Perdarahan ringan.",
+      "tata_cara": "Irigasi dan pembersihan sendi secara bedah untuk mengeluarkan pus dan jaringan terinfeksi.",
+      "tindakan": "Tindakan Washout Sendi Septik",
+      "tujuan": "Menghentikan infeksi dan mencegah kerusakan permanen sendi."
     }
   }
 }
