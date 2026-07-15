@@ -87,6 +87,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Bilevel Positive Airway Pressure (BiPAP)": {
+      "alternatif": "Ventilasi invasif.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan analisis gas darah.",
+      "indikasi": "Gagal napas hiperkapnik seperti eksaserbasi PPOK.",
+      "komplikasi": "Aspirasi atau kegagalan ventilasi.",
+      "lain_lain": "-",
+      "package": "Advanced Airway & Ventilation",
+      "prognosis": "Baik bila terapi dini diberikan.",
+      "resiko": "Iritasi kulit, ketidaknyamanan.",
+      "tata_cara": "Pemasangan ventilasi tekanan positif dua level sesuai protokol.",
+      "tindakan": "Tindakan Bilevel Positive Airway Pressure (BiPAP)",
+      "tujuan": "Menurunkan retensi CO2 dan memperbaiki ventilasi."
+    },
     "Tindakan Biopsi Kulit Eksisional": {
       "alternatif": "Biopsi insisional.",
       "checklist": false,
@@ -115,6 +129,20 @@
       "tindakan": "Tindakan Biopsi Kulit Insisional",
       "tujuan": "Menegakkan diagnosis."
     },
+    "Tindakan Bronkoskopi Diagnostik atau Terapeutik": {
+      "alternatif": "Imaging lanjutan.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan imaging toraks.",
+      "indikasi": "Kecurigaan obstruksi jalan napas, aspirasi, atau evaluasi perdarahan paru.",
+      "komplikasi": "Hipoksia atau bronkospasme.",
+      "lain_lain": "-",
+      "package": "Advanced Airway & Ventilation",
+      "prognosis": "Baik bila dilakukan sesuai indikasi.",
+      "resiko": "Perdarahan ringan.",
+      "tata_cara": "Pemasukan bronkoskop fleksibel untuk visualisasi dan tindakan sesuai indikasi.",
+      "tindakan": "Tindakan Bronkoskopi Diagnostik atau Terapeutik",
+      "tujuan": "Diagnosis atau pengeluaran sumbatan."
+    },
     "Tindakan CVC Removal": {
       "package": "Tindakan Penunjang",
       "tindakan": "Tindakan Pelepasan Central Venous Catheter (CVC)",
@@ -128,6 +156,34 @@
       "alternatif": "-",
       "lain_lain": "-",
       "checklist": false
+    },
+    "Tindakan Continuous Positive Airway Pressure (CPAP)": {
+      "alternatif": "NIV atau intubasi endotrakeal.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis, analisis gas darah, dan saturasi oksigen.",
+      "indikasi": "Gagal napas ringan hingga sedang dengan pernapasan spontan masih adekuat.",
+      "komplikasi": "Aspirasi atau gagal ventilasi.",
+      "lain_lain": "-",
+      "package": "Advanced Airway & Ventilation",
+      "prognosis": "Baik bila pasien kooperatif dan responsif.",
+      "resiko": "Ketidaknyamanan masker, distensi lambung.",
+      "tata_cara": "Pemasangan masker CPAP dengan tekanan positif kontinu sesuai protokol dan monitoring ketat.",
+      "tindakan": "Tindakan Continuous Positive Airway Pressure (CPAP)",
+      "tujuan": "Meningkatkan oksigenasi dan mencegah intubasi."
+    },
+    "Tindakan Damage Control Surgery": {
+      "alternatif": "Operasi definitif langsung bila kondisi stabil.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis syok dan cedera intraabdomen atau toraks.",
+      "indikasi": "Trauma dengan instabilitas hemodinamik berat.",
+      "komplikasi": "Infeksi intraabdomen, sindrom kompartemen abdomen.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Tergantung stabilisasi pascaoperasi.",
+      "resiko": "Perdarahan lanjutan, risiko anestesi.",
+      "tata_cara": "Operasi singkat untuk kontrol perdarahan dan kontaminasi, dilanjutkan stabilisasi di ICU sebelum operasi definitif.",
+      "tindakan": "Tindakan Damage Control Surgery",
+      "tujuan": "Menyelamatkan nyawa dengan mengendalikan perdarahan dan infeksi."
     },
     "Tindakan Debridement Autolitik Luka": {
       "alternatif": "Debridement bedah.",
@@ -423,6 +479,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Ekstubasi (Pelepasan Endotracheal Tube)": {
+      "package": "Advanced Airway & Ventilation",
+      "tindakan": "Tindakan Ekstubasi (Pelepasan Endotracheal Tube)",
+      "indikasi": "Pasien memenuhi kriteria weaning ventilator.",
+      "dasar_diagnosis": "Evaluasi klinis dan analisis gas darah.",
+      "tata_cara": "Penghentian ventilator bertahap dan pelepasan ETT dengan monitoring ketat.",
+      "tujuan": "Mengembalikan pernapasan spontan.",
+      "resiko": "Stridor atau gagal ekstubasi.",
+      "komplikasi": "Reintubasi.",
+      "prognosis": "Baik bila kriteria terpenuhi.",
+      "alternatif": "Ventilasi lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
     "Tindakan Episiotomi": {
       "alternatif": "Persalinan tanpa episiotomi bila memungkinkan.",
       "checklist": false,
@@ -590,6 +660,20 @@
       "tata_cara": "Pengembalian isi hernia dan penutupan defek.",
       "tindakan": "Tindakan Herniotomi",
       "tujuan": "Mencegah inkarserasi dan strangulasi."
+    },
+    "Tindakan High Flow Nasal Cannula (HFNC)": {
+      "alternatif": "CPAP, BiPAP, atau ventilasi invasif.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi saturasi dan kondisi respirasi.",
+      "indikasi": "Hipoksemia dengan kebutuhan oksigen tinggi.",
+      "komplikasi": "Keterlambatan intubasi bila gagal terdeteksi.",
+      "lain_lain": "-",
+      "package": "Advanced Airway & Ventilation",
+      "prognosis": "Baik pada gagal napas ringan hingga sedang.",
+      "resiko": "Iritasi mukosa hidung.",
+      "tata_cara": "Pemberian oksigen aliran tinggi melalui kanul nasal khusus dengan humidifikasi.",
+      "tindakan": "Tindakan High Flow Nasal Cannula (HFNC)",
+      "tujuan": "Meningkatkan oksigenasi dan kenyamanan pasien."
     },
     "Tindakan Induksi Persalinan": {
       "alternatif": "Observasi lanjutan, tindakan operatif (sectio caesarea), atau metode lain sesuai pertimbangan klinis.",
@@ -759,6 +843,20 @@
       "tindakan": "Tindakan Kompresi Bimanual Uterus",
       "tujuan": "Mengendalikan perdarahan postpartum."
     },
+    "Tindakan Kontrol Sumber Infeksi": {
+      "alternatif": "Antibiotik saja pada infeksi tanpa koleksi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, imaging, dan kultur.",
+      "indikasi": "Infeksi terlokalisir yang menyebabkan sepsis.",
+      "komplikasi": "Infeksi berulang atau sepsis persisten.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila sumber infeksi terkontrol.",
+      "resiko": "Perdarahan atau risiko anestesi.",
+      "tata_cara": "Drainase abses, pengangkatan jaringan terinfeksi, atau tindakan bedah sesuai sumber infeksi.",
+      "tindakan": "Tindakan Kontrol Sumber Infeksi",
+      "tujuan": "Menghilangkan sumber infeksi penyebab sepsis."
+    },
     "Tindakan Kuretase (Dilatasi dan Kuretase)": {
       "alternatif": "Terapi medik atau observasi sesuai kondisi.",
       "checklist": false,
@@ -829,6 +927,48 @@
       "tindakan": "Tindakan Manajemen Ulkus Diabetikum",
       "tujuan": "Mencegah amputasi dan mempercepat penyembuhan."
     },
+    "Tindakan Massive Transfusion Protocol (MTP)": {
+      "alternatif": "Resusitasi cairan terbatas pada kondisi tertentu.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis syok hemoragik dan parameter laboratorium.",
+      "indikasi": "Perdarahan masif pada trauma.",
+      "komplikasi": "Koagulopati, hipokalsemia, hipotermia.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Tergantung kontrol sumber perdarahan.",
+      "resiko": "Reaksi transfusi, gangguan elektrolit.",
+      "tata_cara": "Pemberian produk darah secara terkoordinasi sesuai rasio protokol rumah sakit.",
+      "tindakan": "Tindakan Massive Transfusion Protocol (MTP)",
+      "tujuan": "Mengganti kehilangan darah dan mempertahankan perfusi organ."
+    },
+    "Tindakan Monitoring Invasif Hemodinamik Trauma": {
+      "alternatif": "Monitoring non-invasif pada kondisi stabil.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan parameter vital.",
+      "indikasi": "Syok atau instabilitas hemodinamik pada trauma berat.",
+      "komplikasi": "Trombosis atau infeksi kateter.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Baik bila pemantauan adekuat.",
+      "resiko": "Perdarahan atau infeksi.",
+      "tata_cara": "Pemasangan alat monitoring invasif seperti arterial line atau CVC untuk pemantauan tekanan dan pemberian terapi.",
+      "tindakan": "Tindakan Monitoring Invasif Hemodinamik pada Trauma",
+      "tujuan": "Memantau perfusi organ dan respons terhadap terapi."
+    },
+    "Tindakan Nebulisasi Terapi Inhalasi": {
+      "alternatif": "Inhaler dosis terukur.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan auskultasi paru.",
+      "indikasi": "Bronkospasme atau gangguan saluran napas bawah.",
+      "komplikasi": "Aritmia jarang terjadi.",
+      "lain_lain": "-",
+      "package": "Advanced Airway & Ventilation",
+      "prognosis": "Baik bila terapi adekuat.",
+      "resiko": "Takikardia ringan.",
+      "tata_cara": "Pemberian obat bronkodilator atau mukolitik melalui nebulizer.",
+      "tindakan": "Tindakan Nebulisasi Terapi Inhalasi",
+      "tujuan": "Melebarkan saluran napas dan mengurangi sesak."
+    },
     "Tindakan OREF": {
       "alternatif": "ORIF atau imobilisasi konservatif.",
       "checklist": false,
@@ -856,6 +996,34 @@
       "tata_cara": "Reduksi terbuka tulang dan fiksasi menggunakan plate, screw, atau nail.",
       "tindakan": "Open Reduction and Internal Fixation (ORIF)",
       "tujuan": "Memperbaiki posisi tulang untuk penyembuhan optimal."
+    },
+    "Tindakan Observasi Bayi Risiko Tinggi": {
+      "alternatif": "Perawatan NICU bila kondisi memburuk.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "indikasi": "Bayi dengan riwayat prematur, infeksi, atau gangguan pernapasan ringan.",
+      "komplikasi": "Infeksi berat atau gangguan napas.",
+      "lain_lain": "-",
+      "package": "Pediatric Emergency",
+      "prognosis": "Baik dengan pemantauan adekuat.",
+      "resiko": "Perburukan cepat bila tidak terpantau.",
+      "tata_cara": "Monitoring tanda vital, suhu, dan pola napas secara berkala.",
+      "tindakan": "Tindakan Observasi Bayi Risiko Tinggi",
+      "tujuan": "Mendeteksi dini perburukan kondisi."
+    },
+    "Tindakan Observasi Trauma Intensif": {
+      "alternatif": "Rawat inap biasa bila risiko rendah.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis trauma dan evaluasi klinis.",
+      "indikasi": "Trauma sedang dengan risiko perburukan klinis.",
+      "komplikasi": "Syok atau kegagalan organ.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Baik bila evaluasi dilakukan secara berkala.",
+      "resiko": "Perburukan tidak terdeteksi bila monitoring tidak adekuat.",
+      "tata_cara": "Monitoring ketat tanda vital, status neurologis, dan evaluasi serial.",
+      "tindakan": "Tindakan Observasi Trauma Intensif",
+      "tujuan": "Mendeteksi dini komplikasi atau perburukan."
     },
     "Tindakan Parasentesis": {
       "package": "Tindakan Penunjang",
@@ -1095,6 +1263,48 @@
       "tindakan": "Tindakan Pemeriksaan Inspekulo pada Pasien Belum Menikah",
       "tujuan": "Menilai kondisi vagina dan leher rahim secara langsung sehingga membantu menegakkan diagnosis dan menentukan tata laksana yang tepat."
     },
+    "Tindakan Penatalaksanaan Bronkiolitis Akut": {
+      "alternatif": "Rawat jalan pada kasus ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "indikasi": "Bayi dengan sesak, retraksi dinding dada, dan wheezing akibat infeksi virus.",
+      "komplikasi": "Gagal napas akut.",
+      "lain_lain": "-",
+      "package": "Pediatric Emergency",
+      "prognosis": "Baik pada sebagian besar kasus.",
+      "resiko": "Hipoksia bila kondisi memburuk.",
+      "tata_cara": "Pemberian oksigen suportif, hidrasi adekuat, dan pemantauan ketat.",
+      "tindakan": "Tindakan Penatalaksanaan Bronkiolitis Akut",
+      "tujuan": "Memperbaiki oksigenasi dan mencegah gagal napas."
+    },
+    "Tindakan Penatalaksanaan Croup (Laringotrakeitis Akut)": {
+      "alternatif": "Observasi pada kasus ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan klinis.",
+      "indikasi": "Anak dengan batuk menggonggong dan stridor inspirasi.",
+      "komplikasi": "Obstruksi jalan napas.",
+      "lain_lain": "-",
+      "package": "Pediatric Emergency",
+      "prognosis": "Baik bila terapi dini diberikan.",
+      "resiko": "Takikardia ringan akibat nebulisasi.",
+      "tata_cara": "Pemberian kortikosteroid dan nebulisasi sesuai indikasi.",
+      "tindakan": "Tindakan Penatalaksanaan Croup (Laringotrakeitis Akut)",
+      "tujuan": "Mengurangi inflamasi jalan napas atas."
+    },
+    "Tindakan Penatalaksanaan Dehidrasi Akut pada Anak": {
+      "alternatif": "Observasi pada dehidrasi ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan status hidrasi.",
+      "indikasi": "Diare atau muntah dengan tanda dehidrasi.",
+      "komplikasi": "Syok hipovolemik bila tidak tertangani.",
+      "lain_lain": "-",
+      "package": "Pediatric Emergency",
+      "prognosis": "Baik bila rehidrasi adekuat.",
+      "resiko": "Gangguan elektrolit.",
+      "tata_cara": "Rehidrasi oral atau intravena sesuai derajat dehidrasi.",
+      "tindakan": "Tindakan Penatalaksanaan Dehidrasi Akut pada Anak",
+      "tujuan": "Mengembalikan keseimbangan cairan dan elektrolit."
+    },
     "Tindakan Penatalaksanaan Diseksi Aorta": {
       "alternatif": "Observasi ketat pada diseksi tipe tertentu sesuai rekomendasi spesialis.",
       "checklist": false,
@@ -1150,6 +1360,48 @@
       "tata_cara": "Pemberian terapi penurun tekanan intrakranial dan konsultasi bedah saraf.",
       "tindakan": "Tindakan Penatalaksanaan Herniasi Otak Non-Trauma",
       "tujuan": "Mencegah kematian akibat herniasi."
+    },
+    "Tindakan Penatalaksanaan Hipoglikemia pada Anak": {
+      "alternatif": "Observasi pada hipoglikemia ringan tanpa gejala.",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan kadar glukosa darah.",
+      "indikasi": "Kadar glukosa darah rendah dengan gejala neurologis.",
+      "komplikasi": "Kejang atau kerusakan neurologis bila terlambat.",
+      "lain_lain": "-",
+      "package": "Pediatric Emergency",
+      "prognosis": "Baik bila segera ditangani.",
+      "resiko": "Hiperglikemia sementara.",
+      "tata_cara": "Pemberian glukosa oral atau intravena sesuai kondisi pasien.",
+      "tindakan": "Tindakan Penatalaksanaan Hipoglikemia pada Anak",
+      "tujuan": "Mengembalikan kadar glukosa darah normal."
+    },
+    "Tindakan Penatalaksanaan Kejang Demam": {
+      "alternatif": "Observasi pada kejang singkat yang berhenti spontan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan evaluasi penyebab demam.",
+      "indikasi": "Kejang pada anak usia 6 bulan hingga 5 tahun disertai demam tanpa infeksi sistem saraf pusat.",
+      "komplikasi": "Kejang berulang atau kejang lama.",
+      "lain_lain": "-",
+      "package": "Pediatric Emergency",
+      "prognosis": "Umumnya baik pada kejang demam sederhana.",
+      "resiko": "Sedasi akibat obat antikejang.",
+      "tata_cara": "Pengamanan jalan napas, pemberian antipiretik, dan antikejang sesuai indikasi.",
+      "tindakan": "Tindakan Penatalaksanaan Kejang Demam",
+      "tujuan": "Menghentikan kejang dan mencegah kekambuhan segera."
+    },
+    "Tindakan Penatalaksanaan Ketoasidosis Diabetik Anak": {
+      "alternatif": "Tidak ada alternatif pada kondisi akut.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan laboratorium.",
+      "indikasi": "Hiperglikemia dengan asidosis metabolik dan ketonemia.",
+      "komplikasi": "Edema serebri.",
+      "lain_lain": "-",
+      "package": "Pediatric Emergency",
+      "prognosis": "Baik bila ditangani sesuai protokol.",
+      "resiko": "Hipoglikemia atau gangguan elektrolit.",
+      "tata_cara": "Resusitasi cairan, pemberian insulin intravena, dan koreksi elektrolit.",
+      "tindakan": "Tindakan Penatalaksanaan Ketoasidosis Diabetik pada Anak",
+      "tujuan": "Mengoreksi asidosis dan hiperglikemia secara bertahap."
     },
     "Tindakan Penatalaksanaan Meningitis atau Ensefalitis Berat": {
       "alternatif": "Terapi suportif pada infeksi ringan.",
@@ -1235,6 +1487,34 @@
       "tindakan": "Tindakan Penatalaksanaan Stroke Iskemik Akut",
       "tujuan": "Mencegah perluasan infark dan mempertahankan fungsi neurologis."
     },
+    "Tindakan Penatalaksanaan Syok Anafilaktik": {
+      "alternatif": "Terapi antihistamin dan steroid sebagai tambahan, bukan pengganti.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis paparan alergen dan evaluasi klinis cepat.",
+      "indikasi": "Reaksi alergi berat dengan hipotensi atau gangguan napas.",
+      "komplikasi": "Henti jantung bila terlambat ditangani.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila epinefrin diberikan segera.",
+      "resiko": "Aritmia atau hipertensi sementara.",
+      "tata_cara": "Pemberian epinefrin intramuskular segera, resusitasi cairan, dan terapi suportif.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Anafilaktik",
+      "tujuan": "Menghentikan reaksi alergi sistemik dan mempertahankan perfusi."
+    },
+    "Tindakan Penatalaksanaan Syok Hipovolemik Non-Trauma": {
+      "alternatif": "Observasi pada kondisi ringan tanpa hipotensi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan evaluasi laboratorium.",
+      "indikasi": "Hipotensi akibat kehilangan cairan atau perdarahan non-trauma.",
+      "komplikasi": "Gagal ginjal akut.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila penyebab segera diatasi.",
+      "resiko": "Kelebihan cairan.",
+      "tata_cara": "Resusitasi cairan cepat dan koreksi penyebab kehilangan cairan.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Hipovolemik Non-Trauma",
+      "tujuan": "Memulihkan volume intravaskular dan perfusi organ."
+    },
     "Tindakan Penatalaksanaan Syok Kardiogenik": {
       "alternatif": "Dukungan sirkulasi mekanik pada kasus tertentu.",
       "checklist": false,
@@ -1248,6 +1528,34 @@
       "tata_cara": "Pemberian cairan selektif, inotropik atau vasopresor, serta terapi penyebab.",
       "tindakan": "Tindakan Penatalaksanaan Syok Kardiogenik",
       "tujuan": "Mempertahankan perfusi organ vital."
+    },
+    "Tindakan Penatalaksanaan Syok Neurogenik": {
+      "alternatif": "Monitoring ketat pada hipotensi ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis trauma dan evaluasi neurologis.",
+      "indikasi": "Hipotensi dan bradikardia akibat cedera medula spinalis.",
+      "komplikasi": "Gagal organ bila hipotensi berkepanjangan.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Tergantung tingkat cedera spinal.",
+      "resiko": "Aritmia atau gangguan perfusi perifer.",
+      "tata_cara": "Resusitasi cairan selektif dan pemberian vasopresor sesuai indikasi.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Neurogenik",
+      "tujuan": "Mempertahankan perfusi organ dan stabilitas hemodinamik."
+    },
+    "Tindakan Penatalaksanaan Syok Septik": {
+      "alternatif": "Terapi suportif pada kondisi sepsis tanpa syok.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis, laktat meningkat, dan tanda perfusi buruk.",
+      "indikasi": "Hipotensi persisten akibat sepsis meskipun resusitasi cairan adekuat.",
+      "komplikasi": "Gagal organ multipel.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Tergantung kecepatan intervensi dan kondisi dasar pasien.",
+      "resiko": "Aritmia atau gangguan perfusi perifer.",
+      "tata_cara": "Resusitasi cairan lanjutan, pemberian vasopresor, dan kontrol sumber infeksi.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Septik",
+      "tujuan": "Mempertahankan tekanan perfusi dan mencegah kegagalan organ."
     },
     "Tindakan Pencabutan IUD": {
       "alternatif": "Penggantian IUD baru atau metode lain.",
@@ -1473,6 +1781,20 @@
       "tindakan": "Tindakan Persalinan dengan Vakum",
       "tujuan": "Membantu kelahiran tanpa operasi sesar."
     },
+    "Tindakan Primary Survey Trauma (ATLS)": {
+      "alternatif": "Tidak ada alternatif pada kondisi trauma akut.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis cepat berdasarkan prinsip ABCDE.",
+      "indikasi": "Pasien dengan trauma multipel atau trauma berat.",
+      "komplikasi": "Perburukan kondisi bila stabilisasi tidak adekuat.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Tergantung kecepatan dan ketepatan penanganan awal.",
+      "resiko": "Keterlambatan identifikasi cedera tersembunyi.",
+      "tata_cara": "Penilaian dan stabilisasi Airway, Breathing, Circulation, Disability, dan Exposure secara sistematis.",
+      "tindakan": "Tindakan Primary Survey Trauma (ATLS)",
+      "tujuan": "Mengidentifikasi dan menangani ancaman jiwa secara cepat."
+    },
     "Tindakan Pungsi Lumbal": {
       "alternatif": "Pemeriksaan imaging lanjutan.",
       "checklist": false,
@@ -1585,6 +1907,20 @@
       "tindakan": "Tindakan Sectio Caesarea Emergensi",
       "tujuan": "Mengatasi kondisi darurat."
     },
+    "Tindakan Sepsis Bundle Awal (1 Jam Pertama)": {
+      "alternatif": "Terapi suportif pada infeksi ringan tanpa disfungsi organ.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium termasuk laktat.",
+      "indikasi": "Kecurigaan sepsis dengan tanda disfungsi organ.",
+      "komplikasi": "Perburukan menjadi syok septik.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila terapi diberikan dini dan adekuat.",
+      "resiko": "Reaksi alergi antibiotik atau kelebihan cairan.",
+      "tata_cara": "Pengambilan kultur sebelum antibiotik, pemberian antibiotik spektrum luas, resusitasi cairan awal, dan pemantauan laktat.",
+      "tindakan": "Tindakan Sepsis Bundle Awal (1 Jam Pertama)",
+      "tujuan": "Menghentikan progresi sepsis dan mencegah syok septik."
+    },
     "Tindakan Sirkumsisi (Khitan)": {
       "alternatif": "Terapi topikal pada fimosis ringan.",
       "checklist": false,
@@ -1682,6 +2018,34 @@
       "tata_cara": "Pengaliran cairan hangat steril ke liang telinga untuk mengeluarkan sumbatan.",
       "tindakan": "Tindakan Spooling Telinga (Irigasi Liang Telinga)",
       "tujuan": "Membersihkan liang telinga dan memperbaiki pendengaran."
+    },
+    "Tindakan Stabilitas Spine Darurat": {
+      "alternatif": "Observasi bila cedera disingkirkan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis trauma, pemeriksaan neurologis, dan imaging.",
+      "indikasi": "Kecurigaan cedera tulang belakang akibat trauma.",
+      "komplikasi": "Cedera neurologis bila tidak dilakukan dengan benar.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Baik bila imobilisasi cepat dan tepat.",
+      "resiko": "Rasa tidak nyaman atau tekanan kulit.",
+      "tata_cara": "Imobilisasi tulang belakang dengan collar servikal dan spinal board.",
+      "tindakan": "Tindakan Stabilisasi Spine Darurat",
+      "tujuan": "Mencegah kerusakan neurologis lebih lanjut."
+    },
+    "Tindakan Suction Jalan Napas": {
+      "alternatif": "Fisioterapi dada.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan auskultasi.",
+      "indikasi": "Akumulasi sekret yang mengganggu ventilasi.",
+      "komplikasi": "Trauma mukosa.",
+      "lain_lain": "-",
+      "package": "Advanced Airway & Ventilation",
+      "prognosis": "Baik bila dilakukan dengan teknik benar.",
+      "resiko": "Hipoksia sementara.",
+      "tata_cara": "Penghisapan sekret dengan kateter steril melalui teknik aseptik.",
+      "tindakan": "Tindakan Suction Jalan Napas",
+      "tujuan": "Membersihkan jalan napas dan memperbaiki ventilasi."
     },
     "Tindakan Tamponade Hidung (Epistaksis)": {
       "package": "THT & Mata",
