@@ -1,0 +1,44 @@
+{
+  "Tindakan Pemasangan Umbilical Venous Catheter (UVC)": {
+    "package": "Neonatologi",
+    "tindakan": "Tindakan Pemasangan Umbilical Venous Catheter (UVC)",
+    "indikasi": "Kebutuhan akses vaskular pada neonatus untuk pemberian cairan, obat, atau nutrisi.",
+    "dasar_diagnosis": "Evaluasi klinis neonatus.",
+    "tata_cara": "Pemasangan kateter melalui vena umbilikalis dengan teknik steril.",
+    "tujuan": "Menyediakan akses vaskular yang stabil.",
+    "resiko": "Perdarahan atau infeksi.",
+    "komplikasi": "Malposisi kateter, trombosis, atau sepsis.",
+    "prognosis": "Baik bila dilakukan dengan teknik yang benar.",
+    "alternatif": "Akses vena perifer atau intraoseus sesuai kondisi.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+  "Tindakan Resusitasi Neonatus": {
+    "package": "Neonatologi",
+    "tindakan": "Tindakan Resusitasi Neonatus",
+    "indikasi": "Bayi baru lahir yang tidak bernapas spontan atau mengalami gangguan adaptasi setelah lahir.",
+    "dasar_diagnosis": "Evaluasi kondisi bayi segera setelah lahir.",
+    "tata_cara": "Pemanasan, pembebasan jalan napas, ventilasi tekanan positif, kompresi dada, dan tindakan lain sesuai algoritma resusitasi neonatus.",
+    "tujuan": "Memulihkan fungsi pernapasan dan sirkulasi bayi.",
+    "resiko": "Trauma jalan napas atau gangguan hemodinamik.",
+    "komplikasi": "Hipoksia berkepanjangan atau kegagalan resusitasi.",
+    "prognosis": "Tergantung kondisi awal bayi dan respons terhadap tindakan.",
+    "alternatif": "Tidak ada alternatif setara pada kondisi gawat darurat.",
+    "lain_lain": "-",
+    "checklist": false
+  },
+  "Tindakan CPAP Neonatus": {
+    "package": "Neonatologi",
+    "tindakan": "Tindakan CPAP Neonatus",
+    "indikasi": "Gangguan napas pada bayi baru lahir yang masih dapat bernapas spontan.",
+    "dasar_diagnosis": "Evaluasi klinis dan pemantauan saturasi oksigen.",
+    "tata_cara": "Pemberian tekanan positif kontinu melalui hidung menggunakan alat CPAP.",
+    "tujuan": "Menjaga alveoli tetap terbuka dan memperbaiki oksigenasi.",
+    "resiko": "Iritasi hidung atau distensi lambung.",
+    "komplikasi": "Pneumotoraks atau kegagalan terapi.",
+    "prognosis": "Baik bila diberikan sesuai indikasi.",
+    "alternatif": "Ventilator mekanik bila diperlukan.",
+    "lain_lain": "-",
+    "checklist": false
+  }
+}

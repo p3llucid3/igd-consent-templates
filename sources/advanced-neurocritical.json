@@ -1,0 +1,72 @@
+{
+  "Tindakan Lumbar Drain": {
+    "alternatif": "EVD pada kasus tertentu.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan imaging neurologis.",
+    "indikasi": "Kebutuhan drainase cairan serebrospinal pada kondisi tertentu seperti kebocoran CSF.",
+    "komplikasi": "Infeksi atau perdarahan.",
+    "lain_lain": "-",
+    "package": "Advanced Neurocritical",
+    "prognosis": "Baik bila dilakukan sesuai indikasi.",
+    "resiko": "Nyeri punggung atau sakit kepala.",
+    "tata_cara": "Pemasangan kateter pada ruang subaraknoid lumbal secara aseptik.",
+    "tindakan": "Tindakan Lumbar Drain",
+    "tujuan": "Mengontrol tekanan cairan serebrospinal."
+  },
+  "Tindakan Monitoring Tekanan Intrakranial Invasif": {
+    "alternatif": "Monitoring klinis dan imaging serial.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis neurologis dan imaging.",
+    "indikasi": "Cedera kepala berat atau peningkatan tekanan intrakranial yang dicurigai.",
+    "komplikasi": "Malfungsi alat atau infeksi.",
+    "lain_lain": "-",
+    "package": "Advanced Neurocritical",
+    "prognosis": "Baik bila monitoring dilakukan secara adekuat.",
+    "resiko": "Perdarahan atau infeksi.",
+    "tata_cara": "Pemasangan sensor tekanan intrakranial melalui prosedur bedah steril.",
+    "tindakan": "Tindakan Monitoring Tekanan Intrakranial Invasif",
+    "tujuan": "Memantau tekanan intrakranial secara kontinu."
+  },
+  "Tindakan Pemasangan External Ventricular Drain (EVD)": {
+    "alternatif": "Terapi medikamentosa penurun tekanan intrakranial.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis neurologis dan pemeriksaan CT-scan kepala.",
+    "indikasi": "Hidrosefalus akut, perdarahan intraventrikular, atau peningkatan tekanan intrakranial.",
+    "komplikasi": "Infeksi sistem saraf pusat atau malfungsi drain.",
+    "lain_lain": "-",
+    "package": "Advanced Neurocritical",
+    "prognosis": "Tergantung kondisi neurologis dasar pasien.",
+    "resiko": "Perdarahan atau nyeri lokal.",
+    "tata_cara": "Pemasangan kateter ke ventrikel lateral melalui prosedur bedah steril untuk drainase cairan serebrospinal.",
+    "tindakan": "Tindakan Pemasangan External Ventricular Drain (EVD)",
+    "tujuan": "Menurunkan tekanan intrakranial dan mengalirkan cairan serebrospinal."
+  },
+  "Tindakan Sedasi dan Analgesia Kontinu pada Pasien Neurokritikal": {
+    "alternatif": "Sedasi intermiten atau terapi suportif.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan kebutuhan stabilisasi neurologis.",
+    "indikasi": "Pasien dengan cedera otak berat atau ventilasi mekanik yang membutuhkan kontrol agitasi.",
+    "komplikasi": "Gangguan hemodinamik atau delirium.",
+    "lain_lain": "-",
+    "package": "Advanced Neurocritical",
+    "prognosis": "Tergantung kondisi neurologis dasar.",
+    "resiko": "Hipotensi atau depresi napas.",
+    "tata_cara": "Pemberian obat sedatif dan analgesik secara infus kontinu dengan monitoring ketat.",
+    "tindakan": "Tindakan Sedasi dan Analgesia Kontinu pada Pasien Neurokritikal",
+    "tujuan": "Menstabilkan kondisi neurologis dan mencegah peningkatan tekanan intrakranial."
+  },
+  "Tindakan Terapi Trombolisis Stroke Iskemik Intravenous": {
+    "alternatif": "Trombektomi mekanik pada kasus tertentu.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis neurologis dan CT-scan kepala tanpa perdarahan.",
+    "indikasi": "Stroke iskemik akut dalam periode waktu yang memenuhi kriteria.",
+    "komplikasi": "Perdarahan intrakranial.",
+    "lain_lain": "-",
+    "package": "Advanced Neurocritical",
+    "prognosis": "Baik bila diberikan dalam window period.",
+    "resiko": "Perdarahan sistemik.",
+    "tata_cara": "Pemberian agen trombolitik intravena sesuai protokol nasional dan internasional.",
+    "tindakan": "Tindakan Terapi Trombolisis Stroke Iskemik Intravenous",
+    "tujuan": "Melarutkan bekuan darah dan memulihkan perfusi otak."
+  }
+}

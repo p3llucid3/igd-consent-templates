@@ -1,0 +1,72 @@
+{
+  "Tindakan Cardiopulmonary Resuscitation Lanjutan (ACLS Advanced Intervention)": {
+    "alternatif": "Tidak ada alternatif pada henti jantung.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis tidak ada nadi dan napas dengan monitor EKG.",
+    "indikasi": "Henti jantung dengan kebutuhan intervensi farmakologis dan manajemen jalan napas lanjutan.",
+    "komplikasi": "Kerusakan organ akibat hipoksia berkepanjangan.",
+    "lain_lain": "-",
+    "package": "Advanced Cardiovascular Intervention",
+    "prognosis": "Tergantung waktu respon dan kondisi dasar.",
+    "resiko": "Cedera akibat kompresi atau efek samping obat.",
+    "tata_cara": "Pemberian obat sesuai algoritma ACLS dan manajemen jalan napas definitif.",
+    "tindakan": "Tindakan Intervensi Lanjutan dalam Resusitasi (ACLS Advanced Intervention)",
+    "tujuan": "Mengembalikan sirkulasi spontan."
+  },
+  "Tindakan Intra-Aortic Balloon Pump (IABP)": {
+    "alternatif": "Terapi inotropik atau perangkat sirkulasi mekanik lain.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis, EKG, dan ekokardiografi.",
+    "indikasi": "Syok kardiogenik refrakter atau komplikasi infark miokard.",
+    "komplikasi": "Iskemia tungkai atau emboli.",
+    "lain_lain": "-",
+    "package": "Advanced Cardiovascular Intervention",
+    "prognosis": "Sebagai terapi penunjang sementara.",
+    "resiko": "Perdarahan atau komplikasi vaskular.",
+    "tata_cara": "Pemasangan kateter balon melalui arteri femoralis menuju aorta desendens dengan sinkronisasi inflasi-deflasi terhadap siklus jantung.",
+    "tindakan": "Tindakan Intra-Aortic Balloon Pump (IABP)",
+    "tujuan": "Meningkatkan perfusi koroner dan menurunkan beban kerja jantung."
+  },
+  "Tindakan Pacing Transkutan (External Pacing)": {
+    "alternatif": "Pacemaker transvenous.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan EKG.",
+    "indikasi": "Bradikardia simptomatik sebagai tindakan sementara sebelum pacemaker transvenous.",
+    "komplikasi": "Iritasi kulit atau gagal capture.",
+    "lain_lain": "-",
+    "package": "Advanced Cardiovascular Intervention",
+    "prognosis": "Baik sebagai tindakan bridging.",
+    "resiko": "Nyeri dada atau ketidaknyamanan.",
+    "tata_cara": "Pemasangan pad pacing eksternal dengan pengaturan output listrik sesuai respons klinis.",
+    "tindakan": "Tindakan Pacing Transkutan (External Pacing)",
+    "tujuan": "Menstimulasi jantung secara sementara."
+  },
+  "Tindakan Pemasangan Arterial Line": {
+    "alternatif": "Monitoring non-invasif.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis kebutuhan monitoring hemodinamik ketat.",
+    "indikasi": "Monitoring tekanan darah invasif dan analisis gas darah serial pada pasien kritis.",
+    "komplikasi": "Iskemia distal atau infeksi.",
+    "lain_lain": "-",
+    "package": "Advanced Cardiovascular Intervention",
+    "prognosis": "Baik bila teknik steril dan pemantauan adekuat.",
+    "resiko": "Perdarahan atau hematoma.",
+    "tata_cara": "Kanulasi arteri perifer (umumnya arteri radialis) dengan teknik aseptik.",
+    "tindakan": "Tindakan Pemasangan Arterial Line",
+    "tujuan": "Monitoring tekanan darah real-time dan akses sampling darah."
+  },
+  "Tindakan Pemasangan Temporary Pacemaker Transvenous": {
+    "alternatif": "Pacemaker eksternal sementara atau terapi farmakologis.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan EKG menunjukkan gangguan konduksi.",
+    "indikasi": "Bradikardia berat atau blok AV derajat tinggi dengan instabilitas hemodinamik.",
+    "komplikasi": "Infeksi, perforasi miokard, dislokasi lead.",
+    "lain_lain": "-",
+    "package": "Advanced Cardiovascular Intervention",
+    "prognosis": "Baik bila indikasi tepat dan pemasangan berhasil.",
+    "resiko": "Perdarahan atau aritmia saat pemasangan.",
+    "tata_cara": "Pemasangan lead pacemaker melalui vena sentral menuju ventrikel kanan dengan panduan fluoroskopi atau monitor EKG.",
+    "tindakan": "Tindakan Pemasangan Temporary Pacemaker Transvenous",
+    "tujuan": "Menjaga frekuensi jantung adekuat dan mempertahankan perfusi organ."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "Tindakan Escharotomi": {
+    "alternatif": "Observasi pada luka bakar superfisial tanpa gangguan perfusi.",
+    "checklist": false,
+    "dasar_diagnosis": "Pemeriksaan fisik menunjukkan tanda gangguan perfusi atau ventilasi.",
+    "indikasi": "Luka bakar derajat dalam dengan gangguan sirkulasi atau ventilasi akibat jaringan eskar yang ketat.",
+    "komplikasi": "Infeksi luka.",
+    "lain_lain": "-",
+    "package": "Burn Intensive",
+    "prognosis": "Baik bila dilakukan segera.",
+    "resiko": "Perdarahan atau nyeri.",
+    "tata_cara": "Insisi pada jaringan eskar untuk mengurangi tekanan dan memperbaiki perfusi.",
+    "tindakan": "Tindakan Escharotomi",
+    "tujuan": "Mencegah nekrosis jaringan dan gangguan pernapasan."
+  },
+  "Tindakan Monitoring Luka Bakar Luas": {
+    "alternatif": "Rawat inap biasa pada luka bakar ringan.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan parameter laboratorium.",
+    "indikasi": "Luka bakar luas dengan risiko gangguan organ.",
+    "komplikasi": "Sepsis atau gagal organ multipel.",
+    "lain_lain": "-",
+    "package": "Burn Intensive",
+    "prognosis": "Tergantung luas luka dan respons terapi.",
+    "resiko": "Perburukan sistemik yang cepat.",
+    "tata_cara": "Monitoring ketat tanda vital, keseimbangan cairan, dan fungsi organ secara serial.",
+    "tindakan": "Tindakan Monitoring Luka Bakar Luas",
+    "tujuan": "Mendeteksi dini komplikasi sistemik."
+  },
+  "Tindakan Perawatan Luka Bakar Intensif": {
+    "alternatif": "Perawatan rawat jalan pada luka bakar ringan.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+    "indikasi": "Luka bakar sedang hingga berat.",
+    "komplikasi": "Infeksi luka atau jaringan parut luas.",
+    "lain_lain": "-",
+    "package": "Burn Intensive",
+    "prognosis": "Tergantung luas dan kedalaman luka bakar.",
+    "resiko": "Nyeri atau iritasi kulit.",
+    "tata_cara": "Pembersihan luka, aplikasi balutan steril, dan evaluasi jaringan secara berkala.",
+    "tindakan": "Tindakan Perawatan Luka Bakar Intensif",
+    "tujuan": "Mencegah infeksi dan mempercepat penyembuhan."
+  },
+  "Tindakan Resusitasi Cairan Luka Bakar": {
+    "alternatif": "Terapi cairan konservatif pada luka bakar ringan.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan estimasi luas luka bakar.",
+    "indikasi": "Luka bakar ≥ 10% luas permukaan tubuh atau tanda syok.",
+    "komplikasi": "Edema paru atau gagal ginjal.",
+    "lain_lain": "-",
+    "package": "Burn Intensive",
+    "prognosis": "Baik bila resusitasi dilakukan secara adekuat dan tepat waktu.",
+    "resiko": "Kelebihan cairan atau gangguan elektrolit.",
+    "tata_cara": "Pemberian cairan intravena sesuai formula resusitasi luka bakar dengan monitoring ketat urin dan hemodinamik.",
+    "tindakan": "Tindakan Resusitasi Cairan pada Luka Bakar",
+    "tujuan": "Mempertahankan perfusi organ dan mencegah syok hipovolemik."
+  },
+  "Tindakan Terapi Nutrisi Luka Bakar": {
+    "alternatif": "Diet oral pada luka bakar ringan.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi status gizi dan kondisi klinis.",
+    "indikasi": "Luka bakar luas dengan kebutuhan metabolik meningkat.",
+    "komplikasi": "Aspirasi atau gangguan metabolik.",
+    "lain_lain": "-",
+    "package": "Burn Intensive",
+    "prognosis": "Baik bila kebutuhan nutrisi terpenuhi.",
+    "resiko": "Gangguan toleransi nutrisi.",
+    "tata_cara": "Pemberian nutrisi enteral atau parenteral sesuai kebutuhan kalori tinggi.",
+    "tindakan": "Tindakan Terapi Nutrisi pada Luka Bakar",
+    "tujuan": "Mendukung penyembuhan jaringan dan mencegah malnutrisi."
+  }
+}
