@@ -73,6 +73,20 @@
       "tindakan": "Tindakan Continuous Renal Replacement Therapy (CRRT)",
       "tujuan": "Menggantikan fungsi ginjal secara bertahap dan stabil."
     },
+    "Tindakan Damage Control Surgery": {
+      "alternatif": "Operasi definitif langsung bila kondisi stabil.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis syok dan cedera intraabdomen atau toraks.",
+      "indikasi": "Trauma dengan instabilitas hemodinamik berat.",
+      "komplikasi": "Infeksi intraabdomen, sindrom kompartemen abdomen.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Tergantung stabilisasi pascaoperasi.",
+      "resiko": "Perdarahan lanjutan, risiko anestesi.",
+      "tata_cara": "Operasi singkat untuk kontrol perdarahan dan kontaminasi, dilanjutkan stabilisasi di ICU sebelum operasi definitif.",
+      "tindakan": "Tindakan Damage Control Surgery",
+      "tujuan": "Menyelamatkan nyawa dengan mengendalikan perdarahan dan infeksi."
+    },
     "Tindakan Debridement Eksisional Luka Bakar Luas": {
       "alternatif": "Debridement bertahap.",
       "checklist": false,
@@ -114,6 +128,20 @@
       "tata_cara": "Pengangkatan sebagian tulang tengkorak untuk memberi ruang pembengkakan otak.",
       "tindakan": "Tindakan Dekompresi Kranial (Craniectomy)",
       "tujuan": "Menurunkan tekanan intrakranial dan mencegah herniasi."
+    },
+    "Tindakan Dilatasi Uretra": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Dilatasi Uretra",
+      "indikasi": "Striktur uretra.",
+      "dasar_diagnosis": "Anamnesis gangguan miksi dan evaluasi urologis.",
+      "tata_cara": "Dilatasi bertahap dengan alat khusus steril.",
+      "tujuan": "Memperbaiki aliran urin.",
+      "resiko": "Nyeri atau perdarahan ringan.",
+      "komplikasi": "Striktur berulang.",
+      "prognosis": "Baik pada kasus ringan.",
+      "alternatif": "Uretrotomi internal.",
+      "lain_lain": "-",
+      "checklist": false
     },
     "Tindakan Enema Terapeutik": {
       "alternatif": "Laksatif oral.",
@@ -227,6 +255,20 @@
       "tindakan": "Tindakan Intubasi Endotrakeal",
       "tujuan": "Menjaga patensi jalan napas dan memungkinkan ventilasi adekuat."
     },
+    "Tindakan Kontrol Sumber Infeksi": {
+      "alternatif": "Antibiotik saja pada infeksi tanpa koleksi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, imaging, dan kultur.",
+      "indikasi": "Infeksi terlokalisir yang menyebabkan sepsis.",
+      "komplikasi": "Infeksi berulang atau sepsis persisten.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila sumber infeksi terkontrol.",
+      "resiko": "Perdarahan atau risiko anestesi.",
+      "tata_cara": "Drainase abses, pengangkatan jaringan terinfeksi, atau tindakan bedah sesuai sumber infeksi.",
+      "tindakan": "Tindakan Kontrol Sumber Infeksi",
+      "tujuan": "Menghilangkan sumber infeksi penyebab sepsis."
+    },
     "Tindakan Kraniotomi Evakuasi Hematoma": {
       "alternatif": "Terapi konservatif pada hematoma kecil tanpa efek massa.",
       "checklist": false,
@@ -269,6 +311,20 @@
       "tindakan": "Tindakan Lumbar Drain",
       "tujuan": "Mengontrol tekanan cairan serebrospinal."
     },
+    "Tindakan Massive Transfusion Protocol (MTP)": {
+      "alternatif": "Resusitasi cairan terbatas pada kondisi tertentu.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis syok hemoragik dan parameter laboratorium.",
+      "indikasi": "Perdarahan masif pada trauma.",
+      "komplikasi": "Koagulopati, hipokalsemia, hipotermia.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Tergantung kontrol sumber perdarahan.",
+      "resiko": "Reaksi transfusi, gangguan elektrolit.",
+      "tata_cara": "Pemberian produk darah secara terkoordinasi sesuai rasio protokol rumah sakit.",
+      "tindakan": "Tindakan Massive Transfusion Protocol (MTP)",
+      "tujuan": "Mengganti kehilangan darah dan mempertahankan perfusi organ."
+    },
     "Tindakan Monitoring Hemodinamik Lanjutan (Advanced Hemodynamic Monitoring)": {
       "alternatif": "Monitoring klinis dan non-invasif.",
       "checklist": false,
@@ -282,6 +338,20 @@
       "tata_cara": "Pemasangan perangkat monitoring untuk evaluasi curah jantung dan parameter hemodinamik lanjutan.",
       "tindakan": "Tindakan Monitoring Hemodinamik Lanjutan",
       "tujuan": "Mengoptimalkan terapi cairan dan obat vasoaktif."
+    },
+    "Tindakan Monitoring Invasif Hemodinamik Trauma": {
+      "alternatif": "Monitoring non-invasif pada kondisi stabil.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan parameter vital.",
+      "indikasi": "Syok atau instabilitas hemodinamik pada trauma berat.",
+      "komplikasi": "Trombosis atau infeksi kateter.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Baik bila pemantauan adekuat.",
+      "resiko": "Perdarahan atau infeksi.",
+      "tata_cara": "Pemasangan alat monitoring invasif seperti arterial line atau CVC untuk pemantauan tekanan dan pemberian terapi.",
+      "tindakan": "Tindakan Monitoring Invasif Hemodinamik pada Trauma",
+      "tujuan": "Memantau perfusi organ dan respons terhadap terapi."
     },
     "Tindakan Monitoring Luka Bakar Luas": {
       "alternatif": "Rawat inap biasa pada luka bakar ringan.",
@@ -353,6 +423,20 @@
       "tindakan": "Tindakan Observasi Cedera Medula Spinalis",
       "tujuan": "Menilai progresi atau perbaikan defisit neurologis."
     },
+    "Tindakan Observasi Trauma Intensif": {
+      "alternatif": "Rawat inap biasa bila risiko rendah.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis trauma dan evaluasi klinis.",
+      "indikasi": "Trauma sedang dengan risiko perburukan klinis.",
+      "komplikasi": "Syok atau kegagalan organ.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Baik bila evaluasi dilakukan secara berkala.",
+      "resiko": "Perburukan tidak terdeteksi bila monitoring tidak adekuat.",
+      "tata_cara": "Monitoring ketat tanda vital, status neurologis, dan evaluasi serial.",
+      "tindakan": "Tindakan Observasi Trauma Intensif",
+      "tujuan": "Mendeteksi dini komplikasi atau perburukan."
+    },
     "Tindakan Pacing Transkutan (External Pacing)": {
       "alternatif": "Pacemaker transvenous.",
       "checklist": false,
@@ -408,6 +492,20 @@
       "tata_cara": "Pemasangan alat monitoring tekanan intrakranial melalui prosedur bedah steril.",
       "tindakan": "Tindakan Pemasangan Intracranial Pressure (ICP) Monitoring",
       "tujuan": "Memantau tekanan intrakranial untuk mencegah kerusakan otak sekunder."
+    },
+    "Tindakan Pemasangan Kateter Urin": {
+      "alternatif": "Kateter intermiten.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik.",
+      "indikasi": "Retensi urin atau kebutuhan monitoring output urin.",
+      "komplikasi": "Infeksi saluran kemih.",
+      "lain_lain": "-",
+      "package": "Urologi",
+      "prognosis": "Baik bila dilakukan aseptik.",
+      "resiko": "Nyeri uretra, perdarahan ringan.",
+      "tata_cara": "Kateter dimasukkan melalui uretra dengan teknik aseptik.",
+      "tindakan": "Tindakan Pemasangan Kateter Urin",
+      "tujuan": "Mengosongkan kandung kemih dan memonitor produksi urin."
     },
     "Tindakan Pemasangan Nasogastric Tube (NGT)": {
       "alternatif": "OGT atau nutrisi parenteral.",
@@ -493,6 +591,62 @@
       "tindakan": "Tindakan Pemberian Surfaktan pada Neonatus",
       "tujuan": "Menurunkan tegangan permukaan alveoli dan memperbaiki oksigenasi."
     },
+    "Tindakan Penatalaksanaan Asma Akut Berat": {
+      "alternatif": "Terapi tambahan seperti magnesium sulfat intravena.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan evaluasi saturasi oksigen.",
+      "indikasi": "Sesak berat dengan wheezing dan penurunan fungsi paru.",
+      "komplikasi": "Gagal napas bila tidak responsif.",
+      "lain_lain": "-",
+      "package": "Respiratory Emergency",
+      "prognosis": "Baik bila terapi diberikan segera.",
+      "resiko": "Takikardia atau tremor akibat bronkodilator.",
+      "tata_cara": "Pemberian bronkodilator inhalasi berulang, kortikosteroid sistemik, dan oksigen suplemental.",
+      "tindakan": "Tindakan Penatalaksanaan Asma Akut Berat",
+      "tujuan": "Membuka jalan napas dan memperbaiki ventilasi."
+    },
+    "Tindakan Penatalaksanaan Aspirasi Paru Akut": {
+      "alternatif": "Bronkoskopi bila terdapat benda asing.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis kejadian aspirasi dan pemeriksaan klinis.",
+      "indikasi": "Kecurigaan masuknya isi lambung atau benda asing ke saluran napas.",
+      "komplikasi": "Pneumonia aspirasi.",
+      "lain_lain": "-",
+      "package": "Respiratory Emergency",
+      "prognosis": "Baik bila ditangani segera.",
+      "resiko": "Hipoksia atau gangguan pernapasan.",
+      "tata_cara": "Stabilisasi jalan napas, pemberian oksigen, dan evaluasi radiologis.",
+      "tindakan": "Tindakan Penatalaksanaan Aspirasi Paru Akut",
+      "tujuan": "Mencegah hipoksia dan infeksi paru."
+    },
+    "Tindakan Penatalaksanaan Eksaserbasi PPOK Akut": {
+      "alternatif": "Ventilasi non-invasif pada kondisi berat.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan evaluasi gas darah.",
+      "indikasi": "Peningkatan sesak dan produksi sputum pada pasien PPOK.",
+      "komplikasi": "Gagal napas hiperkapnik.",
+      "lain_lain": "-",
+      "package": "Respiratory Emergency",
+      "prognosis": "Baik dengan terapi adekuat.",
+      "resiko": "Retensi karbon dioksida akibat pemberian oksigen berlebihan.",
+      "tata_cara": "Pemberian bronkodilator, kortikosteroid, antibiotik bila indikasi, dan oksigen terkontrol.",
+      "tindakan": "Tindakan Penatalaksanaan Eksaserbasi PPOK Akut",
+      "tujuan": "Memperbaiki ventilasi dan mencegah gagal napas."
+    },
+    "Tindakan Penatalaksanaan Emboli Paru Akut": {
+      "alternatif": "Trombolisis atau embolektomi pada kasus berat.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, D-dimer, dan CT pulmonary angiography.",
+      "indikasi": "Sesak mendadak dengan kecurigaan emboli paru.",
+      "komplikasi": "Syok atau gagal jantung kanan.",
+      "lain_lain": "-",
+      "package": "Respiratory Emergency",
+      "prognosis": "Tergantung luas emboli dan stabilitas hemodinamik.",
+      "resiko": "Perdarahan akibat terapi antikoagulan.",
+      "tata_cara": "Pemberian antikoagulan segera dan terapi suportif oksigen.",
+      "tindakan": "Tindakan Penatalaksanaan Emboli Paru Akut",
+      "tujuan": "Mencegah perluasan trombus dan memperbaiki oksigenasi."
+    },
     "Tindakan Penatalaksanaan Kejang Pascatrauma": {
       "alternatif": "Observasi bila kejang tidak berulang.",
       "checklist": false,
@@ -507,6 +661,76 @@
       "tindakan": "Tindakan Penatalaksanaan Kejang Pascatrauma",
       "tujuan": "Menghentikan kejang dan mencegah cedera otak tambahan."
     },
+    "Tindakan Penatalaksanaan Status Asmatikus": {
+      "alternatif": "Ventilasi mekanik bila terjadi gagal napas.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan respons terhadap terapi bronkodilator.",
+      "indikasi": "Serangan asma berat yang tidak membaik dengan terapi awal.",
+      "komplikasi": "Gagal napas akut.",
+      "lain_lain": "-",
+      "package": "Respiratory Emergency",
+      "prognosis": "Tergantung respons terhadap terapi.",
+      "resiko": "Gangguan elektrolit atau aritmia.",
+      "tata_cara": "Terapi bronkodilator kontinu, kortikosteroid intravena, dan pemantauan ketat fungsi respirasi.",
+      "tindakan": "Tindakan Penatalaksanaan Status Asmatikus",
+      "tujuan": "Mencegah gagal napas dan komplikasi fatal."
+    },
+    "Tindakan Penatalaksanaan Syok Anafilaktik": {
+      "alternatif": "Terapi antihistamin dan steroid sebagai tambahan, bukan pengganti.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis paparan alergen dan evaluasi klinis cepat.",
+      "indikasi": "Reaksi alergi berat dengan hipotensi atau gangguan napas.",
+      "komplikasi": "Henti jantung bila terlambat ditangani.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila epinefrin diberikan segera.",
+      "resiko": "Aritmia atau hipertensi sementara.",
+      "tata_cara": "Pemberian epinefrin intramuskular segera, resusitasi cairan, dan terapi suportif.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Anafilaktik",
+      "tujuan": "Menghentikan reaksi alergi sistemik dan mempertahankan perfusi."
+    },
+    "Tindakan Penatalaksanaan Syok Hipovolemik Non-Trauma": {
+      "alternatif": "Observasi pada kondisi ringan tanpa hipotensi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan evaluasi laboratorium.",
+      "indikasi": "Hipotensi akibat kehilangan cairan atau perdarahan non-trauma.",
+      "komplikasi": "Gagal ginjal akut.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila penyebab segera diatasi.",
+      "resiko": "Kelebihan cairan.",
+      "tata_cara": "Resusitasi cairan cepat dan koreksi penyebab kehilangan cairan.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Hipovolemik Non-Trauma",
+      "tujuan": "Memulihkan volume intravaskular dan perfusi organ."
+    },
+    "Tindakan Penatalaksanaan Syok Neurogenik": {
+      "alternatif": "Monitoring ketat pada hipotensi ringan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis trauma dan evaluasi neurologis.",
+      "indikasi": "Hipotensi dan bradikardia akibat cedera medula spinalis.",
+      "komplikasi": "Gagal organ bila hipotensi berkepanjangan.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Tergantung tingkat cedera spinal.",
+      "resiko": "Aritmia atau gangguan perfusi perifer.",
+      "tata_cara": "Resusitasi cairan selektif dan pemberian vasopresor sesuai indikasi.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Neurogenik",
+      "tujuan": "Mempertahankan perfusi organ dan stabilitas hemodinamik."
+    },
+    "Tindakan Penatalaksanaan Syok Septik": {
+      "alternatif": "Terapi suportif pada kondisi sepsis tanpa syok.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis, laktat meningkat, dan tanda perfusi buruk.",
+      "indikasi": "Hipotensi persisten akibat sepsis meskipun resusitasi cairan adekuat.",
+      "komplikasi": "Gagal organ multipel.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Tergantung kecepatan intervensi dan kondisi dasar pasien.",
+      "resiko": "Aritmia atau gangguan perfusi perifer.",
+      "tata_cara": "Resusitasi cairan lanjutan, pemberian vasopresor, dan kontrol sumber infeksi.",
+      "tindakan": "Tindakan Penatalaksanaan Syok Septik",
+      "tujuan": "Mempertahankan tekanan perfusi dan mencegah kegagalan organ."
+    },
     "Tindakan Perawatan Luka Bakar Intensif": {
       "alternatif": "Perawatan rawat jalan pada luka bakar ringan.",
       "checklist": false,
@@ -520,6 +744,20 @@
       "tata_cara": "Pembersihan luka, aplikasi balutan steril, dan evaluasi jaringan secara berkala.",
       "tindakan": "Tindakan Perawatan Luka Bakar Intensif",
       "tujuan": "Mencegah infeksi dan mempercepat penyembuhan."
+    },
+    "Tindakan Primary Survey Trauma (ATLS)": {
+      "alternatif": "Tidak ada alternatif pada kondisi trauma akut.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis cepat berdasarkan prinsip ABCDE.",
+      "indikasi": "Pasien dengan trauma multipel atau trauma berat.",
+      "komplikasi": "Perburukan kondisi bila stabilisasi tidak adekuat.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Tergantung kecepatan dan ketepatan penanganan awal.",
+      "resiko": "Keterlambatan identifikasi cedera tersembunyi.",
+      "tata_cara": "Penilaian dan stabilisasi Airway, Breathing, Circulation, Disability, dan Exposure secara sistematis.",
+      "tindakan": "Tindakan Primary Survey Trauma (ATLS)",
+      "tujuan": "Mengidentifikasi dan menangani ancaman jiwa secara cepat."
     },
     "Tindakan Rekonstruksi Luka Bakar Kontraktur": {
       "alternatif": "Terapi fisik pada kasus ringan.",
@@ -605,6 +843,34 @@
       "tindakan": "Tindakan Sedasi dan Analgesia Kontinu pada Pasien Neurokritikal",
       "tujuan": "Menstabilkan kondisi neurologis dan mencegah peningkatan tekanan intrakranial."
     },
+    "Tindakan Sepsis Bundle Awal (1 Jam Pertama)": {
+      "alternatif": "Terapi suportif pada infeksi ringan tanpa disfungsi organ.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium termasuk laktat.",
+      "indikasi": "Kecurigaan sepsis dengan tanda disfungsi organ.",
+      "komplikasi": "Perburukan menjadi syok septik.",
+      "lain_lain": "-",
+      "package": "Sepsis & Shock Critical",
+      "prognosis": "Baik bila terapi diberikan dini dan adekuat.",
+      "resiko": "Reaksi alergi antibiotik atau kelebihan cairan.",
+      "tata_cara": "Pengambilan kultur sebelum antibiotik, pemberian antibiotik spektrum luas, resusitasi cairan awal, dan pemantauan laktat.",
+      "tindakan": "Tindakan Sepsis Bundle Awal (1 Jam Pertama)",
+      "tujuan": "Menghentikan progresi sepsis dan mencegah syok septik."
+    },
+    "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih": {
+      "alternatif": "Sitologi urin atau imaging lanjutan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan penunjang.",
+      "indikasi": "Kecurigaan tumor, hematuria, atau kelainan kandung kemih.",
+      "komplikasi": "Infeksi saluran kemih, cedera uretra.",
+      "lain_lain": "-",
+      "package": "Urologi",
+      "prognosis": "Baik bila dilakukan sesuai prosedur.",
+      "resiko": "Nyeri saat berkemih, perdarahan ringan.",
+      "tata_cara": "Sistoskop dimasukkan melalui uretra untuk visualisasi kandung kemih dan dilakukan pengambilan jaringan bila diperlukan.",
+      "tindakan": "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih",
+      "tujuan": "Menegakkan diagnosis melalui pemeriksaan histopatologi."
+    },
     "Tindakan Skeletal Traction": {
       "alternatif": "ORIF atau external fixation.",
       "checklist": false,
@@ -660,6 +926,48 @@
       "alternatif": "Skin graft.",
       "lain_lain": "-",
       "checklist": false
+    },
+    "Tindakan Spooling Kateter Urin (Irigasi Kateter)": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Spooling Kateter Urin (Irigasi Kateter)",
+      "indikasi": "Sumbatan kateter urin akibat bekuan darah, endapan, lendir, atau aliran urin yang tidak lancar.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, evaluasi aliran urin, dan pemeriksaan kondisi kateter.",
+      "tata_cara": "Pemasukan cairan steril melalui kateter urin secara perlahan untuk membersihkan sumbatan, kemudian cairan dikeluarkan kembali hingga aliran lancar.",
+      "tujuan": "Mengatasi sumbatan kateter dan memperlancar drainase urin.",
+      "resiko": "Rasa tidak nyaman, nyeri suprapubik ringan, atau hematuria ringan.",
+      "komplikasi": "Infeksi saluran kemih, trauma uretra atau kandung kemih, perdarahan, atau kateter tetap tersumbat.",
+      "prognosis": "Baik bila sumbatan dapat diatasi dan penyebab dasar ditangani.",
+      "alternatif": "Penggantian kateter urin atau tindakan urologi lanjutan.",
+      "lain_lain": "Bila terdapat perdarahan berulang atau bekuan banyak, dapat diperlukan evaluasi urologi lebih lanjut.",
+      "checklist": false
+    },
+    "Tindakan Stabilitas Spine Darurat": {
+      "alternatif": "Observasi bila cedera disingkirkan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis trauma, pemeriksaan neurologis, dan imaging.",
+      "indikasi": "Kecurigaan cedera tulang belakang akibat trauma.",
+      "komplikasi": "Cedera neurologis bila tidak dilakukan dengan benar.",
+      "lain_lain": "-",
+      "package": "Trauma Intensive",
+      "prognosis": "Baik bila imobilisasi cepat dan tepat.",
+      "resiko": "Rasa tidak nyaman atau tekanan kulit.",
+      "tata_cara": "Imobilisasi tulang belakang dengan collar servikal dan spinal board.",
+      "tindakan": "Tindakan Stabilisasi Spine Darurat",
+      "tujuan": "Mencegah kerusakan neurologis lebih lanjut."
+    },
+    "Tindakan TURP": {
+      "alternatif": "Terapi medik atau prosedur minimal invasif lain.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, PSA dan/atau USG.",
+      "indikasi": "Pembesaran prostat yang menyebabkan gangguan berkemih.",
+      "komplikasi": "Gangguan ejakulasi, inkontinensia.",
+      "lain_lain": "-",
+      "package": "Urologi",
+      "prognosis": "Baik pada sebagian besar pasien.",
+      "resiko": "Perdarahan, infeksi.",
+      "tata_cara": "Reseksi jaringan prostat melalui uretra menggunakan alat khusus.",
+      "tindakan": "Tindakan Transurethral Resection of Prostate (TURP)",
+      "tujuan": "Memperbaiki aliran urin."
     },
     "Tindakan Targeted Temperature Management (TTM)": {
       "alternatif": "Terapi suportif standar.",
@@ -829,6 +1137,20 @@
       "lain_lain": "Pasien perlu kembali untuk pembacaan hasil dalam 48–72 jam.",
       "checklist": false
     },
+    "Tindakan Ureterorenoskopi (URS)": {
+      "alternatif": "ESWL atau terapi konservatif.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+      "indikasi": "Batu ureter atau obstruksi saluran kemih bagian atas.",
+      "komplikasi": "Cedera ureter atau striktur.",
+      "lain_lain": "-",
+      "package": "Urologi",
+      "prognosis": "Baik bila dilakukan sesuai indikasi.",
+      "resiko": "Nyeri, perdarahan ringan.",
+      "tata_cara": "Alat dimasukkan melalui uretra menuju ureter untuk evaluasi dan penghancuran atau pengambilan batu.",
+      "tindakan": "Tindakan Ureterorenoskopi (URS)",
+      "tujuan": "Menghilangkan sumbatan dan memperbaiki aliran urin."
+    },
     "Tindakan Ventilasi Frekuensi Tinggi (High Frequency Ventilation) Neonatal": {
       "alternatif": "Ventilasi mekanik konvensional.",
       "checklist": false,
@@ -856,6 +1178,20 @@
       "tata_cara": "Pemasangan ventilator melalui pipa endotrakeal atau trakeostomi dengan pengaturan parameter sesuai kondisi pasien.",
       "tindakan": "Tindakan Ventilasi Mekanik Invasif",
       "tujuan": "Menjaga oksigenasi dan ventilasi adekuat."
+    },
+    "Tindakan Ventilasi Non-Invasif (NIV)": {
+      "alternatif": "Intubasi endotrakeal bila gagal.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis dan analisis gas darah.",
+      "indikasi": "Gagal napas akut tanpa indikasi intubasi segera.",
+      "komplikasi": "Aspirasi atau kegagalan ventilasi.",
+      "lain_lain": "-",
+      "package": "Respiratory Emergency",
+      "prognosis": "Baik bila pasien kooperatif dan responsif.",
+      "resiko": "Ketidaknyamanan atau kebocoran masker.",
+      "tata_cara": "Pemasangan masker ventilasi dengan tekanan positif sesuai protokol.",
+      "tindakan": "Tindakan Ventilasi Non-Invasif (NIV)",
+      "tujuan": "Meningkatkan ventilasi dan oksigenasi tanpa intubasi."
     },
     "Tindakan Washout Sendi Septik (Septic Joint Debridement)": {
       "alternatif": "Aspirasi serial dan antibiotik pada kasus ringan.",
