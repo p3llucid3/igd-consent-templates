@@ -3124,6 +3124,20 @@
       "alternatif": "Percutaneous Endoscopic Gastrostomy (PEG), Nasogastric Tube (NGT) untuk kebutuhan jangka pendek",
       "lain_lain": "-",
       "checklist": false
-    }
+    },
+  "Tindakan Cross Insisi": {
+    "package": "Bedah Umum",
+    "tindakan": "Tindakan Cross Insisi",
+    "indikasi": "Luka tusuk (vulnus ictum) dengan kecurigaan adanya benda asing (corpus alienum) tertahan di dalam jaringan, atau luka dengan lubang masuk sempit yang menyulitkan eksplorasi dan evakuasi benda asing secara langsung",
+    "dasar_diagnosis": "Anamnesis mekanisme cedera, pemeriksaan fisik luka, dan/atau pemeriksaan penunjang (foto polos atau USG) untuk mengidentifikasi keberadaan dan lokasi benda asing",
+    "tata_cara": "Dilakukan anestesi lokal, kemudian insisi silang (cross incision) pada lubang luka untuk memperluas akses, dilanjutkan eksplorasi jaringan dan evakuasi benda asing serta jaringan nonviabel, irigasi luka, dan penutupan luka sesuai kondisi",
+    "tujuan": "Memperluas akses ke dasar luka untuk memastikan benda asing dan jaringan nekrotik terangkat seluruhnya serta mencegah infeksi",
+    "resiko": "Nyeri, perdarahan, cedera struktur di bawah kulit (saraf, pembuluh darah, tendon) bila luka dalam",
+    "komplikasi": "Infeksi luka, benda asing tertinggal bila evakuasi tidak lengkap, jaringan parut",
+    "prognosis": "Baik bila evakuasi benda asing lengkap dan luka dirawat sesuai anjuran",
+    "alternatif": "Eksplorasi luka tanpa insisi silang pada luka dengan akses yang sudah adekuat, atau eksplorasi bedah lebih luas bila benda asing letaknya dalam/kompleks",
+    "lain_lain": "-",
+    "checklist": false
+  }
   }
 }
