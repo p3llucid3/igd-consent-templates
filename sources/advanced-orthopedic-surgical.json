@@ -1,0 +1,72 @@
+{
+  "Tindakan Arthroscopy Sendi": {
+    "alternatif": "Operasi terbuka.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan MRI.",
+    "indikasi": "Cedera intraartikular seperti robekan meniskus atau ligamentum.",
+    "komplikasi": "Infeksi sendi atau perdarahan.",
+    "lain_lain": "-",
+    "package": "Advanced Orthopedic Surgical",
+    "prognosis": "Baik dengan rehabilitasi adekuat.",
+    "resiko": "Nyeri pascatindakan.",
+    "tata_cara": "Pemasukan kamera kecil ke dalam sendi melalui sayatan kecil untuk evaluasi dan tindakan.",
+    "tindakan": "Tindakan Arthroscopy Sendi",
+    "tujuan": "Diagnosis dan perbaikan kelainan intraartikular secara minimal invasif."
+  },
+  "Tindakan Skeletal Traction": {
+    "alternatif": "ORIF atau external fixation.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+    "indikasi": "Fraktur femur atau fraktur tidak stabil yang memerlukan traksi jangka menengah.",
+    "komplikasi": "Infeksi pada tempat pin atau cedera saraf.",
+    "lain_lain": "-",
+    "package": "Advanced Orthopedic Surgical",
+    "prognosis": "Baik bila perawatan pin site adekuat.",
+    "resiko": "Nyeri dan perdarahan ringan.",
+    "tata_cara": "Pemasangan pin atau kawat pada tulang dengan pemberian beban traksi terkontrol.",
+    "tindakan": "Tindakan Skeletal Traction",
+    "tujuan": "Menjaga alignment tulang dan mengurangi spasme otot."
+  },
+  "Tindakan Total Hip Replacement": {
+    "alternatif": "Hemiarthroplasty atau terapi konservatif.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+    "indikasi": "Kerusakan sendi panggul berat akibat osteoartritis atau fraktur kompleks.",
+    "komplikasi": "Infeksi prostesis atau dislokasi.",
+    "lain_lain": "-",
+    "package": "Advanced Orthopedic Surgical",
+    "prognosis": "Baik dengan rehabilitasi adekuat.",
+    "resiko": "Perdarahan atau risiko anestesi.",
+    "tata_cara": "Penggantian seluruh sendi panggul dengan prostesis.",
+    "tindakan": "Tindakan Total Hip Replacement",
+    "tujuan": "Mengurangi nyeri dan memperbaiki fungsi sendi."
+  },
+  "Tindakan Total Knee Replacement": {
+    "alternatif": "Terapi konservatif atau osteotomi.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan radiologi.",
+    "indikasi": "Osteoartritis lutut berat dengan gangguan fungsi signifikan.",
+    "komplikasi": "Infeksi atau kekakuan sendi.",
+    "lain_lain": "-",
+    "package": "Advanced Orthopedic Surgical",
+    "prognosis": "Baik dengan rehabilitasi yang terarah.",
+    "resiko": "Perdarahan atau nyeri pascaoperasi.",
+    "tata_cara": "Penggantian permukaan sendi lutut dengan prostesis.",
+    "tindakan": "Tindakan Total Knee Replacement",
+    "tujuan": "Mengurangi nyeri dan meningkatkan mobilitas."
+  },
+  "Tindakan Washout Sendi Septik (Septic Joint Debridement)": {
+    "alternatif": "Aspirasi serial dan antibiotik pada kasus ringan.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, aspirasi sendi, dan laboratorium.",
+    "indikasi": "Artritis septik dengan akumulasi cairan purulen.",
+    "komplikasi": "Kekakuan sendi atau infeksi berulang.",
+    "lain_lain": "-",
+    "package": "Advanced Orthopedic Surgical",
+    "prognosis": "Baik bila ditangani dini.",
+    "resiko": "Perdarahan ringan.",
+    "tata_cara": "Irigasi dan pembersihan sendi secara bedah untuk mengeluarkan pus dan jaringan terinfeksi.",
+    "tindakan": "Tindakan Washout Sendi Septik",
+    "tujuan": "Menghentikan infeksi dan mencegah kerusakan permanen sendi."
+  }
+}

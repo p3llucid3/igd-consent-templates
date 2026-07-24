@@ -1,0 +1,72 @@
+{
+  "Tindakan Continuous Renal Replacement Therapy (CRRT)": {
+    "alternatif": "Hemodialisa intermiten.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis, pemeriksaan laboratorium fungsi ginjal, dan kondisi hemodinamik.",
+    "indikasi": "Gagal ginjal akut pada pasien kritis dengan instabilitas hemodinamik.",
+    "komplikasi": "Infeksi akses vaskular atau gangguan elektrolit.",
+    "lain_lain": "-",
+    "package": "Advanced ICU Technology",
+    "prognosis": "Tergantung penyakit dasar dan respons terapi.",
+    "resiko": "Perdarahan akibat antikoagulan.",
+    "tata_cara": "Pemasangan akses vaskular sentral dan penyaringan darah secara kontinu menggunakan mesin CRRT.",
+    "tindakan": "Tindakan Continuous Renal Replacement Therapy (CRRT)",
+    "tujuan": "Menggantikan fungsi ginjal secara bertahap dan stabil."
+  },
+  "Tindakan Extracorporeal Membrane Oxygenation (ECMO)": {
+    "alternatif": "Ventilasi mekanik atau inotropik maksimal.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis, analisis gas darah, dan ekokardiografi.",
+    "indikasi": "Gagal napas atau gagal jantung refrakter terhadap terapi maksimal.",
+    "komplikasi": "Trombosis atau infeksi.",
+    "lain_lain": "-",
+    "package": "Advanced ICU Technology",
+    "prognosis": "Sebagai terapi penunjang pada kondisi sangat kritis.",
+    "resiko": "Perdarahan berat.",
+    "tata_cara": "Kanulasi pembuluh darah besar dan sirkulasi darah melalui mesin oksigenator eksternal.",
+    "tindakan": "Tindakan Extracorporeal Membrane Oxygenation (ECMO)",
+    "tujuan": "Memberikan dukungan sirkulasi dan oksigenasi sementara."
+  },
+  "Tindakan Monitoring Hemodinamik Lanjutan (Advanced Hemodynamic Monitoring)": {
+    "alternatif": "Monitoring klinis dan non-invasif.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan kebutuhan monitoring invasif.",
+    "indikasi": "Syok atau instabilitas hemodinamik kompleks.",
+    "komplikasi": "Gangguan vaskular lokal.",
+    "lain_lain": "-",
+    "package": "Advanced ICU Technology",
+    "prognosis": "Baik bila digunakan untuk terapi terarah.",
+    "resiko": "Perdarahan atau infeksi.",
+    "tata_cara": "Pemasangan perangkat monitoring untuk evaluasi curah jantung dan parameter hemodinamik lanjutan.",
+    "tindakan": "Tindakan Monitoring Hemodinamik Lanjutan",
+    "tujuan": "Mengoptimalkan terapi cairan dan obat vasoaktif."
+  },
+  "Tindakan Targeted Temperature Management (TTM)": {
+    "alternatif": "Terapi suportif standar.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis pasca resusitasi.",
+    "indikasi": "Pasien pasca henti jantung dengan penurunan kesadaran.",
+    "komplikasi": "Aritmia atau infeksi.",
+    "lain_lain": "-",
+    "package": "Advanced ICU Technology",
+    "prognosis": "Meningkatkan peluang luaran neurologis baik.",
+    "resiko": "Gangguan elektrolit.",
+    "tata_cara": "Pengendalian suhu tubuh secara terkontrol menggunakan perangkat pendingin eksternal atau intravaskular.",
+    "tindakan": "Tindakan Targeted Temperature Management (TTM)",
+    "tujuan": "Mengurangi kerusakan neurologis pasca henti jantung."
+  },
+  "Tindakan Ventilasi Mekanik Invasif": {
+    "alternatif": "Ventilasi non-invasif pada kondisi yang sesuai.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan analisis gas darah menunjukkan kegagalan respirasi.",
+    "indikasi": "Gagal napas berat yang memerlukan kontrol ventilasi penuh.",
+    "komplikasi": "Ventilator-associated pneumonia.",
+    "lain_lain": "-",
+    "package": "Advanced ICU Technology",
+    "prognosis": "Tergantung penyakit dasar dan respons terapi.",
+    "resiko": "Barotrauma atau volutrauma.",
+    "tata_cara": "Pemasangan ventilator melalui pipa endotrakeal atau trakeostomi dengan pengaturan parameter sesuai kondisi pasien.",
+    "tindakan": "Tindakan Ventilasi Mekanik Invasif",
+    "tujuan": "Menjaga oksigenasi dan ventilasi adekuat."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "Tindakan Bladder Irrigation": {
+    "alternatif": "Penggantian kateter.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis dan observasi output urin.",
+    "indikasi": "Hematuria dengan bekuan darah atau sumbatan kateter urin.",
+    "komplikasi": "Infeksi saluran kemih.",
+    "lain_lain": "-",
+    "package": "Bedside Minor Procedures",
+    "prognosis": "Baik bila dilakukan aseptik.",
+    "resiko": "Nyeri suprapubik ringan.",
+    "tata_cara": "Pembilasan kandung kemih melalui kateter dengan cairan steril sesuai protokol.",
+    "tindakan": "Tindakan Bladder Irrigation",
+    "tujuan": "Mencegah obstruksi dan menjaga patensi kateter."
+  },
+  "Tindakan Enema Terapeutik": {
+    "alternatif": "Laksatif oral.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis gangguan eliminasi.",
+    "indikasi": "Konstipasi berat atau persiapan prosedur diagnostik tertentu.",
+    "komplikasi": "Iritasi mukosa rektum.",
+    "lain_lain": "-",
+    "package": "Bedside Minor Procedures",
+    "prognosis": "Baik bila digunakan sesuai indikasi.",
+    "resiko": "Kram perut ringan.",
+    "tata_cara": "Pemberian cairan melalui rektum sesuai protokol medis.",
+    "tindakan": "Tindakan Enema Terapeutik",
+    "tujuan": "Merangsang defekasi dan mengosongkan kolon distal."
+  },
+  "Tindakan Negative Pressure Wound Therapy (NPWT / Wound VAC)": {
+    "alternatif": "Perawatan luka konvensional.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis luka dan kondisi jaringan.",
+    "indikasi": "Luka kronis atau luka besar yang memerlukan stimulasi penyembuhan.",
+    "komplikasi": "Infeksi atau perdarahan ringan.",
+    "lain_lain": "-",
+    "package": "Bedside Minor Procedures",
+    "prognosis": "Baik bila pemantauan adekuat.",
+    "resiko": "Nyeri saat penggantian balutan.",
+    "tata_cara": "Pemasangan dressing khusus dengan sistem tekanan negatif terkontrol.",
+    "tindakan": "Tindakan Negative Pressure Wound Therapy (NPWT)",
+    "tujuan": "Mempercepat penyembuhan dan mengurangi eksudat."
+  },
+  "Tindakan Pemasangan Nasogastric Tube (NGT)": {
+    "alternatif": "OGT atau nutrisi parenteral.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis kebutuhan dekompresi atau nutrisi enteral.",
+    "indikasi": "Dekompresi lambung atau pemberian nutrisi/obat melalui hidung.",
+    "komplikasi": "Aspirasi atau salah posisi selang.",
+    "lain_lain": "-",
+    "package": "Bedside Minor Procedures",
+    "prognosis": "Baik bila posisi terkonfirmasi.",
+    "resiko": "Rasa tidak nyaman atau epistaksis ringan.",
+    "tata_cara": "Pemasangan selang melalui hidung menuju lambung dengan teknik aseptik dan konfirmasi posisi.",
+    "tindakan": "Tindakan Pemasangan Nasogastric Tube (NGT)",
+    "tujuan": "Mengosongkan lambung atau memberikan nutrisi enteral."
+  },
+  "Tindakan Pemasangan Rectal Tube": {
+    "alternatif": "Manajemen konservatif.",
+    "checklist": false,
+    "dasar_diagnosis": "Evaluasi klinis distensi atau kebutuhan drainase feses.",
+    "indikasi": "Distensi abdomen akibat retensi gas atau inkontinensia feses berat.",
+    "komplikasi": "Iritasi mukosa atau trauma rektum.",
+    "lain_lain": "-",
+    "package": "Bedside Minor Procedures",
+    "prognosis": "Baik bila digunakan sesuai indikasi.",
+    "resiko": "Ketidaknyamanan lokal.",
+    "tata_cara": "Pemasangan selang rektal secara aseptik untuk drainase gas atau feses.",
+    "tindakan": "Tindakan Pemasangan Rectal Tube",
+    "tujuan": "Mengurangi distensi dan menjaga kebersihan perineal."
+  }
+}
