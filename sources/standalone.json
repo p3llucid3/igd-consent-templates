@@ -1,0 +1,16 @@
+{
+  "Tindakan Lain-Lain (Tidak Tercantum dalam Daftar)": {
+    "package": "Standalone",
+    "tindakan": "Tindakan Lain-Lain (Tidak Tercantum dalam Daftar)",
+    "indikasi": "Kondisi medis yang memerlukan tindakan yang belum tercantum dalam sistem.",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang sesuai kondisi klinis.",
+    "tata_cara": "Tindakan medis akan dilakukan sesuai standar profesi dan indikasi yang berlaku.",
+    "tujuan": "Menangani kondisi pasien sesuai kebutuhan medis.",
+    "resiko": "Risiko akan dijelaskan sesuai jenis tindakan yang dilakukan.",
+    "komplikasi": "Komplikasi yang mungkin timbul akan dijelaskan sesuai prosedur.",
+    "prognosis": "Tergantung kondisi dasar dan respons pasien terhadap terapi.",
+    "alternatif": "Alternatif tindakan akan dijelaskan sesuai situasi klinis.",
+    "lain_lain": "Penjelasan tambahan akan dituliskan sesuai tindakan spesifik yang dilakukan.",
+    "checklist": false
+  }
+}
