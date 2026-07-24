@@ -3,6 +3,34 @@
   "version": "1.2.4",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
+    "Tindakan Akses Intraoseus": {
+      "alternatif": "Vena seksi atau CVC.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis emergensi.",
+      "indikasi": "Kondisi gawat darurat dengan kesulitan akses vena.",
+      "komplikasi": "Infeksi tulang atau ekstravasasi.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik pada kondisi darurat.",
+      "resiko": "Nyeri lokal.",
+      "tata_cara": "Pemasangan jarum khusus ke rongga tulang untuk akses sirkulasi.",
+      "tindakan": "Tindakan Akses Intraoseus",
+      "tujuan": "Memberikan cairan dan obat secara cepat."
+    },
+    "Tindakan Amputasi": {
+      "alternatif": "Rekonstruksi bila memungkinkan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi/laboratorium.",
+      "indikasi": "Infeksi berat, iskemia, trauma tidak dapat direkonstruksi.",
+      "komplikasi": "Infeksi, phantom limb pain.",
+      "lain_lain": "-",
+      "package": "Orthopedi",
+      "prognosis": "Tergantung kondisi dasar pasien.",
+      "resiko": "Perdarahan, nyeri.",
+      "tata_cara": "Pengangkatan bagian ekstremitas dengan teknik bedah sesuai standar.",
+      "tindakan": "Tindakan Amputasi Ekstremitas",
+      "tujuan": "Menyelamatkan nyawa dan mencegah penyebaran infeksi."
+    },
     "Tindakan Arthroscopy Sendi": {
       "alternatif": "Operasi terbuka.",
       "checklist": false,
@@ -16,6 +44,20 @@
       "tata_cara": "Pemasukan kamera kecil ke dalam sendi melalui sayatan kecil untuk evaluasi dan tindakan.",
       "tindakan": "Tindakan Arthroscopy Sendi",
       "tujuan": "Diagnosis dan perbaikan kelainan intraartikular secara minimal invasif."
+    },
+    "Tindakan Aspirasi Kista Ganglion": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Aspirasi Kista Ganglion",
+      "indikasi": "Kista ganglion nyeri atau mengganggu fungsi.",
+      "dasar_diagnosis": "Pemeriksaan fisik dan/atau USG.",
+      "tata_cara": "Aspirasi cairan dengan jarum steril.",
+      "tujuan": "Mengurangi ukuran dan nyeri.",
+      "resiko": "Nyeri lokal.",
+      "komplikasi": "Rekurensi.",
+      "prognosis": "Baik.",
+      "alternatif": "Eksisi bedah.",
+      "lain_lain": "-",
+      "checklist": false
     },
     "Tindakan Bilevel Positive Airway Pressure (BiPAP)": {
       "alternatif": "Ventilasi invasif.",
@@ -70,6 +112,20 @@
       "komplikasi": "Pneumotoraks atau kegagalan terapi.",
       "prognosis": "Baik bila diberikan sesuai indikasi.",
       "alternatif": "Ventilator mekanik bila diperlukan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan CVC Removal": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Pelepasan Central Venous Catheter (CVC)",
+      "indikasi": "Terapi selesai atau dicurigai infeksi kateter.",
+      "dasar_diagnosis": "Evaluasi klinis dan kebutuhan terapi.",
+      "tata_cara": "Pelepasan kateter dengan teknik steril dan kompresi adekuat.",
+      "tujuan": "Menghentikan akses sentral.",
+      "resiko": "Perdarahan lokal.",
+      "komplikasi": "Emboli udara (jarang).",
+      "prognosis": "Baik.",
+      "alternatif": "-",
       "lain_lain": "-",
       "checklist": false
     },
@@ -353,6 +409,76 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Gastrektomi (Reseksi Lambung)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Gastrektomi (Reseksi Lambung)",
+      "indikasi": "Karsinoma lambung, ulkus peptikum perforasi atau refrakter, perdarahan gaster masif yang tidak terkontrol, atau tumor gaster jinak yang luas",
+      "dasar_diagnosis": "Endoskopi dengan biopsi, pencitraan (CT scan abdomen), dan/atau temuan intraoperatif yang mengonfirmasi patologi lambung",
+      "tata_cara": "Reseksi sebagian (subtotal) atau seluruh (total) lambung melalui pendekatan laparotomi atau laparoskopi, dilanjutkan rekonstruksi saluran cerna (misalnya Billroth I/II atau Roux-en-Y)",
+      "tujuan": "Mengangkat jaringan patologis, mengendalikan perdarahan atau perforasi, dan memulihkan kontinuitas saluran cerna",
+      "resiko": "Perdarahan, infeksi luka operasi, kebocoran anastomosis, cedera organ sekitar (limpa, pankreas, duktus biliaris)",
+      "komplikasi": "Dumping syndrome, defisiensi nutrisi (vitamin B12, besi), striktur anastomosis, abses intraabdomen, sepsis",
+      "prognosis": "Bergantung pada stadium penyakit dasar dan kondisi umum pasien; pemulihan fungsional umumnya baik pada kasus non-keganasan",
+      "alternatif": "Terapi endoskopik (untuk lesi dini), kemoterapi/radioterapi neoadjuvan-adjuvan pada keganasan, tata laksana konservatif bila risiko operasi tinggi",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Gastrostomi Bedah (Surgical Gastrostomy)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Gastrostomi Bedah (Surgical Gastrostomy)",
+      "indikasi": "Kebutuhan nutrisi enteral jangka panjang pada pasien dengan gangguan menelan berat atau obstruksi esofagus, ketika pemasangan PEG endoskopik tidak memungkinkan",
+      "dasar_diagnosis": "Evaluasi klinis kesulitan menelan/asupan oral, dan penilaian anatomi yang mengontraindikasikan pendekatan endoskopik",
+      "tata_cara": "Pembuatan lubang pada dinding lambung yang difiksasi ke dinding abdomen melalui laparotomi atau laparoskopi, kemudian dipasang selang gastrostomi",
+      "tujuan": "Menyediakan akses nutrisi enteral jangka panjang yang aman",
+      "resiko": "Perdarahan, infeksi luka operasi, kebocoran isi lambung ke rongga peritoneum",
+      "komplikasi": "Peritonitis, dislodgement selang, infeksi stoma, granulasi jaringan berlebih di sekitar stoma",
+      "prognosis": "Baik dengan perawatan stoma yang adekuat",
+      "alternatif": "Percutaneous Endoscopic Gastrostomy (PEG), Nasogastric Tube (NGT) untuk kebutuhan jangka pendek",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Hemiarthroplasty": {
+      "alternatif": "Total hip replacement atau terapi konservatif.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "indikasi": "Fraktur leher femur atau kerusakan sendi berat.",
+      "komplikasi": "Infeksi prostesis, dislokasi prostesis.",
+      "lain_lain": "-",
+      "package": "Orthopedi",
+      "prognosis": "Baik dengan rehabilitasi adekuat.",
+      "resiko": "Perdarahan, risiko anestesi.",
+      "tata_cara": "Penggantian sebagian sendi dengan prostesis.",
+      "tindakan": "Tindakan Hemiarthroplasty",
+      "tujuan": "Mengembalikan fungsi sendi dan mengurangi nyeri."
+    },
+    "Tindakan Hemodialisa": {
+      "alternatif": "Dialisis peritoneal.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan laboratorium.",
+      "indikasi": "Gagal ginjal akut atau kronis dengan indikasi dialisis.",
+      "komplikasi": "Infeksi akses vaskular.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Tergantung penyakit dasar.",
+      "resiko": "Hipotensi, kram otot.",
+      "tata_cara": "Proses penyaringan darah menggunakan mesin dialisis.",
+      "tindakan": "Tindakan Hemodialisa",
+      "tujuan": "Menggantikan fungsi ginjal dalam menyaring darah."
+    },
+    "Tindakan Hepatektomi (Reseksi Hati)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Hepatektomi (Reseksi Hati)",
+      "indikasi": "Karsinoma hepatoseluler, metastasis hati yang resektabel, trauma hati berat, atau lesi jinak hati simtomatik yang luas",
+      "dasar_diagnosis": "Pencitraan (CT/MRI abdomen dengan kontras), pemeriksaan fungsi hati, dan biopsi bila diperlukan",
+      "tata_cara": "Reseksi segmen atau lobus hati yang terlibat melalui laparotomi, dengan kontrol perdarahan intraoperatif (teknik Pringle bila diperlukan)",
+      "tujuan": "Mengangkat jaringan hati yang patologis dengan tetap mempertahankan fungsi hati yang adekuat",
+      "resiko": "Perdarahan masif, gagal hati pascaoperasi, kebocoran empedu, infeksi",
+      "komplikasi": "Gagal hati, abses subfrenik, fistula bilier, ascites, sepsis",
+      "prognosis": "Bergantung pada cadangan fungsi hati praoperasi, luas reseksi, dan stadium penyakit dasar",
+      "alternatif": "Ablasi tumor (RFA/MWA), transplantasi hati pada kasus tertentu, terapi sistemik pada penyakit tidak resektabel",
+      "lain_lain": "-",
+      "checklist": false
+    },
     "Tindakan High Flow Nasal Cannula (HFNC)": {
       "alternatif": "CPAP, BiPAP, atau ventilasi invasif.",
       "checklist": false,
@@ -436,6 +562,34 @@
       "tata_cara": "Pemberian kejutan listrik tersinkronisasi dengan kompleks QRS.",
       "tindakan": "Tindakan Kardioversi Sinkron",
       "tujuan": "Mengembalikan irama jantung normal."
+    },
+    "Tindakan Kolektomi (Reseksi Usus Besar)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Kolektomi (Reseksi Usus Besar)",
+      "indikasi": "Karsinoma kolon, penyakit divertikular dengan komplikasi (perforasi, abses, fistula), volvulus, iskemia usus, atau kolitis fulminan",
+      "dasar_diagnosis": "Kolonoskopi dengan biopsi, CT scan abdomen, dan temuan klinis yang mendukung patologi kolon",
+      "tata_cara": "Reseksi segmen kolon yang terlibat (hemikolektomi kanan/kiri, sigmoidektomi, atau kolektomi total) melalui laparotomi atau laparoskopi, dengan atau tanpa pembuatan stoma sementara",
+      "tujuan": "Mengangkat jaringan patologis, mengatasi obstruksi atau perforasi, dan mencegah penyebaran penyakit",
+      "resiko": "Perdarahan, kebocoran anastomosis, infeksi luka operasi, cedera ureter atau organ sekitar",
+      "komplikasi": "Abses intraabdomen, sepsis, ileus paralitik berkepanjangan, kebutuhan stoma permanen",
+      "prognosis": "Bervariasi tergantung stadium penyakit dan kondisi umum pasien; tindakan elektif umumnya memiliki prognosis lebih baik dibanding kasus emergensi",
+      "alternatif": "Reseksi endoskopik pada lesi dini, tata laksana konservatif pada kondisi tertentu, kemoterapi pada keganasan lanjut",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Kolostomi (Pembuatan Stoma Usus Besar)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Kolostomi (Pembuatan Stoma Usus Besar)",
+      "indikasi": "Obstruksi kolon distal, perforasi kolon, trauma kolorektal, atau proteksi anastomosis kolorektal risiko tinggi",
+      "dasar_diagnosis": "Temuan klinis dan radiologis obstruksi/perforasi, atau keputusan intraoperatif berdasarkan kondisi usus",
+      "tata_cara": "Pembuatan lubang stoma pada dinding abdomen dengan mengeluarkan segmen kolon proksimal ke permukaan kulit sebagai jalur pengeluaran feses sementara atau permanen",
+      "tujuan": "Mengalihkan aliran feses untuk melindungi area distal yang bermasalah atau anastomosis, serta menurunkan tekanan intraluminal",
+      "resiko": "Iskemia atau nekrosis stoma, perdarahan, infeksi luka operasi, prolaps atau retraksi stoma",
+      "komplikasi": "Hernia parastomal, striktur stoma, iritasi kulit peristomal, gangguan psikososial",
+      "prognosis": "Baik, dengan kemungkinan reversal (penutupan stoma) pada kasus temporer setelah kondisi dasar teratasi",
+      "alternatif": "Ileostomi (tergantung lokasi patologi), anastomosis primer bila kondisi usus memungkinkan",
+      "lain_lain": "Pasien dan keluarga memerlukan edukasi perawatan stoma sebelum pemulangan",
+      "checklist": false
     },
     "Tindakan Kontrol Sumber Infeksi": {
       "alternatif": "Antibiotik saja pada infeksi tanpa koleksi.",
@@ -591,6 +745,34 @@
       "tindakan": "Tindakan Negative Pressure Wound Therapy (NPWT)",
       "tujuan": "Mempercepat penyembuhan dan mengurangi eksudat."
     },
+    "Tindakan OREF": {
+      "alternatif": "ORIF atau imobilisasi konservatif.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "indikasi": "Fraktur terbuka atau fraktur kompleks.",
+      "komplikasi": "Infeksi pin site, mal-union.",
+      "lain_lain": "-",
+      "package": "Orthopedi",
+      "prognosis": "Baik dengan perawatan luka optimal.",
+      "resiko": "Nyeri, perdarahan.",
+      "tata_cara": "Reduksi tulang dan pemasangan external fixator.",
+      "tindakan": "Open Reduction and External Fixation (OREF)",
+      "tujuan": "Menstabilkan tulang sambil mempertahankan akses luka."
+    },
+    "Tindakan ORIF": {
+      "alternatif": "Imobilisasi konservatif atau external fixator.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "indikasi": "Fraktur tidak stabil atau bergeser.",
+      "komplikasi": "Infeksi, non-union, mal-union.",
+      "lain_lain": "-",
+      "package": "Orthopedi",
+      "prognosis": "Baik bila fiksasi stabil dan rehabilitasi adekuat.",
+      "resiko": "Perdarahan, nyeri, risiko anestesi.",
+      "tata_cara": "Reduksi terbuka tulang dan fiksasi menggunakan plate, screw, atau nail.",
+      "tindakan": "Open Reduction and Internal Fixation (ORIF)",
+      "tujuan": "Memperbaiki posisi tulang untuk penyembuhan optimal."
+    },
     "Tindakan Observasi Bayi Risiko Tinggi": {
       "alternatif": "Perawatan NICU bila kondisi memburuk.",
       "checklist": false,
@@ -661,6 +843,34 @@
       "tindakan": "Tindakan Pacing Transkutan (External Pacing)",
       "tujuan": "Menstimulasi jantung secara sementara."
     },
+    "Tindakan Parasentesis": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Parasentesis",
+      "indikasi": "Asites yang memerlukan pengambilan cairan untuk diagnosis atau pengurangan keluhan seperti perut tegang dan sesak.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang seperti USG abdomen.",
+      "tata_cara": "Jarum atau kateter dimasukkan ke rongga perut dengan teknik steril untuk mengambil cairan asites sesuai indikasi.",
+      "tujuan": "Mendapatkan sampel cairan untuk pemeriksaan atau mengurangi tekanan akibat penumpukan cairan di rongga perut.",
+      "resiko": "Nyeri lokal, perdarahan ringan, atau keluar cairan dari bekas tusukan.",
+      "komplikasi": "Perdarahan intraabdomen, infeksi, hipotensi, atau cedera organ sekitar.",
+      "prognosis": "Baik bila dilakukan sesuai indikasi dan dengan pemantauan adekuat.",
+      "alternatif": "Terapi medikamentosa seperti diuretik atau observasi sesuai kondisi klinis.",
+      "lain_lain": "Pada pengeluaran cairan dalam jumlah besar, pasien perlu pemantauan tekanan darah dan kondisi umum.",
+      "checklist": false
+    },
+    "Tindakan Pelepasan Water Seal Drain (WSD)": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Pelepasan Water Seal Drain (WSD)",
+      "indikasi": "Resolusi pneumotoraks atau efusi pleura.",
+      "dasar_diagnosis": "Evaluasi klinis dan radiologi.",
+      "tata_cara": "Pelepasan drain dengan teknik steril dan penutupan luka.",
+      "tujuan": "Mengakhiri drainase pleura.",
+      "resiko": "Nyeri lokal.",
+      "komplikasi": "Rekurensi pneumotoraks.",
+      "prognosis": "Baik.",
+      "alternatif": "Observasi lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
     "Tindakan Pemasangan Arterial Line": {
       "alternatif": "Monitoring non-invasif.",
       "checklist": false,
@@ -675,6 +885,20 @@
       "tindakan": "Tindakan Pemasangan Arterial Line",
       "tujuan": "Monitoring tekanan darah real-time dan akses sampling darah."
     },
+    "Tindakan Pemasangan Central Venous Catheter (CVC)": {
+      "alternatif": "Akses vena perifer atau intraoseus.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis berdasarkan kebutuhan terapi.",
+      "indikasi": "Kebutuhan akses vena sentral untuk terapi cairan, obat vasoaktif, atau hemodialisa.",
+      "komplikasi": "Pneumotoraks, infeksi, emboli udara.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik bila dilakukan dengan teknik steril.",
+      "resiko": "Nyeri lokal, perdarahan.",
+      "tata_cara": "Kateter dimasukkan ke vena besar dengan teknik aseptik dan panduan anatomi atau ultrasonografi.",
+      "tindakan": "Tindakan Pemasangan Central Venous Catheter (CVC)",
+      "tujuan": "Memberikan akses vaskular sentral yang stabil."
+    },
     "Tindakan Pemasangan External Ventricular Drain (EVD)": {
       "alternatif": "Terapi medikamentosa penurun tekanan intrakranial.",
       "checklist": false,
@@ -688,6 +912,20 @@
       "tata_cara": "Pemasangan kateter ke ventrikel lateral melalui prosedur bedah steril untuk drainase cairan serebrospinal.",
       "tindakan": "Tindakan Pemasangan External Ventricular Drain (EVD)",
       "tujuan": "Menurunkan tekanan intrakranial dan mengalirkan cairan serebrospinal."
+    },
+    "Tindakan Pemasangan Gips": {
+      "alternatif": "Splint atau operasi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "indikasi": "Fraktur stabil atau pasca reposisi.",
+      "komplikasi": "Sindrom kompartemen.",
+      "lain_lain": "-",
+      "package": "Orthopedi",
+      "prognosis": "Baik bila pemantauan adekuat.",
+      "resiko": "Nyeri, tekanan lokal.",
+      "tata_cara": "Imobilisasi dengan gips sesuai anatomi.",
+      "tindakan": "Tindakan Pemasangan Gips",
+      "tujuan": "Menjaga stabilitas tulang selama penyembuhan."
     },
     "Tindakan Pemasangan ICP Monitoring": {
       "alternatif": "Monitoring klinis dan imaging serial.",
@@ -717,6 +955,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Pemasangan K-Wire (Kirschner Wire)": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Pemasangan K-Wire (Kirschner Wire)",
+      "indikasi": "Fraktur, dislokasi, atau cedera tulang dan sendi yang memerlukan fiksasi sementara maupun definitif untuk mempertahankan posisi tulang selama proses penyembuhan.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan radiologi seperti foto rontgen atau CT scan sesuai indikasi.",
+      "tata_cara": "Pemasangan kawat Kirschner (K-Wire) melalui kulit atau melalui sayatan kecil dengan bantuan fluoroskopi atau panduan radiologi hingga mencapai posisi tulang yang diinginkan. Setelah posisi tulang stabil, kawat dipertahankan sesuai kebutuhan dan luka ditutup sesuai prosedur.",
+      "tujuan": "Menstabilkan fragmen tulang atau sendi sehingga proses penyembuhan berlangsung dengan posisi yang baik dan fungsi anggota gerak dapat dipulihkan.",
+      "resiko": "Nyeri, perdarahan ringan, infeksi pada lokasi pemasangan, atau iritasi jaringan sekitar.",
+      "komplikasi": "Infeksi pin tract, pergeseran atau patahnya kawat, cedera saraf atau pembuluh darah, keterlambatan penyatuan tulang, atau kekakuan sendi.",
+      "prognosis": "Umumnya baik bila tindakan dilakukan sesuai indikasi, posisi tulang stabil, dan pasien mengikuti program kontrol serta rehabilitasi.",
+      "alternatif": "Imobilisasi konservatif dengan gips atau splint, pemasangan plate dan screw (ORIF), external fixator, atau tindakan lain sesuai jenis fraktur dan kondisi pasien.",
+      "lain_lain": "Kawat dapat dilepas setelah dinilai penyembuhan tulang telah memadai berdasarkan evaluasi klinis dan radiologi.",
+      "checklist": false
+    },
     "Tindakan Pemasangan Kateter Urin": {
       "alternatif": "Kateter intermiten.",
       "checklist": false,
@@ -744,6 +996,20 @@
       "tata_cara": "Pemasangan selang melalui hidung menuju lambung dengan teknik aseptik dan konfirmasi posisi.",
       "tindakan": "Tindakan Pemasangan Nasogastric Tube (NGT)",
       "tujuan": "Mengosongkan lambung atau memberikan nutrisi enteral."
+    },
+    "Tindakan Pemasangan Oro Gastric Tube (OGT)": {
+      "alternatif": "Nasogastric tube atau nutrisi parenteral.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis kebutuhan dekompresi atau nutrisi enteral.",
+      "indikasi": "Dekompresi lambung atau pemberian nutrisi dan obat.",
+      "komplikasi": "Aspirasi atau salah posisi selang.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik bila posisi terkonfirmasi.",
+      "resiko": "Iritasi tenggorokan atau muntah.",
+      "tata_cara": "Selang dimasukkan melalui mulut ke lambung dengan teknik aseptik dan konfirmasi posisi.",
+      "tindakan": "Tindakan Pemasangan Oro Gastric Tube (OGT)",
+      "tujuan": "Mengosongkan lambung atau memberikan nutrisi."
     },
     "Tindakan Pemasangan Rectal Tube": {
       "alternatif": "Manajemen konservatif.",
@@ -800,6 +1066,20 @@
       "alternatif": "Akses vena perifer atau intraoseus sesuai kondisi.",
       "lain_lain": "-",
       "checklist": false
+    },
+    "Tindakan Pemasangan Water Seal Drain (WSD)": {
+      "alternatif": "Aspirasi jarum pada kasus tertentu.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan foto toraks.",
+      "indikasi": "Pneumotoraks atau efusi pleura.",
+      "komplikasi": "Infeksi atau cedera paru.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik dengan pemantauan rutin.",
+      "resiko": "Nyeri, perdarahan.",
+      "tata_cara": "Pemasangan selang drainase pada rongga pleura dengan sistem water seal.",
+      "tindakan": "Tindakan Pemasangan Water Seal Drain (WSD)",
+      "tujuan": "Mengeluarkan udara atau cairan dari rongga pleura."
     },
     "Tindakan Pemberian Surfaktan Intraventrikular pada Neonatus": {
       "alternatif": "Ventilasi suportif tanpa surfaktan.",
@@ -1361,6 +1641,20 @@
       "tindakan": "Tindakan Primary Survey Trauma (ATLS)",
       "tujuan": "Mengidentifikasi dan menangani ancaman jiwa secara cepat."
     },
+    "Tindakan Pungsi Lumbal": {
+      "alternatif": "Pemeriksaan imaging lanjutan.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging bila diperlukan.",
+      "indikasi": "Evaluasi infeksi atau perdarahan sistem saraf pusat.",
+      "komplikasi": "Infeksi atau perdarahan.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik bila dilakukan sesuai prosedur.",
+      "resiko": "Nyeri kepala pascatindakan.",
+      "tata_cara": "Pemasukan jarum ke ruang subaraknoid untuk mengambil cairan serebrospinal.",
+      "tindakan": "Tindakan Pungsi Lumbal",
+      "tujuan": "Menegakkan diagnosis."
+    },
     "Tindakan Rekonstruksi Luka Bakar Kontraktur": {
       "alternatif": "Terapi fisik pada kasus ringan.",
       "checklist": false,
@@ -1374,6 +1668,48 @@
       "tata_cara": "Release jaringan parut dan rekonstruksi menggunakan graft atau flap.",
       "tindakan": "Tindakan Rekonstruksi Luka Bakar Kontraktur",
       "tujuan": "Memulihkan fungsi dan mobilitas."
+    },
+    "Tindakan Repair Tendon": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Repair Tendon",
+      "indikasi": "Cedera atau putusnya tendon akibat trauma atau degenerasi yang menyebabkan gangguan fungsi gerak.",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang seperti USG atau MRI.",
+      "tata_cara": "Eksplorasi luka, identifikasi ujung tendon, kemudian dilakukan penjahitan tendon dengan teknik bedah khusus dan imobilisasi pascatindakan.",
+      "tujuan": "Mengembalikan kontinuitas tendon dan fungsi gerak.",
+      "resiko": "Nyeri, perdarahan, atau cedera jaringan sekitar.",
+      "komplikasi": "Infeksi, ruptur ulang tendon, adhesi, atau keterbatasan gerak.",
+      "prognosis": "Baik bila dilakukan segera dan diikuti rehabilitasi yang adekuat.",
+      "alternatif": "Terapi konservatif pada kasus tertentu atau rekonstruksi tendon lanjutan.",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Reposisi Fraktur Tertutup (Closed Reduction)": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Reposisi Fraktur Tertutup (Closed Reduction)",
+      "indikasi": "Fraktur dengan pergeseran tanpa indikasi operasi terbuka segera.",
+      "dasar_diagnosis": "Anamnesis trauma, pemeriksaan fisik, dan radiologi.",
+      "tata_cara": "Reposisi manual dengan analgesia/sedasi diikuti imobilisasi.",
+      "tujuan": "Mengembalikan alignment tulang.",
+      "resiko": "Nyeri, cedera jaringan lunak.",
+      "komplikasi": "Malunion atau redisplacement.",
+      "prognosis": "Baik bila imobilisasi adekuat.",
+      "alternatif": "Operasi (ORIF/OREF).",
+      "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Reposisi Sendi": {
+      "alternatif": "Reposisi terbuka melalui tindakan operasi.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau radiologi.",
+      "indikasi": "Dislokasi sendi akibat trauma dengan nyeri dan gangguan fungsi.",
+      "komplikasi": "Cedera saraf, cedera pembuluh darah, redislocation.",
+      "lain_lain": "-",
+      "package": "Orthopedi",
+      "prognosis": "Baik bila reposisi cepat dan stabil.",
+      "resiko": "Nyeri, spasme otot, cedera jaringan lunak.",
+      "tata_cara": "Reposisi manual dengan teknik traksi-kontratraksi setelah analgesia atau sedasi, dilanjutkan imobilisasi.",
+      "tindakan": "Tindakan Reposisi Sendi (Reduksi Dislokasi)",
+      "tujuan": "Mengembalikan posisi anatomis sendi dan mengurangi nyeri."
     },
     "Tindakan Restrain (Pembatasan Fisik Pasien)": {
       "package": "Emergency & Critical Care",
@@ -1529,6 +1865,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Skin Traction": {
+      "alternatif": "Skeletal traction atau gips.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, radiologi.",
+      "indikasi": "Fraktur yang memerlukan imobilisasi sementara.",
+      "komplikasi": "Gangguan sirkulasi distal.",
+      "lain_lain": "-",
+      "package": "Orthopedi",
+      "prognosis": "Baik sebagai tindakan sementara.",
+      "resiko": "Iritasi kulit.",
+      "tata_cara": "Pemasangan traksi pada kulit dengan beban terukur.",
+      "tindakan": "Tindakan Pemasangan Skin Traction",
+      "tujuan": "Mengurangi nyeri dan mempertahankan posisi tulang."
+    },
     "Tindakan Skrining Hipotiroid Kongenital (SHK)": {
       "package": "Perinatologi",
       "tindakan": "Tindakan Skrining Hipotiroid Kongenital (SHK)",
@@ -1555,6 +1905,20 @@
       "prognosis": "Baik bila terdeteksi dini dan ditangani sesuai stadium",
       "alternatif": "Tidak ada alternatif skrining lain yang setara; keterlambatan meningkatkan risiko kebutaan permanen",
       "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Splenektomi": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Splenektomi",
+      "indikasi": "Ruptur limpa akibat trauma, splenomegali simtomatik, kelainan hematologi refrakter (ITP, hemolitik anemia), atau keganasan limpa",
+      "dasar_diagnosis": "Pencitraan (USG/CT abdomen), pemeriksaan hematologi, dan evaluasi klinis kegawatan trauma bila relevan",
+      "tata_cara": "Pengangkatan limpa secara total melalui laparotomi atau laparoskopi, dengan ligasi pembuluh darah hilus limpa",
+      "tujuan": "Menghentikan perdarahan, mengatasi kelainan hematologi, atau mengangkat jaringan patologis limpa",
+      "resiko": "Perdarahan, cedera organ sekitar (pankreas, lambung, kolon), infeksi",
+      "komplikasi": "Sepsis pascasplenektomi (Overwhelming Post-Splenectomy Infection/OPSI), trombositosis, trombosis vena porta/lienalis",
+      "prognosis": "Umumnya baik, namun pasien memerlukan vaksinasi dan edukasi risiko infeksi seumur hidup pascaoperasi",
+      "alternatif": "Splenektomi parsial (bila memungkinkan), embolisasi arteri lienalis, tata laksana konservatif pada trauma derajat ringan",
+      "lain_lain": "Pasien memerlukan vaksinasi terhadap organisme berkapsul (pneumokokus, meningokokus, Haemophilus influenzae) idealnya sebelum atau segera setelah splenektomi",
       "checklist": false
     },
     "Tindakan Spooling Kateter Urin (Irigasi Kateter)": {
@@ -1753,6 +2117,20 @@
       "tindakan": "Tindakan Terapi Trombolisis Stroke Iskemik Intravenous",
       "tujuan": "Melarutkan bekuan darah dan memulihkan perfusi otak."
     },
+    "Tindakan Thorakosentesis": {
+      "alternatif": "Pemasangan WSD.",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
+      "indikasi": "Efusi pleura untuk tujuan diagnostik atau terapeutik.",
+      "komplikasi": "Pneumotoraks.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik bila teknik benar.",
+      "resiko": "Nyeri, perdarahan.",
+      "tata_cara": "Pemasukan jarum ke rongga pleura untuk aspirasi cairan.",
+      "tindakan": "Tindakan Thorakosentesis",
+      "tujuan": "Mengurangi sesak dan mendapatkan cairan untuk analisis."
+    },
     "Tindakan Total Hip Replacement": {
       "alternatif": "Hemiarthroplasty atau terapi konservatif.",
       "checklist": false,
@@ -1780,6 +2158,20 @@
       "tata_cara": "Penggantian permukaan sendi lutut dengan prostesis.",
       "tindakan": "Tindakan Total Knee Replacement",
       "tujuan": "Mengurangi nyeri dan meningkatkan mobilitas."
+    },
+    "Tindakan Trakeostomi": {
+      "alternatif": "Intubasi endotrakeal.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis kondisi jalan napas.",
+      "indikasi": "Obstruksi jalan napas atau kebutuhan ventilasi jangka panjang.",
+      "komplikasi": "Stenosis trakea atau infeksi.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Tergantung kondisi dasar pasien.",
+      "resiko": "Perdarahan, infeksi.",
+      "tata_cara": "Pembuatan lubang pada trakea untuk pemasangan kanul.",
+      "tindakan": "Tindakan Trakeostomi",
+      "tujuan": "Menjaga jalan napas tetap terbuka."
     },
     "Tindakan Transfusi Albumin": {
       "alternatif": "Terapi cairan lain sesuai kondisi klinis.",
@@ -1822,6 +2214,20 @@
       "tata_cara": "Alat dimasukkan melalui uretra menuju ureter untuk evaluasi dan penghancuran atau pengambilan batu.",
       "tindakan": "Tindakan Ureterorenoskopi (URS)",
       "tujuan": "Menghilangkan sumbatan dan memperbaiki aliran urin."
+    },
+    "Tindakan Vena Seksi": {
+      "alternatif": "Akses intraoseus atau CVC.",
+      "checklist": false,
+      "dasar_diagnosis": "Evaluasi klinis kebutuhan akses intravena.",
+      "indikasi": "Kegagalan akses vena perifer pada kondisi emergensi.",
+      "komplikasi": "Infeksi atau cedera saraf.",
+      "lain_lain": "-",
+      "package": "Tindakan Penunjang",
+      "prognosis": "Baik bila dilakukan segera.",
+      "resiko": "Perdarahan.",
+      "tata_cara": "Insisi kecil untuk membuka vena dan pemasangan kanul.",
+      "tindakan": "Tindakan Vena Seksi",
+      "tujuan": "Mendapatkan akses intravena cepat."
     },
     "Tindakan Ventilasi Frekuensi Tinggi (High Frequency Ventilation) Neonatal": {
       "alternatif": "Ventilasi mekanik konvensional.",
