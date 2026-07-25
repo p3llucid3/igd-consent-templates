@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-07-25",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
     "Tindakan Akselerasi Persalinan dengan Oksitosin": {
@@ -534,6 +534,20 @@
       "tata_cara": "Dilakukan anestesi regional atau umum, eksplorasi luka untuk identifikasi saraf yang cedera, penilaian derajat cedera (neuropraksia, aksonotmesis, atau neurotmesis), dilanjutkan repair saraf primer (epineural/perineural) atau graft saraf bila terdapat gap yang tidak dapat didekatkan tanpa tegangan",
       "tindakan": "Tindakan Eksplorasi dan Repair Saraf Perifer Traumatik",
       "tujuan": "Memulihkan kontinuitas saraf untuk memaksimalkan potensi pemulihan fungsi motorik dan sensorik"
+    },
+    "Tindakan Ekstraksi Benda Asing Esofagus": {
+      "alternatif": "Observasi dengan pemantauan pada benda asing tumpul kecil yang berpotensi melewati saluran cerna secara spontan tanpa tanda obstruksi atau komplikasi",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis riwayat tertelan benda asing, pemeriksaan fisik, dan pencitraan (foto polos leher-toraks atau CT scan) untuk konfirmasi lokasi dan jenis benda asing",
+      "indikasi": "Benda asing tertahan di esofagus (bolus makanan, benda tajam/tumpul, baterai) yang menyebabkan obstruksi, nyeri, hipersalivasi, atau risiko perforasi/cedera mukosa, terutama benda asing yang tidak dapat melewati esofagus secara spontan",
+      "komplikasi": "Perforasi esofagus yang memerlukan tindakan bedah lanjutan, mediastinitis, striktur esofagus pascacedera mukosa",
+      "lain_lain": "-",
+      "package": "ENT Advanced",
+      "prognosis": "Baik bila ekstraksi dilakukan segera setelah diagnosis, sebelum terjadi impaksi lama atau cedera mukosa signifikan; benda asing tajam atau baterai memerlukan tindakan lebih segera karena risiko perforasi lebih tinggi",
+      "resiko": "Perforasi esofagus, perdarahan, cedera mukosa, aspirasi",
+      "tata_cara": "Dilakukan anestesi umum atau sedasi dalam, esofagoskopi rigid atau fleksibel untuk visualisasi langsung, ekstraksi benda asing menggunakan forceps atau alat penjepit khusus, dilanjutkan evaluasi mukosa esofagus terhadap cedera",
+      "tindakan": "Tindakan Ekstraksi Benda Asing Esofagus",
+      "tujuan": "Mengeluarkan benda asing yang tertahan untuk mencegah obstruksi berkelanjutan, perforasi esofagus, atau cedera mukosa lebih lanjut"
     },
     "Tindakan Ekstraksi Benda Asing pada Hidung": {
       "alternatif": "Rujukan ke spesialis THT.",
@@ -1151,6 +1165,20 @@
       "tindakan": "Tindakan Kompresi Bimanual Uterus",
       "tujuan": "Mengendalikan perdarahan postpartum."
     },
+    "Tindakan Kontrol Perdarahan Pasca Tonsilektomi": {
+      "alternatif": "Observasi dengan tekanan lokal dan agen hemostatik topikal pada perdarahan minor yang tidak aktif, dengan pemantauan ketat",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan orofaring langsung yang menunjukkan sumber perdarahan aktif dari fossa tonsil, didukung riwayat tonsilektomi sebelumnya dan penilaian tanda vital untuk menilai derajat kehilangan darah",
+      "indikasi": "Perdarahan aktif dari fossa tonsil pascatonsilektomi (primer dalam 24 jam pertama atau sekunder setelah 24 jam), terutama bila volume perdarahan signifikan atau tidak berhenti dengan tekanan lokal",
+      "komplikasi": "Perdarahan rekuren yang memerlukan tindakan ulang, infeksi, gangguan jalan napas",
+      "lain_lain": "-",
+      "package": "ENT Advanced",
+      "prognosis": "Baik bila sumber perdarahan teridentifikasi dan dikontrol dengan adekuat; perdarahan sekunder (setelah hari ke-5-10) cenderung lebih sulit dikontrol akibat infeksi pada dasar luka",
+      "resiko": "Perdarahan berulang, aspirasi darah, gangguan jalan napas akibat darah atau edema, kebutuhan transfusi",
+      "tata_cara": "Dilakukan anestesi lokal atau umum tergantung derajat perdarahan dan kooperasi pasien, identifikasi titik perdarahan pada fossa tonsil, kontrol perdarahan dengan kauterisasi, ligasi jahitan, atau kompresi menggunakan tampon",
+      "tindakan": "Tindakan Kontrol Perdarahan Pasca Tonsilektomi",
+      "tujuan": "Menghentikan perdarahan aktif dari fossa tonsil untuk mencegah kehilangan darah lebih lanjut dan aspirasi darah ke jalan napas"
+    },
     "Tindakan Kontrol Sumber Infeksi": {
       "alternatif": "Antibiotik saja pada infeksi tanpa koleksi.",
       "checklist": false,
@@ -1178,6 +1206,20 @@
       "tata_cara": "Pembukaan tulang tengkorak untuk mengeluarkan bekuan darah dan mengurangi tekanan.",
       "tindakan": "Tindakan Kraniotomi untuk Evakuasi Hematoma",
       "tujuan": "Mengurangi tekanan intrakranial dan mencegah herniasi."
+    },
+    "Tindakan Krikotirotomi": {
+      "alternatif": "Intubasi endotrakeal ulang dengan alat bantu (video laringoskop, bougie), ventilasi jet transtrakeal, atau trakeostomi emergensi bila krikotirotomi tidak memungkinkan",
+      "checklist": false,
+      "dasar_diagnosis": "Penilaian klinis kegagalan intubasi endotrakeal berulang disertai ketidakmampuan melakukan ventilasi adekuat, pada kondisi hipoksia yang mengancam nyawa",
+      "indikasi": "Kondisi jalan napas darurat \"tidak dapat diintubasi, tidak dapat diventilasi\" (cannot intubate, cannot ventilate) akibat obstruksi jalan napas atas yang tidak dapat diatasi dengan intubasi endotrakeal atau ventilasi bag-mask",
+      "komplikasi": "Stenosis subglotis, infeksi, perdarahan, cedera pita suara, perlunya konversi ke trakeostomi definitif",
+      "lain_lain": "Tindakan ini bersifat penyelamatan nyawa yang dilakukan dalam kondisi darurat ekstrem; persetujuan tindakan sering diperoleh secara retrospektif atau dari keluarga/wali karena kondisi pasien tidak memungkinkan",
+      "package": "ENT Advanced",
+      "prognosis": "Bergantung pada durasi hipoksia sebelum jalan napas berhasil diamankan; tindakan ini bersifat penyelamatan nyawa pada kondisi darurat ekstrem",
+      "resiko": "Perdarahan, cedera struktur di leher (esofagus, pembuluh darah, saraf laring rekuren), emfisema subkutan, malposisi kanula",
+      "tata_cara": "Dilakukan identifikasi membran krikotiroid melalui palpasi, insisi kulit dan membran krikotiroid, dilanjutkan insersi kanula atau pipa endotrakeal berukuran kecil ke dalam trakea untuk mengamankan jalan napas",
+      "tindakan": "Tindakan Krikotirotomi",
+      "tujuan": "Mengamankan jalan napas secepat mungkin pada kondisi darurat yang mengancam nyawa akibat kegagalan jalan napas dengan metode lain"
     },
     "Tindakan Kuretase (Dilatasi dan Kuretase)": {
       "alternatif": "Terapi medik atau observasi sesuai kondisi.",
@@ -2494,6 +2536,20 @@
       "tata_cara": "Pemasukan jarum ke ruang subaraknoid untuk mengambil cairan serebrospinal.",
       "tindakan": "Tindakan Pungsi Lumbal",
       "tujuan": "Menegakkan diagnosis."
+    },
+    "Tindakan Reduksi Fraktur Nasal Tertutup": {
+      "alternatif": "Observasi tanpa reduksi pada fraktur minimal tanpa deformitas atau obstruksi signifikan, atau rinoplasti/septoplasti elektif tertunda bila terdapat deformitas residual",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (deformitas nasal, krepitasi, nyeri tekan) dan rinoskopi anterior untuk menilai septum, didukung pencitraan bila dicurigai fraktur kompleks",
+      "indikasi": "Fraktur tulang hidung dengan deformitas nyata, deviasi septum, atau obstruksi jalan napas hidung, tanpa disertai kerusakan struktur intranasal yang memerlukan pendekatan terbuka",
+      "komplikasi": "Deformitas nasal residual, obstruksi jalan napas menetap, hematoma septum, infeksi",
+      "lain_lain": "-",
+      "package": "ENT Advanced",
+      "prognosis": "Baik bila dilakukan dalam periode optimal (sebelum konsolidasi tulang, umumnya dalam 1-2 minggu pascacedera); hasil dapat kurang optimal bila dilakukan setelah periode ini",
+      "resiko": "Perdarahan, infeksi, hasil kosmetik tidak optimal, kekambuhan deviasi septum",
+      "tata_cara": "Dilakukan anestesi lokal atau umum, reduksi manual fragmen tulang hidung menggunakan instrumen elevator nasal, koreksi deviasi septum bila ada, dilanjutkan pemasangan splint eksterna atau tampon intranasal untuk mempertahankan posisi",
+      "tindakan": "Tindakan Reduksi Fraktur Nasal Tertutup",
+      "tujuan": "Mengembalikan bentuk dan fungsi hidung (jalan napas) yang optimal serta mencegah deformitas permanen"
     },
     "Tindakan Rekonstruksi Flap Lokal Defek Kulit Traumatik": {
       "alternatif": "Penutupan primer bila defek cukup kecil, skin graft bila jaringan sekitar tidak mencukupi untuk flap, atau healing by secondary intention pada defek kecil dengan risiko operasi tinggi",
