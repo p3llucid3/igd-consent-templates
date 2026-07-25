@@ -1,0 +1,58 @@
+{
+  "Tindakan Eksplorasi dan Repair Saraf Perifer Traumatik": {
+    "alternatif": "Observasi tanpa eksplorasi bila dicurigai neuropraksia ringan (potensi pulih spontan), atau tindakan graft saraf/transfer tendon pada kasus cedera lama yang sudah tidak memungkinkan repair primer",
+    "checklist": false,
+    "dasar_diagnosis": "Pemeriksaan neurologis (motorik dan sensorik) sesuai distribusi saraf yang dicurigai cedera, korelasi dengan lokasi dan mekanisme luka, dapat didukung pemeriksaan elektrodiagnostik pada kasus non-akut",
+    "indikasi": "Kecurigaan cedera saraf perifer akibat trauma tajam atau tumpul dengan defisit motorik/sensorik pada distribusi saraf terkait, terutama pada luka yang berdekatan dengan perjalanan anatomis saraf besar",
+    "komplikasi": "Gangguan sensorik atau motorik menetap, neuroma nyeri, kegagalan regenerasi akson yang memerlukan tindakan tambahan",
+    "lain_lain": "-",
+    "package": "Plastic Surgery",
+    "prognosis": "Bervariasi tergantung jenis saraf, derajat cedera, jarak dari otot target, dan ketepatan waktu repair; repair primer dini umumnya memberikan hasil lebih baik dibanding repair tertunda",
+    "resiko": "Perdarahan, infeksi, kegagalan regenerasi saraf, nyeri neuropatik, neuroma pada ujung saraf yang direpair",
+    "tata_cara": "Dilakukan anestesi regional atau umum, eksplorasi luka untuk identifikasi saraf yang cedera, penilaian derajat cedera (neuropraksia, aksonotmesis, atau neurotmesis), dilanjutkan repair saraf primer (epineural/perineural) atau graft saraf bila terdapat gap yang tidak dapat didekatkan tanpa tegangan",
+    "tindakan": "Tindakan Eksplorasi dan Repair Saraf Perifer Traumatik",
+    "tujuan": "Memulihkan kontinuitas saraf untuk memaksimalkan potensi pemulihan fungsi motorik dan sensorik"
+  },
+  "Tindakan Rekonstruksi Flap Lokal Defek Kulit Traumatik": {
+    "alternatif": "Penutupan primer bila defek cukup kecil, skin graft bila jaringan sekitar tidak mencukupi untuk flap, atau healing by secondary intention pada defek kecil dengan risiko operasi tinggi",
+    "checklist": false,
+    "dasar_diagnosis": "Pemeriksaan fisik luka meliputi ukuran, kedalaman, viabilitas jaringan sekitar, dan penilaian suplai darah jaringan yang akan digunakan sebagai flap",
+    "indikasi": "Defek kulit traumatik yang terlalu besar atau memiliki ketegangan berlebih untuk penutupan primer, namun jaringan sekitar masih viabel dan dapat dimobilisasi sebagai flap",
+    "komplikasi": "Nekrosis flap, infeksi, hematoma di bawah flap, kegagalan flap yang memerlukan tindakan rekonstruksi ulang",
+    "lain_lain": "-",
+    "package": "Plastic Surgery",
+    "prognosis": "Baik bila perfusi flap terjaga dan tidak ada infeksi; risiko kegagalan meningkat pada pasien dengan gangguan vaskular atau merokok aktif",
+    "resiko": "Perdarahan, infeksi, nekrosis flap parsial atau total akibat gangguan perfusi, dehisensi luka, jaringan parut",
+    "tata_cara": "Dilakukan anestesi lokal atau regional, debridement jaringan nonviabel, desain dan elevasi flap lokal (rotasi, transposisi, atau advancement) dari jaringan sekitar defek, penutupan defek donor dan resipien, serta penilaian perfusi flap pascaoperasi",
+    "tindakan": "Tindakan Rekonstruksi Flap Lokal Defek Kulit Traumatik",
+    "tujuan": "Menutup defek kulit traumatik dengan jaringan yang serupa karakteristiknya, mempertahankan fungsi dan estetika area yang terkena"
+  },
+  "Tindakan Reparasi Laserasi Wajah Kompleks": {
+    "alternatif": "Penjahitan sederhana tanpa eksplorasi struktur dalam (tidak dianjurkan bila ada kecurigaan cedera struktur dalam), atau rujuk ke bedah plastik elektif bila kondisi pasien stabil dan tidak darurat",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis mekanisme cedera dan pemeriksaan fisik luka secara sistematis (kedalaman, keterlibatan struktur dalam, fungsi motorik dan sensorik wajah), dilengkapi eksplorasi luka bila dicurigai cedera struktur dalam",
+    "indikasi": "Laserasi wajah yang melibatkan struktur dalam (otot, saraf fasialis, duktus parotis, kelopak mata, atau tepi bibir/vermilion) atau laserasi luas/multipel yang berisiko menimbulkan deformitas kosmetik maupun gangguan fungsi bila diperbaiki tanpa teknik lapis-demi-lapis",
+    "komplikasi": "Infeksi, dehisensi luka, parut hipertrofik, gangguan fungsi motorik/sensorik wajah menetap, asimetri permanen",
+    "lain_lain": "-",
+    "package": "Plastic Surgery",
+    "prognosis": "Baik bila perbaikan struktur dalam dilakukan tepat waktu dan teknik penjahitan sesuai standar; hasil kosmetik dapat bervariasi tergantung luas dan lokasi laserasi",
+    "resiko": "Perdarahan, infeksi luka, jaringan parut hipertrofik atau keloid, asimetri wajah, cedera lanjutan pada saraf/duktus bila tidak teridentifikasi saat operasi",
+    "tata_cara": "Dilakukan anestesi lokal atau blok saraf, eksplorasi dan irigasi luka, identifikasi serta perbaikan struktur dalam yang cedera (otot, saraf, duktus) bila ada, dilanjutkan penjahitan berlapis (otot, subkutis, kulit) dengan perhatian khusus pada align tepi luka terutama di area vermilion, alis, atau kelopak mata",
+    "tindakan": "Tindakan Reparasi Laserasi Wajah Kompleks",
+    "tujuan": "Mengembalikan kontinuitas jaringan wajah, memulihkan fungsi struktur yang cedera, dan meminimalkan risiko deformitas kosmetik permanen"
+  },
+  "Tindakan Replantasi Digit Traumatik": {
+    "alternatif": "Revisi amputasi (stump closure) tanpa replantasi bila bagian teramputasi tidak viable atau replantasi berisiko tinggi gagal",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis mekanisme cedera (tajam vs avulsi/crush), pemeriksaan fisik tunggul amputasi dan bagian yang teramputasi, penilaian waktu iskemia dan kondisi penyimpanan bagian teramputasi",
+    "indikasi": "Amputasi traumatik jari (digit) dengan bagian yang teramputasi masih viable untuk direplantasi, terutama pada amputasi ibu jari, amputasi multipel, atau amputasi pada anak",
+    "komplikasi": "Nekrosis digit yang direplantasi, infeksi, kontraktur, nonunion tulang, gangguan fungsi jangka panjang",
+    "lain_lain": "-",
+    "package": "Plastic Surgery",
+    "prognosis": "Bervariasi tergantung mekanisme cedera (amputasi tajam prognosis lebih baik dibanding avulsi/crush), waktu iskemia, dan level amputasi; keberhasilan replantasi tidak selalu berarti fungsi optimal",
+    "resiko": "Kegagalan replantasi akibat trombosis arteri atau vena, infeksi, kekakuan sendi, gangguan sensibilitas menetap, perlunya revisi amputasi bila replantasi gagal",
+    "tata_cara": "Dilakukan di bawah anestesi regional atau umum, debridement dan preparasi tunggul serta bagian teramputasi, fiksasi tulang, dilanjutkan reanastomosis pembuluh darah (arteri dan vena) secara mikrosurgis, repair tendon dan saraf, serta penutupan kulit",
+    "tindakan": "Tindakan Replantasi Digit Traumatik",
+    "tujuan": "Mengembalikan kontinuitas dan fungsi digit yang teramputasi sebisa mungkin, termasuk sensibilitas dan mobilitas"
+  }
+}
