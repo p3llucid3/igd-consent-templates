@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-07-25",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
     "Tindakan Akselerasi Persalinan dengan Oksitosin": {
@@ -507,6 +507,20 @@
       "tindakan": "Tindakan Eksplorasi Duktus Koledokus",
       "tujuan": "Memperlancar aliran empedu dan mencegah infeksi atau kerusakan hati."
     },
+    "Tindakan Eksplorasi dan Repair Cedera Vaskular Perifer Traumatik": {
+      "alternatif": "Ligasi vaskular emergensi (damage control) pada kondisi hemodinamik tidak stabil dengan rencana revaskularisasi tertunda, atau observasi ketat pada cedera minor tanpa tanda iskemia",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (defisit pulsasi, hematoma ekspansif, bruit/thrill, tanda iskemia), didukung ankle-brachial index atau pencitraan (CT angiografi/USG Doppler) bila kondisi hemodinamik memungkinkan",
+      "indikasi": "Kecurigaan atau konfirmasi cedera vaskular perifer akibat trauma tajam atau tumpul ekstremitas, ditandai perdarahan aktif, hematoma yang membesar, pulsasi distal yang berkurang/hilang, atau tanda iskemia akut pada ekstremitas",
+      "komplikasi": "Trombosis graft/repair, infeksi, sindrom kompartemen, gangguan fungsi ekstremitas jangka panjang, amputasi",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Bergantung pada waktu iskemia sebelum revaskularisasi (\"golden period\" umumnya 6 jam), luas cedera, dan cedera penyerta lain; keterlambatan tindakan meningkatkan risiko kehilangan ekstremitas",
+      "resiko": "Perdarahan, infeksi, trombosis pascarepair, sindrom kompartemen, kegagalan repair yang memerlukan amputasi",
+      "tata_cara": "Dilakukan anestesi regional atau umum, eksplorasi luka untuk identifikasi lokasi dan jenis cedera pembuluh darah (laserasi, transeksi, atau trombosis), kontrol perdarahan proksimal-distal, dilanjutkan repair primer, patch angioplasty, atau interposisi graft tergantung luas cedera",
+      "tindakan": "Tindakan Eksplorasi dan Repair Cedera Vaskular Perifer Traumatik",
+      "tujuan": "Mengembalikan aliran darah ke ekstremitas yang terkena untuk mencegah iskemia ireversibel dan kehilangan ekstremitas"
+    },
     "Tindakan Eksplorasi dan Repair Saraf Perifer Traumatik": {
       "alternatif": "Observasi tanpa eksplorasi bila dicurigai neuropraksia ringan (potensi pulih spontan), atau tindakan graft saraf/transfer tendon pada kasus cedera lama yang sudah tidak memungkinkan repair primer",
       "checklist": false,
@@ -730,6 +744,20 @@
       "tata_cara": "Kanulasi pembuluh darah besar dan sirkulasi darah melalui mesin oksigenator eksternal.",
       "tindakan": "Tindakan Extracorporeal Membrane Oxygenation (ECMO)",
       "tujuan": "Memberikan dukungan sirkulasi dan oksigenasi sementara."
+    },
+    "Tindakan Fasciotomi": {
+      "alternatif": "Observasi ketat dengan pengukuran tekanan kompartemen serial pada kasus borderline (tidak dianjurkan bila tanda klinis sudah jelas, karena risiko kerusakan ireversibel)",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik klinis (nyeri hebat, nyeri peregangan pasif, ketegangan kompartemen, parestesia) dan/atau pengukuran tekanan intrakompartemen bila tersedia",
+      "indikasi": "Sindrom kompartemen akut (peningkatan tekanan intrakompartemen) akibat trauma, iskemia-reperfusi, atau cedera vaskular, dengan tanda nyeri hebat tidak sebanding, nyeri saat peregangan pasif, atau tekanan kompartemen yang meningkat pada pengukuran",
+      "komplikasi": "Infeksi, kontraktur, gangguan fungsi neuromuskular menetap bila tindakan tertunda, kebutuhan amputasi pada kasus berat",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Baik bila dilakukan segera setelah diagnosis sindrom kompartemen ditegakkan; keterlambatan lebih dari 6-8 jam berisiko tinggi menyebabkan kerusakan otot dan saraf permanen",
+      "resiko": "Perdarahan, infeksi, kerusakan saraf/pembuluh darah saat insisi, jaringan parut, kebutuhan skin graft untuk penutupan luka",
+      "tata_cara": "Dilakukan anestesi umum atau regional, insisi kulit dan fasia sepanjang kompartemen yang terkena untuk membuka seluruh kompartemen yang mengalami peningkatan tekanan, luka dibiarkan terbuka untuk dilakukan penutupan tertunda atau skin graft setelah edema berkurang",
+      "tindakan": "Tindakan Fasciotomi",
+      "tujuan": "Menurunkan tekanan intrakompartemen untuk mencegah iskemia otot dan saraf ireversibel serta kehilangan fungsi ekstremitas"
     },
     "Tindakan Fototerapi pada Hiperbilirubinemia Neonatus": {
       "package": "Perinatologi",
@@ -1164,6 +1192,20 @@
       "tata_cara": "Operasi membuka dinding perut untuk eksplorasi dan penanganan penyebab.",
       "tindakan": "Tindakan Laparotomi",
       "tujuan": "Menangani kegawatan intraabdomen."
+    },
+    "Tindakan Ligasi Vaskular Emergensi": {
+      "alternatif": "Repair vaskular definitif (primer, patch, atau graft) bila kondisi pasien memungkinkan; ligasi hanya dipilih sebagai damage control sementara",
+      "checklist": false,
+      "dasar_diagnosis": "Penilaian klinis intraoperatif terhadap sumber perdarahan aktif dan kondisi hemodinamik pasien yang tidak memungkinkan tindakan repair vaskular kompleks",
+      "indikasi": "Perdarahan vaskular masif yang mengancam nyawa pada kondisi hemodinamik tidak stabil, di mana repair vaskular definitif tidak memungkinkan segera (damage control surgery), atau cedera pembuluh darah kecil/non-esensial yang tidak berdampak signifikan pada perfusi distal bila diligasi",
+      "komplikasi": "Iskemia atau nekrosis jaringan distal, kebutuhan amputasi, kegagalan hemostasis",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Bervariasi tergantung pembuluh darah yang diligasi dan ada tidaknya sirkulasi kolateral; ligasi pembuluh darah non-esensial umumnya prognosis baik, sedangkan ligasi pembuluh darah mayor tanpa kolateral berisiko tinggi iskemia",
+      "resiko": "Iskemia distal bila pembuluh darah yang diligasi esensial untuk perfusi, perlunya amputasi bila iskemia tidak dapat diatasi, perdarahan berulang",
+      "tata_cara": "Dilakukan identifikasi pembuluh darah sumber perdarahan, ligasi menggunakan jahitan atau klip vaskular, dengan penilaian perfusi distal pascaligasi untuk menentukan kebutuhan revaskularisasi lanjutan",
+      "tindakan": "Tindakan Ligasi Vaskular Emergensi",
+      "tujuan": "Menghentikan perdarahan secepat mungkin sebagai tindakan penyelamatan nyawa, terutama pada strategi damage control surgery"
     },
     "Tindakan Lumbar Drain": {
       "alternatif": "EVD pada kasus tertentu.",
@@ -3152,6 +3194,20 @@
       "tata_cara": "Perforasi kuku steril untuk mengeluarkan darah.",
       "tindakan": "Tindakan Trepanasi Hematoma Subungual",
       "tujuan": "Mengurangi tekanan dan nyeri."
+    },
+    "Tindakan Trombektomi Arterial": {
+      "alternatif": "Terapi trombolitik sistemik atau kateter-directed thrombolysis pada kasus tertentu tanpa defisit neurologis berat, atau amputasi primer bila ekstremitas sudah tidak dapat diselamatkan",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (6P: pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia), didukung USG Doppler atau CT angiografi untuk konfirmasi lokasi oklusi",
+      "indikasi": "Iskemia akut ekstremitas akibat oklusi arteri oleh trombus atau emboli, ditandai nyeri mendadak, pucat, pulseless, parestesia, atau paralisis pada ekstremitas terkena",
+      "komplikasi": "Sindrom kompartemen, gagal ginjal akut akibat reperfusion injury (rhabdomyolysis), trombosis berulang, amputasi",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Baik bila dilakukan dalam batas waktu iskemia yang dapat diselamatkan; prognosis memburuk seiring lamanya durasi iskemia sebelum tindakan",
+      "resiko": "Perdarahan, reperfusion injury, sindrom kompartemen, trombosis rekuren, cedera dinding arteri saat prosedur",
+      "tata_cara": "Dilakukan anestesi lokal, regional, atau umum, arteriotomi pada lokasi akses, ekstraksi trombus/embolus menggunakan kateter Fogarty, dilanjutkan konfirmasi aliran balik yang adekuat dan penutupan arteriotomi",
+      "tindakan": "Tindakan Trombektomi Arterial",
+      "tujuan": "Mengembalikan perfusi arteri ke ekstremitas secepat mungkin untuk mencegah iskemia ireversibel dan kehilangan ekstremitas"
     },
     "Tindakan Uji Mantoux (Tuberculin Skin Test)": {
       "package": "Pulmonologi & Respirasi",
