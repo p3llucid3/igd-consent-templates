@@ -1,0 +1,58 @@
+{
+  "Tindakan Reparasi Cedera Trakeobronkial": {
+    "alternatif": "Manajemen konservatif dengan WSD dan observasi ketat hanya sesuai untuk cedera minor tanpa kebocoran udara masif; tidak dianjurkan untuk cedera besar",
+    "checklist": false,
+    "dasar_diagnosis": "Bronkoskopi diagnostik untuk konfirmasi lokasi dan luas robekan trakeobronkial, didukung pencitraan toraks (CT scan) dan tanda klinis kebocoran udara masif",
+    "indikasi": "Cedera trakea atau bronkus akibat trauma tumpul atau tembus toraks-leher dengan kebocoran udara masif, pneumotoraks yang tidak membaik dengan pemasangan WSD, atau emfisema subkutan progresif",
+    "komplikasi": "Stenosis trakea/bronkus, fistula, mediastinitis, gagal napas",
+    "lain_lain": "-",
+    "package": "Thoracic Surgery",
+    "prognosis": "Bergantung pada luas cedera dan ketepatan waktu diagnosis-tindakan; keterlambatan meningkatkan risiko mediastinitis dan gagal napas",
+    "resiko": "Perdarahan, infeksi, stenosis jalan napas pascaoperasi, kebocoran anastomosis, gangguan ventilasi selama operasi",
+    "tata_cara": "Dilakukan anestesi umum dengan manajemen jalan napas hati-hati (sering memerlukan intubasi selektif atau bronkoskopi kaku), eksposur melalui torakotomi atau servikotomi tergantung lokasi cedera, debridement tepi robekan, dan penjahitan trakea/bronkus berlapis",
+    "tindakan": "Tindakan Reparasi Cedera Trakeobronkial",
+    "tujuan": "Mengembalikan kontinuitas jalan napas dan menghentikan kebocoran udara masif untuk mencegah gagal napas dan mediastinitis"
+  },
+  "Tindakan Reparasi Ruptur Diafragma Traumatik": {
+    "alternatif": "Tidak ada alternatif nonoperatif yang aman untuk ruptur diafragma dengan herniasi organ, karena risiko strangulasi dan gangguan respirasi progresif",
+    "checklist": false,
+    "dasar_diagnosis": "Pencitraan toraks-abdomen (foto polos, USG, atau CT scan) yang menunjukkan diskontinuitas diafragma atau herniasi organ abdomen intratoraks, didukung mekanisme cedera yang sesuai",
+    "indikasi": "Ruptur diafragma traumatik yang terkonfirmasi atau sangat dicurigai secara klinis maupun radiologis akibat trauma tumpul atau tembus toraks-abdomen, dengan atau tanpa herniasi organ abdomen ke rongga toraks",
+    "komplikasi": "Infeksi rongga toraks/abdomen, gangguan fungsi respirasi, hernia diafragma rekuren, adhesi",
+    "lain_lain": "-",
+    "package": "Thoracic Surgery",
+    "prognosis": "Baik bila diperbaiki segera setelah diagnosis ditegakkan; keterlambatan diagnosis meningkatkan risiko strangulasi organ herniasi dan komplikasi respirasi",
+    "resiko": "Perdarahan, infeksi, cedera organ abdomen atau toraks tambahan saat reduksi, kekambuhan hernia diafragma",
+    "tata_cara": "Dilakukan melalui pendekatan torakotomi, laparotomi, atau kombinasi tergantung cedera penyerta, reduksi organ abdomen yang mengalami herniasi, debridement tepi robekan diafragma, dan penjahitan diafragma berlapis dengan benang non-absorbable",
+    "tindakan": "Tindakan Reparasi Ruptur Diafragma Traumatik",
+    "tujuan": "Mengembalikan integritas diafragma dan fungsi respirasi normal serta mereduksi organ abdomen yang mengalami herniasi ke posisi anatomis"
+  },
+  "Tindakan Stabilisasi Flail Chest (Fiksasi Interna)": {
+    "alternatif": "Manajemen konservatif (analgesia adekuat, fisioterapi dada, ventilasi non-invasif atau invasif sesuai kebutuhan) tanpa fiksasi bedah",
+    "checklist": false,
+    "dasar_diagnosis": "Pemeriksaan fisik (gerakan paradoks dinding dada) dan pencitraan toraks (foto polos atau CT scan) yang mengonfirmasi fraktur costae multipel segmental",
+    "indikasi": "Flail chest (fraktur multipel costae segmental) dengan gangguan mekanika napas signifikan, kegagalan weaning ventilator, atau nyeri yang tidak teratasi dengan manajemen konservatif",
+    "komplikasi": "Infeksi luka operasi, nonunion fraktur, nyeri kronis, pneumonia akibat imobilisasi dinding dada yang tidak adekuat bila tindakan tertunda",
+    "lain_lain": "-",
+    "package": "Thoracic Surgery",
+    "prognosis": "Baik pada pasien yang dipilih tepat (gangguan mekanika napas signifikan); dapat mempercepat pemulihan fungsi paru dibanding manajemen konservatif pada kasus berat",
+    "resiko": "Perdarahan, infeksi, cedera struktur neurovaskular interkostal, kegagalan implan",
+    "tata_cara": "Dilakukan anestesi umum, eksposur segmen costae yang flail melalui insisi toraks terbatas, fiksasi fraktur costae menggunakan plate dan sekrup atau implan fiksasi costae khusus untuk menstabilkan dinding dada",
+    "tindakan": "Tindakan Stabilisasi Flail Chest (Fiksasi Interna)",
+    "tujuan": "Menstabilkan dinding dada untuk memperbaiki mekanika napas, mengurangi nyeri, dan mempercepat pelepasan dari ventilator mekanik"
+  },
+  "Tindakan Torakotomi Emergensi": {
+    "alternatif": "Resusitasi jantung paru standar tanpa torakotomi (tidak efektif mengatasi tamponade/perdarahan intratoraks masif), atau rujuk ke kamar operasi bila pasien cukup stabil untuk transport",
+    "checklist": false,
+    "dasar_diagnosis": "Primary survey trauma (ATLS) yang menunjukkan tanda tamponade jantung, perdarahan masif intratoraks, atau henti jantung traumatik dengan mekanisme cedera tembus",
+    "indikasi": "Henti jantung akibat trauma tembus toraks dengan tanda kehidupan saat tiba atau segera sebelum tiba di IGD, atau syok hemoragik refrakter akibat trauma toraks yang tidak respons resusitasi cairan",
+    "komplikasi": "Kegagalan multiorgan, infeksi luka operasi, kerusakan neurologis akibat hipoperfusi berkepanjangan, kematian",
+    "lain_lain": "Tindakan ini bersifat penyelamatan nyawa (life-saving) yang dilakukan dalam kondisi darurat ekstrem; persetujuan tindakan sering diperoleh secara retrospektif atau dari keluarga/wali karena kondisi pasien tidak memungkinkan",
+    "package": "Thoracic Surgery",
+    "prognosis": "Sangat bergantung pada mekanisme cedera dan waktu sejak hilangnya tanda kehidupan; prognosis lebih baik pada trauma tembus jantung dibanding trauma tumpul atau henti jantung yang berlangsung lama sebelum tindakan",
+    "resiko": "Perdarahan masif, cedera struktur jantung/paru/pembuluh darah besar tambahan, infeksi, kegagalan resusitasi meski tindakan telah dilakukan",
+    "tata_cara": "Dilakukan insisi torakotomi anterolateral kiri (dapat diperluas menjadi clamshell bila diperlukan), pembukaan perikardium untuk evakuasi tamponade, kontrol perdarahan langsung pada jantung atau pembuluh darah besar, cross-clamp aorta desendens bila diperlukan untuk mempertahankan perfusi otak dan jantung, serta kompresi jantung interna bila terjadi henti jantung",
+    "tindakan": "Tindakan Torakotomi Emergensi",
+    "tujuan": "Menyelamatkan nyawa pada kondisi henti jantung traumatik akut dengan mengatasi tamponade jantung dan/atau mengontrol perdarahan masif secara langsung"
+  }
+}
