@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-07-25",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
     "Tindakan Akselerasi Persalinan dengan Oksitosin": {
@@ -661,6 +661,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Elevasi Fraktur Impresi Kranial": {
+      "alternatif": "Observasi konservatif pada fraktur impresi minimal tanpa kompresi otak signifikan dan tanpa kebocoran cairan serebrospinal",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan kepala (CT scan) yang menunjukkan fraktur impresi dengan kedalaman signifikan dan/atau kompresi jaringan otak di bawahnya, disertai pemeriksaan neurologis",
+      "indikasi": "Fraktur impresi kranial (depressed skull fracture) dengan kedalaman depresi melebihi ketebalan tulang tengkorak, fragmen tulang yang menekan jaringan otak, kebocoran cairan serebrospinal, atau tanda defisit neurologis fokal akibat kompresi",
+      "komplikasi": "Infeksi luka operasi atau intrakranial, kejang pascaoperasi, defisit neurologis menetap, kebocoran cairan serebrospinal",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Bergantung pada derajat cedera otak yang mendasari dan ketepatan waktu tindakan; fraktur impresi tertutup tanpa kerusakan otak signifikan umumnya prognosis baik",
+      "resiko": "Perdarahan, infeksi (termasuk meningitis atau abses otak), kejang, cedera jaringan otak tambahan saat elevasi fragmen",
+      "tata_cara": "Dilakukan anestesi umum, insisi kulit kepala di atas lokasi fraktur, elevasi fragmen tulang yang terdepresi, debridement jaringan nonviabel dan fragmen tulang yang tidak dapat dipertahankan, kontrol perdarahan, serta rekonstruksi tulang tengkorak menggunakan fragmen asli atau material kranioplasti bila diperlukan",
+      "tindakan": "Tindakan Elevasi Fraktur Impresi Kranial",
+      "tujuan": "Mengurangi kompresi pada jaringan otak, mencegah infeksi intrakranial, dan memperbaiki kontur tengkorak"
+    },
     "Tindakan Enema Terapeutik": {
       "alternatif": "Laksatif oral.",
       "checklist": false,
@@ -716,6 +730,20 @@
       "tata_cara": "Insisi pada jaringan eskar hingga mencapai jaringan subkutan untuk melepaskan tekanan.",
       "tindakan": "Tindakan Escharotomy",
       "tujuan": "Mengembalikan perfusi dan mencegah sindrom kompartemen."
+    },
+    "Tindakan Evakuasi Abses Otak": {
+      "alternatif": "Terapi antibiotik intravena jangka panjang tanpa evakuasi bedah pada abses kecil (<2-3 cm) tanpa efek massa signifikan dan dengan respons klinis yang baik",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan kepala (CT scan atau MRI dengan kontras) yang menunjukkan lesi kistik dengan penyangatan tepi (ring enhancement) disertai edema perifokal, didukung tanda klinis infeksi dan defisit neurologis",
+      "indikasi": "Abses otak dengan efek massa signifikan, penurunan kesadaran, defisit neurologis fokal, atau kegagalan respons terhadap terapi antibiotik konservatif",
+      "komplikasi": "Rekurensi abses, infeksi luka operasi, kejang pascaoperasi, defisit neurologis menetap",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Bergantung pada ukuran dan lokasi abses, status imun pasien, dan ketepatan waktu tindakan; deteksi dan tata laksana dini memberikan prognosis lebih baik",
+      "resiko": "Perdarahan, infeksi berulang atau meluas, kejang, defisit neurologis tambahan akibat manipulasi jaringan otak",
+      "tata_cara": "Dilakukan anestesi umum, kraniotomi atau aspirasi stereotaktik pada lokasi abses, evakuasi materi purulen, pengambilan sampel untuk kultur dan sensitivitas, serta irigasi rongga abses",
+      "tindakan": "Tindakan Evakuasi Abses Otak",
+      "tujuan": "Mengurangi efek massa akibat abses, mengendalikan sumber infeksi, dan memperoleh sampel mikrobiologi untuk terapi antibiotik yang tepat sasaran"
     },
     "Tindakan Exchange Transfusion Neonatus": {
       "alternatif": "Fototerapi intensif.",
@@ -1178,6 +1206,20 @@
       "alternatif": "Alternatif tindakan akan dijelaskan sesuai situasi klinis.",
       "lain_lain": "Penjelasan tambahan akan dituliskan sesuai tindakan spesifik yang dilakukan.",
       "checklist": false
+    },
+    "Tindakan Laminektomi Dekompresi Emergensi": {
+      "alternatif": "Manajemen konservatif (imobilisasi, kortikosteroid dosis tinggi pada kasus tertentu) tanpa dekompresi bedah, dipertimbangkan bila risiko operasi melebihi manfaat atau defisit neurologis sudah lengkap dan ireversibel",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan tulang belakang (CT scan atau MRI) yang menunjukkan kompresi medula spinalis, didukung pemeriksaan neurologis yang menunjukkan defisit motorik/sensorik sesuai level kompresi",
+      "indikasi": "Kompresi medula spinalis akut akibat fraktur/dislokasi vertebra, hematoma epidural spinal, atau lesi lain yang menekan medula spinalis dengan defisit neurologis yang progresif atau berat",
+      "komplikasi": "Infeksi luka operasi, instabilitas vertebra yang memerlukan stabilisasi tambahan, defisit neurologis menetap meski telah dilakukan dekompresi",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Sangat bergantung pada waktu dari onset defisit neurologis hingga dekompresi (\"golden period\" umumnya dalam 24 jam pertama) dan derajat cedera medula spinalis awal",
+      "resiko": "Perdarahan, infeksi, cedera medula spinalis tambahan, instabilitas vertebra pascaoperasi, kebocoran cairan serebrospinal",
+      "tata_cara": "Dilakukan anestesi umum dengan monitoring neurofisiologis bila tersedia, insisi pada level vertebra yang terkena, laminektomi untuk membuka kanal spinal, evakuasi hematoma atau fragmen tulang yang menekan medula spinalis, dengan atau tanpa stabilisasi instrumentasi tambahan",
+      "tindakan": "Tindakan Laminektomi Dekompresi Emergensi",
+      "tujuan": "Mendekompresi medula spinalis secepat mungkin untuk memaksimalkan potensi pemulihan fungsi neurologis"
     },
     "Tindakan Laparotomi": {
       "alternatif": "Laparoskopi bila memungkinkan.",
@@ -2648,6 +2690,20 @@
       "tata_cara": "Inspeksi dan eksplorasi jalan lahir untuk menemukan serta memperbaiki robekan.",
       "tindakan": "Tindakan Revisi Jalan Lahir",
       "tujuan": "Menghentikan perdarahan dan memperbaiki jaringan yang robek."
+    },
+    "Tindakan Revisi Shunt Ventrikuloperitoneal Emergensi": {
+      "alternatif": "Drainase ventrikel eksternal (EVD) sementara sebagai tindakan darurat sambil menunggu revisi shunt definitif, terutama bila terdapat tanda infeksi yang perlu diatasi terlebih dahulu",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan kepala (CT scan) yang menunjukkan pembesaran ventrikel dibandingkan pencitraan sebelumnya, didukung pemeriksaan klinis tanda peningkatan tekanan intrakranial dan riwayat pemasangan shunt sebelumnya",
+      "indikasi": "Malfungsi shunt ventrikuloperitoneal (VP shunt) yang menyebabkan hidrosefalus akut dengan tanda peningkatan tekanan intrakranial (nyeri kepala hebat, muntah, penurunan kesadaran, atau tanda herniasi)",
+      "komplikasi": "Infeksi sistem shunt, malfungsi berulang yang memerlukan revisi tambahan, perdarahan intraventrikular",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Baik bila dilakukan segera setelah diagnosis malfungsi ditegakkan; keterlambatan tindakan berisiko tinggi menyebabkan herniasi otak dan kematian",
+      "resiko": "Perdarahan, infeksi shunt, malfungsi berulang, cedera jaringan otak saat revisi kateter ventrikel",
+      "tata_cara": "Dilakukan anestesi umum, eksplorasi jalur shunt untuk identifikasi lokasi sumbatan atau diskoneksi (katup, kateter proksimal/distal), penggantian komponen shunt yang bermasalah atau seluruh sistem shunt bila diperlukan",
+      "tindakan": "Tindakan Revisi Shunt Ventrikuloperitoneal Emergensi",
+      "tujuan": "Mengembalikan fungsi drainase cairan serebrospinal untuk menurunkan tekanan intrakranial dan mencegah herniasi otak"
     },
     "Tindakan Secondary Intention Healing Management": {
       "alternatif": "Skin graft.",
