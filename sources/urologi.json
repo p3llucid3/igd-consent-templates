@@ -1,4 +1,18 @@
 {
+  "Tindakan Dilatasi Uretra": {
+    "alternatif": "Uretrotomi internal.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis gangguan miksi dan evaluasi urologis.",
+    "indikasi": "Striktur uretra.",
+    "komplikasi": "Striktur berulang.",
+    "lain_lain": "-",
+    "package": "Urologi",
+    "prognosis": "Baik pada kasus ringan.",
+    "resiko": "Nyeri atau perdarahan ringan.",
+    "tata_cara": "Dilatasi bertahap dengan alat khusus steril.",
+    "tindakan": "Tindakan Dilatasi Uretra",
+    "tujuan": "Memperbaiki aliran urin."
+  },
   "Tindakan Pemasangan Kateter Urin": {
     "alternatif": "Kateter intermiten.",
     "checklist": false,
@@ -13,6 +27,20 @@
     "tindakan": "Tindakan Pemasangan Kateter Urin",
     "tujuan": "Mengosongkan kandung kemih dan memonitor produksi urin."
   },
+  "Tindakan Rekonstruksi Penis": {
+    "alternatif": "Perawatan luka konservatif dengan penutupan sekunder tanpa rekonstruksi struktural pada defek minor, atau rujuk untuk rekonstruksi bertahap (staged reconstruction) elektif bila kondisi akut tidak memungkinkan rekonstruksi definitif segera",
+    "checklist": false,
+    "dasar_diagnosis": "Pemeriksaan fisik genital yang menunjukkan hilangnya jaringan penis atau defek struktural, disertai anamnesis mekanisme cedera, serta penilaian viabilitas jaringan yang tersisa",
+    "indikasi": "Kehilangan sebagian atau seluruh jaringan penis akibat trauma (amputasi, avulsi, atau degloving), nekrosis jaringan berat, atau defek pascaeksisi jaringan penis yang memerlukan rekonstruksi struktural dan fungsional",
+    "komplikasi": "Nekrosis jaringan yang direkonstruksi, striktur uretra, fistula, disfungsi ereksi, gangguan sensasi permanen, kebutuhan tindakan revisi tambahan",
+    "lain_lain": "-",
+    "package": "Urologi",
+    "prognosis": "Sangat bergantung pada mekanisme cedera, luas kerusakan jaringan, waktu iskemia sebelum tindakan (pada kasus replantasi), dan ada tidaknya cedera struktur uretra/pembuluh darah/saraf utama; hasil fungsional bervariasi luas antar kasus",
+    "resiko": "Perdarahan, infeksi, kegagalan replantasi atau flap akibat gangguan perfusi, striktur uretra, gangguan sensasi atau fungsi ereksi",
+    "tata_cara": "Dilakukan anestesi umum atau regional, debridement jaringan nonviabel, replantasi bagian penis yang teramputasi bila masih viable dan waktu iskemia memungkinkan (dengan anastomosis mikrosurgis pembuluh darah, saraf, dan uretra), atau rekonstruksi menggunakan flap/graft jaringan bila replantasi tidak memungkinkan",
+    "tindakan": "Tindakan Rekonstruksi Penis",
+    "tujuan": "Mengembalikan kontinuitas struktur penis semaksimal mungkin, termasuk fungsi berkemih dan potensi fungsi seksual, serta hasil kosmetik yang dapat diterima"
+  },
   "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih": {
     "alternatif": "Sitologi urin atau imaging lanjutan.",
     "checklist": false,
@@ -26,6 +54,20 @@
     "tata_cara": "Sistoskop dimasukkan melalui uretra untuk visualisasi kandung kemih dan dilakukan pengambilan jaringan bila diperlukan.",
     "tindakan": "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih",
     "tujuan": "Menegakkan diagnosis melalui pemeriksaan histopatologi."
+  },
+  "Tindakan Spooling Kateter Urin (Irigasi Kateter)": {
+    "alternatif": "Penggantian kateter urin atau tindakan urologi lanjutan.",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, evaluasi aliran urin, dan pemeriksaan kondisi kateter.",
+    "indikasi": "Sumbatan kateter urin akibat bekuan darah, endapan, lendir, atau aliran urin yang tidak lancar.",
+    "komplikasi": "Infeksi saluran kemih, trauma uretra atau kandung kemih, perdarahan, atau kateter tetap tersumbat.",
+    "lain_lain": "Bila terdapat perdarahan berulang atau bekuan banyak, dapat diperlukan evaluasi urologi lebih lanjut.",
+    "package": "Urologi",
+    "prognosis": "Baik bila sumbatan dapat diatasi dan penyebab dasar ditangani.",
+    "resiko": "Rasa tidak nyaman, nyeri suprapubik ringan, atau hematuria ringan.",
+    "tata_cara": "Pemasukan cairan steril melalui kateter urin secara perlahan untuk membersihkan sumbatan, kemudian cairan dikeluarkan kembali hingga aliran lancar.",
+    "tindakan": "Tindakan Spooling Kateter Urin (Irigasi Kateter)",
+    "tujuan": "Mengatasi sumbatan kateter dan memperlancar drainase urin."
   },
   "Tindakan TURP": {
     "alternatif": "Terapi medik atau prosedur minimal invasif lain.",
@@ -54,33 +96,5 @@
     "tata_cara": "Alat dimasukkan melalui uretra menuju ureter untuk evaluasi dan penghancuran atau pengambilan batu.",
     "tindakan": "Tindakan Ureterorenoskopi (URS)",
     "tujuan": "Menghilangkan sumbatan dan memperbaiki aliran urin."
-  },
-  "Tindakan Dilatasi Uretra": {
-    "package": "Urologi",
-    "tindakan": "Tindakan Dilatasi Uretra",
-    "indikasi": "Striktur uretra.",
-    "dasar_diagnosis": "Anamnesis gangguan miksi dan evaluasi urologis.",
-    "tata_cara": "Dilatasi bertahap dengan alat khusus steril.",
-    "tujuan": "Memperbaiki aliran urin.",
-    "resiko": "Nyeri atau perdarahan ringan.",
-    "komplikasi": "Striktur berulang.",
-    "prognosis": "Baik pada kasus ringan.",
-    "alternatif": "Uretrotomi internal.",
-    "lain_lain": "-",
-    "checklist": false
-  },
-  "Tindakan Spooling Kateter Urin (Irigasi Kateter)": {
-    "package": "Urologi",
-    "tindakan": "Tindakan Spooling Kateter Urin (Irigasi Kateter)",
-    "indikasi": "Sumbatan kateter urin akibat bekuan darah, endapan, lendir, atau aliran urin yang tidak lancar.",
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, evaluasi aliran urin, dan pemeriksaan kondisi kateter.",
-    "tata_cara": "Pemasukan cairan steril melalui kateter urin secara perlahan untuk membersihkan sumbatan, kemudian cairan dikeluarkan kembali hingga aliran lancar.",
-    "tujuan": "Mengatasi sumbatan kateter dan memperlancar drainase urin.",
-    "resiko": "Rasa tidak nyaman, nyeri suprapubik ringan, atau hematuria ringan.",
-    "komplikasi": "Infeksi saluran kemih, trauma uretra atau kandung kemih, perdarahan, atau kateter tetap tersumbat.",
-    "prognosis": "Baik bila sumbatan dapat diatasi dan penyebab dasar ditangani.",
-    "alternatif": "Penggantian kateter urin atau tindakan urologi lanjutan.",
-    "lain_lain": "Bila terdapat perdarahan berulang atau bekuan banyak, dapat diperlukan evaluasi urologi lebih lanjut.",
-    "checklist": false
   }
 }
