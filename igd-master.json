@@ -2607,6 +2607,20 @@
       "tindakan": "Tindakan Sirkumsisi (Khitan)",
       "tujuan": "Mengurangi infeksi dan memperbaiki higiene."
     },
+    "Tindakan Sistoskopi": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Sistoskopi",
+      "indikasi": "Evaluasi diagnostik keluhan saluran kemih bawah seperti hematuria, disuria berulang, kecurigaan kelainan uretra atau kandung kemih, evaluasi pasca pemasangan stent/kateter, atau kontrol rutin pasca tindakan urologi tertentu",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau pemeriksaan penunjang (urinalisis, USG saluran kemih) yang mengindikasikan perlunya visualisasi langsung uretra dan kandung kemih",
+      "tata_cara": "Sistoskop dimasukkan melalui uretra dengan teknik aseptik dan anestesi lokal/topikal untuk visualisasi langsung mukosa uretra dan kandung kemih",
+      "tujuan": "Menegakkan diagnosis melalui visualisasi langsung saluran kemih bawah",
+      "resiko": "Nyeri atau rasa tidak nyaman saat berkemih, perdarahan ringan",
+      "komplikasi": "Infeksi saluran kemih, cedera uretra",
+      "prognosis": "Baik bila dilakukan sesuai prosedur",
+      "alternatif": "USG saluran kemih, CT urografi, atau pemeriksaan pencitraan non-invasif lain sesuai indikasi",
+      "lain_lain": "Bila ditemukan lesi mencurigakan saat sistoskopi, dapat dilanjutkan dengan biopsi kandung kemih sesuai indikasi",
+      "checklist": false
+    },
     "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih": {
       "alternatif": "Sitologi urin atau imaging lanjutan.",
       "checklist": false,
