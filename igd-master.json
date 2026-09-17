@@ -2649,6 +2649,20 @@
       "tindakan": "Tindakan Rekonstruksi Luka Bakar Kontraktur",
       "tujuan": "Memulihkan fungsi dan mobilitas."
     },
+    "Tindakan Rekonstruksi Penis": {
+      "alternatif": "Perawatan luka konservatif dengan penutupan sekunder tanpa rekonstruksi struktural pada defek minor, atau rujuk untuk rekonstruksi bertahap (staged reconstruction) elektif bila kondisi akut tidak memungkinkan rekonstruksi definitif segera",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik genital yang menunjukkan hilangnya jaringan penis atau defek struktural, disertai anamnesis mekanisme cedera, serta penilaian viabilitas jaringan yang tersisa",
+      "indikasi": "Kehilangan sebagian atau seluruh jaringan penis akibat trauma (amputasi, avulsi, atau degloving), nekrosis jaringan berat, atau defek pascaeksisi jaringan penis yang memerlukan rekonstruksi struktural dan fungsional",
+      "komplikasi": "Nekrosis jaringan yang direkonstruksi, striktur uretra, fistula, disfungsi ereksi, gangguan sensasi permanen, kebutuhan tindakan revisi tambahan",
+      "lain_lain": "-",
+      "package": "Urologi",
+      "prognosis": "Sangat bergantung pada mekanisme cedera, luas kerusakan jaringan, waktu iskemia sebelum tindakan (pada kasus replantasi), dan ada tidaknya cedera struktur uretra/pembuluh darah/saraf utama; hasil fungsional bervariasi luas antar kasus",
+      "resiko": "Perdarahan, infeksi, kegagalan replantasi atau flap akibat gangguan perfusi, striktur uretra, gangguan sensasi atau fungsi ereksi",
+      "tata_cara": "Dilakukan anestesi umum atau regional, debridement jaringan nonviabel, replantasi bagian penis yang teramputasi bila masih viable dan waktu iskemia memungkinkan (dengan anastomosis mikrosurgis pembuluh darah, saraf, dan uretra), atau rekonstruksi menggunakan flap/graft jaringan bila replantasi tidak memungkinkan",
+      "tindakan": "Tindakan Rekonstruksi Penis",
+      "tujuan": "Mengembalikan kontinuitas struktur penis semaksimal mungkin, termasuk fungsi berkemih dan potensi fungsi seksual, serta hasil kosmetik yang dapat diterima"
+    },
     "Tindakan Repair Tendon": {
       "package": "Orthopedi",
       "tindakan": "Tindakan Repair Tendon",
