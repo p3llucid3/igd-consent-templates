@@ -675,6 +675,20 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Elevasi Fraktur Impresi Kranial": {
+      "alternatif": "Observasi konservatif pada fraktur impresi minimal tanpa kompresi otak signifikan dan tanpa kebocoran cairan serebrospinal",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan kepala (CT scan) yang menunjukkan fraktur impresi dengan kedalaman signifikan dan/atau kompresi jaringan otak di bawahnya, disertai pemeriksaan neurologis",
+      "indikasi": "Fraktur impresi kranial (depressed skull fracture) dengan kedalaman depresi melebihi ketebalan tulang tengkorak, fragmen tulang yang menekan jaringan otak, kebocoran cairan serebrospinal, atau tanda defisit neurologis fokal akibat kompresi",
+      "komplikasi": "Infeksi luka operasi atau intrakranial, kejang pascaoperasi, defisit neurologis menetap, kebocoran cairan serebrospinal",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Bergantung pada derajat cedera otak yang mendasari dan ketepatan waktu tindakan; fraktur impresi tertutup tanpa kerusakan otak signifikan umumnya prognosis baik",
+      "resiko": "Perdarahan, infeksi (termasuk meningitis atau abses otak), kejang, cedera jaringan otak tambahan saat elevasi fragmen",
+      "tata_cara": "Dilakukan anestesi umum, insisi kulit kepala di atas lokasi fraktur, elevasi fragmen tulang yang terdepresi, debridement jaringan nonviabel dan fragmen tulang yang tidak dapat dipertahankan, kontrol perdarahan, serta rekonstruksi tulang tengkorak menggunakan fragmen asli atau material kranioplasti bila diperlukan",
+      "tindakan": "Tindakan Elevasi Fraktur Impresi Kranial",
+      "tujuan": "Mengurangi kompresi pada jaringan otak, mencegah infeksi intrakranial, dan memperbaiki kontur tengkorak"
+    },
     "Tindakan Enema Terapeutik": {
       "alternatif": "Laksatif oral.",
       "checklist": false,
@@ -730,6 +744,20 @@
       "tata_cara": "Insisi pada jaringan eskar hingga mencapai jaringan subkutan untuk melepaskan tekanan.",
       "tindakan": "Tindakan Escharotomy",
       "tujuan": "Mengembalikan perfusi dan mencegah sindrom kompartemen."
+    },
+    "Tindakan Evakuasi Abses Otak": {
+      "alternatif": "Terapi antibiotik intravena jangka panjang tanpa evakuasi bedah pada abses kecil (<2-3 cm) tanpa efek massa signifikan dan dengan respons klinis yang baik",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan kepala (CT scan atau MRI dengan kontras) yang menunjukkan lesi kistik dengan penyangatan tepi (ring enhancement) disertai edema perifokal, didukung tanda klinis infeksi dan defisit neurologis",
+      "indikasi": "Abses otak dengan efek massa signifikan, penurunan kesadaran, defisit neurologis fokal, atau kegagalan respons terhadap terapi antibiotik konservatif",
+      "komplikasi": "Rekurensi abses, infeksi luka operasi, kejang pascaoperasi, defisit neurologis menetap",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Bergantung pada ukuran dan lokasi abses, status imun pasien, dan ketepatan waktu tindakan; deteksi dan tata laksana dini memberikan prognosis lebih baik",
+      "resiko": "Perdarahan, infeksi berulang atau meluas, kejang, defisit neurologis tambahan akibat manipulasi jaringan otak",
+      "tata_cara": "Dilakukan anestesi umum, kraniotomi atau aspirasi stereotaktik pada lokasi abses, evakuasi materi purulen, pengambilan sampel untuk kultur dan sensitivitas, serta irigasi rongga abses",
+      "tindakan": "Tindakan Evakuasi Abses Otak",
+      "tujuan": "Mengurangi efek massa akibat abses, mengendalikan sumber infeksi, dan memperoleh sampel mikrobiologi untuk terapi antibiotik yang tepat sasaran"
     },
     "Tindakan Exchange Transfusion Neonatus": {
       "alternatif": "Fototerapi intensif.",
@@ -1053,6 +1081,20 @@
       "tindakan": "Tindakan Jahit Luka Perineum",
       "tujuan": "Mengembalikan anatomi dan mencegah perdarahan."
     },
+    "Tindakan Kantotomi Lateral dan Kantolisis": {
+      "alternatif": "Terapi medikamentosa (manitol, asetazolamid, elevasi kepala) sebagai tambahan sementara, namun tidak menggantikan dekompresi mekanis bila tekanan intraorbita sangat tinggi",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan klinis (proptosis, tekanan bola mata yang meningkat, penurunan visus progresif, RAPD), didukung pengukuran tekanan intraokular dan riwayat trauma orbita",
+      "indikasi": "Sindrom kompartemen orbita akut (peningkatan tekanan intraorbita) akibat perdarahan retrobulbar traumatik, dengan tanda penurunan visus progresif, proptosis, tekanan intraokular yang sangat meningkat, atau relative afferent pupillary defect (RAPD)",
+      "komplikasi": "Malposisi kelopak mata, asimetri kantus, infeksi, perdarahan berulang",
+      "lain_lain": "Tindakan ini bersifat penyelamatan penglihatan (vision-saving) yang dilakukan dalam kondisi darurat",
+      "package": "Ophthalmology",
+      "prognosis": "Sangat bergantung pada waktu dari onset gejala hingga tindakan dilakukan; keterlambatan lebih dari 90-120 menit berisiko tinggi menyebabkan kehilangan penglihatan permanen",
+      "resiko": "Perdarahan, infeksi, asimetri kantus lateral, cedera struktur kelopak mata",
+      "tata_cara": "Dilakukan anestesi lokal, insisi pada kantus lateral (kantotomi), dilanjutkan pemotongan krus inferior dan/atau superior ligamentum kantus lateral (kantolisis) untuk melepaskan tekanan pada rongga orbita",
+      "tindakan": "Tindakan Kantotomi Lateral dan Kantolisis",
+      "tujuan": "Menurunkan tekanan intraorbita secepat mungkin untuk mencegah iskemia nervus optikus dan kehilangan penglihatan permanen"
+    },
     "Tindakan Kardioversi Sinkron": {
       "alternatif": "Terapi farmakologis antiaritmia.",
       "checklist": false,
@@ -1234,6 +1276,20 @@
       "alternatif": "Alternatif tindakan akan dijelaskan sesuai situasi klinis.",
       "lain_lain": "Penjelasan tambahan akan dituliskan sesuai tindakan spesifik yang dilakukan.",
       "checklist": false
+    },
+    "Tindakan Laminektomi Dekompresi Emergensi": {
+      "alternatif": "Manajemen konservatif (imobilisasi, kortikosteroid dosis tinggi pada kasus tertentu) tanpa dekompresi bedah, dipertimbangkan bila risiko operasi melebihi manfaat atau defisit neurologis sudah lengkap dan ireversibel",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan tulang belakang (CT scan atau MRI) yang menunjukkan kompresi medula spinalis, didukung pemeriksaan neurologis yang menunjukkan defisit motorik/sensorik sesuai level kompresi",
+      "indikasi": "Kompresi medula spinalis akut akibat fraktur/dislokasi vertebra, hematoma epidural spinal, atau lesi lain yang menekan medula spinalis dengan defisit neurologis yang progresif atau berat",
+      "komplikasi": "Infeksi luka operasi, instabilitas vertebra yang memerlukan stabilisasi tambahan, defisit neurologis menetap meski telah dilakukan dekompresi",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Sangat bergantung pada waktu dari onset defisit neurologis hingga dekompresi (\"golden period\" umumnya dalam 24 jam pertama) dan derajat cedera medula spinalis awal",
+      "resiko": "Perdarahan, infeksi, cedera medula spinalis tambahan, instabilitas vertebra pascaoperasi, kebocoran cairan serebrospinal",
+      "tata_cara": "Dilakukan anestesi umum dengan monitoring neurofisiologis bila tersedia, insisi pada level vertebra yang terkena, laminektomi untuk membuka kanal spinal, evakuasi hematoma atau fragmen tulang yang menekan medula spinalis, dengan atau tanpa stabilisasi instrumentasi tambahan",
+      "tindakan": "Tindakan Laminektomi Dekompresi Emergensi",
+      "tujuan": "Mendekompresi medula spinalis secepat mungkin untuk memaksimalkan potensi pemulihan fungsi neurologis"
     },
     "Tindakan Laparotomi": {
       "alternatif": "Laparoskopi bila memungkinkan.",
@@ -1542,6 +1598,20 @@
       "alternatif": "Terapi medikamentosa seperti diuretik atau observasi sesuai kondisi klinis.",
       "lain_lain": "Pada pengeluaran cairan dalam jumlah besar, pasien perlu pemantauan tekanan darah dan kondisi umum.",
       "checklist": false
+    },
+    "Tindakan Parasentesis Bilik Mata Depan": {
+      "alternatif": "Terapi medikamentosa intensif (agen hiperosmotik, penghambat karbonik anhidrase, agen topikal) tanpa parasentesis, digunakan sebagai lini pertama sebelum mempertimbangkan tindakan invasif",
+      "checklist": false,
+      "dasar_diagnosis": "Pengukuran tekanan intraokular yang menunjukkan peningkatan signifikan, disertai pemeriksaan segmen anterior (sudut bilik mata sempit/tertutup) dan gejala klinis (nyeri mata hebat, penurunan visus, mual muntah)",
+      "indikasi": "Glaukoma sudut tertutup akut dengan tekanan intraokular sangat tinggi yang tidak responsif atau membutuhkan penurunan tekanan segera sebelum terapi definitif, untuk mencegah kerusakan nervus optikus ireversibel",
+      "komplikasi": "Infeksi (endoftalmitis), hifema, kerusakan endotel kornea, peningkatan tekanan intraokular berulang",
+      "lain_lain": "-",
+      "package": "Ophthalmology",
+      "prognosis": "Baik sebagai tindakan sementara untuk menurunkan tekanan secara cepat; tetap memerlukan terapi definitif (medikamentosa atau laser iridotomi/bedah) untuk tata laksana jangka panjang",
+      "resiko": "Perdarahan bilik mata depan (hifema), infeksi, cedera lensa atau struktur intraokular lain, kebocoran aqueous humor berkelanjutan",
+      "tata_cara": "Dilakukan anestesi topikal, insersi jarum halus atau pisau mikro pada limbus untuk memasuki bilik mata depan, aspirasi sejumlah kecil aqueous humor untuk menurunkan tekanan intraokular secara segera",
+      "tindakan": "Tindakan Parasentesis Bilik Mata Depan",
+      "tujuan": "Menurunkan tekanan intraokular secepat mungkin untuk mencegah kerusakan nervus optikus permanen akibat glaukoma akut"
     },
     "Tindakan Pelepasan Water Seal Drain (WSD)": {
       "package": "Tindakan Penunjang",
@@ -2593,6 +2663,34 @@
       "lain_lain": "-",
       "checklist": false
     },
+    "Tindakan Reparasi Cedera Trakeobronkial": {
+      "alternatif": "Manajemen konservatif dengan WSD dan observasi ketat hanya sesuai untuk cedera minor tanpa kebocoran udara masif; tidak dianjurkan untuk cedera besar",
+      "checklist": false,
+      "dasar_diagnosis": "Bronkoskopi diagnostik untuk konfirmasi lokasi dan luas robekan trakeobronkial, didukung pencitraan toraks (CT scan) dan tanda klinis kebocoran udara masif",
+      "indikasi": "Cedera trakea atau bronkus akibat trauma tumpul atau tembus toraks-leher dengan kebocoran udara masif, pneumotoraks yang tidak membaik dengan pemasangan WSD, atau emfisema subkutan progresif",
+      "komplikasi": "Stenosis trakea/bronkus, fistula, mediastinitis, gagal napas",
+      "lain_lain": "-",
+      "package": "Thoracic Surgery",
+      "prognosis": "Bergantung pada luas cedera dan ketepatan waktu diagnosis-tindakan; keterlambatan meningkatkan risiko mediastinitis dan gagal napas",
+      "resiko": "Perdarahan, infeksi, stenosis jalan napas pascaoperasi, kebocoran anastomosis, gangguan ventilasi selama operasi",
+      "tata_cara": "Dilakukan anestesi umum dengan manajemen jalan napas hati-hati (sering memerlukan intubasi selektif atau bronkoskopi kaku), eksposur melalui torakotomi atau servikotomi tergantung lokasi cedera, debridement tepi robekan, dan penjahitan trakea/bronkus berlapis",
+      "tindakan": "Tindakan Reparasi Cedera Trakeobronkial",
+      "tujuan": "Mengembalikan kontinuitas jalan napas dan menghentikan kebocoran udara masif untuk mencegah gagal napas dan mediastinitis"
+    },
+    "Tindakan Reparasi Laserasi Palpebra": {
+      "alternatif": "Penjahitan sederhana tanpa perbaikan kanalikuli (tidak dianjurkan bila kanalikuli terputus, karena risiko epifora permanen), atau rujuk ke bedah plastik okuler elektif bila kondisi stabil",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik luka kelopak mata secara sistematis (keterlibatan margin, kanalikuli, ketebalan penuh atau parsial), disertai pemeriksaan bola mata untuk menyingkirkan cedera penyerta",
+      "indikasi": "Laserasi kelopak mata yang melibatkan margin palpebra, sistem duktus lakrimalis (kanalikuli), otot levator, atau laserasi luas/dalam yang berisiko menimbulkan deformitas kosmetik maupun gangguan fungsi proteksi bola mata",
+      "komplikasi": "Entropion/ektropion, epifora akibat obstruksi kanalikuli, asimetri kelopak mata, infeksi",
+      "lain_lain": "-",
+      "package": "Ophthalmology",
+      "prognosis": "Baik bila perbaikan dilakukan segera dengan teknik yang sesuai, terutama untuk cedera kanalikuli yang memerlukan intubasi dini; keterlambatan meningkatkan risiko epifora kronis",
+      "resiko": "Perdarahan, infeksi, malposisi margin palpebra, obstruksi duktus lakrimalis, jaringan parut",
+      "tata_cara": "Dilakukan anestesi lokal, eksplorasi luka untuk identifikasi struktur yang cedera (margin, kanalikuli, levator), intubasi/stenting kanalikuli bila terputus, dilanjutkan penjahitan berlapis dengan perhatian khusus pada align margin palpebra",
+      "tindakan": "Tindakan Reparasi Laserasi Palpebra",
+      "tujuan": "Mengembalikan kontinuitas anatomis kelopak mata, memulihkan fungsi proteksi bola mata dan drainase air mata, serta meminimalkan risiko deformitas kosmetik"
+    },
     "Tindakan Reparasi Laserasi Wajah Kompleks": {
       "alternatif": "Penjahitan sederhana tanpa eksplorasi struktur dalam (tidak dianjurkan bila ada kecurigaan cedera struktur dalam), atau rujuk ke bedah plastik elektif bila kondisi pasien stabil dan tidak darurat",
       "checklist": false,
@@ -2606,6 +2704,34 @@
       "tata_cara": "Dilakukan anestesi lokal atau blok saraf, eksplorasi dan irigasi luka, identifikasi serta perbaikan struktur dalam yang cedera (otot, saraf, duktus) bila ada, dilanjutkan penjahitan berlapis (otot, subkutis, kulit) dengan perhatian khusus pada align tepi luka terutama di area vermilion, alis, atau kelopak mata",
       "tindakan": "Tindakan Reparasi Laserasi Wajah Kompleks",
       "tujuan": "Mengembalikan kontinuitas jaringan wajah, memulihkan fungsi struktur yang cedera, dan meminimalkan risiko deformitas kosmetik permanen"
+    },
+    "Tindakan Reparasi Ruptur Bola Mata": {
+      "alternatif": "Tidak ada alternatif nonoperatif untuk ruptur bola mata terbuka; penundaan tindakan meningkatkan risiko infeksi dan kehilangan bola mata",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (deformitas bola mata, prolaps jaringan uvea, hifema, penurunan visus berat), didukung pencitraan (CT scan orbita) untuk menyingkirkan benda asing intraokular dan menilai luas cedera",
+      "indikasi": "Ruptur bola mata (open globe injury) akibat trauma tajam atau tumpul dengan bukti kebocoran isi intraokular, prolaps jaringan uvea, atau hilangnya bentuk bola mata normal",
+      "komplikasi": "Endoftalmitis, ablasio retina, phthisis bulbi (atrofi bola mata), oftalmia simpatetik pada mata kontralateral",
+      "lain_lain": "-",
+      "package": "Ophthalmology",
+      "prognosis": "Bervariasi luas tergantung mekanisme cedera, luas ruptur, dan keterlibatan struktur posterior; prognosis penglihatan umumnya buruk pada cedera yang luas atau melibatkan segmen posterior",
+      "resiko": "Perdarahan, infeksi (termasuk endoftalmitis), kehilangan penglihatan total, kebutuhan enukleasi bila cedera tidak dapat diperbaiki",
+      "tata_cara": "Dilakukan anestesi umum, eksplorasi luka bola mata, reposisi jaringan uvea yang prolaps bila masih viabel atau eksisi bila nekrotik, penjahitan sklera dan/atau kornea berlapis menggunakan benang mikro, dengan penilaian struktur intraokular selama tindakan",
+      "tindakan": "Tindakan Reparasi Ruptur Bola Mata",
+      "tujuan": "Mengembalikan integritas anatomis bola mata untuk mempertahankan bentuk mata dan memaksimalkan potensi penglihatan yang tersisa"
+    },
+    "Tindakan Reparasi Ruptur Diafragma Traumatik": {
+      "alternatif": "Tidak ada alternatif nonoperatif yang aman untuk ruptur diafragma dengan herniasi organ, karena risiko strangulasi dan gangguan respirasi progresif",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan toraks-abdomen (foto polos, USG, atau CT scan) yang menunjukkan diskontinuitas diafragma atau herniasi organ abdomen intratoraks, didukung mekanisme cedera yang sesuai",
+      "indikasi": "Ruptur diafragma traumatik yang terkonfirmasi atau sangat dicurigai secara klinis maupun radiologis akibat trauma tumpul atau tembus toraks-abdomen, dengan atau tanpa herniasi organ abdomen ke rongga toraks",
+      "komplikasi": "Infeksi rongga toraks/abdomen, gangguan fungsi respirasi, hernia diafragma rekuren, adhesi",
+      "lain_lain": "-",
+      "package": "Thoracic Surgery",
+      "prognosis": "Baik bila diperbaiki segera setelah diagnosis ditegakkan; keterlambatan diagnosis meningkatkan risiko strangulasi organ herniasi dan komplikasi respirasi",
+      "resiko": "Perdarahan, infeksi, cedera organ abdomen atau toraks tambahan saat reduksi, kekambuhan hernia diafragma",
+      "tata_cara": "Dilakukan melalui pendekatan torakotomi, laparotomi, atau kombinasi tergantung cedera penyerta, reduksi organ abdomen yang mengalami herniasi, debridement tepi robekan diafragma, dan penjahitan diafragma berlapis dengan benang non-absorbable",
+      "tindakan": "Tindakan Reparasi Ruptur Diafragma Traumatik",
+      "tujuan": "Mengembalikan integritas diafragma dan fungsi respirasi normal serta mereduksi organ abdomen yang mengalami herniasi ke posisi anatomis"
     },
     "Tindakan Replantasi Digit Traumatik": {
       "alternatif": "Revisi amputasi (stump closure) tanpa replantasi bila bagian teramputasi tidak viable atau replantasi berisiko tinggi gagal",
@@ -2718,6 +2844,20 @@
       "tata_cara": "Inspeksi dan eksplorasi jalan lahir untuk menemukan serta memperbaiki robekan.",
       "tindakan": "Tindakan Revisi Jalan Lahir",
       "tujuan": "Menghentikan perdarahan dan memperbaiki jaringan yang robek."
+    },
+    "Tindakan Revisi Shunt Ventrikuloperitoneal Emergensi": {
+      "alternatif": "Drainase ventrikel eksternal (EVD) sementara sebagai tindakan darurat sambil menunggu revisi shunt definitif, terutama bila terdapat tanda infeksi yang perlu diatasi terlebih dahulu",
+      "checklist": false,
+      "dasar_diagnosis": "Pencitraan kepala (CT scan) yang menunjukkan pembesaran ventrikel dibandingkan pencitraan sebelumnya, didukung pemeriksaan klinis tanda peningkatan tekanan intrakranial dan riwayat pemasangan shunt sebelumnya",
+      "indikasi": "Malfungsi shunt ventrikuloperitoneal (VP shunt) yang menyebabkan hidrosefalus akut dengan tanda peningkatan tekanan intrakranial (nyeri kepala hebat, muntah, penurunan kesadaran, atau tanda herniasi)",
+      "komplikasi": "Infeksi sistem shunt, malfungsi berulang yang memerlukan revisi tambahan, perdarahan intraventrikular",
+      "lain_lain": "-",
+      "package": "Neurosurgery",
+      "prognosis": "Baik bila dilakukan segera setelah diagnosis malfungsi ditegakkan; keterlambatan tindakan berisiko tinggi menyebabkan herniasi otak dan kematian",
+      "resiko": "Perdarahan, infeksi shunt, malfungsi berulang, cedera jaringan otak saat revisi kateter ventrikel",
+      "tata_cara": "Dilakukan anestesi umum, eksplorasi jalur shunt untuk identifikasi lokasi sumbatan atau diskoneksi (katup, kateter proksimal/distal), penggantian komponen shunt yang bermasalah atau seluruh sistem shunt bila diperlukan",
+      "tindakan": "Tindakan Revisi Shunt Ventrikuloperitoneal Emergensi",
+      "tujuan": "Mengembalikan fungsi drainase cairan serebrospinal untuk menurunkan tekanan intrakranial dan mencegah herniasi otak"
     },
     "Tindakan Salpingektomi": {
       "package": "Obstetri & Ginekologi",
@@ -2999,6 +3139,20 @@
       "tindakan": "Tindakan Spooling Telinga (Irigasi Liang Telinga)",
       "tujuan": "Membersihkan liang telinga dan memperbaiki pendengaran."
     },
+    "Tindakan Stabilisasi Flail Chest (Fiksasi Interna)": {
+      "alternatif": "Manajemen konservatif (analgesia adekuat, fisioterapi dada, ventilasi non-invasif atau invasif sesuai kebutuhan) tanpa fiksasi bedah",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (gerakan paradoks dinding dada) dan pencitraan toraks (foto polos atau CT scan) yang mengonfirmasi fraktur costae multipel segmental",
+      "indikasi": "Flail chest (fraktur multipel costae segmental) dengan gangguan mekanika napas signifikan, kegagalan weaning ventilator, atau nyeri yang tidak teratasi dengan manajemen konservatif",
+      "komplikasi": "Infeksi luka operasi, nonunion fraktur, nyeri kronis, pneumonia akibat imobilisasi dinding dada yang tidak adekuat bila tindakan tertunda",
+      "lain_lain": "-",
+      "package": "Thoracic Surgery",
+      "prognosis": "Baik pada pasien yang dipilih tepat (gangguan mekanika napas signifikan); dapat mempercepat pemulihan fungsi paru dibanding manajemen konservatif pada kasus berat",
+      "resiko": "Perdarahan, infeksi, cedera struktur neurovaskular interkostal, kegagalan implan",
+      "tata_cara": "Dilakukan anestesi umum, eksposur segmen costae yang flail melalui insisi toraks terbatas, fiksasi fraktur costae menggunakan plate dan sekrup atau implan fiksasi costae khusus untuk menstabilkan dinding dada",
+      "tindakan": "Tindakan Stabilisasi Flail Chest (Fiksasi Interna)",
+      "tujuan": "Menstabilkan dinding dada untuk memperbaiki mekanika napas, mengurangi nyeri, dan mempercepat pelepasan dari ventilator mekanik"
+    },
     "Tindakan Stabilitas Spine Darurat": {
       "alternatif": "Observasi bila cedera disingkirkan.",
       "checklist": false,
@@ -3194,6 +3348,20 @@
       "tata_cara": "Pemasukan jarum ke rongga pleura untuk aspirasi cairan.",
       "tindakan": "Tindakan Thorakosentesis",
       "tujuan": "Mengurangi sesak dan mendapatkan cairan untuk analisis."
+    },
+    "Tindakan Torakotomi Emergensi": {
+      "alternatif": "Resusitasi jantung paru standar tanpa torakotomi (tidak efektif mengatasi tamponade/perdarahan intratoraks masif), atau rujuk ke kamar operasi bila pasien cukup stabil untuk transport",
+      "checklist": false,
+      "dasar_diagnosis": "Primary survey trauma (ATLS) yang menunjukkan tanda tamponade jantung, perdarahan masif intratoraks, atau henti jantung traumatik dengan mekanisme cedera tembus",
+      "indikasi": "Henti jantung akibat trauma tembus toraks dengan tanda kehidupan saat tiba atau segera sebelum tiba di IGD, atau syok hemoragik refrakter akibat trauma toraks yang tidak respons resusitasi cairan",
+      "komplikasi": "Kegagalan multiorgan, infeksi luka operasi, kerusakan neurologis akibat hipoperfusi berkepanjangan, kematian",
+      "lain_lain": "Tindakan ini bersifat penyelamatan nyawa (life-saving) yang dilakukan dalam kondisi darurat ekstrem; persetujuan tindakan sering diperoleh secara retrospektif atau dari keluarga/wali karena kondisi pasien tidak memungkinkan",
+      "package": "Thoracic Surgery",
+      "prognosis": "Sangat bergantung pada mekanisme cedera dan waktu sejak hilangnya tanda kehidupan; prognosis lebih baik pada trauma tembus jantung dibanding trauma tumpul atau henti jantung yang berlangsung lama sebelum tindakan",
+      "resiko": "Perdarahan masif, cedera struktur jantung/paru/pembuluh darah besar tambahan, infeksi, kegagalan resusitasi meski tindakan telah dilakukan",
+      "tata_cara": "Dilakukan insisi torakotomi anterolateral kiri (dapat diperluas menjadi clamshell bila diperlukan), pembukaan perikardium untuk evakuasi tamponade, kontrol perdarahan langsung pada jantung atau pembuluh darah besar, cross-clamp aorta desendens bila diperlukan untuk mempertahankan perfusi otak dan jantung, serta kompresi jantung interna bila terjadi henti jantung",
+      "tindakan": "Tindakan Torakotomi Emergensi",
+      "tujuan": "Menyelamatkan nyawa pada kondisi henti jantung traumatik akut dengan mengatasi tamponade jantung dan/atau mengontrol perdarahan masif secara langsung"
     },
     "Tindakan Total Hip Replacement": {
       "alternatif": "Hemiarthroplasty atau terapi konservatif.",
