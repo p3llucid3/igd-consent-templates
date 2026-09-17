@@ -320,5 +320,61 @@
     "tata_cara": "Pemasangan balon atau tampon steril ke dalam rongga rahim untuk memberikan tekanan pada sumber perdarahan.",
     "tindakan": "Tindakan Tamponade Uterus",
     "tujuan": "Mengendalikan perdarahan dan mempertahankan kondisi ibu."
+  },
+  "Tindakan Kistektomi Ovarium": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Kistektomi Ovarium",
+    "indikasi": "Kista ovarium simtomatik, kista persisten setelah observasi, kista dengan kecurigaan torsi atau ruptur, atau kista dengan gambaran mencurigakan pada USG yang memerlukan pengangkatan sambil mempertahankan jaringan ovarium sehat",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, USG transvaginal/transabdominal, dan/atau pemeriksaan penanda tumor (CA-125) sesuai indikasi",
+    "tata_cara": "Pengangkatan kista beserta kapsulnya dengan tetap mempertahankan jaringan ovarium normal, melalui laparotomi atau laparoskopi sesuai kondisi klinis",
+    "tujuan": "Mengangkat kista, mengurangi keluhan, dan menegakkan diagnosis histopatologi bila diperlukan, sambil mempertahankan fungsi ovarium",
+    "resiko": "Perdarahan, nyeri pascaoperasi, risiko anestesi",
+    "komplikasi": "Cedera ovarium atau jaringan sekitar, infeksi, kista berulang",
+    "prognosis": "Baik pada kista jinak; tergantung hasil histopatologi bila dicurigai keganasan",
+    "alternatif": "Observasi berkala pada kista fungsional kecil, atau ooforektomi bila jaringan ovarium tidak dapat dipertahankan",
+    "lain_lain": "-",
+    "checklist": false
+  },
+  "Tindakan Ooforektomi": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Ooforektomi",
+    "indikasi": "Kista ovarium besar atau kompleks yang tidak dapat dipertahankan jaringan sehatnya, torsi ovarium dengan jaringan nonviabel, atau kecurigaan keganasan ovarium",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, USG, dan/atau penanda tumor sesuai indikasi",
+    "tata_cara": "Pengangkatan seluruh ovarium (unilateral atau bilateral) melalui laparotomi atau laparoskopi",
+    "tujuan": "Mengangkat jaringan ovarium yang patologis atau nonviabel dan mencegah komplikasi lebih lanjut",
+    "resiko": "Perdarahan, nyeri pascaoperasi, risiko anestesi",
+    "komplikasi": "Menopause dini bila bilateral pada usia reproduktif, infeksi, cedera organ sekitar",
+    "prognosis": "Tergantung penyebab dasar; baik pada kondisi jinak",
+    "alternatif": "Kistektomi ovarium bila jaringan sehat masih dapat dipertahankan",
+    "lain_lain": "-",
+    "checklist": false
+  },
+  "Tindakan Salpingektomi": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Salpingektomi",
+    "indikasi": "Kehamilan ektopik pada tuba falopi dengan tuba yang rusak berat, ruptur tuba, atau perdarahan aktif yang tidak dapat ditangani secara konservatif",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, kadar beta-hCG, dan USG transvaginal yang menunjukkan kehamilan ektopik",
+    "tata_cara": "Pengangkatan tuba falopi yang terlibat melalui laparotomi atau laparoskopi, dengan kontrol perdarahan",
+    "tujuan": "Mengatasi kehamilan ektopik dan menghentikan perdarahan yang mengancam nyawa",
+    "resiko": "Perdarahan, risiko anestesi",
+    "komplikasi": "Penurunan fertilitas terutama bila tuba kontralateral juga terganggu, infeksi",
+    "prognosis": "Baik bila dilakukan segera; kesuburan bergantung pada kondisi tuba kontralateral",
+    "alternatif": "Salpingostomi (bila tuba masih dapat dipertahankan) atau terapi medikamentosa (metotreksat) pada kasus tertentu",
+    "lain_lain": "-",
+    "checklist": false
+  },
+  "Tindakan Pemberian Misoprostol Pervaginam": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pemberian Misoprostol Pervaginam",
+    "indikasi": "Induksi persalinan, pematangan serviks, abortus inkomplit/missed abortion, atau evakuasi sisa hasil konsepsi sesuai usia kehamilan dan kondisi klinis",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan obstetri, dan/atau USG yang menunjukkan indikasi pematangan serviks atau evakuasi kehamilan",
+    "tata_cara": "Pemberian tablet misoprostol pada forniks posterior vagina dengan dosis dan interval sesuai indikasi, disertai pemantauan kontraksi uterus, tanda vital, dan kondisi janin (bila relevan) secara berkala",
+    "tujuan": "Merangsang pematangan serviks dan/atau kontraksi uterus untuk mencapai persalinan atau pengeluaran sisa hasil konsepsi",
+    "resiko": "Nyeri perut/kram, mual, muntah, diare, demam ringan",
+    "komplikasi": "Hiperstimulasi uterus, ruptur uteri (jarang, risiko meningkat pada riwayat sectio caesarea), perdarahan",
+    "prognosis": "Baik bila diberikan sesuai indikasi dan dosis dengan pemantauan ketat",
+    "alternatif": "Oksitosin intravena, metode mekanik (kateter Foley) untuk pematangan serviks, atau kuretase pada abortus inkomplit",
+    "lain_lain": "Kontraindikasi relatif pada riwayat sectio caesarea atau operasi uterus lain karena peningkatan risiko ruptur uteri",
+    "checklist": false
   }
 }
