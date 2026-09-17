@@ -507,6 +507,48 @@
       "tindakan": "Tindakan Eksplorasi Duktus Koledokus",
       "tujuan": "Memperlancar aliran empedu dan mencegah infeksi atau kerusakan hati."
     },
+    "Tindakan Eksplorasi dan Repair Cedera Vaskular Perifer Traumatik": {
+      "alternatif": "Ligasi vaskular emergensi (damage control) pada kondisi hemodinamik tidak stabil dengan rencana revaskularisasi tertunda, atau observasi ketat pada cedera minor tanpa tanda iskemia",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (defisit pulsasi, hematoma ekspansif, bruit/thrill, tanda iskemia), didukung ankle-brachial index atau pencitraan (CT angiografi/USG Doppler) bila kondisi hemodinamik memungkinkan",
+      "indikasi": "Kecurigaan atau konfirmasi cedera vaskular perifer akibat trauma tajam atau tumpul ekstremitas, ditandai perdarahan aktif, hematoma yang membesar, pulsasi distal yang berkurang/hilang, atau tanda iskemia akut pada ekstremitas",
+      "komplikasi": "Trombosis graft/repair, infeksi, sindrom kompartemen, gangguan fungsi ekstremitas jangka panjang, amputasi",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Bergantung pada waktu iskemia sebelum revaskularisasi (\"golden period\" umumnya 6 jam), luas cedera, dan cedera penyerta lain; keterlambatan tindakan meningkatkan risiko kehilangan ekstremitas",
+      "resiko": "Perdarahan, infeksi, trombosis pascarepair, sindrom kompartemen, kegagalan repair yang memerlukan amputasi",
+      "tata_cara": "Dilakukan anestesi regional atau umum, eksplorasi luka untuk identifikasi lokasi dan jenis cedera pembuluh darah (laserasi, transeksi, atau trombosis), kontrol perdarahan proksimal-distal, dilanjutkan repair primer, patch angioplasty, atau interposisi graft tergantung luas cedera",
+      "tindakan": "Tindakan Eksplorasi dan Repair Cedera Vaskular Perifer Traumatik",
+      "tujuan": "Mengembalikan aliran darah ke ekstremitas yang terkena untuk mencegah iskemia ireversibel dan kehilangan ekstremitas"
+    },
+    "Tindakan Eksplorasi dan Repair Saraf Perifer Traumatik": {
+      "alternatif": "Observasi tanpa eksplorasi bila dicurigai neuropraksia ringan (potensi pulih spontan), atau tindakan graft saraf/transfer tendon pada kasus cedera lama yang sudah tidak memungkinkan repair primer",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan neurologis (motorik dan sensorik) sesuai distribusi saraf yang dicurigai cedera, korelasi dengan lokasi dan mekanisme luka, dapat didukung pemeriksaan elektrodiagnostik pada kasus non-akut",
+      "indikasi": "Kecurigaan cedera saraf perifer akibat trauma tajam atau tumpul dengan defisit motorik/sensorik pada distribusi saraf terkait, terutama pada luka yang berdekatan dengan perjalanan anatomis saraf besar",
+      "komplikasi": "Gangguan sensorik atau motorik menetap, neuroma nyeri, kegagalan regenerasi akson yang memerlukan tindakan tambahan",
+      "lain_lain": "-",
+      "package": "Plastic Surgery",
+      "prognosis": "Bervariasi tergantung jenis saraf, derajat cedera, jarak dari otot target, dan ketepatan waktu repair; repair primer dini umumnya memberikan hasil lebih baik dibanding repair tertunda",
+      "resiko": "Perdarahan, infeksi, kegagalan regenerasi saraf, nyeri neuropatik, neuroma pada ujung saraf yang direpair",
+      "tata_cara": "Dilakukan anestesi regional atau umum, eksplorasi luka untuk identifikasi saraf yang cedera, penilaian derajat cedera (neuropraksia, aksonotmesis, atau neurotmesis), dilanjutkan repair saraf primer (epineural/perineural) atau graft saraf bila terdapat gap yang tidak dapat didekatkan tanpa tegangan",
+      "tindakan": "Tindakan Eksplorasi dan Repair Saraf Perifer Traumatik",
+      "tujuan": "Memulihkan kontinuitas saraf untuk memaksimalkan potensi pemulihan fungsi motorik dan sensorik"
+    },
+    "Tindakan Ekstraksi Benda Asing Esofagus": {
+      "alternatif": "Observasi dengan pemantauan pada benda asing tumpul kecil yang berpotensi melewati saluran cerna secara spontan tanpa tanda obstruksi atau komplikasi",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis riwayat tertelan benda asing, pemeriksaan fisik, dan pencitraan (foto polos leher-toraks atau CT scan) untuk konfirmasi lokasi dan jenis benda asing",
+      "indikasi": "Benda asing tertahan di esofagus (bolus makanan, benda tajam/tumpul, baterai) yang menyebabkan obstruksi, nyeri, hipersalivasi, atau risiko perforasi/cedera mukosa, terutama benda asing yang tidak dapat melewati esofagus secara spontan",
+      "komplikasi": "Perforasi esofagus yang memerlukan tindakan bedah lanjutan, mediastinitis, striktur esofagus pascacedera mukosa",
+      "lain_lain": "-",
+      "package": "ENT Advanced",
+      "prognosis": "Baik bila ekstraksi dilakukan segera setelah diagnosis, sebelum terjadi impaksi lama atau cedera mukosa signifikan; benda asing tajam atau baterai memerlukan tindakan lebih segera karena risiko perforasi lebih tinggi",
+      "resiko": "Perforasi esofagus, perdarahan, cedera mukosa, aspirasi",
+      "tata_cara": "Dilakukan anestesi umum atau sedasi dalam, esofagoskopi rigid atau fleksibel untuk visualisasi langsung, ekstraksi benda asing menggunakan forceps atau alat penjepit khusus, dilanjutkan evaluasi mukosa esofagus terhadap cedera",
+      "tindakan": "Tindakan Ekstraksi Benda Asing Esofagus",
+      "tujuan": "Mengeluarkan benda asing yang tertahan untuk mencegah obstruksi berkelanjutan, perforasi esofagus, atau cedera mukosa lebih lanjut"
+    },
     "Tindakan Ekstraksi Benda Asing pada Hidung": {
       "alternatif": "Rujukan ke spesialis THT.",
       "checklist": false,
@@ -716,6 +758,20 @@
       "tata_cara": "Kanulasi pembuluh darah besar dan sirkulasi darah melalui mesin oksigenator eksternal.",
       "tindakan": "Tindakan Extracorporeal Membrane Oxygenation (ECMO)",
       "tujuan": "Memberikan dukungan sirkulasi dan oksigenasi sementara."
+    },
+    "Tindakan Fasciotomi": {
+      "alternatif": "Observasi ketat dengan pengukuran tekanan kompartemen serial pada kasus borderline (tidak dianjurkan bila tanda klinis sudah jelas, karena risiko kerusakan ireversibel)",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik klinis (nyeri hebat, nyeri peregangan pasif, ketegangan kompartemen, parestesia) dan/atau pengukuran tekanan intrakompartemen bila tersedia",
+      "indikasi": "Sindrom kompartemen akut (peningkatan tekanan intrakompartemen) akibat trauma, iskemia-reperfusi, atau cedera vaskular, dengan tanda nyeri hebat tidak sebanding, nyeri saat peregangan pasif, atau tekanan kompartemen yang meningkat pada pengukuran",
+      "komplikasi": "Infeksi, kontraktur, gangguan fungsi neuromuskular menetap bila tindakan tertunda, kebutuhan amputasi pada kasus berat",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Baik bila dilakukan segera setelah diagnosis sindrom kompartemen ditegakkan; keterlambatan lebih dari 6-8 jam berisiko tinggi menyebabkan kerusakan otot dan saraf permanen",
+      "resiko": "Perdarahan, infeksi, kerusakan saraf/pembuluh darah saat insisi, jaringan parut, kebutuhan skin graft untuk penutupan luka",
+      "tata_cara": "Dilakukan anestesi umum atau regional, insisi kulit dan fasia sepanjang kompartemen yang terkena untuk membuka seluruh kompartemen yang mengalami peningkatan tekanan, luka dibiarkan terbuka untuk dilakukan penutupan tertunda atau skin graft setelah edema berkurang",
+      "tindakan": "Tindakan Fasciotomi",
+      "tujuan": "Menurunkan tekanan intrakompartemen untuk mencegah iskemia otot dan saraf ireversibel serta kehilangan fungsi ekstremitas"
     },
     "Tindakan Fototerapi pada Hiperbilirubinemia Neonatus": {
       "package": "Perinatologi",
@@ -1095,6 +1151,20 @@
       "tindakan": "Tindakan Kompresi Bimanual Uterus",
       "tujuan": "Mengendalikan perdarahan postpartum."
     },
+    "Tindakan Kontrol Perdarahan Pasca Tonsilektomi": {
+      "alternatif": "Observasi dengan tekanan lokal dan agen hemostatik topikal pada perdarahan minor yang tidak aktif, dengan pemantauan ketat",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan orofaring langsung yang menunjukkan sumber perdarahan aktif dari fossa tonsil, didukung riwayat tonsilektomi sebelumnya dan penilaian tanda vital untuk menilai derajat kehilangan darah",
+      "indikasi": "Perdarahan aktif dari fossa tonsil pascatonsilektomi (primer dalam 24 jam pertama atau sekunder setelah 24 jam), terutama bila volume perdarahan signifikan atau tidak berhenti dengan tekanan lokal",
+      "komplikasi": "Perdarahan rekuren yang memerlukan tindakan ulang, infeksi, gangguan jalan napas",
+      "lain_lain": "-",
+      "package": "ENT Advanced",
+      "prognosis": "Baik bila sumber perdarahan teridentifikasi dan dikontrol dengan adekuat; perdarahan sekunder (setelah hari ke-5-10) cenderung lebih sulit dikontrol akibat infeksi pada dasar luka",
+      "resiko": "Perdarahan berulang, aspirasi darah, gangguan jalan napas akibat darah atau edema, kebutuhan transfusi",
+      "tata_cara": "Dilakukan anestesi lokal atau umum tergantung derajat perdarahan dan kooperasi pasien, identifikasi titik perdarahan pada fossa tonsil, kontrol perdarahan dengan kauterisasi, ligasi jahitan, atau kompresi menggunakan tampon",
+      "tindakan": "Tindakan Kontrol Perdarahan Pasca Tonsilektomi",
+      "tujuan": "Menghentikan perdarahan aktif dari fossa tonsil untuk mencegah kehilangan darah lebih lanjut dan aspirasi darah ke jalan napas"
+    },
     "Tindakan Kontrol Sumber Infeksi": {
       "alternatif": "Antibiotik saja pada infeksi tanpa koleksi.",
       "checklist": false,
@@ -1122,6 +1192,20 @@
       "tata_cara": "Pembukaan tulang tengkorak untuk mengeluarkan bekuan darah dan mengurangi tekanan.",
       "tindakan": "Tindakan Kraniotomi untuk Evakuasi Hematoma",
       "tujuan": "Mengurangi tekanan intrakranial dan mencegah herniasi."
+    },
+    "Tindakan Krikotirotomi": {
+      "alternatif": "Intubasi endotrakeal ulang dengan alat bantu (video laringoskop, bougie), ventilasi jet transtrakeal, atau trakeostomi emergensi bila krikotirotomi tidak memungkinkan",
+      "checklist": false,
+      "dasar_diagnosis": "Penilaian klinis kegagalan intubasi endotrakeal berulang disertai ketidakmampuan melakukan ventilasi adekuat, pada kondisi hipoksia yang mengancam nyawa",
+      "indikasi": "Kondisi jalan napas darurat \"tidak dapat diintubasi, tidak dapat diventilasi\" (cannot intubate, cannot ventilate) akibat obstruksi jalan napas atas yang tidak dapat diatasi dengan intubasi endotrakeal atau ventilasi bag-mask",
+      "komplikasi": "Stenosis subglotis, infeksi, perdarahan, cedera pita suara, perlunya konversi ke trakeostomi definitif",
+      "lain_lain": "Tindakan ini bersifat penyelamatan nyawa yang dilakukan dalam kondisi darurat ekstrem; persetujuan tindakan sering diperoleh secara retrospektif atau dari keluarga/wali karena kondisi pasien tidak memungkinkan",
+      "package": "ENT Advanced",
+      "prognosis": "Bergantung pada durasi hipoksia sebelum jalan napas berhasil diamankan; tindakan ini bersifat penyelamatan nyawa pada kondisi darurat ekstrem",
+      "resiko": "Perdarahan, cedera struktur di leher (esofagus, pembuluh darah, saraf laring rekuren), emfisema subkutan, malposisi kanula",
+      "tata_cara": "Dilakukan identifikasi membran krikotiroid melalui palpasi, insisi kulit dan membran krikotiroid, dilanjutkan insersi kanula atau pipa endotrakeal berukuran kecil ke dalam trakea untuk mengamankan jalan napas",
+      "tindakan": "Tindakan Krikotirotomi",
+      "tujuan": "Mengamankan jalan napas secepat mungkin pada kondisi darurat yang mengancam nyawa akibat kegagalan jalan napas dengan metode lain"
     },
     "Tindakan Kuretase (Dilatasi dan Kuretase)": {
       "alternatif": "Terapi medik atau observasi sesuai kondisi.",
@@ -1164,6 +1248,20 @@
       "tata_cara": "Operasi membuka dinding perut untuk eksplorasi dan penanganan penyebab.",
       "tindakan": "Tindakan Laparotomi",
       "tujuan": "Menangani kegawatan intraabdomen."
+    },
+    "Tindakan Ligasi Vaskular Emergensi": {
+      "alternatif": "Repair vaskular definitif (primer, patch, atau graft) bila kondisi pasien memungkinkan; ligasi hanya dipilih sebagai damage control sementara",
+      "checklist": false,
+      "dasar_diagnosis": "Penilaian klinis intraoperatif terhadap sumber perdarahan aktif dan kondisi hemodinamik pasien yang tidak memungkinkan tindakan repair vaskular kompleks",
+      "indikasi": "Perdarahan vaskular masif yang mengancam nyawa pada kondisi hemodinamik tidak stabil, di mana repair vaskular definitif tidak memungkinkan segera (damage control surgery), atau cedera pembuluh darah kecil/non-esensial yang tidak berdampak signifikan pada perfusi distal bila diligasi",
+      "komplikasi": "Iskemia atau nekrosis jaringan distal, kebutuhan amputasi, kegagalan hemostasis",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Bervariasi tergantung pembuluh darah yang diligasi dan ada tidaknya sirkulasi kolateral; ligasi pembuluh darah non-esensial umumnya prognosis baik, sedangkan ligasi pembuluh darah mayor tanpa kolateral berisiko tinggi iskemia",
+      "resiko": "Iskemia distal bila pembuluh darah yang diligasi esensial untuk perfusi, perlunya amputasi bila iskemia tidak dapat diatasi, perdarahan berulang",
+      "tata_cara": "Dilakukan identifikasi pembuluh darah sumber perdarahan, ligasi menggunakan jahitan atau klip vaskular, dengan penilaian perfusi distal pascaligasi untuk menentukan kebutuhan revaskularisasi lanjutan",
+      "tindakan": "Tindakan Ligasi Vaskular Emergensi",
+      "tujuan": "Menghentikan perdarahan secepat mungkin sebagai tindakan penyelamatan nyawa, terutama pada strategi damage control surgery"
     },
     "Tindakan Lumbar Drain": {
       "alternatif": "EVD pada kasus tertentu.",
@@ -2439,6 +2537,34 @@
       "tindakan": "Tindakan Pungsi Lumbal",
       "tujuan": "Menegakkan diagnosis."
     },
+    "Tindakan Reduksi Fraktur Nasal Tertutup": {
+      "alternatif": "Observasi tanpa reduksi pada fraktur minimal tanpa deformitas atau obstruksi signifikan, atau rinoplasti/septoplasti elektif tertunda bila terdapat deformitas residual",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (deformitas nasal, krepitasi, nyeri tekan) dan rinoskopi anterior untuk menilai septum, didukung pencitraan bila dicurigai fraktur kompleks",
+      "indikasi": "Fraktur tulang hidung dengan deformitas nyata, deviasi septum, atau obstruksi jalan napas hidung, tanpa disertai kerusakan struktur intranasal yang memerlukan pendekatan terbuka",
+      "komplikasi": "Deformitas nasal residual, obstruksi jalan napas menetap, hematoma septum, infeksi",
+      "lain_lain": "-",
+      "package": "ENT Advanced",
+      "prognosis": "Baik bila dilakukan dalam periode optimal (sebelum konsolidasi tulang, umumnya dalam 1-2 minggu pascacedera); hasil dapat kurang optimal bila dilakukan setelah periode ini",
+      "resiko": "Perdarahan, infeksi, hasil kosmetik tidak optimal, kekambuhan deviasi septum",
+      "tata_cara": "Dilakukan anestesi lokal atau umum, reduksi manual fragmen tulang hidung menggunakan instrumen elevator nasal, koreksi deviasi septum bila ada, dilanjutkan pemasangan splint eksterna atau tampon intranasal untuk mempertahankan posisi",
+      "tindakan": "Tindakan Reduksi Fraktur Nasal Tertutup",
+      "tujuan": "Mengembalikan bentuk dan fungsi hidung (jalan napas) yang optimal serta mencegah deformitas permanen"
+    },
+    "Tindakan Rekonstruksi Flap Lokal Defek Kulit Traumatik": {
+      "alternatif": "Penutupan primer bila defek cukup kecil, skin graft bila jaringan sekitar tidak mencukupi untuk flap, atau healing by secondary intention pada defek kecil dengan risiko operasi tinggi",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik luka meliputi ukuran, kedalaman, viabilitas jaringan sekitar, dan penilaian suplai darah jaringan yang akan digunakan sebagai flap",
+      "indikasi": "Defek kulit traumatik yang terlalu besar atau memiliki ketegangan berlebih untuk penutupan primer, namun jaringan sekitar masih viabel dan dapat dimobilisasi sebagai flap",
+      "komplikasi": "Nekrosis flap, infeksi, hematoma di bawah flap, kegagalan flap yang memerlukan tindakan rekonstruksi ulang",
+      "lain_lain": "-",
+      "package": "Plastic Surgery",
+      "prognosis": "Baik bila perfusi flap terjaga dan tidak ada infeksi; risiko kegagalan meningkat pada pasien dengan gangguan vaskular atau merokok aktif",
+      "resiko": "Perdarahan, infeksi, nekrosis flap parsial atau total akibat gangguan perfusi, dehisensi luka, jaringan parut",
+      "tata_cara": "Dilakukan anestesi lokal atau regional, debridement jaringan nonviabel, desain dan elevasi flap lokal (rotasi, transposisi, atau advancement) dari jaringan sekitar defek, penutupan defek donor dan resipien, serta penilaian perfusi flap pascaoperasi",
+      "tindakan": "Tindakan Rekonstruksi Flap Lokal Defek Kulit Traumatik",
+      "tujuan": "Menutup defek kulit traumatik dengan jaringan yang serupa karakteristiknya, mempertahankan fungsi dan estetika area yang terkena"
+    },
     "Tindakan Rekonstruksi Luka Bakar Kontraktur": {
       "alternatif": "Terapi fisik pada kasus ringan.",
       "checklist": false,
@@ -2466,6 +2592,34 @@
       "alternatif": "Terapi konservatif pada kasus tertentu atau rekonstruksi tendon lanjutan.",
       "lain_lain": "-",
       "checklist": false
+    },
+    "Tindakan Reparasi Laserasi Wajah Kompleks": {
+      "alternatif": "Penjahitan sederhana tanpa eksplorasi struktur dalam (tidak dianjurkan bila ada kecurigaan cedera struktur dalam), atau rujuk ke bedah plastik elektif bila kondisi pasien stabil dan tidak darurat",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis mekanisme cedera dan pemeriksaan fisik luka secara sistematis (kedalaman, keterlibatan struktur dalam, fungsi motorik dan sensorik wajah), dilengkapi eksplorasi luka bila dicurigai cedera struktur dalam",
+      "indikasi": "Laserasi wajah yang melibatkan struktur dalam (otot, saraf fasialis, duktus parotis, kelopak mata, atau tepi bibir/vermilion) atau laserasi luas/multipel yang berisiko menimbulkan deformitas kosmetik maupun gangguan fungsi bila diperbaiki tanpa teknik lapis-demi-lapis",
+      "komplikasi": "Infeksi, dehisensi luka, parut hipertrofik, gangguan fungsi motorik/sensorik wajah menetap, asimetri permanen",
+      "lain_lain": "-",
+      "package": "Plastic Surgery",
+      "prognosis": "Baik bila perbaikan struktur dalam dilakukan tepat waktu dan teknik penjahitan sesuai standar; hasil kosmetik dapat bervariasi tergantung luas dan lokasi laserasi",
+      "resiko": "Perdarahan, infeksi luka, jaringan parut hipertrofik atau keloid, asimetri wajah, cedera lanjutan pada saraf/duktus bila tidak teridentifikasi saat operasi",
+      "tata_cara": "Dilakukan anestesi lokal atau blok saraf, eksplorasi dan irigasi luka, identifikasi serta perbaikan struktur dalam yang cedera (otot, saraf, duktus) bila ada, dilanjutkan penjahitan berlapis (otot, subkutis, kulit) dengan perhatian khusus pada align tepi luka terutama di area vermilion, alis, atau kelopak mata",
+      "tindakan": "Tindakan Reparasi Laserasi Wajah Kompleks",
+      "tujuan": "Mengembalikan kontinuitas jaringan wajah, memulihkan fungsi struktur yang cedera, dan meminimalkan risiko deformitas kosmetik permanen"
+    },
+    "Tindakan Replantasi Digit Traumatik": {
+      "alternatif": "Revisi amputasi (stump closure) tanpa replantasi bila bagian teramputasi tidak viable atau replantasi berisiko tinggi gagal",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis mekanisme cedera (tajam vs avulsi/crush), pemeriksaan fisik tunggul amputasi dan bagian yang teramputasi, penilaian waktu iskemia dan kondisi penyimpanan bagian teramputasi",
+      "indikasi": "Amputasi traumatik jari (digit) dengan bagian yang teramputasi masih viable untuk direplantasi, terutama pada amputasi ibu jari, amputasi multipel, atau amputasi pada anak",
+      "komplikasi": "Nekrosis digit yang direplantasi, infeksi, kontraktur, nonunion tulang, gangguan fungsi jangka panjang",
+      "lain_lain": "-",
+      "package": "Plastic Surgery",
+      "prognosis": "Bervariasi tergantung mekanisme cedera (amputasi tajam prognosis lebih baik dibanding avulsi/crush), waktu iskemia, dan level amputasi; keberhasilan replantasi tidak selalu berarti fungsi optimal",
+      "resiko": "Kegagalan replantasi akibat trombosis arteri atau vena, infeksi, kekakuan sendi, gangguan sensibilitas menetap, perlunya revisi amputasi bila replantasi gagal",
+      "tata_cara": "Dilakukan di bawah anestesi regional atau umum, debridement dan preparasi tunggul serta bagian teramputasi, fiksasi tulang, dilanjutkan reanastomosis pembuluh darah (arteri dan vena) secara mikrosurgis, repair tendon dan saraf, serta penutupan kulit",
+      "tindakan": "Tindakan Replantasi Digit Traumatik",
+      "tujuan": "Mengembalikan kontinuitas dan fungsi digit yang teramputasi sebisa mungkin, termasuk sensibilitas dan mobilitas"
     },
     "Tindakan Reposisi Fraktur Tertutup (Closed Reduction)": {
       "package": "Orthopedi",
@@ -3110,6 +3264,20 @@
       "tata_cara": "Perforasi kuku steril untuk mengeluarkan darah.",
       "tindakan": "Tindakan Trepanasi Hematoma Subungual",
       "tujuan": "Mengurangi tekanan dan nyeri."
+    },
+    "Tindakan Trombektomi Arterial": {
+      "alternatif": "Terapi trombolitik sistemik atau kateter-directed thrombolysis pada kasus tertentu tanpa defisit neurologis berat, atau amputasi primer bila ekstremitas sudah tidak dapat diselamatkan",
+      "checklist": false,
+      "dasar_diagnosis": "Pemeriksaan fisik (6P: pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia), didukung USG Doppler atau CT angiografi untuk konfirmasi lokasi oklusi",
+      "indikasi": "Iskemia akut ekstremitas akibat oklusi arteri oleh trombus atau emboli, ditandai nyeri mendadak, pucat, pulseless, parestesia, atau paralisis pada ekstremitas terkena",
+      "komplikasi": "Sindrom kompartemen, gagal ginjal akut akibat reperfusion injury (rhabdomyolysis), trombosis berulang, amputasi",
+      "lain_lain": "-",
+      "package": "Vascular Surgery",
+      "prognosis": "Baik bila dilakukan dalam batas waktu iskemia yang dapat diselamatkan; prognosis memburuk seiring lamanya durasi iskemia sebelum tindakan",
+      "resiko": "Perdarahan, reperfusion injury, sindrom kompartemen, trombosis rekuren, cedera dinding arteri saat prosedur",
+      "tata_cara": "Dilakukan anestesi lokal, regional, atau umum, arteriotomi pada lokasi akses, ekstraksi trombus/embolus menggunakan kateter Fogarty, dilanjutkan konfirmasi aliran balik yang adekuat dan penutupan arteriotomi",
+      "tindakan": "Tindakan Trombektomi Arterial",
+      "tujuan": "Mengembalikan perfusi arteri ke ekstremitas secepat mungkin untuk mencegah iskemia ireversibel dan kehilangan ekstremitas"
     },
     "Tindakan Uji Mantoux (Tuberculin Skin Test)": {
       "package": "Pulmonologi & Respirasi",
