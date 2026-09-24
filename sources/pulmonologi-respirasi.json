@@ -26,5 +26,19 @@
     "alternatif": "Pemeriksaan IGRA (Interferon Gamma Release Assay) atau pemeriksaan lain sesuai indikasi.",
     "lain_lain": "Pasien perlu kembali untuk pembacaan hasil dalam 48–72 jam.",
     "checklist": false
+  },
+  "Tindakan Bronkoskopi Serat Optik Diagnostik (FOB Diagnostik)": {
+    "package": "Pulmonologi & Respirasi",
+    "tindakan": "Tindakan Bronkoskopi Serat Optik Diagnostik (FOB Diagnostik)",
+    "indikasi": "Lesi paru dengan gambaran radiologis tidak jelas, infiltrat paru persisten yang tidak membaik dengan terapi, kecurigaan keganasan paru, atau infeksi paru yang sulit ditegakkan diagnosisnya secara noninvasif, memerlukan pengambilan sampel bilasan bronkoalveolar (BAL), sikatan bronkus, dan/atau biopsi transbronkial",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pencitraan toraks (foto polos atau CT scan) yang menunjukkan kelainan parenkim paru atau jalan napas yang memerlukan konfirmasi sitologi, histopatologi, atau mikrobiologi",
+    "tata_cara": "Bronkoskop serat optik fleksibel dimasukkan melalui hidung atau mulut dengan anestesi topikal dan sedasi ringan hingga sedang, dilakukan inspeksi jalan napas secara sistematis, dilanjutkan bilasan bronkoalveolar (BAL), sikatan bronkus, dan/atau biopsi transbronkial sesuai indikasi",
+    "tujuan": "Menegakkan diagnosis definitif kelainan paru melalui pengambilan sampel sitologi, histopatologi, atau mikrobiologi secara langsung dari lokasi lesi",
+    "resiko": "Batuk, nyeri tenggorokan, mual, perdarahan ringan terutama pasca biopsi",
+    "komplikasi": "Pneumotoraks (terutama pasca biopsi transbronkial), perdarahan bermakna, hipoksia, bronkospasme, desaturasi oksigen",
+    "prognosis": "Baik bila dilakukan sesuai indikasi dan dengan pemantauan yang adekuat",
+    "alternatif": "Biopsi paru dengan panduan CT (CT-guided biopsy), bronkoskopi kaku pada kasus tertentu, atau observasi klinis dengan pencitraan serial",
+    "lain_lain": "Pasien perlu puasa sebelum tindakan dan pemantauan pascatindakan untuk mendeteksi dini komplikasi seperti pneumotoraks atau perdarahan",
+    "checklist": false
   }
 }
