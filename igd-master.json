@@ -703,6 +703,20 @@
       "tindakan": "Tindakan Ekstraksi Clavus (Mata Ikan)",
       "tujuan": "Menghilangkan sumber nyeri dan mencegah kekambuhan."
     },
+    "Tindakan Ekstraksi Corpus Alienum pada Tangan": {
+      "alternatif": "Observasi pada benda asing kecil, inert, dalam, dan tidak bergejala; tindakan cross insisi pada luka tusuk dengan lubang masuk sempit; atau eksplorasi di kamar operasi dengan panduan fluoroskopi atau USG bila benda asing dalam, dekat struktur penting, atau tidak berhasil dikeluarkan",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis mekanisme cedera dan jenis benda, pemeriksaan fisik luka termasuk pemeriksaan fungsi tendon, sensorik jari, dan perfusi distal, serta pemeriksaan penunjang (foto polos untuk benda radioopak atau USG untuk benda radiolusen seperti kayu dan plastik) bila diperlukan",
+      "indikasi": "Benda asing (serpihan kayu, pecahan kaca, logam, jarum, duri, kail pancing, atau benda lain) yang tertanam di jaringan lunak tangan atau jari, disertai nyeri, risiko infeksi, gangguan fungsi, atau kekhawatiran pasien",
+      "komplikasi": "Infeksi luka, selulitis, atau infeksi selubung tendon (tenosinovitis); benda asing tertinggal sebagian atau tidak dapat ditemukan; cedera tendon, saraf digital, atau pembuluh darah jari; mati rasa pada ujung jari; granuloma benda asing; kekakuan sendi jari; jaringan parut",
+      "lain_lain": "Benda asing yang tidak terlihat pada foto polos belum tentu tidak ada. Bila terdapat gangguan fungsi tendon, gangguan sensorik, atau benda asing dekat sendi dan struktur penting, pasien dapat dirujuk ke dokter spesialis. Status imunisasi tetanus dinilai dan profilaksis diberikan sesuai indikasi. Pasien diminta kembali bila muncul demam, nyeri bertambah, bengkak, kemerahan meluas, atau keluar nanah",
+      "package": "Bedah Umum",
+      "prognosis": "Baik bila benda asing terangkat lengkap dan luka dirawat sesuai anjuran",
+      "resiko": "Nyeri saat dan setelah tindakan, perdarahan ringan, pembengkakan, perlunya perluasan insisi bila benda sulit ditemukan",
+      "tata_cara": "Dilakukan anestesi lokal atau blok saraf digital, pembersihan dan tindakan aseptik, kemudian benda asing dikeluarkan secara langsung dengan pinset atau klem, melalui insisi kecil searah garis kulit untuk memperluas akses, atau dengan teknik khusus sesuai jenis benda (misalnya teknik dorong-potong pada kail pancing), dilanjutkan eksplorasi, irigasi luka, dan penutupan luka sesuai kondisi",
+      "tindakan": "Tindakan Ekstraksi Corpus Alienum pada Tangan",
+      "tujuan": "Mengeluarkan benda asing secara lengkap untuk mengurangi nyeri, mencegah infeksi dan reaksi jaringan, serta mempertahankan fungsi tangan"
+    },
     "Tindakan Ekstraksi Kista Ateroma Minor": {
       "alternatif": "Observasi.",
       "checklist": false,
