@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-27",
   "version": "1.2.11",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
@@ -197,6 +197,48 @@
       "prognosis": "Baik bila diberikan sesuai indikasi.",
       "alternatif": "Ventilator mekanik bila diperlukan.",
       "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan CT Angiografi (CTA)": {
+      "package": "Radiologi & Pencitraan",
+      "tindakan": "Tindakan CT Angiografi (CTA)",
+      "indikasi": "Kecurigaan emboli paru, diseksi atau aneurisma aorta, stroke iskemik akut untuk evaluasi oklusi pembuluh darah besar, perdarahan subaraknoid, cedera vaskular akibat trauma, iskemia tungkai akut, atau kelainan pembuluh darah lain",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium (misalnya D-dimer), dan/atau pencitraan awal yang mengarah pada kelainan pembuluh darah",
+      "tata_cara": "Dipasang akses intravena berukuran besar, kemudian zat kontras beriodium disuntikkan secara cepat menggunakan pompa injektor dengan pengambilan gambar yang disesuaikan waktu kedatangan kontras di pembuluh darah target, dilanjutkan rekonstruksi gambar tiga dimensi",
+      "tujuan": "Menilai anatomi dan kelainan pembuluh darah secara noninvasif untuk menegakkan diagnosis dan merencanakan tindakan lanjutan",
+      "resiko": "Rasa hangat di seluruh tubuh, rasa logam di mulut, mual, nyeri di lokasi suntikan, paparan radiasi pengion, reaksi alergi ringan",
+      "komplikasi": "Reaksi hipersensitivitas berat hingga syok anafilaktik; cedera ginjal akut akibat kontras yang risikonya meningkat karena volume dan kecepatan injeksi kontras; ekstravasasi kontras akibat injeksi bertekanan tinggi; gangguan fungsi tiroid; asidosis laktat pada pengguna metformin dengan gangguan fungsi ginjal",
+      "prognosis": "Baik; manfaat diagnosis cepat pada kondisi gawat darurat vaskular umumnya jauh melebihi risikonya",
+      "alternatif": "Angiografi konvensional (DSA), USG Doppler, MR angiografi, ekokardiografi, atau skintigrafi ventilasi-perfusi sesuai indikasi",
+      "lain_lain": "Pada kondisi gawat darurat seperti stroke akut, pemeriksaan dapat dilakukan sebelum hasil fungsi ginjal tersedia bila manfaat lebih besar dari risiko. Pasien wajib menginformasikan riwayat alergi kontras, penyakit ginjal, diabetes, penggunaan metformin, penyakit tiroid, dan kemungkinan kehamilan",
+      "checklist": false
+    },
+    "Tindakan CT Scan dengan Kontras Intravena": {
+      "package": "Radiologi & Pencitraan",
+      "tindakan": "Tindakan CT Scan dengan Kontras Intravena",
+      "indikasi": "Evaluasi tumor, infeksi atau abses, kelainan vaskular, trauma organ padat, kelainan abdomen atau toraks, serta kondisi lain yang memerlukan penilaian perfusi dan penyangatan jaringan",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium, dan/atau pencitraan awal yang memerlukan evaluasi lebih lanjut dengan penyangatan kontras",
+      "tata_cara": "Dipasang akses intravena, kemudian zat kontras beriodium disuntikkan melalui pompa injektor atau manual saat pasien berbaring di meja CT scan, dilanjutkan pengambilan gambar pada satu atau beberapa fase penyangatan",
+      "tujuan": "Memperjelas gambaran organ, pembuluh darah, dan lesi untuk menegakkan diagnosis secara lebih akurat",
+      "resiko": "Rasa hangat di seluruh tubuh, rasa logam di mulut, mual atau muntah, nyeri atau memar di lokasi suntikan, paparan radiasi pengion, reaksi alergi ringan seperti gatal, kemerahan, atau biduran",
+      "komplikasi": "Reaksi hipersensitivitas sedang hingga berat termasuk bronkospasme, edema laring, dan syok anafilaktik; nefropati atau cedera ginjal akut akibat kontras terutama pada gangguan fungsi ginjal, diabetes, atau dehidrasi; ekstravasasi kontras ke jaringan sekitar dengan pembengkakan dan nyeri, sangat jarang sindrom kompartemen; gangguan fungsi tiroid pada pasien dengan penyakit tiroid; asidosis laktat pada pengguna metformin dengan gangguan fungsi ginjal; reaksi lambat berupa ruam kulit dalam beberapa jam hingga hari",
+      "prognosis": "Baik, sebagian besar reaksi bersifat ringan dan sembuh sendiri; reaksi berat jarang terjadi dan dapat ditangani bila dikenali segera",
+      "alternatif": "CT scan tanpa kontras, ultrasonografi (USG), MRI dengan atau tanpa kontras, atau pemeriksaan lain sesuai indikasi",
+      "lain_lain": "Pasien wajib menginformasikan riwayat alergi (terutama terhadap kontras), asma, penyakit ginjal, diabetes, penggunaan metformin, penyakit tiroid, serta kemungkinan kehamilan. Pemeriksaan fungsi ginjal dan persiapan puasa dilakukan sesuai protokol rumah sakit. Premedikasi dapat diberikan pada pasien dengan riwayat reaksi kontras. Pasien dianjurkan minum cukup setelah pemeriksaan dan dipantau untuk reaksi alergi",
+      "checklist": false
+    },
+    "Tindakan CT Scan tanpa Kontras": {
+      "package": "Radiologi & Pencitraan",
+      "tindakan": "Tindakan CT Scan tanpa Kontras",
+      "indikasi": "Kecurigaan perdarahan intrakranial, cedera kepala, stroke akut, trauma multipel, nyeri abdomen akut, batu saluran kemih, atau kelainan lain yang memerlukan evaluasi pencitraan potong lintang secara cepat",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan penilaian klinis yang menunjukkan perlunya pencitraan untuk menegakkan atau menyingkirkan diagnosis",
+      "tata_cara": "Pasien berbaring di meja pemeriksaan dan diminta tidak bergerak, kemudian meja bergerak melalui gantri CT scan yang memancarkan sinar-X untuk menghasilkan gambar potong lintang area tubuh yang diperiksa tanpa pemberian zat kontras",
+      "tujuan": "Mendapatkan gambaran anatomi dan kelainan organ secara cepat dan akurat untuk menegakkan diagnosis dan menentukan tatalaksana",
+      "resiko": "Paparan radiasi pengion dalam dosis yang terukur, rasa tidak nyaman akibat posisi berbaring, kecemasan atau rasa sempit selama pemeriksaan",
+      "komplikasi": "Risiko jangka panjang keganasan akibat radiasi (sangat kecil, meningkat pada pemeriksaan berulang dan pada anak), risiko pada janin bila pasien hamil, perburukan kondisi pasien tidak stabil selama transportasi ke ruang radiologi",
+      "prognosis": "Baik, merupakan pemeriksaan diagnostik yang cepat dan relatif aman",
+      "alternatif": "Foto polos (rontgen), ultrasonografi (USG), MRI, atau observasi klinis sesuai indikasi",
+      "lain_lain": "Pasien wanita usia subur wajib menginformasikan kemungkinan kehamilan. Benda logam di area pemeriksaan perlu dilepas. Pasien tidak stabil didampingi tenaga medis dengan peralatan resusitasi selama pemeriksaan",
       "checklist": false
     },
     "Tindakan CVC Removal": {
@@ -1360,6 +1402,20 @@
       "tata_cara": "Ligasi atau pemotongan tuba falopi saat operasi sesar.",
       "tindakan": "Tindakan MOW (Sterilisasi) Pasca Sectio Caesarea",
       "tujuan": "Mencegah kehamilan di masa depan."
+    },
+    "Tindakan MRI dengan Kontras Gadolinium": {
+      "package": "Radiologi & Pencitraan",
+      "tindakan": "Tindakan MRI dengan Kontras Gadolinium",
+      "indikasi": "Evaluasi tumor, infeksi, penyakit demielinasi, kelainan medula spinalis, kelainan pembuluh darah, atau lesi jaringan lunak yang memerlukan penyangatan kontras untuk karakterisasi",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan/atau hasil pencitraan sebelumnya yang memerlukan karakterisasi lesi lebih lanjut",
+      "tata_cara": "Pasien melepas seluruh benda logam dan menjalani skrining keamanan MRI, kemudian berbaring di dalam tabung pemindai bermedan magnet kuat; dipasang akses intravena dan zat kontras gadolinium disuntikkan di tengah pemeriksaan, dengan durasi pemeriksaan sekitar 30 hingga 60 menit",
+      "tujuan": "Mendapatkan gambaran jaringan lunak yang sangat detail tanpa radiasi pengion untuk menegakkan diagnosis",
+      "resiko": "Suara bising selama pemeriksaan, rasa sempit atau cemas di dalam tabung, rasa dingin atau nyeri di lokasi suntikan, mual, sakit kepala, reaksi alergi ringan",
+      "komplikasi": "Reaksi hipersensitivitas berat (sangat jarang); fibrosis sistemik nefrogenik pada pasien dengan gangguan fungsi ginjal berat; deposisi gadolinium di jaringan tubuh; cedera akibat benda logam, pergeseran atau gangguan fungsi implan logam dan alat elektronik (misalnya pacu jantung) yang tidak kompatibel dengan MRI; luka bakar kulit akibat kontak dengan kabel atau benda logam",
+      "prognosis": "Baik, merupakan pemeriksaan yang aman bila skrining keamanan dilakukan dengan benar",
+      "alternatif": "MRI tanpa kontras, CT scan dengan atau tanpa kontras, ultrasonografi (USG), atau pemeriksaan lain sesuai indikasi",
+      "lain_lain": "Pasien wajib menginformasikan adanya pacu jantung, implan koklea, klip aneurisma, pompa obat, serpihan logam (terutama di mata), tato atau riwayat operasi dengan implan logam, penyakit ginjal, riwayat alergi, klaustrofobia, serta kemungkinan kehamilan. Sedasi dapat dipertimbangkan pada pasien yang tidak dapat tenang selama pemeriksaan",
+      "checklist": false
     },
     "Tindakan Manajemen Ulkus Dekubitus Lanjut": {
       "alternatif": "Terapi konservatif.",
@@ -2942,6 +2998,20 @@
       "tata_cara": "Operasi sesar segera untuk menyelamatkan ibu dan bayi.",
       "tindakan": "Tindakan Sectio Caesarea Emergensi",
       "tujuan": "Mengatasi kondisi darurat."
+    },
+    "Tindakan Sedasi Prosedural untuk Pemeriksaan Pencitraan": {
+      "package": "Radiologi & Pencitraan",
+      "tindakan": "Tindakan Sedasi Prosedural untuk Pemeriksaan Pencitraan",
+      "indikasi": "Pasien anak, pasien gelisah, pasien dengan gangguan perilaku atau kognitif, atau pasien klaustrofobia yang tidak dapat berbaring tenang selama pemeriksaan CT scan atau MRI",
+      "dasar_diagnosis": "Penilaian klinis bahwa pemeriksaan pencitraan diperlukan dan tidak dapat dilakukan secara adekuat tanpa sedasi, disertai penilaian status jalan napas dan risiko sedasi",
+      "tata_cara": "Dilakukan penilaian pra-sedasi, pasien dipuasakan sesuai protokol bila kondisi memungkinkan, dipasang akses intravena, kemudian diberikan obat sedatif melalui intravena, oral, atau intranasal dengan pemantauan saturasi oksigen, laju napas, dan tanda vital secara kontinu hingga pasien pulih",
+      "tujuan": "Membuat pasien tenang dan tidak bergerak sehingga pemeriksaan pencitraan menghasilkan gambar yang berkualitas dan diagnostik",
+      "resiko": "Mengantuk berkepanjangan, mual atau muntah, pusing, gelisah paradoksal terutama pada anak, penurunan tekanan darah ringan",
+      "komplikasi": "Depresi napas, obstruksi jalan napas, desaturasi oksigen, aspirasi isi lambung, hipotensi, bradikardia, reaksi alergi obat, kebutuhan bantuan jalan napas atau ventilasi",
+      "prognosis": "Baik bila dilakukan dengan penilaian pra-sedasi, pemantauan, dan kesiapan peralatan resusitasi yang adekuat",
+      "alternatif": "Pemeriksaan tanpa sedasi dengan teknik distraksi atau pemeriksaan saat pasien tidur alami (terutama bayi), anestesi umum, atau modalitas pencitraan lain yang lebih cepat",
+      "lain_lain": "Pasien atau keluarga wajib menginformasikan riwayat alergi obat, gangguan napas saat tidur, penyakit jantung atau paru, serta waktu makan dan minum terakhir. Pasien dipantau hingga pulih sepenuhnya dan anak dipulangkan didampingi orang dewasa",
+      "checklist": false
     },
     "Tindakan Sedasi dan Analgesia Kontinu pada Pasien Neurokritikal": {
       "alternatif": "Sedasi intermiten atau terapi suportif.",
