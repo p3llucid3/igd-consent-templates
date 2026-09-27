@@ -1,4 +1,18 @@
 {
+  "Tindakan Bulektomi (Bullectomy)": {
+    "alternatif": "Observasi dengan pemantauan berkala pada bula kecil tanpa gejala, pemasangan WSD saja pada pneumotoraks, pleurodesis kimiawi tanpa reseksi bula, atau terapi medis optimal PPOK",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, CT scan toraks resolusi tinggi yang menunjukkan bula paru beserta ukuran dan lokasinya, serta pemeriksaan fungsi paru dan analisis gas darah sesuai kondisi",
+    "indikasi": "Pneumotoraks spontan berulang atau persisten akibat ruptur bula, kebocoran udara berkepanjangan melalui WSD, bula raksasa yang menempati lebih dari sepertiga hemitoraks dan menekan jaringan paru sehat, sesak napas progresif akibat bula, atau komplikasi bula seperti infeksi dan perdarahan",
+    "komplikasi": "Kebocoran udara berkepanjangan pascaoperasi, pneumotoraks berulang, pneumonia, empiema, atelektasis, gagal napas yang memerlukan ventilator, aritmia jantung, nyeri kronis pascatorakotomi",
+    "lain_lain": "Pasien dianjurkan berhenti merokok. Pascaoperasi pasien akan terpasang WSD hingga kebocoran udara berhenti dan paru mengembang sempurna. Pleurodesis dapat dilakukan bersamaan untuk mencegah kekambuhan pneumotoraks",
+    "package": "Thoracic Surgery",
+    "prognosis": "Baik pada pasien dengan fungsi paru di luar bula yang relatif baik; hasil kurang optimal pada emfisema difus berat",
+    "resiko": "Nyeri luka operasi, perdarahan, infeksi luka operasi, mual pascaanestesi, emfisema subkutan",
+    "tata_cara": "Dilakukan anestesi umum dengan intubasi selektif satu paru, pendekatan melalui bedah toraks berbantuan video (VATS) atau torakotomi, bula diidentifikasi dan direseksi menggunakan stapler paru, dapat disertai pleurodesis mekanik atau kimiawi, kemudian dipasang WSD",
+    "tindakan": "Tindakan Bulektomi (Bullectomy)",
+    "tujuan": "Mengangkat bula untuk mencegah pneumotoraks berulang, menghentikan kebocoran udara, dan memungkinkan jaringan paru sehat yang tertekan mengembang kembali sehingga fungsi napas membaik"
+  },
   "Tindakan Reparasi Cedera Trakeobronkial": {
     "alternatif": "Manajemen konservatif dengan WSD dan observasi ketat hanya sesuai untuk cedera minor tanpa kebocoran udara masif; tidak dianjurkan untuk cedera besar",
     "checklist": false,
