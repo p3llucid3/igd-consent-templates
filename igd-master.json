@@ -185,7 +185,21 @@
       "lain_lain": "Pasien perlu puasa sebelum tindakan dan pemantauan pascatindakan untuk mendeteksi dini komplikasi seperti pneumotoraks atau perdarahan",
       "checklist": false
     },
-    "Tindakan Bulektomi (Bullectomy)": {
+    "Tindakan Bulektomi Kulit (Deroofing Bula)": {
+      "alternatif": "Membiarkan bula utuh sebagai pelindung alami pada bula kecil dan tidak tegang, aspirasi cairan bula dengan jarum steril, atau perawatan dengan balutan saja",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis mekanisme cedera dan pemeriksaan fisik luka, termasuk penilaian luas (persentase luas permukaan tubuh) dan kedalaman luka bakar",
+      "indikasi": "Bula pada luka bakar derajat II (partial thickness) yang berukuran besar, tegang, pecah, berisi cairan keruh atau hemoragik, terletak di area sendi sehingga mengganggu gerak, atau menghalangi penilaian kedalaman luka; juga bula akibat trauma gesekan atau infeksi kulit bulosa sesuai indikasi",
+      "komplikasi": "Infeksi luka, perlambatan penyembuhan, perburukan kedalaman luka, jaringan parut hipertrofik atau perubahan warna kulit",
+      "lain_lain": "Penggantian balutan dan kontrol luka dilakukan sesuai jadwal. Pasien diminta segera kembali bila muncul demam, nyeri bertambah, kemerahan meluas, atau keluar nanah. Status imunisasi tetanus dinilai dan profilaksis diberikan sesuai indikasi",
+      "package": "Bedah Umum",
+      "prognosis": "Baik pada luka bakar superfisial hingga sedang dengan perawatan luka yang adekuat",
+      "resiko": "Nyeri saat dan setelah tindakan, perdarahan ringan, rasa perih saat penggantian balutan",
+      "tata_cara": "Setelah analgesia yang adekuat, area luka dibersihkan dengan cairan steril, dinding bula digunting dan diangkat (deroofing) beserta cairannya dengan teknik aseptik, sisa kulit mati yang terlepas dibersihkan, kemudian luka ditutup dengan balutan atau obat topikal sesuai protokol perawatan luka bakar",
+      "tindakan": "Tindakan Bulektomi Kulit (Deroofing Bula)",
+      "tujuan": "Membersihkan luka dari cairan dan kulit mati yang dapat menjadi media infeksi, memungkinkan penilaian kedalaman luka secara akurat, mengurangi nyeri akibat bula tegang, dan mempercepat penyembuhan"
+    },
+    "Tindakan Bulektomi Paru (Bullectomy)": {
       "alternatif": "Observasi dengan pemantauan berkala pada bula kecil tanpa gejala, pemasangan WSD saja pada pneumotoraks, pleurodesis kimiawi tanpa reseksi bula, atau terapi medis optimal PPOK",
       "checklist": false,
       "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, CT scan toraks resolusi tinggi yang menunjukkan bula paru beserta ukuran dan lokasinya, serta pemeriksaan fungsi paru dan analisis gas darah sesuai kondisi",
@@ -196,7 +210,7 @@
       "prognosis": "Baik pada pasien dengan fungsi paru di luar bula yang relatif baik; hasil kurang optimal pada emfisema difus berat",
       "resiko": "Nyeri luka operasi, perdarahan, infeksi luka operasi, mual pascaanestesi, emfisema subkutan",
       "tata_cara": "Dilakukan anestesi umum dengan intubasi selektif satu paru, pendekatan melalui bedah toraks berbantuan video (VATS) atau torakotomi, bula diidentifikasi dan direseksi menggunakan stapler paru, dapat disertai pleurodesis mekanik atau kimiawi, kemudian dipasang WSD",
-      "tindakan": "Tindakan Bulektomi (Bullectomy)",
+      "tindakan": "Tindakan Bulektomi Paru (Bullectomy)",
       "tujuan": "Mengangkat bula untuk mencegah pneumotoraks berulang, menghentikan kebocoran udara, dan memungkinkan jaringan paru sehat yang tertekan mengembang kembali sehingga fungsi napas membaik"
     },
     "Tindakan CPAP Neonatus": {
