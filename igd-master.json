@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27",
+  "updated_at": "2026-10-04",
   "version": "1.2.11",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
@@ -1978,18 +1978,18 @@
       "checklist": false
     },
     "Tindakan Pemasangan Water Seal Drain (WSD)": {
-      "alternatif": "Aspirasi jarum pada kasus tertentu.",
+      "alternatif": "Dekompresi jarum pada pneumotoraks tension sebagai tindakan sementara, pemasangan kateter pleura kecil (pigtail), torakosentesis pada efusi pleura, atau observasi pada pneumotoraks kecil yang stabil",
       "checklist": false,
-      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan foto toraks.",
-      "indikasi": "Pneumotoraks atau efusi pleura.",
-      "komplikasi": "Infeksi atau cedera paru.",
-      "lain_lain": "-",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik toraks, dan pemeriksaan penunjang (foto toraks, USG toraks/eFAST, atau CT scan) yang menunjukkan adanya udara, darah, cairan, atau pus di rongga pleura; pada pneumotoraks tension diagnosis dapat ditegakkan secara klinis",
+      "indikasi": "Pneumotoraks (spontan, traumatik, atau tension setelah dekompresi jarum), hemotoraks, efusi pleura masif atau simtomatik, empiema, chylotoraks, kebocoran udara pascaoperasi toraks, atau pneumotoraks pada pasien dengan ventilasi mekanik",
+      "komplikasi": "Salah posisi selang (subkutan, intrafisura, atau intraabdomen); cedera paru, jantung, pembuluh darah besar, hati, limpa, atau diafragma; cedera pembuluh darah atau saraf interkostal; perdarahan masif; edema paru reekspansi; emfisema subkutan; infeksi luka atau empiema; selang tersumbat, tertekuk, atau terlepas; pneumotoraks berulang",
+      "lain_lain": "Foto toraks dilakukan setelah pemasangan untuk konfirmasi posisi selang. Botol WSD harus selalu berada di bawah level dada dan tidak boleh diklem tanpa instruksi. Pasien dan keluarga diminta segera melapor bila selang terlepas, sesak bertambah, atau nyeri dada memberat. Drainase darah dalam jumlah besar pada hemotoraks dapat memerlukan tindakan bedah lanjutan (torakotomi)",
       "package": "Tindakan Penunjang",
-      "prognosis": "Baik dengan pemantauan rutin.",
-      "resiko": "Nyeri, perdarahan.",
-      "tata_cara": "Pemasangan selang drainase pada rongga pleura dengan sistem water seal.",
-      "tindakan": "Tindakan Pemasangan Water Seal Drain (WSD)",
-      "tujuan": "Mengeluarkan udara atau cairan dari rongga pleura."
+      "prognosis": "Baik pada sebagian besar kasus dengan pemantauan rutin; bergantung pada penyakit atau cedera yang mendasari",
+      "resiko": "Nyeri di lokasi pemasangan dan selama selang terpasang, perdarahan ringan, rasa tidak nyaman saat bernapas dalam atau batuk, keterbatasan gerak",
+      "tata_cara": "Pasien diposisikan setengah duduk dengan lengan diangkat, dilakukan tindakan aseptik dan anestesi lokal pada sela iga ke-4 atau ke-5 di antara garis aksila anterior dan media (segitiga aman), dilakukan insisi kulit dan diseksi tumpul di atas tepi atas iga hingga menembus pleura, eksplorasi dengan jari, kemudian selang dada (chest tube) dimasukkan ke rongga pleura, difiksasi dengan jahitan, dan dihubungkan ke sistem water seal drain",
+      "tindakan": "Tindakan Pemasangan Water Seal Drain (WSD) / Chest Tube",
+      "tujuan": "Mengeluarkan udara, darah, cairan, atau pus dari rongga pleura sehingga paru dapat mengembang kembali dan fungsi pernapasan serta sirkulasi membaik"
     },
     "Tindakan Pemberian Magnesium Sulfat (MgSO4)": {
       "alternatif": "Antikonvulsan lain bila kontraindikasi.",
