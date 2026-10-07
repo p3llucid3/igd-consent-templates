@@ -55,7 +55,7 @@
     "tindakan": "Tindakan Pemasangan Oro Gastric Tube (OGT)",
     "tujuan": "Mengosongkan lambung atau memberikan nutrisi."
   },
-  "Tindakan Pemasangan Water Seal Drain (WSD)": {
+  "Tindakan Pemasangan Water Seal Drain (WSD) / Chest Tube": {
     "alternatif": "Dekompresi jarum pada pneumotoraks tension sebagai tindakan sementara, pemasangan kateter pleura kecil (pigtail), torakosentesis pada efusi pleura, atau observasi pada pneumotoraks kecil yang stabil",
     "checklist": false,
     "dasar_diagnosis": "Anamnesis, pemeriksaan fisik toraks, dan pemeriksaan penunjang (foto toraks, USG toraks/eFAST, atau CT scan) yang menunjukkan adanya udara, darah, cairan, atau pus di rongga pleura; pada pneumotoraks tension diagnosis dapat ditegakkan secara klinis",
