@@ -152,5 +152,33 @@
     "alternatif": "Imobilisasi konservatif dengan gips atau splint, pemasangan plate dan screw (ORIF), external fixator, atau tindakan lain sesuai jenis fraktur dan kondisi pasien.",
     "lain_lain": "Kawat dapat dilepas setelah dinilai penyembuhan tulang telah memadai berdasarkan evaluasi klinis dan radiologi.",
     "checklist": false
+  },
+  "Tindakan Debridement dan Stabilisasi Awal Fraktur Terbuka": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Debridement dan Stabilisasi Awal Fraktur Terbuka",
+    "indikasi": "Patah tulang dengan luka terbuka yang berhubungan dengan lokasi patahan (fraktur terbuka), dengan risiko infeksi dan kerusakan jaringan lunak",
+    "dasar_diagnosis": "Anamnesis mekanisme cedera, pemeriksaan fisik luka dan status neurovaskular distal, serta foto polos (rontgen) pada daerah yang cedera",
+    "tata_cara": "Diberikan antibiotik intravena dan profilaksis tetanus sedini mungkin, dilakukan anestesi sesuai kondisi, luka diirigasi dengan cairan steril dalam jumlah besar, jaringan mati, kotor, dan benda asing dibuang (debridement), kemudian patahan tulang distabilkan sementara dengan bidai, gips, atau fiksasi eksternal, dan luka ditutup sesuai kondisi",
+    "tujuan": "Mencegah infeksi tulang, membersihkan luka, dan menstabilkan patahan tulang sebagai persiapan tindakan definitif",
+    "resiko": "Nyeri, perdarahan, bengkak",
+    "komplikasi": "Infeksi luka atau infeksi tulang (osteomielitis), penyembuhan tulang terlambat atau tidak menyambung, sindrom kompartemen, cedera saraf atau pembuluh darah, perlunya debridement ulangan, amputasi pada cedera berat",
+    "prognosis": "Bergantung pada derajat fraktur terbuka, kontaminasi, dan kerusakan jaringan lunak; lebih baik bila debridement dan antibiotik diberikan segera",
+    "alternatif": "Perawatan luka dan pembidaian sementara lalu dirujuk ke fasilitas dengan layanan ortopedi; tidak ada alternatif setara untuk pencegahan infeksi pada fraktur terbuka",
+    "lain_lain": "Tindakan ini umumnya merupakan tahap awal; operasi lanjutan (ORIF, OREF, atau penutupan luka) dapat diperlukan. Pasien diminta melaporkan nyeri hebat yang tidak membaik, kesemutan, atau perubahan warna pada ujung anggota gerak",
+    "checklist": false
+  },
+  "Tindakan Artrosentesis (Aspirasi Sendi)": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Artrosentesis (Aspirasi Sendi)",
+    "indikasi": "Pembengkakan sendi dengan kecurigaan artritis septik, gout atau pseudogout, hemartrosis akibat trauma, efusi sendi yang menimbulkan nyeri, atau kebutuhan injeksi obat ke dalam sendi",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik sendi, dan pemeriksaan penunjang (foto polos, USG, atau laboratorium) sesuai indikasi",
+    "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal, kemudian jarum ditusukkan ke rongga sendi dengan penanda anatomis atau panduan USG untuk menghisap cairan sendi, dapat dilanjutkan dengan pemberian obat ke dalam sendi sesuai indikasi, lalu bekas tusukan ditutup kasa steril; cairan sendi dikirim untuk pemeriksaan laboratorium",
+    "tujuan": "Menegakkan diagnosis penyebab pembengkakan sendi dan/atau mengurangi nyeri dengan mengeluarkan cairan sendi",
+    "resiko": "Nyeri saat tusukan, memar, perdarahan ringan",
+    "komplikasi": "Infeksi sendi (jarang), perdarahan ke dalam sendi, cedera tulang rawan, reaksi terhadap obat yang disuntikkan, cairan tidak berhasil diambil",
+    "prognosis": "Baik, merupakan prosedur yang aman bila dilakukan dengan teknik aseptik",
+    "alternatif": "Pemeriksaan pencitraan dan laboratorium tanpa aspirasi, terapi obat sesuai dugaan penyebab, atau tindakan bedah (washout sendi) pada artritis septik",
+    "lain_lain": "Pasien diminta mengistirahatkan sendi selama 24 jam setelah tindakan dan kembali bila muncul demam, nyeri bertambah, kemerahan, atau bengkak memburuk",
+    "checklist": false
   }
 }

@@ -54,5 +54,33 @@
     "alternatif": "Pendekatan non-fisik seperti komunikasi, sedasi, atau pendampingan keluarga.",
     "lain_lain": "Dilakukan sesuai indikasi medis dan akan dievaluasi secara berkala untuk penghentian restrain.",
     "checklist": false
+  },
+  "Tindakan Bilas Lambung (Gastric Lavage)": {
+    "package": "Emergency & Critical Care",
+    "tindakan": "Tindakan Bilas Lambung (Gastric Lavage)",
+    "indikasi": "Keracunan zat yang tertelan dalam jumlah berpotensi mengancam nyawa dan masih berada di lambung (umumnya dalam 1 jam setelah tertelan), terutama bila tidak ada antidotum yang efektif, sesuai pertimbangan dokter",
+    "dasar_diagnosis": "Anamnesis jenis, jumlah, dan waktu zat tertelan, pemeriksaan fisik termasuk tingkat kesadaran dan kemampuan melindungi jalan napas, serta pemeriksaan penunjang sesuai kebutuhan",
+    "tata_cara": "Pasien diposisikan miring kiri dengan kepala sedikit lebih rendah, dimasukkan selang lambung berukuran besar melalui mulut atau hidung dan dikonfirmasi posisinya, kemudian cairan dimasukkan dan dikeluarkan berulang dalam jumlah kecil hingga cairan yang keluar jernih; pada pasien dengan penurunan kesadaran, jalan napas diamankan terlebih dahulu dengan intubasi",
+    "tujuan": "Mengeluarkan sisa zat beracun dari lambung untuk mengurangi penyerapan racun ke dalam tubuh",
+    "resiko": "Rasa tidak nyaman, mual, muntah, nyeri tenggorokan, perdarahan hidung bila selang melalui hidung",
+    "komplikasi": "Aspirasi isi lambung ke paru (pneumonia aspirasi), spasme laring, cedera atau perforasi kerongkongan dan lambung, gangguan elektrolit, hipotermia, aritmia",
+    "prognosis": "Bergantung pada jenis dan jumlah racun serta waktu tindakan; manfaat menurun bila dilakukan lebih dari 1 jam setelah tertelan",
+    "alternatif": "Pemberian arang aktif, antidotum spesifik, terapi suportif dan observasi, atau dekontaminasi usus sesuai jenis racun",
+    "lain_lain": "Bilas lambung tidak dilakukan pada keracunan zat korosif (asam/basa kuat) atau hidrokarbon (minyak tanah, bensin) karena risiko cedera dan aspirasi. Sampel cairan lambung dapat diambil untuk pemeriksaan toksikologi. Pada kasus percobaan bunuh diri, pasien memerlukan pendampingan dan konsultasi kesehatan jiwa",
+    "checklist": false
+  },
+  "Tindakan Dekompresi Jarum (Needle Thoracostomy)": {
+    "package": "Emergency & Critical Care",
+    "tindakan": "Tindakan Dekompresi Jarum (Needle Thoracostomy)",
+    "indikasi": "Tension pneumothorax yang ditandai sesak berat, hipotensi atau syok, distensi vena leher, suara napas menghilang pada satu sisi, atau deviasi trakea, sebagai tindakan penyelamatan sebelum pemasangan WSD/chest tube",
+    "dasar_diagnosis": "Diagnosis klinis berdasarkan pemeriksaan fisik dan kondisi hemodinamik; tindakan tidak boleh ditunda untuk menunggu foto toraks",
+    "tata_cara": "Dilakukan tindakan aseptik, kemudian jarum atau kateter intravena berukuran besar ditusukkan di sela iga ke-4 atau ke-5 di garis aksila anterior hingga media (atau sela iga ke-2 di garis midklavikula) tepat di atas tepi atas iga hingga udara keluar, kateter dibiarkan terpasang dan dilanjutkan dengan pemasangan WSD/chest tube",
+    "tujuan": "Mengeluarkan udara bertekanan dari rongga pleura secara cepat untuk mengembalikan fungsi napas dan sirkulasi yang mengancam nyawa",
+    "resiko": "Nyeri di lokasi tusukan, perdarahan ringan",
+    "komplikasi": "Kegagalan dekompresi akibat jarum tidak mencapai rongga pleura atau tertekuk, cedera paru, pembuluh darah interkostal, atau struktur dalam dada, pneumotoraks baru bila diagnosis tidak tepat, infeksi",
+    "prognosis": "Baik bila tension pneumothorax dikenali dan ditangani segera; bergantung pada cedera atau penyakit penyerta",
+    "alternatif": "Pemasangan langsung WSD/chest tube atau torakostomi jari (finger thoracostomy) bila sarana dan kondisi memungkinkan",
+    "lain_lain": "Tindakan ini bersifat penyelamatan nyawa dan bersifat sementara; pemasangan WSD/chest tube tetap diperlukan sesudahnya. Pada kondisi darurat, persetujuan dapat diberikan oleh keluarga atau dilengkapi setelah tindakan",
+    "checklist": false
   }
 }

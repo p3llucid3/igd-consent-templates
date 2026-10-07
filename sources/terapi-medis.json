@@ -82,5 +82,47 @@
     "tata_cara": "Pemberian albumin melalui infus intravena dengan pemantauan tanda vital.",
     "tindakan": "Tindakan Transfusi Albumin",
     "tujuan": "Mempertahankan tekanan onkotik dan keseimbangan cairan tubuh."
+  },
+  "Tindakan Transfusi Darah dan Komponen Darah": {
+    "package": "Terapi Medis",
+    "tindakan": "Tindakan Transfusi Darah dan Komponen Darah",
+    "indikasi": "Anemia berat atau simtomatik, perdarahan akut dengan gangguan hemodinamik, trombositopenia berat atau perdarahan akibat gangguan trombosit, gangguan pembekuan darah dengan perdarahan aktif atau sebelum tindakan invasif, sesuai indikasi pemberian sel darah merah pekat (PRC), trombosit (TC), plasma segar beku (FFP), atau kriopresipitat",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan laboratorium (hemoglobin, hematokrit, trombosit, faal hemostasis) serta penilaian klinis kebutuhan transfusi",
+    "tata_cara": "Dilakukan pemeriksaan golongan darah dan uji silang serasi (crossmatch), identifikasi ulang pasien dan kantong darah di samping tempat tidur, kemudian darah atau komponen darah diberikan melalui akses intravena dengan set transfusi berfilter sesuai kecepatan yang ditentukan, disertai pemantauan tanda vital sebelum, selama, dan sesudah transfusi",
+    "tujuan": "Meningkatkan kapasitas angkut oksigen, mengganti kehilangan darah, dan/atau memperbaiki fungsi pembekuan darah",
+    "resiko": "Demam, menggigil, gatal atau biduran, nyeri di lokasi infus, rasa tidak nyaman",
+    "komplikasi": "Reaksi transfusi hemolitik akut atau lambat, reaksi alergi berat hingga anafilaksis, kelebihan cairan (TACO), cedera paru akut terkait transfusi (TRALI), penularan infeksi melalui darah (sangat jarang dengan skrining), hipotermia, gangguan elektrolit (hiperkalemia, hipokalsemia) pada transfusi masif, pembentukan antibodi terhadap darah donor",
+    "prognosis": "Baik pada sebagian besar pasien; reaksi berat jarang terjadi dan dapat ditangani bila dikenali segera",
+    "alternatif": "Terapi pengganti sesuai penyebab (suplementasi zat besi, asam folat, vitamin B12, atau eritropoietin), cairan pengganti volume pada perdarahan, obat hemostatik (asam traneksamat, vitamin K), atau penundaan transfusi dengan observasi bila kondisi memungkinkan",
+    "lain_lain": "Pasien atau keluarga diminta segera melapor bila timbul demam, menggigil, sesak, nyeri dada atau pinggang, gatal, atau urin berwarna gelap selama atau setelah transfusi. Transfusi akan dihentikan segera bila dicurigai reaksi transfusi. Pasien berhak menolak transfusi atas dasar keyakinan atau alasan pribadi dengan memahami risikonya",
+    "checklist": false
+  },
+  "Tindakan Pemberian Serum Anti Bisa Ular (SABU)": {
+    "package": "Terapi Medis",
+    "tindakan": "Tindakan Pemberian Serum Anti Bisa Ular (SABU)",
+    "indikasi": "Gigitan ular berbisa dengan tanda envenomasi sistemik (gangguan pembekuan darah, perdarahan spontan, gangguan saraf seperti ptosis atau kelemahan otot pernapasan, syok) atau envenomasi lokal yang progresif",
+    "dasar_diagnosis": "Anamnesis riwayat gigitan dan jenis ular bila diketahui, pemeriksaan fisik lokal dan sistemik, serta pemeriksaan penunjang seperti uji pembekuan darah 20 menit (20WBCT), darah lengkap, dan faal hemostasis",
+    "tata_cara": "Serum anti bisa ular dilarutkan dalam cairan infus dan diberikan secara intravena dengan dosis sesuai derajat envenomasi, dengan kesiapan obat dan alat penanganan anafilaksis, disertai pemantauan tanda vital dan evaluasi ulang klinis serta laboratorium untuk menentukan perlunya dosis ulangan",
+    "tujuan": "Menetralkan bisa ular dalam sirkulasi untuk mencegah atau menghentikan kerusakan organ, gangguan pembekuan darah, kelumpuhan, dan kematian",
+    "resiko": "Demam, menggigil, gatal, biduran, mual, nyeri di lokasi infus",
+    "komplikasi": "Reaksi anafilaksis atau reaksi alergi berat, serum sickness (demam, nyeri sendi, ruam) beberapa hari setelah pemberian, reaksi pirogenik, kebutuhan dosis ulangan bila efek belum adekuat",
+    "prognosis": "Bergantung pada jenis ular, jumlah bisa, dan kecepatan pemberian antibisa; umumnya baik bila diberikan segera dan tepat",
+    "alternatif": "Terapi suportif saja (imobilisasi, perawatan luka, bantuan napas, transfusi komponen darah) pada gigitan tanpa tanda envenomasi; tidak ada pengganti setara pada envenomasi berat",
+    "lain_lain": "Imobilisasi anggota gerak yang tergigit tetap dilakukan. Tidak dianjurkan menyayat, menghisap, atau mengikat erat lokasi gigitan. Pasien diobservasi minimal 24 jam. Pasien diminta kembali bila timbul demam, nyeri sendi, atau ruam dalam 1 hingga 2 minggu setelah pemberian",
+    "checklist": false
+  },
+  "Tindakan Pemberian Vaksin Anti Rabies (VAR) dan Serum Anti Rabies (SAR)": {
+    "package": "Terapi Medis",
+    "tindakan": "Tindakan Pemberian Vaksin Anti Rabies (VAR) dan Serum Anti Rabies (SAR)",
+    "indikasi": "Gigitan, cakaran, atau jilatan pada kulit yang luka atau selaput lendir oleh hewan penular rabies (anjing, kucing, kera, atau hewan lain) yang tersangka atau terbukti rabies, atau hewan yang tidak dapat diobservasi",
+    "dasar_diagnosis": "Anamnesis riwayat kontak dengan hewan (jenis hewan, status vaksinasi hewan, keadaan hewan), pemeriksaan fisik luka untuk menentukan kategori paparan, serta riwayat vaksinasi rabies pasien sebelumnya",
+    "tata_cara": "Luka dicuci dengan sabun di bawah air mengalir selama 15 menit dan diberi antiseptik, kemudian vaksin anti rabies disuntikkan intramuskular atau intradermal sesuai jadwal yang berlaku; pada paparan berat, serum anti rabies diinfiltrasikan di sekitar dan ke dalam luka dengan sisa dosis disuntikkan intramuskular jauh dari lokasi vaksin",
+    "tujuan": "Mencegah berkembangnya penyakit rabies yang hampir selalu berakibat fatal bila sudah timbul gejala",
+    "resiko": "Nyeri, kemerahan, atau bengkak di lokasi suntikan, demam ringan, sakit kepala, nyeri otot, mual",
+    "komplikasi": "Reaksi alergi hingga anafilaksis (jarang), serum sickness setelah pemberian serum anti rabies, kegagalan pencegahan bila jadwal vaksin tidak lengkap atau penanganan terlambat",
+    "prognosis": "Sangat baik bila perawatan luka dan jadwal vaksin dilakukan lengkap dan tepat waktu",
+    "alternatif": "Observasi hewan selama 10 hari pada paparan ringan dari hewan yang dapat diamati, sesuai pertimbangan dokter; tidak ada alternatif setara untuk pencegahan rabies pada paparan berisiko",
+    "lain_lain": "Pasien wajib menyelesaikan seluruh jadwal vaksin sesuai tanggal yang ditentukan. Hewan penggigit sebaiknya diobservasi atau dilaporkan ke dinas kesehatan atau peternakan setempat. Penjahitan luka gigitan sebaiknya ditunda atau dilakukan longgar bila diperlukan. Status imunisasi tetanus juga dinilai",
+    "checklist": false
   }
 }

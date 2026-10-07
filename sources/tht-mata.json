@@ -110,5 +110,19 @@
     "alternatif": "Kauterisasi.",
     "lain_lain": "-",
     "checklist": false
+  },
+  "Tindakan Insisi dan Kuretase Hordeolum/Kalazion": {
+    "package": "THT & Mata",
+    "tindakan": "Tindakan Insisi dan Kuretase Hordeolum/Kalazion",
+    "indikasi": "Hordeolum (bintitan) yang membentuk abses dan tidak membaik dengan kompres hangat dan obat, atau kalazion (benjolan kelopak mata tanpa nyeri) yang menetap, membesar, atau mengganggu penglihatan maupun penampilan",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik kelopak mata, termasuk pemeriksaan sisi dalam kelopak",
+    "tata_cara": "Diberikan tetes anestesi dan anestesi lokal pada kelopak mata, kelopak dijepit dengan klem khusus dan dibalik, dilakukan sayatan kecil umumnya dari sisi dalam kelopak, isi benjolan dikeluarkan dan dikerok (kuretase), kemudian mata diberi salep antibiotik dan ditutup kasa",
+    "tujuan": "Mengeluarkan isi benjolan atau nanah untuk menyembuhkan peradangan dan menghilangkan benjolan",
+    "resiko": "Nyeri, bengkak, memar pada kelopak mata, perdarahan ringan",
+    "komplikasi": "Infeksi, kekambuhan, jaringan parut atau perubahan bentuk tepi kelopak mata, cedera pada bola mata (sangat jarang), rontoknya bulu mata di area tindakan",
+    "prognosis": "Baik; kekambuhan dapat terjadi terutama pada pasien dengan peradangan kelopak mata kronis",
+    "alternatif": "Kompres hangat dan pijat kelopak, obat antibiotik topikal atau oral, atau injeksi kortikosteroid ke dalam kalazion",
+    "lain_lain": "Kalazion yang berulang di lokasi yang sama, terutama pada usia lanjut, perlu diperiksa histopatologi untuk menyingkirkan keganasan. Pasien diminta tidak mengucek mata dan kembali bila nyeri hebat, bengkak meluas, atau penglihatan terganggu",
+    "checklist": false
   }
 }

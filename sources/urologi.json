@@ -110,5 +110,33 @@
     "tata_cara": "Alat dimasukkan melalui uretra menuju ureter untuk evaluasi dan penghancuran atau pengambilan batu.",
     "tindakan": "Tindakan Ureterorenoskopi (URS)",
     "tujuan": "Menghilangkan sumbatan dan memperbaiki aliran urin."
+  },
+  "Tindakan Reduksi Parafimosis dan Dorsumsisi": {
+    "package": "Urologi",
+    "tindakan": "Tindakan Reduksi Parafimosis dan Dorsumsisi",
+    "indikasi": "Parafimosis, yaitu kulit kulup yang tertarik ke belakang kepala penis dan tidak dapat dikembalikan sehingga menjepit dan menyebabkan bengkak serta nyeri pada kepala penis",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik genital untuk menilai derajat pembengkakan dan aliran darah kepala penis",
+    "tata_cara": "Diberikan analgesia atau anestesi lokal (blok penis), pembengkakan dikurangi dengan penekanan manual, kompres dingin, atau tusukan kecil multipel, kemudian kepala penis didorong dan kulit kulup ditarik kembali ke depan; bila reduksi manual gagal, dilakukan dorsumsisi yaitu sayatan memanjang pada cincin kulit kulup bagian atas untuk melepaskan jepitan",
+    "tujuan": "Melepaskan jepitan kulit kulup untuk mengembalikan aliran darah kepala penis dan mencegah kerusakan jaringan",
+    "resiko": "Nyeri, bengkak, perdarahan ringan",
+    "komplikasi": "Kegagalan reduksi yang memerlukan dorsumsisi atau sirkumsisi, infeksi luka, kekambuhan parafimosis, nekrosis kepala penis bila jepitan berlangsung lama, hasil kosmetik kurang baik setelah dorsumsisi",
+    "prognosis": "Baik bila ditangani segera sebelum terjadi kerusakan jaringan",
+    "alternatif": "Sirkumsisi segera atau terencana sesuai kondisi",
+    "lain_lain": "Sirkumsisi terencana umumnya dianjurkan setelah bengkak mereda untuk mencegah kekambuhan. Pasien atau orang tua diajarkan untuk tidak membiarkan kulit kulup tertarik ke belakang dalam waktu lama",
+    "checklist": false
+  },
+  "Tindakan Sistostomi (Pemasangan Kateter Suprapubik)": {
+    "package": "Urologi",
+    "tindakan": "Tindakan Sistostomi (Pemasangan Kateter Suprapubik)",
+    "indikasi": "Retensi urin akut atau kronis yang tidak dapat diatasi dengan kateter uretra (striktur uretra, pembesaran prostat berat, kegagalan pemasangan kateter), cedera uretra, atau kebutuhan drainase urin jangka panjang",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik (kandung kemih teraba penuh), serta USG untuk memastikan kandung kemih terisi dan tidak ada usus di antara dinding perut dan kandung kemih",
+    "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal di atas tulang kemaluan, kemudian trokar atau jarum dengan kateter dimasukkan menembus dinding perut ke kandung kemih dengan panduan USG, atau melalui sayatan kecil secara terbuka, lalu kateter difiksasi dan dihubungkan ke kantong urin",
+    "tujuan": "Mengalirkan urin dari kandung kemih untuk mengatasi retensi urin dan mencegah kerusakan ginjal",
+    "resiko": "Nyeri di lokasi pemasangan, urin bercampur darah sementara, rasa tidak nyaman",
+    "komplikasi": "Perdarahan, infeksi luka atau saluran kemih, kebocoran urin di sekitar kateter, kateter tersumbat atau terlepas, cedera usus (jarang), batu kandung kemih pada pemakaian jangka panjang",
+    "prognosis": "Baik dengan perawatan kateter yang rutin; bergantung pada penyakit yang mendasari",
+    "alternatif": "Pemasangan kateter uretra dengan bantuan alat khusus, dilatasi uretra, atau tindakan operatif untuk penyebab sumbatan",
+    "lain_lain": "Kateter perlu dirawat dan diganti secara berkala sesuai jadwal. Pasien diajarkan menjaga kebersihan lokasi kateter dan diminta kembali bila kateter tersumbat, terlepas, demam, atau urin keruh berbau",
+    "checklist": false
   }
 }
