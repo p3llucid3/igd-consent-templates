@@ -213,6 +213,20 @@
       "tindakan": "Tindakan Bilevel Positive Airway Pressure (BiPAP)",
       "tujuan": "Menurunkan retensi CO2 dan memperbaiki ventilasi."
     },
+    "Tindakan Biopsi Aspirasi Jarum Halus (FNAB)": {
+      "alternatif": "Biopsi jarum inti (core biopsy), biopsi insisional atau eksisional, atau observasi dengan pencitraan berkala",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik benjolan, dan pemeriksaan penunjang seperti USG atau pencitraan lain",
+      "indikasi": "Benjolan atau massa pada payudara, tiroid, kelenjar getah bening, kelenjar ludah, jaringan lunak, atau organ lain yang memerlukan pemeriksaan sitologi untuk menegakkan diagnosis",
+      "komplikasi": "Hematoma, infeksi, cedera struktur sekitar (sangat jarang), pneumotoraks pada benjolan dekat dinding dada, sampel tidak adekuat sehingga perlu diulang atau dilanjutkan biopsi lain",
+      "lain_lain": "Hasil sitologi tidak selalu dapat menyingkirkan keganasan sepenuhnya; pemeriksaan lanjutan dapat diperlukan bila hasil tidak sesuai dengan gambaran klinis. Pasien diminta menginformasikan penggunaan obat pengencer darah",
+      "package": "Bedah Umum",
+      "prognosis": "Baik, merupakan prosedur yang aman dan minimal invasif",
+      "resiko": "Nyeri ringan di lokasi tusukan, memar, perdarahan ringan",
+      "tata_cara": "Dilakukan tindakan aseptik, kemudian jarum halus ditusukkan ke dalam benjolan dengan atau tanpa panduan USG untuk menghisap sel atau cairan, tindakan dapat diulang beberapa kali, lalu bekas tusukan ditekan dan ditutup kasa steril; sampel diperiksa di laboratorium patologi",
+      "tindakan": "Tindakan Biopsi Aspirasi Jarum Halus (FNAB)",
+      "tujuan": "Mendapatkan sampel sel dari benjolan untuk menentukan jenisnya (jinak atau ganas) dan merencanakan pengobatan"
+    },
     "Tindakan Biopsi Kulit Eksisional": {
       "alternatif": "Biopsi insisional.",
       "checklist": false,
@@ -2061,6 +2075,20 @@
       "lain_lain": "Kawat dapat dilepas setelah dinilai penyembuhan tulang telah memadai berdasarkan evaluasi klinis dan radiologi.",
       "checklist": false
     },
+    "Tindakan Pemasangan Kateter Hemodialisa (Double Lumen / CDL)": {
+      "package": "Tindakan Penunjang",
+      "tindakan": "Tindakan Pemasangan Kateter Hemodialisa (Double Lumen / CDL)",
+      "indikasi": "Kebutuhan hemodialisa segera pada gagal ginjal akut atau kronis tanpa akses dialisis yang siap pakai (misalnya fistula belum matang atau gagal), atau kebutuhan terapi pengganti ginjal kontinu maupun plasmaferesis",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium fungsi ginjal dan elektrolit, faal hemostasis, serta penilaian indikasi dialisis",
+      "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal, kemudian kateter berlumen ganda dimasukkan ke vena besar (vena jugularis interna, femoralis, atau subklavia) dengan panduan USG menggunakan teknik Seldinger, posisi kateter dikonfirmasi, lalu kateter difiksasi dan ditutup balutan steril; untuk kateter jangka panjang, kateter dapat dilewatkan melalui terowongan di bawah kulit",
+      "tujuan": "Menyediakan akses pembuluh darah dengan aliran yang cukup untuk tindakan hemodialisa",
+      "resiko": "Nyeri di lokasi pemasangan, memar, perdarahan ringan",
+      "komplikasi": "Perdarahan atau hematoma, tertusuknya arteri, pneumotoraks (pada pemasangan di leher atau bawah tulang selangka), emboli udara, gangguan irama jantung, infeksi kateter hingga infeksi aliran darah, sumbatan atau bekuan pada kateter, penyempitan atau trombosis vena",
+      "prognosis": "Baik bila dipasang dengan teknik steril dan dirawat dengan benar",
+      "alternatif": "Pembuatan akses vaskular permanen (fistula atau graft arteri-vena), dialisis peritoneal, atau penundaan dialisis dengan terapi konservatif sesuai kondisi",
+      "lain_lain": "Kateter hanya digunakan untuk dialisis dan dirawat oleh petugas terlatih. Pasien diminta menjaga balutan tetap kering dan bersih serta segera melapor bila demam, menggigil, perdarahan, atau kemerahan di lokasi kateter",
+      "checklist": false
+    },
     "Tindakan Pemasangan Kateter Urin": {
       "alternatif": "Kateter intermiten.",
       "checklist": false,
@@ -2999,6 +3027,20 @@
       "lain_lain": "Sirkumsisi terencana umumnya dianjurkan setelah bengkak mereda untuk mencegah kekambuhan. Pasien atau orang tua diajarkan untuk tidak membiarkan kulit kulup tertarik ke belakang dalam waktu lama",
       "checklist": false
     },
+    "Tindakan Reduksi Prolaps Rekti": {
+      "alternatif": "Operasi segera bila terdapat nekrosis, strangulasi, atau reduksi gagal; operasi perbaikan prolaps secara terencana",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik daerah anus untuk menilai jenis prolaps, kondisi jaringan, dan tanda strangulasi atau nekrosis",
+      "indikasi": "Prolaps rektum (rektum keluar melalui anus) yang tidak dapat masuk kembali secara spontan, disertai nyeri, bengkak, atau risiko gangguan aliran darah ke jaringan yang keluar",
+      "komplikasi": "Kegagalan reduksi, prolaps berulang segera setelah reduksi, cedera atau perforasi rektum, nekrosis jaringan bila sudah terjadi gangguan aliran darah",
+      "lain_lain": "Pasien dianjurkan menghindari mengejan, mengonsumsi makanan berserat dan cukup minum. Pasien diminta kembali bila prolaps keluar lagi dan tidak dapat masuk, nyeri hebat, atau jaringan berubah warna menjadi gelap",
+      "package": "Bedah Umum",
+      "prognosis": "Baik untuk reduksi akut; kekambuhan sering terjadi sehingga umumnya diperlukan tatalaksana definitif",
+      "resiko": "Nyeri, rasa tidak nyaman, perdarahan ringan dari selaput lendir",
+      "tata_cara": "Pasien diberikan analgesia dan/atau sedasi, diposisikan miring atau menungging, jaringan yang keluar dapat diberi gula atau kompres untuk mengurangi bengkak, kemudian dilakukan penekanan lembut dan bertahap dengan tangan bersarung tangan berpelumas hingga rektum masuk kembali",
+      "tindakan": "Tindakan Reduksi Prolaps Rekti",
+      "tujuan": "Mengembalikan rektum ke posisi normal untuk mengurangi nyeri dan mencegah kerusakan jaringan akibat terjepit"
+    },
     "Tindakan Rekonstruksi Flap Lokal Defek Kulit Traumatik": {
       "alternatif": "Penutupan primer bila defek cukup kecil, skin graft bila jaringan sekitar tidak mencukupi untuk flap, atau healing by secondary intention pada defek kecil dengan risiko operasi tinggi",
       "checklist": false,
@@ -3152,6 +3194,20 @@
       "alternatif": "Operasi (ORIF/OREF).",
       "lain_lain": "-",
       "checklist": false
+    },
+    "Tindakan Reposisi Hernia Inkarserata (Taksis)": {
+      "alternatif": "Operasi segera (herniotomi/herniorafi) terutama bila terdapat tanda strangulasi atau reposisi gagal",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis lama benjolan tidak dapat masuk, pemeriksaan fisik benjolan dan abdomen, serta pemeriksaan penunjang seperti USG atau laboratorium bila diperlukan untuk menyingkirkan strangulasi",
+      "indikasi": "Hernia (inguinal, femoral, umbilikal, atau insisional) yang terjepit dan tidak dapat masuk kembali secara spontan, tanpa tanda strangulasi seperti kemerahan, nyeri hebat, demam, atau tanda peritonitis",
+      "komplikasi": "Reposisi isi usus yang sudah tidak sehat ke dalam rongga perut sehingga perforasi atau peritonitis tidak terdeteksi, reduksi semu (hernia masuk bersama kantongnya dengan jepitan tetap ada), cedera usus, kegagalan reposisi yang memerlukan operasi segera",
+      "lain_lain": "Setelah reposisi berhasil, pasien diobservasi untuk memastikan tidak muncul nyeri perut, demam, muntah, atau perut kembung yang menandakan cedera usus. Operasi perbaikan hernia tetap dianjurkan untuk mencegah kekambuhan",
+      "package": "Bedah Umum",
+      "prognosis": "Baik bila reposisi berhasil dan dilanjutkan operasi terencana; operasi segera diperlukan bila reposisi gagal atau ada tanda strangulasi",
+      "resiko": "Nyeri saat dan setelah tindakan, memar atau bengkak di area hernia",
+      "tata_cara": "Pasien diberikan analgesia dan/atau sedasi ringan, diposisikan berbaring dengan panggul sedikit ditinggikan (posisi Trendelenburg), kemudian dilakukan penekanan lembut dan bertahap pada benjolan ke arah pintu hernia hingga isi hernia masuk kembali ke rongga perut",
+      "tindakan": "Tindakan Reposisi Hernia Inkarserata (Taksis)",
+      "tujuan": "Mengembalikan isi hernia ke rongga perut untuk menghilangkan jepitan, mengurangi nyeri, dan mencegah strangulasi sambil menunggu operasi terencana"
     },
     "Tindakan Reposisi Sendi": {
       "alternatif": "Reposisi terbuka melalui tindakan operasi.",
