@@ -1,0 +1,16 @@
+{
+  "Tindakan Pemberian Kemoterapi": {
+    "package": "Onkologi",
+    "tindakan": "Tindakan Pemberian Kemoterapi",
+    "indikasi": "Penyakit kanker yang telah terdiagnosis secara histopatologi atau sitologi dan memerlukan kemoterapi sebagai terapi utama, terapi tambahan sebelum atau sesudah operasi, kombinasi dengan radioterapi, atau terapi paliatif, sesuai keputusan dokter penanggung jawab",
+    "dasar_diagnosis": "Hasil pemeriksaan histopatologi atau sitologi, penentuan stadium dengan pencitraan, penilaian status fungsional pasien, serta pemeriksaan laboratorium darah lengkap, fungsi hati, dan fungsi ginjal sebelum setiap siklus",
+    "tata_cara": "Obat kemoterapi diberikan sesuai protokol (regimen, dosis, dan jadwal siklus) melalui infus intravena, kateter vena sentral atau port, suntikan, atau tablet oral, didahului obat pencegah mual dan reaksi alergi bila diperlukan, dengan pemantauan selama pemberian dan evaluasi laboratorium sebelum siklus berikutnya",
+    "tujuan": "Membunuh atau menghambat pertumbuhan sel kanker untuk menyembuhkan, mengendalikan penyakit, mencegah kekambuhan, atau mengurangi gejala",
+    "resiko": "Mual dan muntah, kelelahan, rambut rontok, sariawan, penurunan nafsu makan, diare atau sembelit, perubahan rasa, kesemutan pada tangan dan kaki, perubahan kulit dan kuku",
+    "komplikasi": "Penurunan sel darah (anemia, trombositopenia, neutropenia) dengan risiko infeksi berat dan perdarahan, demam neutropenia, reaksi alergi berat saat infus, kebocoran obat ke jaringan sekitar pembuluh darah (ekstravasasi) yang dapat merusak jaringan, gangguan fungsi ginjal, hati, jantung, atau paru, gangguan kesuburan, sindrom lisis tumor, keganasan sekunder di kemudian hari",
+    "prognosis": "Bergantung pada jenis dan stadium kanker, respons terhadap kemoterapi, serta kondisi umum pasien",
+    "alternatif": "Operasi, radioterapi, terapi hormonal, terapi target, imunoterapi, perawatan paliatif tanpa kemoterapi, atau kombinasi sesuai jenis kanker dan kondisi pasien",
+    "lain_lain": "Pasien dan pasangan dianjurkan menggunakan kontrasepsi selama terapi dan menginformasikan kemungkinan kehamilan. Pasien diminta segera ke IGD bila demam 38 derajat Celsius atau lebih, menggigil, perdarahan, sesak napas, diare atau muntah berat, atau nyeri dan bengkak di lokasi infus. Jadwal siklus dapat ditunda atau dosis disesuaikan berdasarkan hasil laboratorium dan kondisi pasien",
+    "checklist": false
+  }
+}

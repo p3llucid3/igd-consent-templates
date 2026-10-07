@@ -1,0 +1,58 @@
+{
+  "Tindakan Anestesi Umum": {
+    "package": "Anestesiologi",
+    "tindakan": "Tindakan Anestesi Umum",
+    "indikasi": "Tindakan operasi atau prosedur yang memerlukan pasien tidak sadar, bebas nyeri, dan otot dalam keadaan rileks, atau prosedur yang tidak dapat dilakukan dengan anestesi regional maupun lokal",
+    "dasar_diagnosis": "Kunjungan pra-anestesi berupa anamnesis riwayat penyakit, alergi, obat-obatan, riwayat anestesi sebelumnya, pemeriksaan fisik termasuk penilaian jalan napas, serta pemeriksaan penunjang sesuai kondisi; status fisik dinilai menurut klasifikasi ASA",
+    "tata_cara": "Pasien dipuasakan sesuai protokol, dipasang akses intravena dan alat pemantauan, kemudian diberikan obat anestesi melalui intravena dan/atau gas inhalasi hingga tidak sadar, jalan napas diamankan dengan sungkup laring atau pipa endotrakeal, dan pernapasan dibantu dengan mesin anestesi; selama operasi tanda vital dipantau terus menerus, dan setelah selesai obat dihentikan hingga pasien sadar kembali di ruang pemulihan",
+    "tujuan": "Menghilangkan kesadaran dan rasa nyeri serta menjaga kestabilan fungsi tubuh selama operasi atau prosedur",
+    "resiko": "Mual dan muntah, nyeri tenggorokan, suara serak, menggigil, pusing, mengantuk, kebingungan sementara terutama pada usia lanjut, cedera bibir atau gigi",
+    "komplikasi": "Reaksi alergi atau anafilaksis terhadap obat, kesulitan pemasangan alat jalan napas, aspirasi isi lambung ke paru, gangguan pernapasan, gangguan irama jantung, tekanan darah turun atau naik berlebihan, kesadaran selama operasi (sangat jarang), hipertermia maligna (sangat jarang), serangan jantung, stroke, atau kematian (sangat jarang dan meningkat pada pasien dengan penyakit berat)",
+    "prognosis": "Baik pada sebagian besar pasien; risiko meningkat sesuai usia, penyakit penyerta, jenis operasi, dan kondisi darurat",
+    "alternatif": "Anestesi regional (spinal, epidural, atau blok saraf), anestesi lokal dengan atau tanpa sedasi, sesuai jenis operasi dan kondisi pasien",
+    "lain_lain": "Pasien wajib mematuhi instruksi puasa dan menginformasikan riwayat alergi, obat yang dikonsumsi (terutama pengencer darah dan obat diabetes), gigi palsu atau gigi goyang, kebiasaan merokok, serta kemungkinan kehamilan. Jenis anestesi dapat berubah selama tindakan sesuai kebutuhan demi keselamatan pasien",
+    "checklist": false
+  },
+  "Tindakan Anestesi Spinal/Epidural (Neuraksial)": {
+    "package": "Anestesiologi",
+    "tindakan": "Tindakan Anestesi Spinal/Epidural (Neuraksial)",
+    "indikasi": "Operasi pada perut bagian bawah, panggul, daerah kemaluan, atau tungkai, termasuk operasi sesar, serta kebutuhan pengendalian nyeri persalinan atau nyeri pascaoperasi",
+    "dasar_diagnosis": "Kunjungan pra-anestesi berupa anamnesis, pemeriksaan fisik termasuk punggung, penilaian faal pembekuan darah dan penggunaan obat pengencer darah, serta pemeriksaan penunjang sesuai kondisi",
+    "tata_cara": "Pasien diposisikan duduk membungkuk atau berbaring miring, dilakukan tindakan aseptik dan anestesi lokal pada kulit punggung, kemudian jarum halus disuntikkan di antara ruas tulang belakang bagian bawah untuk memasukkan obat anestesi ke ruang spinal atau epidural (dengan atau tanpa pemasangan kateter epidural), sehingga tubuh bagian bawah mati rasa dan tidak dapat digerakkan sementara; pasien tetap sadar atau dapat diberi obat penenang",
+    "tujuan": "Menghilangkan rasa nyeri pada tubuh bagian bawah selama operasi atau persalinan dengan pasien tetap sadar",
+    "resiko": "Nyeri atau memar di lokasi suntikan, tekanan darah turun, mual, menggigil, gatal, sulit buang air kecil sementara, rasa berat atau kesemutan pada tungkai",
+    "komplikasi": "Sakit kepala pasca pungsi dura, efek anestesi tidak adekuat sehingga perlu diganti anestesi umum, anestesi spinal tinggi yang mengganggu pernapasan, penurunan detak jantung, reaksi alergi atau keracunan obat anestesi lokal, infeksi atau abses di sekitar tulang belakang, hematoma epidural, cedera saraf dengan kelemahan atau mati rasa menetap (sangat jarang)",
+    "prognosis": "Baik pada sebagian besar pasien; fungsi rasa dan gerak tungkai kembali setelah efek obat habis dalam beberapa jam",
+    "alternatif": "Anestesi umum atau blok saraf perifer sesuai jenis operasi dan kondisi pasien",
+    "lain_lain": "Pasien wajib menginformasikan penggunaan obat pengencer darah, gangguan pembekuan darah, infeksi kulit di punggung, kelainan tulang belakang, atau penyakit saraf. Pasien diminta segera melapor bila sakit kepala berat saat duduk, demam, nyeri punggung hebat, atau kelemahan tungkai yang tidak membaik setelah tindakan",
+    "checklist": false
+  },
+  "Tindakan Blok Saraf Perifer": {
+    "package": "Anestesiologi",
+    "tindakan": "Tindakan Blok Saraf Perifer",
+    "indikasi": "Operasi atau prosedur pada anggota gerak, pengendalian nyeri akut (misalnya patah tulang paha atau tulang iga), nyeri pascaoperasi, atau prosedur kecil seperti penjahitan luka atau tindakan pada jari (blok digital)",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik termasuk status saraf daerah yang akan dibius, riwayat alergi obat anestesi lokal, dan penilaian penggunaan obat pengencer darah",
+    "tata_cara": "Dilakukan tindakan aseptik, kemudian dengan panduan USG dan/atau alat stimulator saraf, jarum ditusukkan mendekati saraf yang menuju daerah operasi dan obat anestesi lokal disuntikkan di sekitar saraf tersebut hingga daerah tersebut mati rasa, dengan atau tanpa pemasangan kateter untuk pemberian obat berkelanjutan; selama tindakan tanda vital dipantau",
+    "tujuan": "Menghilangkan rasa nyeri pada daerah tertentu untuk operasi atau pengendalian nyeri dengan pengaruh minimal pada kesadaran dan fungsi tubuh lainnya",
+    "resiko": "Nyeri atau memar di lokasi suntikan, rasa baal atau lemah pada anggota gerak yang dibius selama beberapa jam",
+    "komplikasi": "Keracunan obat anestesi lokal (kejang, gangguan irama jantung), cedera saraf dengan kesemutan atau kelemahan berkepanjangan (jarang dan biasanya membaik), tertusuknya pembuluh darah atau hematoma, infeksi, pneumotoraks pada blok di daerah leher atau dada, kelumpuhan sementara diafragma pada blok di daerah leher, efek blok tidak adekuat",
+    "prognosis": "Baik pada sebagian besar pasien; rasa dan gerak kembali normal setelah efek obat habis",
+    "alternatif": "Anestesi umum, anestesi spinal/epidural, anestesi lokal infiltrasi, atau obat analgesik sistemik",
+    "lain_lain": "Anggota gerak yang masih baal harus dilindungi dari benturan, tekanan, dan suhu panas atau dingin karena pasien tidak dapat merasakannya. Pasien diminta melapor bila kesemutan, baal, atau kelemahan menetap lebih dari 48 jam",
+    "checklist": false
+  },
+  "Tindakan Sedasi Prosedural di IGD": {
+    "package": "Anestesiologi",
+    "tindakan": "Tindakan Sedasi Prosedural di IGD",
+    "indikasi": "Prosedur di IGD yang menimbulkan nyeri atau ketakutan dan memerlukan pasien tenang, misalnya reposisi sendi atau patah tulang, kardioversi, penjahitan luka kompleks, insisi abses, atau prosedur pada anak",
+    "dasar_diagnosis": "Penilaian pra-sedasi berupa anamnesis riwayat penyakit, alergi, obat-obatan, waktu makan dan minum terakhir, pemeriksaan fisik termasuk penilaian jalan napas, serta status fisik pasien",
+    "tata_cara": "Dipasang akses intravena dan alat pemantauan (saturasi oksigen, tekanan darah, irama jantung, dan bila tersedia kadar karbon dioksida napas), diberikan oksigen, kemudian obat sedatif dan/atau analgesik (misalnya ketamin, propofol, midazolam, atau fentanil) diberikan bertahap hingga pasien tenang atau tertidur ringan, dengan petugas khusus yang memantau pasien serta peralatan resusitasi dan obat penawar dalam keadaan siap, hingga pasien pulih sepenuhnya",
+    "tujuan": "Mengurangi nyeri, kecemasan, dan gerakan pasien sehingga prosedur dapat dilakukan dengan aman dan nyaman",
+    "resiko": "Mengantuk, pusing, mual atau muntah, halusinasi atau mimpi tidak menyenangkan saat pulih (terutama pada ketamin), gelisah",
+    "komplikasi": "Depresi atau henti napas sementara, sumbatan jalan napas, penurunan saturasi oksigen, aspirasi isi lambung, tekanan darah turun, detak jantung melambat, spasme laring, reaksi alergi obat, kebutuhan bantuan napas atau pemasangan alat jalan napas",
+    "prognosis": "Baik bila dilakukan dengan seleksi pasien, pemantauan, dan kesiapan resusitasi yang adekuat",
+    "alternatif": "Analgesia lokal atau blok saraf tanpa sedasi, prosedur dengan analgesik biasa, atau prosedur di kamar operasi dengan anestesi umum",
+    "lain_lain": "Pasien tidak boleh mengemudi, mengoperasikan mesin, atau membuat keputusan penting selama 24 jam setelah sedasi dan harus pulang didampingi orang dewasa. Pasien atau keluarga wajib menginformasikan waktu makan dan minum terakhir",
+    "checklist": false
+  }
+}

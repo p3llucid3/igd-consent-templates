@@ -1,0 +1,44 @@
+{
+  "Persetujuan Tidak Dilakukan Resusitasi (Do Not Resuscitate/DNR)": {
+    "package": "Etik & Hak Pasien",
+    "tindakan": "Persetujuan Tidak Dilakukan Resusitasi (Do Not Resuscitate/DNR)",
+    "indikasi": "Pasien dengan penyakit stadium terminal, penyakit berat yang tidak dapat disembuhkan, atau kondisi di mana resusitasi jantung paru diperkirakan tidak bermanfaat atau tidak sesuai dengan keinginan pasien, atas permintaan pasien yang kompeten atau keluarga/wali yang sah setelah mendapatkan penjelasan",
+    "dasar_diagnosis": "Penilaian klinis oleh dokter penanggung jawab mengenai diagnosis, perjalanan penyakit, prognosis, dan kemungkinan keberhasilan resusitasi, serta pertimbangan keinginan dan nilai-nilai pasien",
+    "tata_cara": "Setelah diskusi antara dokter, pasien dan/atau keluarga mengenai kondisi dan prognosis, keputusan untuk tidak dilakukan resusitasi jantung paru (kompresi dada, kejut jantung, intubasi, dan bantuan napas mekanik) bila terjadi henti jantung atau henti napas dicatat dalam rekam medis dan diinformasikan kepada tim perawatan; perawatan dan pengobatan lain yang disepakati tetap diberikan",
+    "tujuan": "Menghormati keinginan pasien dan keluarga, menghindari tindakan yang tidak bermanfaat, dan mengutamakan kenyamanan serta martabat pasien di akhir hayat",
+    "resiko": "Tidak dilakukannya resusitasi bila terjadi henti jantung atau henti napas",
+    "komplikasi": "Kematian bila terjadi henti jantung atau henti napas, karena resusitasi tidak dilakukan",
+    "prognosis": "Sesuai dengan penyakit yang mendasari; keputusan ini tidak mempercepat proses penyakit",
+    "alternatif": "Dilakukan resusitasi jantung paru penuh sesuai standar bila terjadi henti jantung atau henti napas",
+    "lain_lain": "Keputusan ini tidak berarti penghentian perawatan; pengobatan nyeri, sesak, pemberian makan dan minum, serta perawatan lain tetap diberikan sesuai kesepakatan. Keputusan dapat ditinjau ulang atau dibatalkan sewaktu-waktu oleh pasien atau keluarga/wali yang sah. Batasan tindakan lain (misalnya pemasangan ventilator atau perawatan intensif) dapat dicantumkan secara terpisah",
+    "checklist": false
+  },
+  "Penolakan Tindakan Kedokteran": {
+    "package": "Etik & Hak Pasien",
+    "tindakan": "Penolakan Tindakan Kedokteran",
+    "indikasi": "Pasien atau keluarga/wali yang sah menolak tindakan kedokteran yang dianjurkan oleh dokter setelah mendapatkan penjelasan yang memadai",
+    "dasar_diagnosis": "Penjelasan dokter mengenai diagnosis atau kondisi pasien, tindakan yang dianjurkan, tujuan, manfaat, dan risiko apabila tindakan tidak dilakukan",
+    "tata_cara": "Dokter menjelaskan kondisi pasien, tindakan yang dianjurkan, serta akibat dan risiko bila tindakan ditolak; pasien atau keluarga/wali menyatakan penolakan secara sadar dan tanpa paksaan, kemudian penolakan dicatat dalam rekam medis dan ditandatangani oleh pasien atau keluarga/wali, dokter, dan saksi",
+    "tujuan": "Menghormati hak pasien untuk menentukan pilihan atas tindakan kedokteran terhadap dirinya, dengan pemahaman penuh atas risikonya",
+    "resiko": "Kondisi penyakit tidak tertangani secara optimal, gejala menetap atau memburuk",
+    "komplikasi": "Perburukan penyakit, komplikasi, kecacatan, atau kematian yang mungkin dapat dicegah dengan tindakan yang dianjurkan",
+    "prognosis": "Bergantung pada kondisi penyakit; dapat memburuk karena tidak dilakukan tindakan yang dianjurkan",
+    "alternatif": "Menerima tindakan yang dianjurkan, memilih alternatif pengobatan lain yang tersedia, atau meminta pendapat dokter lain (second opinion)",
+    "lain_lain": "Pasien tetap berhak mendapatkan perawatan dan pengobatan lain yang tidak ditolak. Pasien atau keluarga dapat mengubah keputusan dan meminta tindakan dilakukan kapan saja. Segala akibat dari penolakan tindakan menjadi tanggung jawab pasien atau keluarga/wali yang menolak",
+    "checklist": false
+  },
+  "Pulang Atas Permintaan Sendiri (APS)": {
+    "package": "Etik & Hak Pasien",
+    "tindakan": "Pulang Atas Permintaan Sendiri (APS)",
+    "indikasi": "Pasien atau keluarga/wali yang sah meminta pulang atau menghentikan perawatan di rumah sakit sebelum dinyatakan boleh pulang oleh dokter penanggung jawab, setelah mendapatkan penjelasan",
+    "dasar_diagnosis": "Penilaian dokter mengenai kondisi pasien saat ini, rencana pemeriksaan dan pengobatan yang belum selesai, serta risiko bila perawatan dihentikan",
+    "tata_cara": "Dokter menjelaskan kondisi pasien, rencana perawatan yang belum selesai, serta risiko bila pasien pulang sebelum waktunya; pasien atau keluarga/wali menyatakan keinginan pulang secara sadar dan tanpa paksaan, pernyataan dicatat dalam rekam medis dan ditandatangani oleh pasien atau keluarga/wali, dokter, dan saksi, kemudian pasien diberikan resume medis, obat, dan edukasi sesuai kondisi",
+    "tujuan": "Menghormati hak pasien untuk menentukan pilihan atas perawatannya, dengan pemahaman penuh atas risikonya",
+    "resiko": "Pemeriksaan dan pengobatan tidak tuntas, gejala menetap atau kambuh",
+    "komplikasi": "Perburukan penyakit, komplikasi, kebutuhan perawatan ulang dalam kondisi yang lebih berat, kecacatan, atau kematian",
+    "prognosis": "Bergantung pada kondisi penyakit; dapat memburuk karena perawatan tidak tuntas",
+    "alternatif": "Melanjutkan perawatan hingga dinyatakan boleh pulang, pindah atau dirujuk ke fasilitas kesehatan lain, atau melanjutkan perawatan di rumah dengan kontrol rawat jalan",
+    "lain_lain": "Pasien dianjurkan segera kembali ke IGD atau fasilitas kesehatan terdekat bila kondisi memburuk. Pembiayaan perawatan pada pasien APS mengikuti ketentuan penjamin yang berlaku. Segala akibat dari keputusan pulang atas permintaan sendiri menjadi tanggung jawab pasien atau keluarga/wali",
+    "checklist": false
+  }
+}

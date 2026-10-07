@@ -1,0 +1,30 @@
+{
+  "Tindakan Esofagogastroduodenoskopi (EGD)": {
+    "package": "Endoskopi",
+    "tindakan": "Tindakan Esofagogastroduodenoskopi (EGD)",
+    "indikasi": "Perdarahan saluran cerna atas (muntah darah atau buang air besar hitam), nyeri ulu hati atau dispepsia dengan tanda bahaya, kesulitan menelan, muntah berulang, anemia yang tidak jelas penyebabnya, kecurigaan tumor saluran cerna atas, varises esofagus, tertelan benda asing atau zat korosif, atau kebutuhan biopsi dan tindakan terapeutik",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium (darah lengkap, faal hemostasis), dan pencitraan sesuai indikasi",
+    "tata_cara": "Pasien dipuasakan, diberikan semprotan anestesi tenggorokan dan/atau obat sedasi, diposisikan miring kiri dengan pelindung mulut, kemudian alat endoskop fleksibel berkamera dimasukkan melalui mulut ke kerongkongan, lambung, dan usus dua belas jari untuk pemeriksaan, dan bila diperlukan dilakukan biopsi atau tindakan terapeutik seperti penghentian perdarahan (injeksi, klip, atau ligasi varises), pengambilan benda asing, atau pelebaran penyempitan",
+    "tujuan": "Melihat langsung saluran cerna bagian atas untuk menegakkan diagnosis dan/atau melakukan pengobatan",
+    "resiko": "Nyeri tenggorokan, perut kembung, mual, rasa tidak nyaman selama tindakan, efek samping obat sedasi",
+    "komplikasi": "Perforasi (robekan) saluran cerna, perdarahan terutama setelah biopsi atau tindakan terapeutik, aspirasi isi lambung ke paru, gangguan napas atau jantung akibat sedasi, reaksi alergi obat, infeksi, cedera gigi",
+    "prognosis": "Baik, merupakan prosedur yang umumnya aman; komplikasi berat jarang terjadi",
+    "alternatif": "Pemeriksaan radiologi dengan kontras (barium meal), CT scan, terapi empiris dengan obat, atau tindakan operatif sesuai kondisi",
+    "lain_lain": "Pasien wajib puasa sesuai instruksi dan menginformasikan penggunaan obat pengencer darah, riwayat alergi, serta penyakit jantung atau paru. Setelah sedasi, pasien tidak boleh mengemudi dan harus didampingi. Pasien diminta segera kembali bila nyeri dada atau perut hebat, muntah darah, buang air besar hitam, demam, atau sesak napas",
+    "checklist": false
+  },
+  "Tindakan Kolonoskopi": {
+    "package": "Endoskopi",
+    "tindakan": "Tindakan Kolonoskopi",
+    "indikasi": "Perdarahan saluran cerna bawah, perubahan pola buang air besar, diare kronis, anemia yang tidak jelas penyebabnya, kecurigaan tumor usus besar, skrining kanker kolorektal, evaluasi penyakit radang usus, atau kebutuhan pengangkatan polip dan tindakan terapeutik lain",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik termasuk colok dubur, pemeriksaan laboratorium, dan pencitraan sesuai indikasi",
+    "tata_cara": "Usus dibersihkan sebelumnya dengan obat pencahar dan diet khusus sesuai instruksi, pasien diberikan obat sedasi, diposisikan miring kiri, kemudian alat endoskop fleksibel berkamera dimasukkan melalui anus menyusuri seluruh usus besar hingga ujung usus halus dengan pemberian udara atau gas untuk mengembangkan usus, dan bila diperlukan dilakukan biopsi, pengangkatan polip, atau penghentian perdarahan",
+    "tujuan": "Melihat langsung usus besar untuk menegakkan diagnosis, mendeteksi dan mengangkat polip, serta melakukan pengobatan",
+    "resiko": "Perut kembung, kram atau nyeri perut, rasa tidak nyaman, perdarahan ringan setelah biopsi, efek samping obat pencahar seperti diare dan dehidrasi",
+    "komplikasi": "Perforasi (robekan) usus terutama setelah pengangkatan polip, perdarahan bermakna, sindrom pascapolipektomi (nyeri dan demam), gangguan napas atau jantung akibat sedasi, gangguan elektrolit akibat persiapan usus, reaksi alergi obat, infeksi",
+    "prognosis": "Baik, merupakan prosedur yang umumnya aman; komplikasi berat jarang terjadi",
+    "alternatif": "CT kolonografi, pemeriksaan radiologi dengan kontras (barium enema), pemeriksaan darah samar tinja, atau sigmoidoskopi sesuai indikasi",
+    "lain_lain": "Persiapan usus yang tidak bersih dapat menyebabkan kelainan tidak terlihat sehingga pemeriksaan perlu diulang. Pasien wajib menginformasikan penggunaan obat pengencer darah, obat diabetes, dan suplemen zat besi. Setelah sedasi, pasien tidak boleh mengemudi dan harus didampingi. Pasien diminta segera kembali bila nyeri perut hebat, perut kaku, demam, atau perdarahan banyak dari anus",
+    "checklist": false
+  }
+}
