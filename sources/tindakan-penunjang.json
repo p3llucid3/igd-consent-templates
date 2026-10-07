@@ -166,5 +166,19 @@
     "alternatif": "Terapi medikamentosa seperti diuretik atau observasi sesuai kondisi klinis.",
     "lain_lain": "Pada pengeluaran cairan dalam jumlah besar, pasien perlu pemantauan tekanan darah dan kondisi umum.",
     "checklist": false
+  },
+  "Tindakan Pemasangan Kateter Hemodialisa (Double Lumen / CDL)": {
+    "package": "Tindakan Penunjang",
+    "tindakan": "Tindakan Pemasangan Kateter Hemodialisa (Double Lumen / CDL)",
+    "indikasi": "Kebutuhan hemodialisa segera pada gagal ginjal akut atau kronis tanpa akses dialisis yang siap pakai (misalnya fistula belum matang atau gagal), atau kebutuhan terapi pengganti ginjal kontinu maupun plasmaferesis",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium fungsi ginjal dan elektrolit, faal hemostasis, serta penilaian indikasi dialisis",
+    "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal, kemudian kateter berlumen ganda dimasukkan ke vena besar (vena jugularis interna, femoralis, atau subklavia) dengan panduan USG menggunakan teknik Seldinger, posisi kateter dikonfirmasi, lalu kateter difiksasi dan ditutup balutan steril; untuk kateter jangka panjang, kateter dapat dilewatkan melalui terowongan di bawah kulit",
+    "tujuan": "Menyediakan akses pembuluh darah dengan aliran yang cukup untuk tindakan hemodialisa",
+    "resiko": "Nyeri di lokasi pemasangan, memar, perdarahan ringan",
+    "komplikasi": "Perdarahan atau hematoma, tertusuknya arteri, pneumotoraks (pada pemasangan di leher atau bawah tulang selangka), emboli udara, gangguan irama jantung, infeksi kateter hingga infeksi aliran darah, sumbatan atau bekuan pada kateter, penyempitan atau trombosis vena",
+    "prognosis": "Baik bila dipasang dengan teknik steril dan dirawat dengan benar",
+    "alternatif": "Pembuatan akses vaskular permanen (fistula atau graft arteri-vena), dialisis peritoneal, atau penundaan dialisis dengan terapi konservatif sesuai kondisi",
+    "lain_lain": "Kateter hanya digunakan untuk dialisis dan dirawat oleh petugas terlatih. Pasien diminta menjaga balutan tetap kering dan bersih serta segera melapor bila demam, menggigil, perdarahan, atau kemerahan di lokasi kateter",
+    "checklist": false
   }
 }
