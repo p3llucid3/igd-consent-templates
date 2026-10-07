@@ -83,19 +83,19 @@
     "tindakan": "Tindakan Pungsi Lumbal",
     "tujuan": "Menegakkan diagnosis."
   },
-  "Tindakan Thorakosentesis": {
-    "alternatif": "Pemasangan WSD.",
+  "Tindakan Thorakosentesis (Pungsi Pleura)": {
+    "alternatif": "Pemasangan WSD/chest tube pada efusi masif, berulang, empiema, atau hemotoraks; pemasangan kateter pleura kecil (pigtail); terapi medikamentosa sesuai penyebab (misalnya diuretik pada gagal jantung); atau observasi pada efusi kecil tanpa gejala",
     "checklist": false,
-    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
-    "indikasi": "Efusi pleura untuk tujuan diagnostik atau terapeutik.",
-    "komplikasi": "Pneumotoraks.",
-    "lain_lain": "-",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik toraks, dan pemeriksaan penunjang (foto toraks, USG toraks, atau CT scan) yang menunjukkan adanya efusi pleura",
+    "indikasi": "Efusi pleura yang memerlukan pengambilan cairan untuk menegakkan penyebab (diagnostik), atau efusi pleura yang menimbulkan sesak napas sehingga perlu dikeluarkan untuk mengurangi keluhan (terapeutik)",
+    "komplikasi": "Pneumotoraks, perdarahan atau hemotoraks akibat cedera pembuluh darah interkostal, edema paru reekspansi bila cairan dikeluarkan terlalu banyak atau terlalu cepat, infeksi rongga pleura, cedera hati atau limpa, reaksi vasovagal (pingsan)",
+    "lain_lain": "Tindakan ini juga dikenal sebagai pungsi pleura. Penentuan lokasi tusukan sebaiknya dipandu USG. Jumlah cairan yang dikeluarkan dibatasi untuk mencegah edema paru reekspansi, dan tindakan dihentikan bila pasien batuk hebat, nyeri dada, atau sesak bertambah. Foto toraks dapat dilakukan setelah tindakan bila dicurigai pneumotoraks. Cairan yang diambil dikirim untuk pemeriksaan laboratorium sesuai indikasi",
     "package": "Tindakan Penunjang",
-    "prognosis": "Baik bila teknik benar.",
-    "resiko": "Nyeri, perdarahan.",
-    "tata_cara": "Pemasukan jarum ke rongga pleura untuk aspirasi cairan.",
-    "tindakan": "Tindakan Thorakosentesis",
-    "tujuan": "Mengurangi sesak dan mendapatkan cairan untuk analisis."
+    "prognosis": "Baik bila dilakukan sesuai indikasi dengan teknik yang benar; bergantung pada penyakit yang mendasari efusi",
+    "resiko": "Nyeri di lokasi tusukan, rasa tidak nyaman, batuk, memar atau perdarahan ringan",
+    "tata_cara": "Pasien diposisikan duduk membungkuk ke depan, lokasi tusukan ditentukan dengan pemeriksaan fisik dan/atau panduan USG, dilakukan tindakan aseptik dan anestesi lokal, kemudian jarum atau kateter dimasukkan melalui sela iga tepat di atas tepi atas iga ke rongga pleura untuk mengaspirasi cairan, lalu jarum dicabut dan bekas tusukan ditutup dengan balutan steril",
+    "tindakan": "Tindakan Thorakosentesis (Pungsi Pleura)",
+    "tujuan": "Mendapatkan sampel cairan pleura untuk pemeriksaan penunjang diagnosis dan/atau mengurangi sesak napas dengan mengeluarkan cairan dari rongga pleura"
   },
   "Tindakan Trakeostomi": {
     "alternatif": "Intubasi endotrakeal.",

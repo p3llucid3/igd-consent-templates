@@ -376,5 +376,19 @@
     "alternatif": "Oksitosin intravena, metode mekanik (kateter Foley) untuk pematangan serviks, atau kuretase pada abortus inkomplit",
     "lain_lain": "Kontraindikasi relatif pada riwayat sectio caesarea atau operasi uterus lain karena peningkatan risiko ruptur uteri",
     "checklist": false
+  },
+  "Tindakan Pemberian Kortikosteroid Antenatal (Pematangan Paru Janin)": {
+    "package": "Obstetri & Ginekologi",
+    "tindakan": "Tindakan Pemberian Kortikosteroid Antenatal (Pematangan Paru Janin)",
+    "indikasi": "Ibu hamil dengan risiko persalinan preterm dalam 7 hari pada usia kehamilan sekitar 24 hingga 34 minggu, misalnya ancaman persalinan preterm, ketuban pecah dini preterm, preeklampsia berat, perdarahan antepartum, atau kondisi ibu/janin lain yang memerlukan terminasi kehamilan preterm terencana; pada usia kehamilan di luar rentang tersebut dapat dipertimbangkan sesuai penilaian dokter",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan obstetri, penentuan usia kehamilan (HPHT dan/atau USG), serta penilaian klinis risiko persalinan preterm",
+    "tata_cara": "Pemberian kortikosteroid melalui suntikan intramuskular, yaitu deksametason 6 mg setiap 12 jam sebanyak 4 kali atau betametason 12 mg setiap 24 jam sebanyak 2 kali, disertai pemantauan kondisi ibu dan janin",
+    "tujuan": "Mempercepat pematangan paru janin untuk menurunkan risiko sindrom gawat napas (respiratory distress syndrome), perdarahan intraventrikular, enterokolitis nekrotikans, dan kematian bayi bila lahir prematur",
+    "resiko": "Nyeri di lokasi suntikan, peningkatan kadar gula darah ibu yang bersifat sementara, penurunan sementara variabilitas denyut jantung dan gerak janin",
+    "komplikasi": "Hiperglikemia yang memerlukan penyesuaian terapi terutama pada ibu dengan diabetes, peningkatan risiko infeksi pada ibu dengan infeksi aktif, gangguan kontrol tekanan darah, hipoglikemia neonatus bila bayi lahir dalam waktu dekat setelah pemberian",
+    "prognosis": "Baik; efek perlindungan paling optimal bila bayi lahir antara 24 jam hingga 7 hari setelah dosis pertama",
+    "alternatif": "Tidak dilakukan pemberian kortikosteroid dengan konsekuensi risiko komplikasi pernapasan bayi prematur lebih tinggi, atau penanganan bayi setelah lahir di NICU termasuk pemberian surfaktan bila diperlukan",
+    "lain_lain": "Pemberian dapat dilakukan bersamaan dengan terapi lain seperti tokolitik atau magnesium sulfat sesuai indikasi. Pada ibu dengan diabetes diperlukan pemantauan gula darah lebih ketat. Pemberian ulang (rescue course) hanya dilakukan atas pertimbangan dokter. Persalinan tetap dapat terjadi sebelum pemberian lengkap",
+    "checklist": false
   }
 }

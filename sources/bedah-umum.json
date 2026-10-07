@@ -377,6 +377,20 @@
     "tindakan": "Tindakan Insisi dan Drainase Abses",
     "tujuan": "Mengurangi tekanan dan infeksi."
   },
+  "Tindakan Insisi dan Drainase Abses Payudara (Mastotomi)": {
+    "alternatif": "Aspirasi jarum berulang dengan atau tanpa panduan USG pada abses kecil, antibiotik saja pada mastitis tanpa abses, atau pemasangan kateter drainase perkutan",
+    "checklist": false,
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik payudara (nyeri, kemerahan, massa berfluktuasi, demam), dan USG payudara untuk memastikan adanya kumpulan nanah serta ukuran dan lokasinya",
+    "indikasi": "Abses payudara dengan fluktuasi, abses berukuran besar, abses multilokular, atau abses yang tidak membaik dengan aspirasi jarum dan antibiotik, baik pada ibu menyusui (abses laktasional) maupun tidak menyusui",
+    "komplikasi": "Abses berulang atau residual, fistula susu (pada ibu menyusui), penyembuhan luka lambat, jaringan parut atau perubahan bentuk payudara, gangguan menyusui pada sisi yang terkena, infeksi meluas",
+    "lain_lain": "Ibu menyusui umumnya dianjurkan tetap menyusui atau memerah ASI dari kedua payudara untuk membantu pengosongan payudara, kecuali bila luka mengganggu atau sesuai anjuran dokter. Pada pasien tidak menyusui atau abses berulang, dapat diperlukan pemeriksaan lanjutan termasuk biopsi untuk menyingkirkan keganasan. Kontrol dan penggantian balutan dilakukan sesuai jadwal",
+    "package": "Bedah Umum",
+    "prognosis": "Baik bila drainase adekuat disertai antibiotik dan perawatan luka yang teratur",
+    "resiko": "Nyeri di lokasi insisi, perdarahan ringan, rasa tidak nyaman saat penggantian balutan",
+    "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal atau umum sesuai ukuran abses, insisi kulit dibuat di atas abses mengikuti garis kulit (radial atau sirkumareolar) dan menjauhi areola bila memungkinkan, nanah dikeluarkan dan sekat-sekat abses dibuka, rongga abses diirigasi, dapat dipasang drain atau tampon, kemudian luka dibalut; sampel nanah dapat dikirim untuk kultur",
+    "tindakan": "Tindakan Insisi dan Drainase Abses Payudara (Mastotomi)",
+    "tujuan": "Mengeluarkan nanah, menghilangkan sumber infeksi, mengurangi nyeri, dan mencegah penyebaran infeksi"
+  },
   "Tindakan Irigasi Luka Tekanan Tinggi": {
     "alternatif": "Irigasi manual.",
     "checklist": false,
