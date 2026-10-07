@@ -157,6 +157,20 @@
       "tindakan": "Tindakan Arthroscopy Sendi",
       "tujuan": "Diagnosis dan perbaikan kelainan intraartikular secara minimal invasif."
     },
+    "Tindakan Artrosentesis (Aspirasi Sendi)": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Artrosentesis (Aspirasi Sendi)",
+      "indikasi": "Pembengkakan sendi dengan kecurigaan artritis septik, gout atau pseudogout, hemartrosis akibat trauma, efusi sendi yang menimbulkan nyeri, atau kebutuhan injeksi obat ke dalam sendi",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik sendi, dan pemeriksaan penunjang (foto polos, USG, atau laboratorium) sesuai indikasi",
+      "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal, kemudian jarum ditusukkan ke rongga sendi dengan penanda anatomis atau panduan USG untuk menghisap cairan sendi, dapat dilanjutkan dengan pemberian obat ke dalam sendi sesuai indikasi, lalu bekas tusukan ditutup kasa steril; cairan sendi dikirim untuk pemeriksaan laboratorium",
+      "tujuan": "Menegakkan diagnosis penyebab pembengkakan sendi dan/atau mengurangi nyeri dengan mengeluarkan cairan sendi",
+      "resiko": "Nyeri saat tusukan, memar, perdarahan ringan",
+      "komplikasi": "Infeksi sendi (jarang), perdarahan ke dalam sendi, cedera tulang rawan, reaksi terhadap obat yang disuntikkan, cairan tidak berhasil diambil",
+      "prognosis": "Baik, merupakan prosedur yang aman bila dilakukan dengan teknik aseptik",
+      "alternatif": "Pemeriksaan pencitraan dan laboratorium tanpa aspirasi, terapi obat sesuai dugaan penyebab, atau tindakan bedah (washout sendi) pada artritis septik",
+      "lain_lain": "Pasien diminta mengistirahatkan sendi selama 24 jam setelah tindakan dan kembali bila muncul demam, nyeri bertambah, kemerahan, atau bengkak memburuk",
+      "checklist": false
+    },
     "Tindakan Aspirasi Kista Ganglion": {
       "package": "Orthopedi",
       "tindakan": "Tindakan Aspirasi Kista Ganglion",
@@ -169,6 +183,20 @@
       "prognosis": "Baik.",
       "alternatif": "Eksisi bedah.",
       "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Bilas Lambung (Gastric Lavage)": {
+      "package": "Emergency & Critical Care",
+      "tindakan": "Tindakan Bilas Lambung (Gastric Lavage)",
+      "indikasi": "Keracunan zat yang tertelan dalam jumlah berpotensi mengancam nyawa dan masih berada di lambung (umumnya dalam 1 jam setelah tertelan), terutama bila tidak ada antidotum yang efektif, sesuai pertimbangan dokter",
+      "dasar_diagnosis": "Anamnesis jenis, jumlah, dan waktu zat tertelan, pemeriksaan fisik termasuk tingkat kesadaran dan kemampuan melindungi jalan napas, serta pemeriksaan penunjang sesuai kebutuhan",
+      "tata_cara": "Pasien diposisikan miring kiri dengan kepala sedikit lebih rendah, dimasukkan selang lambung berukuran besar melalui mulut atau hidung dan dikonfirmasi posisinya, kemudian cairan dimasukkan dan dikeluarkan berulang dalam jumlah kecil hingga cairan yang keluar jernih; pada pasien dengan penurunan kesadaran, jalan napas diamankan terlebih dahulu dengan intubasi",
+      "tujuan": "Mengeluarkan sisa zat beracun dari lambung untuk mengurangi penyerapan racun ke dalam tubuh",
+      "resiko": "Rasa tidak nyaman, mual, muntah, nyeri tenggorokan, perdarahan hidung bila selang melalui hidung",
+      "komplikasi": "Aspirasi isi lambung ke paru (pneumonia aspirasi), spasme laring, cedera atau perforasi kerongkongan dan lambung, gangguan elektrolit, hipotermia, aritmia",
+      "prognosis": "Bergantung pada jenis dan jumlah racun serta waktu tindakan; manfaat menurun bila dilakukan lebih dari 1 jam setelah tertelan",
+      "alternatif": "Pemberian arang aktif, antidotum spesifik, terapi suportif dan observasi, atau dekontaminasi usus sesuai jenis racun",
+      "lain_lain": "Bilas lambung tidak dilakukan pada keracunan zat korosif (asam/basa kuat) atau hidrokarbon (minyak tanah, bensin) karena risiko cedera dan aspirasi. Sampel cairan lambung dapat diambil untuk pemeriksaan toksikologi. Pada kasus percobaan bunuh diri, pasien memerlukan pendampingan dan konsultasi kesehatan jiwa",
       "checklist": false
     },
     "Tindakan Bilevel Positive Airway Pressure (BiPAP)": {
@@ -521,6 +549,20 @@
       "tindakan": "Tindakan Debridement Luka Bakar",
       "tujuan": "Mencegah infeksi dan mempercepat penyembuhan."
     },
+    "Tindakan Debridement dan Stabilisasi Awal Fraktur Terbuka": {
+      "package": "Orthopedi",
+      "tindakan": "Tindakan Debridement dan Stabilisasi Awal Fraktur Terbuka",
+      "indikasi": "Patah tulang dengan luka terbuka yang berhubungan dengan lokasi patahan (fraktur terbuka), dengan risiko infeksi dan kerusakan jaringan lunak",
+      "dasar_diagnosis": "Anamnesis mekanisme cedera, pemeriksaan fisik luka dan status neurovaskular distal, serta foto polos (rontgen) pada daerah yang cedera",
+      "tata_cara": "Diberikan antibiotik intravena dan profilaksis tetanus sedini mungkin, dilakukan anestesi sesuai kondisi, luka diirigasi dengan cairan steril dalam jumlah besar, jaringan mati, kotor, dan benda asing dibuang (debridement), kemudian patahan tulang distabilkan sementara dengan bidai, gips, atau fiksasi eksternal, dan luka ditutup sesuai kondisi",
+      "tujuan": "Mencegah infeksi tulang, membersihkan luka, dan menstabilkan patahan tulang sebagai persiapan tindakan definitif",
+      "resiko": "Nyeri, perdarahan, bengkak",
+      "komplikasi": "Infeksi luka atau infeksi tulang (osteomielitis), penyembuhan tulang terlambat atau tidak menyambung, sindrom kompartemen, cedera saraf atau pembuluh darah, perlunya debridement ulangan, amputasi pada cedera berat",
+      "prognosis": "Bergantung pada derajat fraktur terbuka, kontaminasi, dan kerusakan jaringan lunak; lebih baik bila debridement dan antibiotik diberikan segera",
+      "alternatif": "Perawatan luka dan pembidaian sementara lalu dirujuk ke fasilitas dengan layanan ortopedi; tidak ada alternatif setara untuk pencegahan infeksi pada fraktur terbuka",
+      "lain_lain": "Tindakan ini umumnya merupakan tahap awal; operasi lanjutan (ORIF, OREF, atau penutupan luka) dapat diperlukan. Pasien diminta melaporkan nyeri hebat yang tidak membaik, kesemutan, atau perubahan warna pada ujung anggota gerak",
+      "checklist": false
+    },
     "Tindakan Defibrilasi": {
       "alternatif": "Tidak ada pada kondisi shockable rhythm.",
       "checklist": false,
@@ -534,6 +576,20 @@
       "tata_cara": "Pemberian kejutan listrik non-sinkron sesuai protokol.",
       "tindakan": "Tindakan Defibrilasi",
       "tujuan": "Menghentikan aritmia fatal."
+    },
+    "Tindakan Dekompresi Jarum (Needle Thoracostomy)": {
+      "package": "Emergency & Critical Care",
+      "tindakan": "Tindakan Dekompresi Jarum (Needle Thoracostomy)",
+      "indikasi": "Tension pneumothorax yang ditandai sesak berat, hipotensi atau syok, distensi vena leher, suara napas menghilang pada satu sisi, atau deviasi trakea, sebagai tindakan penyelamatan sebelum pemasangan WSD/chest tube",
+      "dasar_diagnosis": "Diagnosis klinis berdasarkan pemeriksaan fisik dan kondisi hemodinamik; tindakan tidak boleh ditunda untuk menunggu foto toraks",
+      "tata_cara": "Dilakukan tindakan aseptik, kemudian jarum atau kateter intravena berukuran besar ditusukkan di sela iga ke-4 atau ke-5 di garis aksila anterior hingga media (atau sela iga ke-2 di garis midklavikula) tepat di atas tepi atas iga hingga udara keluar, kateter dibiarkan terpasang dan dilanjutkan dengan pemasangan WSD/chest tube",
+      "tujuan": "Mengeluarkan udara bertekanan dari rongga pleura secara cepat untuk mengembalikan fungsi napas dan sirkulasi yang mengancam nyawa",
+      "resiko": "Nyeri di lokasi tusukan, perdarahan ringan",
+      "komplikasi": "Kegagalan dekompresi akibat jarum tidak mencapai rongga pleura atau tertekuk, cedera paru, pembuluh darah interkostal, atau struktur dalam dada, pneumotoraks baru bila diagnosis tidak tepat, infeksi",
+      "prognosis": "Baik bila tension pneumothorax dikenali dan ditangani segera; bergantung pada cedera atau penyakit penyerta",
+      "alternatif": "Pemasangan langsung WSD/chest tube atau torakostomi jari (finger thoracostomy) bila sarana dan kondisi memungkinkan",
+      "lain_lain": "Tindakan ini bersifat penyelamatan nyawa dan bersifat sementara; pemasangan WSD/chest tube tetap diperlukan sesudahnya. Pada kondisi darurat, persetujuan dapat diberikan oleh keluarga atau dilengkapi setelah tindakan",
+      "checklist": false
     },
     "Tindakan Dekompresi Kranial (Craniectomy)": {
       "alternatif": "Terapi medikamentosa penurun tekanan intrakranial.",
@@ -1220,6 +1276,20 @@
       "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal atau umum sesuai ukuran abses, insisi kulit dibuat di atas abses mengikuti garis kulit (radial atau sirkumareolar) dan menjauhi areola bila memungkinkan, nanah dikeluarkan dan sekat-sekat abses dibuka, rongga abses diirigasi, dapat dipasang drain atau tampon, kemudian luka dibalut; sampel nanah dapat dikirim untuk kultur",
       "tindakan": "Tindakan Insisi dan Drainase Abses Payudara (Mastotomi)",
       "tujuan": "Mengeluarkan nanah, menghilangkan sumber infeksi, mengurangi nyeri, dan mencegah penyebaran infeksi"
+    },
+    "Tindakan Insisi dan Kuretase Hordeolum/Kalazion": {
+      "package": "THT & Mata",
+      "tindakan": "Tindakan Insisi dan Kuretase Hordeolum/Kalazion",
+      "indikasi": "Hordeolum (bintitan) yang membentuk abses dan tidak membaik dengan kompres hangat dan obat, atau kalazion (benjolan kelopak mata tanpa nyeri) yang menetap, membesar, atau mengganggu penglihatan maupun penampilan",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik kelopak mata, termasuk pemeriksaan sisi dalam kelopak",
+      "tata_cara": "Diberikan tetes anestesi dan anestesi lokal pada kelopak mata, kelopak dijepit dengan klem khusus dan dibalik, dilakukan sayatan kecil umumnya dari sisi dalam kelopak, isi benjolan dikeluarkan dan dikerok (kuretase), kemudian mata diberi salep antibiotik dan ditutup kasa",
+      "tujuan": "Mengeluarkan isi benjolan atau nanah untuk menyembuhkan peradangan dan menghilangkan benjolan",
+      "resiko": "Nyeri, bengkak, memar pada kelopak mata, perdarahan ringan",
+      "komplikasi": "Infeksi, kekambuhan, jaringan parut atau perubahan bentuk tepi kelopak mata, cedera pada bola mata (sangat jarang), rontoknya bulu mata di area tindakan",
+      "prognosis": "Baik; kekambuhan dapat terjadi terutama pada pasien dengan peradangan kelopak mata kronis",
+      "alternatif": "Kompres hangat dan pijat kelopak, obat antibiotik topikal atau oral, atau injeksi kortikosteroid ke dalam kalazion",
+      "lain_lain": "Kalazion yang berulang di lokasi yang sama, terutama pada usia lanjut, perlu diperiksa histopatologi untuk menyingkirkan keganasan. Pasien diminta tidak mengucek mata dan kembali bila nyeri hebat, bengkak meluas, atau penglihatan terganggu",
+      "checklist": false
     },
     "Tindakan Intra-Aortic Balloon Pump (IABP)": {
       "alternatif": "Terapi inotropik atau perangkat sirkulasi mekanik lain.",
@@ -2173,6 +2243,20 @@
       "lain_lain": "Kontraindikasi relatif pada riwayat sectio caesarea atau operasi uterus lain karena peningkatan risiko ruptur uteri",
       "checklist": false
     },
+    "Tindakan Pemberian Serum Anti Bisa Ular (SABU)": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Pemberian Serum Anti Bisa Ular (SABU)",
+      "indikasi": "Gigitan ular berbisa dengan tanda envenomasi sistemik (gangguan pembekuan darah, perdarahan spontan, gangguan saraf seperti ptosis atau kelemahan otot pernapasan, syok) atau envenomasi lokal yang progresif",
+      "dasar_diagnosis": "Anamnesis riwayat gigitan dan jenis ular bila diketahui, pemeriksaan fisik lokal dan sistemik, serta pemeriksaan penunjang seperti uji pembekuan darah 20 menit (20WBCT), darah lengkap, dan faal hemostasis",
+      "tata_cara": "Serum anti bisa ular dilarutkan dalam cairan infus dan diberikan secara intravena dengan dosis sesuai derajat envenomasi, dengan kesiapan obat dan alat penanganan anafilaksis, disertai pemantauan tanda vital dan evaluasi ulang klinis serta laboratorium untuk menentukan perlunya dosis ulangan",
+      "tujuan": "Menetralkan bisa ular dalam sirkulasi untuk mencegah atau menghentikan kerusakan organ, gangguan pembekuan darah, kelumpuhan, dan kematian",
+      "resiko": "Demam, menggigil, gatal, biduran, mual, nyeri di lokasi infus",
+      "komplikasi": "Reaksi anafilaksis atau reaksi alergi berat, serum sickness (demam, nyeri sendi, ruam) beberapa hari setelah pemberian, reaksi pirogenik, kebutuhan dosis ulangan bila efek belum adekuat",
+      "prognosis": "Bergantung pada jenis ular, jumlah bisa, dan kecepatan pemberian antibisa; umumnya baik bila diberikan segera dan tepat",
+      "alternatif": "Terapi suportif saja (imobilisasi, perawatan luka, bantuan napas, transfusi komponen darah) pada gigitan tanpa tanda envenomasi; tidak ada pengganti setara pada envenomasi berat",
+      "lain_lain": "Imobilisasi anggota gerak yang tergigit tetap dilakukan. Tidak dianjurkan menyayat, menghisap, atau mengikat erat lokasi gigitan. Pasien diobservasi minimal 24 jam. Pasien diminta kembali bila timbul demam, nyeri sendi, atau ruam dalam 1 hingga 2 minggu setelah pemberian",
+      "checklist": false
+    },
     "Tindakan Pemberian Surfaktan Intraventrikular pada Neonatus": {
       "alternatif": "Ventilasi suportif tanpa surfaktan.",
       "checklist": false,
@@ -2186,6 +2270,20 @@
       "tata_cara": "Pemberian surfaktan melalui pipa endotrakeal dengan teknik aseptik dan monitoring ketat.",
       "tindakan": "Tindakan Pemberian Surfaktan pada Neonatus",
       "tujuan": "Menurunkan tegangan permukaan alveoli dan memperbaiki oksigenasi."
+    },
+    "Tindakan Pemberian Vaksin Anti Rabies (VAR) dan Serum Anti Rabies (SAR)": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Pemberian Vaksin Anti Rabies (VAR) dan Serum Anti Rabies (SAR)",
+      "indikasi": "Gigitan, cakaran, atau jilatan pada kulit yang luka atau selaput lendir oleh hewan penular rabies (anjing, kucing, kera, atau hewan lain) yang tersangka atau terbukti rabies, atau hewan yang tidak dapat diobservasi",
+      "dasar_diagnosis": "Anamnesis riwayat kontak dengan hewan (jenis hewan, status vaksinasi hewan, keadaan hewan), pemeriksaan fisik luka untuk menentukan kategori paparan, serta riwayat vaksinasi rabies pasien sebelumnya",
+      "tata_cara": "Luka dicuci dengan sabun di bawah air mengalir selama 15 menit dan diberi antiseptik, kemudian vaksin anti rabies disuntikkan intramuskular atau intradermal sesuai jadwal yang berlaku; pada paparan berat, serum anti rabies diinfiltrasikan di sekitar dan ke dalam luka dengan sisa dosis disuntikkan intramuskular jauh dari lokasi vaksin",
+      "tujuan": "Mencegah berkembangnya penyakit rabies yang hampir selalu berakibat fatal bila sudah timbul gejala",
+      "resiko": "Nyeri, kemerahan, atau bengkak di lokasi suntikan, demam ringan, sakit kepala, nyeri otot, mual",
+      "komplikasi": "Reaksi alergi hingga anafilaksis (jarang), serum sickness setelah pemberian serum anti rabies, kegagalan pencegahan bila jadwal vaksin tidak lengkap atau penanganan terlambat",
+      "prognosis": "Sangat baik bila perawatan luka dan jadwal vaksin dilakukan lengkap dan tepat waktu",
+      "alternatif": "Observasi hewan selama 10 hari pada paparan ringan dari hewan yang dapat diamati, sesuai pertimbangan dokter; tidak ada alternatif setara untuk pencegahan rabies pada paparan berisiko",
+      "lain_lain": "Pasien wajib menyelesaikan seluruh jadwal vaksin sesuai tanggal yang ditentukan. Hewan penggigit sebaiknya diobservasi atau dilaporkan ke dinas kesehatan atau peternakan setempat. Penjahitan luka gigitan sebaiknya ditunda atau dilakukan longgar bila diperlukan. Status imunisasi tetanus juga dinilai",
+      "checklist": false
     },
     "Tindakan Pemberian Vitamin K1 Profilaksis pada Neonatus": {
       "package": "Perinatologi",
@@ -2887,6 +2985,20 @@
       "tindakan": "Tindakan Reduksi Fraktur Nasal Tertutup",
       "tujuan": "Mengembalikan bentuk dan fungsi hidung (jalan napas) yang optimal serta mencegah deformitas permanen"
     },
+    "Tindakan Reduksi Parafimosis dan Dorsumsisi": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Reduksi Parafimosis dan Dorsumsisi",
+      "indikasi": "Parafimosis, yaitu kulit kulup yang tertarik ke belakang kepala penis dan tidak dapat dikembalikan sehingga menjepit dan menyebabkan bengkak serta nyeri pada kepala penis",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik genital untuk menilai derajat pembengkakan dan aliran darah kepala penis",
+      "tata_cara": "Diberikan analgesia atau anestesi lokal (blok penis), pembengkakan dikurangi dengan penekanan manual, kompres dingin, atau tusukan kecil multipel, kemudian kepala penis didorong dan kulit kulup ditarik kembali ke depan; bila reduksi manual gagal, dilakukan dorsumsisi yaitu sayatan memanjang pada cincin kulit kulup bagian atas untuk melepaskan jepitan",
+      "tujuan": "Melepaskan jepitan kulit kulup untuk mengembalikan aliran darah kepala penis dan mencegah kerusakan jaringan",
+      "resiko": "Nyeri, bengkak, perdarahan ringan",
+      "komplikasi": "Kegagalan reduksi yang memerlukan dorsumsisi atau sirkumsisi, infeksi luka, kekambuhan parafimosis, nekrosis kepala penis bila jepitan berlangsung lama, hasil kosmetik kurang baik setelah dorsumsisi",
+      "prognosis": "Baik bila ditangani segera sebelum terjadi kerusakan jaringan",
+      "alternatif": "Sirkumsisi segera atau terencana sesuai kondisi",
+      "lain_lain": "Sirkumsisi terencana umumnya dianjurkan setelah bengkak mereda untuk mencegah kekambuhan. Pasien atau orang tua diajarkan untuk tidak membiarkan kulit kulup tertarik ke belakang dalam waktu lama",
+      "checklist": false
+    },
     "Tindakan Rekonstruksi Flap Lokal Defek Kulit Traumatik": {
       "alternatif": "Penutupan primer bila defek cukup kecil, skin graft bila jaringan sekitar tidak mencukupi untuk flap, atau healing by secondary intention pada defek kecil dengan risiko operasi tinggi",
       "checklist": false,
@@ -3292,6 +3404,20 @@
       "tata_cara": "Sistoskop dimasukkan melalui uretra untuk visualisasi kandung kemih dan dilakukan pengambilan jaringan bila diperlukan.",
       "tindakan": "Tindakan Sistoskopi Disertai Biopsi Kandung Kemih",
       "tujuan": "Menegakkan diagnosis melalui pemeriksaan histopatologi."
+    },
+    "Tindakan Sistostomi (Pemasangan Kateter Suprapubik)": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Sistostomi (Pemasangan Kateter Suprapubik)",
+      "indikasi": "Retensi urin akut atau kronis yang tidak dapat diatasi dengan kateter uretra (striktur uretra, pembesaran prostat berat, kegagalan pemasangan kateter), cedera uretra, atau kebutuhan drainase urin jangka panjang",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik (kandung kemih teraba penuh), serta USG untuk memastikan kandung kemih terisi dan tidak ada usus di antara dinding perut dan kandung kemih",
+      "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal di atas tulang kemaluan, kemudian trokar atau jarum dengan kateter dimasukkan menembus dinding perut ke kandung kemih dengan panduan USG, atau melalui sayatan kecil secara terbuka, lalu kateter difiksasi dan dihubungkan ke kantong urin",
+      "tujuan": "Mengalirkan urin dari kandung kemih untuk mengatasi retensi urin dan mencegah kerusakan ginjal",
+      "resiko": "Nyeri di lokasi pemasangan, urin bercampur darah sementara, rasa tidak nyaman",
+      "komplikasi": "Perdarahan, infeksi luka atau saluran kemih, kebocoran urin di sekitar kateter, kateter tersumbat atau terlepas, cedera usus (jarang), batu kandung kemih pada pemakaian jangka panjang",
+      "prognosis": "Baik dengan perawatan kateter yang rutin; bergantung pada penyakit yang mendasari",
+      "alternatif": "Pemasangan kateter uretra dengan bantuan alat khusus, dilatasi uretra, atau tindakan operatif untuk penyebab sumbatan",
+      "lain_lain": "Kateter perlu dirawat dan diganti secara berkala sesuai jadwal. Pasien diajarkan menjaga kebersihan lokasi kateter dan diminta kembali bila kateter tersumbat, terlepas, demam, atau urin keruh berbau",
+      "checklist": false
     },
     "Tindakan Skeletal Traction": {
       "alternatif": "ORIF atau external fixation.",
@@ -3726,6 +3852,20 @@
       "tata_cara": "Pemberian albumin melalui infus intravena dengan pemantauan tanda vital.",
       "tindakan": "Tindakan Transfusi Albumin",
       "tujuan": "Mempertahankan tekanan onkotik dan keseimbangan cairan tubuh."
+    },
+    "Tindakan Transfusi Darah dan Komponen Darah": {
+      "package": "Terapi Medis",
+      "tindakan": "Tindakan Transfusi Darah dan Komponen Darah",
+      "indikasi": "Anemia berat atau simtomatik, perdarahan akut dengan gangguan hemodinamik, trombositopenia berat atau perdarahan akibat gangguan trombosit, gangguan pembekuan darah dengan perdarahan aktif atau sebelum tindakan invasif, sesuai indikasi pemberian sel darah merah pekat (PRC), trombosit (TC), plasma segar beku (FFP), atau kriopresipitat",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan pemeriksaan laboratorium (hemoglobin, hematokrit, trombosit, faal hemostasis) serta penilaian klinis kebutuhan transfusi",
+      "tata_cara": "Dilakukan pemeriksaan golongan darah dan uji silang serasi (crossmatch), identifikasi ulang pasien dan kantong darah di samping tempat tidur, kemudian darah atau komponen darah diberikan melalui akses intravena dengan set transfusi berfilter sesuai kecepatan yang ditentukan, disertai pemantauan tanda vital sebelum, selama, dan sesudah transfusi",
+      "tujuan": "Meningkatkan kapasitas angkut oksigen, mengganti kehilangan darah, dan/atau memperbaiki fungsi pembekuan darah",
+      "resiko": "Demam, menggigil, gatal atau biduran, nyeri di lokasi infus, rasa tidak nyaman",
+      "komplikasi": "Reaksi transfusi hemolitik akut atau lambat, reaksi alergi berat hingga anafilaksis, kelebihan cairan (TACO), cedera paru akut terkait transfusi (TRALI), penularan infeksi melalui darah (sangat jarang dengan skrining), hipotermia, gangguan elektrolit (hiperkalemia, hipokalsemia) pada transfusi masif, pembentukan antibodi terhadap darah donor",
+      "prognosis": "Baik pada sebagian besar pasien; reaksi berat jarang terjadi dan dapat ditangani bila dikenali segera",
+      "alternatif": "Terapi pengganti sesuai penyebab (suplementasi zat besi, asam folat, vitamin B12, atau eritropoietin), cairan pengganti volume pada perdarahan, obat hemostatik (asam traneksamat, vitamin K), atau penundaan transfusi dengan observasi bila kondisi memungkinkan",
+      "lain_lain": "Pasien atau keluarga diminta segera melapor bila timbul demam, menggigil, sesak, nyeri dada atau pinggang, gatal, atau urin berwarna gelap selama atau setelah transfusi. Transfusi akan dihentikan segera bila dicurigai reaksi transfusi. Pasien berhak menolak transfusi atas dasar keyakinan atau alasan pribadi dengan memahami risikonya",
+      "checklist": false
     },
     "Tindakan Trepanasi Hematoma Subungual": {
       "alternatif": "Observasi bila hematoma kecil.",
