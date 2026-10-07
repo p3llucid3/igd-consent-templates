@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04",
+  "updated_at": "2026-10-07",
   "version": "1.2.11",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
@@ -1109,6 +1109,20 @@
       "tindakan": "Tindakan Insisi dan Drainase Abses",
       "tujuan": "Mengurangi tekanan dan infeksi."
     },
+    "Tindakan Insisi dan Drainase Abses Payudara (Mastotomi)": {
+      "alternatif": "Aspirasi jarum berulang dengan atau tanpa panduan USG pada abses kecil, antibiotik saja pada mastitis tanpa abses, atau pemasangan kateter drainase perkutan",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik payudara (nyeri, kemerahan, massa berfluktuasi, demam), dan USG payudara untuk memastikan adanya kumpulan nanah serta ukuran dan lokasinya",
+      "indikasi": "Abses payudara dengan fluktuasi, abses berukuran besar, abses multilokular, atau abses yang tidak membaik dengan aspirasi jarum dan antibiotik, baik pada ibu menyusui (abses laktasional) maupun tidak menyusui",
+      "komplikasi": "Abses berulang atau residual, fistula susu (pada ibu menyusui), penyembuhan luka lambat, jaringan parut atau perubahan bentuk payudara, gangguan menyusui pada sisi yang terkena, infeksi meluas",
+      "lain_lain": "Ibu menyusui umumnya dianjurkan tetap menyusui atau memerah ASI dari kedua payudara untuk membantu pengosongan payudara, kecuali bila luka mengganggu atau sesuai anjuran dokter. Pada pasien tidak menyusui atau abses berulang, dapat diperlukan pemeriksaan lanjutan termasuk biopsi untuk menyingkirkan keganasan. Kontrol dan penggantian balutan dilakukan sesuai jadwal",
+      "package": "Bedah Umum",
+      "prognosis": "Baik bila drainase adekuat disertai antibiotik dan perawatan luka yang teratur",
+      "resiko": "Nyeri di lokasi insisi, perdarahan ringan, rasa tidak nyaman saat penggantian balutan",
+      "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal atau umum sesuai ukuran abses, insisi kulit dibuat di atas abses mengikuti garis kulit (radial atau sirkumareolar) dan menjauhi areola bila memungkinkan, nanah dikeluarkan dan sekat-sekat abses dibuka, rongga abses diirigasi, dapat dipasang drain atau tampon, kemudian luka dibalut; sampel nanah dapat dikirim untuk kultur",
+      "tindakan": "Tindakan Insisi dan Drainase Abses Payudara (Mastotomi)",
+      "tujuan": "Mengeluarkan nanah, menghilangkan sumber infeksi, mengurangi nyeri, dan mencegah penyebaran infeksi"
+    },
     "Tindakan Intra-Aortic Balloon Pump (IABP)": {
       "alternatif": "Terapi inotropik atau perangkat sirkulasi mekanik lain.",
       "checklist": false,
@@ -1990,6 +2004,20 @@
       "tata_cara": "Pasien diposisikan setengah duduk dengan lengan diangkat, dilakukan tindakan aseptik dan anestesi lokal pada sela iga ke-4 atau ke-5 di antara garis aksila anterior dan media (segitiga aman), dilakukan insisi kulit dan diseksi tumpul di atas tepi atas iga hingga menembus pleura, eksplorasi dengan jari, kemudian selang dada (chest tube) dimasukkan ke rongga pleura, difiksasi dengan jahitan, dan dihubungkan ke sistem water seal drain",
       "tindakan": "Tindakan Pemasangan Water Seal Drain (WSD) / Chest Tube",
       "tujuan": "Mengeluarkan udara, darah, cairan, atau pus dari rongga pleura sehingga paru dapat mengembang kembali dan fungsi pernapasan serta sirkulasi membaik"
+    },
+    "Tindakan Pemberian Kortikosteroid Antenatal (Pematangan Paru Janin)": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Pemberian Kortikosteroid Antenatal (Pematangan Paru Janin)",
+      "indikasi": "Ibu hamil dengan risiko persalinan preterm dalam 7 hari pada usia kehamilan sekitar 24 hingga 34 minggu, misalnya ancaman persalinan preterm, ketuban pecah dini preterm, preeklampsia berat, perdarahan antepartum, atau kondisi ibu/janin lain yang memerlukan terminasi kehamilan preterm terencana; pada usia kehamilan di luar rentang tersebut dapat dipertimbangkan sesuai penilaian dokter",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan obstetri, penentuan usia kehamilan (HPHT dan/atau USG), serta penilaian klinis risiko persalinan preterm",
+      "tata_cara": "Pemberian kortikosteroid melalui suntikan intramuskular, yaitu deksametason 6 mg setiap 12 jam sebanyak 4 kali atau betametason 12 mg setiap 24 jam sebanyak 2 kali, disertai pemantauan kondisi ibu dan janin",
+      "tujuan": "Mempercepat pematangan paru janin untuk menurunkan risiko sindrom gawat napas (respiratory distress syndrome), perdarahan intraventrikular, enterokolitis nekrotikans, dan kematian bayi bila lahir prematur",
+      "resiko": "Nyeri di lokasi suntikan, peningkatan kadar gula darah ibu yang bersifat sementara, penurunan sementara variabilitas denyut jantung dan gerak janin",
+      "komplikasi": "Hiperglikemia yang memerlukan penyesuaian terapi terutama pada ibu dengan diabetes, peningkatan risiko infeksi pada ibu dengan infeksi aktif, gangguan kontrol tekanan darah, hipoglikemia neonatus bila bayi lahir dalam waktu dekat setelah pemberian",
+      "prognosis": "Baik; efek perlindungan paling optimal bila bayi lahir antara 24 jam hingga 7 hari setelah dosis pertama",
+      "alternatif": "Tidak dilakukan pemberian kortikosteroid dengan konsekuensi risiko komplikasi pernapasan bayi prematur lebih tinggi, atau penanganan bayi setelah lahir di NICU termasuk pemberian surfaktan bila diperlukan",
+      "lain_lain": "Pemberian dapat dilakukan bersamaan dengan terapi lain seperti tokolitik atau magnesium sulfat sesuai indikasi. Pada ibu dengan diabetes diperlukan pemantauan gula darah lebih ketat. Pemberian ulang (rescue course) hanya dilakukan atas pertimbangan dokter. Persalinan tetap dapat terjadi sebelum pemberian lengkap",
+      "checklist": false
     },
     "Tindakan Pemberian Magnesium Sulfat (MgSO4)": {
       "alternatif": "Antikonvulsan lain bila kontraindikasi.",
@@ -3475,19 +3503,19 @@
       "tindakan": "Tindakan Terapi Trombolisis Stroke Iskemik Intravenous",
       "tujuan": "Melarutkan bekuan darah dan memulihkan perfusi otak."
     },
-    "Tindakan Thorakosentesis": {
-      "alternatif": "Pemasangan WSD.",
+    "Tindakan Thorakosentesis (Pungsi Pleura)": {
+      "alternatif": "Pemasangan WSD/chest tube pada efusi masif, berulang, empiema, atau hemotoraks; pemasangan kateter pleura kecil (pigtail); terapi medikamentosa sesuai penyebab (misalnya diuretik pada gagal jantung); atau observasi pada efusi kecil tanpa gejala",
       "checklist": false,
-      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan imaging.",
-      "indikasi": "Efusi pleura untuk tujuan diagnostik atau terapeutik.",
-      "komplikasi": "Pneumotoraks.",
-      "lain_lain": "-",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik toraks, dan pemeriksaan penunjang (foto toraks, USG toraks, atau CT scan) yang menunjukkan adanya efusi pleura",
+      "indikasi": "Efusi pleura yang memerlukan pengambilan cairan untuk menegakkan penyebab (diagnostik), atau efusi pleura yang menimbulkan sesak napas sehingga perlu dikeluarkan untuk mengurangi keluhan (terapeutik)",
+      "komplikasi": "Pneumotoraks, perdarahan atau hemotoraks akibat cedera pembuluh darah interkostal, edema paru reekspansi bila cairan dikeluarkan terlalu banyak atau terlalu cepat, infeksi rongga pleura, cedera hati atau limpa, reaksi vasovagal (pingsan)",
+      "lain_lain": "Tindakan ini juga dikenal sebagai pungsi pleura. Penentuan lokasi tusukan sebaiknya dipandu USG. Jumlah cairan yang dikeluarkan dibatasi untuk mencegah edema paru reekspansi, dan tindakan dihentikan bila pasien batuk hebat, nyeri dada, atau sesak bertambah. Foto toraks dapat dilakukan setelah tindakan bila dicurigai pneumotoraks. Cairan yang diambil dikirim untuk pemeriksaan laboratorium sesuai indikasi",
       "package": "Tindakan Penunjang",
-      "prognosis": "Baik bila teknik benar.",
-      "resiko": "Nyeri, perdarahan.",
-      "tata_cara": "Pemasukan jarum ke rongga pleura untuk aspirasi cairan.",
-      "tindakan": "Tindakan Thorakosentesis",
-      "tujuan": "Mengurangi sesak dan mendapatkan cairan untuk analisis."
+      "prognosis": "Baik bila dilakukan sesuai indikasi dengan teknik yang benar; bergantung pada penyakit yang mendasari efusi",
+      "resiko": "Nyeri di lokasi tusukan, rasa tidak nyaman, batuk, memar atau perdarahan ringan",
+      "tata_cara": "Pasien diposisikan duduk membungkuk ke depan, lokasi tusukan ditentukan dengan pemeriksaan fisik dan/atau panduan USG, dilakukan tindakan aseptik dan anestesi lokal, kemudian jarum atau kateter dimasukkan melalui sela iga tepat di atas tepi atas iga ke rongga pleura untuk mengaspirasi cairan, lalu jarum dicabut dan bekas tusukan ditutup dengan balutan steril",
+      "tindakan": "Tindakan Thorakosentesis (Pungsi Pleura)",
+      "tujuan": "Mendapatkan sampel cairan pleura untuk pemeriksaan penunjang diagnosis dan/atau mengurangi sesak napas dengan mengeluarkan cairan dari rongga pleura"
     },
     "Tindakan Torakotomi Emergensi": {
       "alternatif": "Resusitasi jantung paru standar tanpa torakotomi (tidak efektif mengatasi tamponade/perdarahan intratoraks masif), atau rujuk ke kamar operasi bila pasien cukup stabil untuk transport",
