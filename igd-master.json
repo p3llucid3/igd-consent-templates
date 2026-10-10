@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07",
+  "updated_at": "2026-10-10",
   "version": "1.2.11",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
@@ -226,6 +226,20 @@
       "tata_cara": "Dilakukan tindakan aseptik, kemudian jarum halus ditusukkan ke dalam benjolan dengan atau tanpa panduan USG untuk menghisap sel atau cairan, tindakan dapat diulang beberapa kali, lalu bekas tusukan ditekan dan ditutup kasa steril; sampel diperiksa di laboratorium patologi",
       "tindakan": "Tindakan Biopsi Aspirasi Jarum Halus (FNAB)",
       "tujuan": "Mendapatkan sampel sel dari benjolan untuk menentukan jenisnya (jinak atau ganas) dan merencanakan pengobatan"
+    },
+    "Tindakan Biopsi Eksisi Kelenjar Getah Bening": {
+      "package": "Bedah Onkologi",
+      "tindakan": "Tindakan Biopsi Eksisi Kelenjar Getah Bening",
+      "indikasi": "Pembesaran kelenjar getah bening yang menetap, membesar, atau disertai gejala sistemik (demam, berat badan turun, keringat malam) yang memerlukan diagnosis pasti, misalnya kecurigaan limfoma, metastasis kanker, atau tuberkulosis kelenjar",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium, USG atau pencitraan lain, serta FNAB sebelumnya bila ada",
+      "tata_cara": "Dengan anestesi lokal atau umum dibuat sayatan kecil di atas kelenjar, kelenjar getah bening diangkat utuh dengan hati-hati menjaga saraf dan pembuluh darah di sekitarnya, lalu luka dijahit; jaringan dikirim untuk pemeriksaan histopatologi dan pemeriksaan lain sesuai indikasi",
+      "tujuan": "Mendapatkan jaringan kelenjar utuh untuk menegakkan diagnosis penyebab pembesaran kelenjar",
+      "resiko": "Nyeri, memar, perdarahan, infeksi luka",
+      "komplikasi": "Hematoma, seroma, cedera saraf di daerah leher, ketiak, atau lipat paha (misalnya kelemahan bahu atau mati rasa), kebocoran cairan limfe, jaringan parut, hasil tidak diagnostik sehingga perlu biopsi ulang",
+      "prognosis": "Baik; prognosis penyakit bergantung pada hasil diagnosis",
+      "alternatif": "FNAB atau biopsi jarum inti, observasi berkala pada kelenjar yang dicurigai reaktif, atau terapi empiris sesuai kondisi",
+      "lain_lain": "Hasil histopatologi dapat memerlukan beberapa hari hingga minggu, termasuk pemeriksaan tambahan seperti imunohistokimia",
+      "checklist": false
     },
     "Tindakan Biopsi Kulit Eksisional": {
       "alternatif": "Biopsi insisional.",
@@ -703,6 +717,20 @@
       "tindakan": "Tindakan Eksisi Granuloma Piogenik",
       "tujuan": "Menghentikan perdarahan dan menghilangkan lesi."
     },
+    "Tindakan Eksisi Keloid": {
+      "package": "Plastic Surgery",
+      "tindakan": "Tindakan Eksisi Keloid",
+      "indikasi": "Keloid (pertumbuhan jaringan parut berlebih) yang besar, nyeri, gatal, mengganggu gerak, atau mengganggu penampilan dan tidak membaik dengan pengobatan nonbedah",
+      "dasar_diagnosis": "Anamnesis riwayat luka sebelumnya dan pemeriksaan fisik jaringan parut",
+      "tata_cara": "Dengan anestesi lokal, jaringan keloid diangkat (eksisi seluruhnya atau di dalam batas keloid), luka dijahit dengan teknik bebas tegangan, dan umumnya dilanjutkan dengan terapi tambahan seperti suntikan kortikosteroid ke luka, radioterapi, atau penekanan (pressure therapy) untuk mencegah kekambuhan",
+      "tujuan": "Mengurangi ukuran keloid dan keluhannya serta memperbaiki penampilan",
+      "resiko": "Nyeri, perdarahan ringan, infeksi luka",
+      "komplikasi": "Kekambuhan keloid yang sering terjadi dan dapat lebih besar dari sebelumnya bila tanpa terapi tambahan, luka terbuka kembali, perubahan warna kulit, efek samping suntikan kortikosteroid (penipisan kulit, perubahan warna)",
+      "prognosis": "Kekambuhan cukup tinggi; hasil lebih baik bila dikombinasikan dengan terapi tambahan",
+      "alternatif": "Suntikan kortikosteroid ke dalam keloid, silikon gel atau lembar silikon, krioterapi, laser, penekanan, atau observasi",
+      "lain_lain": "Pasien perlu kontrol rutin dan menjalani terapi pencegahan kekambuhan sesuai jadwal. Pasien dengan riwayat keloid sebaiknya menghindari tindik atau luka yang tidak perlu",
+      "checklist": false
+    },
     "Tindakan Eksisi Lipoma Minor": {
       "alternatif": "Observasi.",
       "checklist": false,
@@ -730,6 +758,34 @@
       "tata_cara": "Eksisi lesi dengan margin adekuat di bawah anestesi lokal.",
       "tindakan": "Tindakan Eksisi Nevus / Lesi Pigmentasi",
       "tujuan": "Menghilangkan lesi dan/atau pemeriksaan histopatologi."
+    },
+    "Tindakan Eksisi Tumor Jaringan Lunak": {
+      "package": "Bedah Onkologi",
+      "tindakan": "Tindakan Eksisi Tumor Jaringan Lunak",
+      "indikasi": "Benjolan jaringan lunak (di bawah kulit, otot, atau jaringan dalam) yang membesar, nyeri, berukuran besar, mengganggu fungsi, atau dicurigai ganas",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, serta pemeriksaan penunjang seperti USG, CT scan, atau MRI dan biopsi sesuai indikasi",
+      "tata_cara": "Dengan anestesi lokal, regional, atau umum sesuai ukuran dan lokasi, dibuat sayatan di atas benjolan, tumor diangkat utuh beserta kapsulnya atau dengan batas jaringan sehat bila dicurigai ganas, dapat dipasang drain, lalu luka dijahit; jaringan dikirim untuk pemeriksaan histopatologi",
+      "tujuan": "Mengangkat tumor untuk menghilangkan keluhan dan menegakkan diagnosis",
+      "resiko": "Nyeri, perdarahan, infeksi luka, bengkak",
+      "komplikasi": "Hematoma, seroma, cedera saraf, pembuluh darah, atau otot di sekitar tumor, kelemahan atau mati rasa, jaringan parut, kekambuhan tumor, operasi lanjutan bila hasil histopatologi ganas",
+      "prognosis": "Baik pada tumor jinak; pada tumor ganas bergantung pada jenis dan stadium",
+      "alternatif": "Observasi berkala, biopsi terlebih dahulu, atau terapi lain sesuai jenis tumor",
+      "lain_lain": "Tumor yang dicurigai ganas sebaiknya dibiopsi dan direncanakan oleh tim bedah onkologi sebelum pengangkatan. Pasien diminta kembali bila muncul benjolan baru di lokasi yang sama",
+      "checklist": false
+    },
+    "Tindakan Eksisi Tumor Payudara (FAM/Lumpektomi)": {
+      "package": "Bedah Onkologi",
+      "tindakan": "Tindakan Eksisi Tumor Payudara (FAM/Lumpektomi)",
+      "indikasi": "Benjolan payudara seperti fibroadenoma (FAM) yang membesar, bergejala, atau mengganggu; benjolan dengan hasil pemeriksaan meragukan; atau kanker payudara stadium awal yang sesuai untuk operasi pertahanan payudara",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik payudara, USG dan/atau mamografi, serta biopsi jarum sesuai indikasi",
+      "tata_cara": "Dengan anestesi lokal atau umum dibuat sayatan pada kulit payudara (umumnya mengikuti garis kulit atau tepi areola), benjolan diangkat dengan atau tanpa batas jaringan sehat, perdarahan dirawat, lalu luka dijahit; jaringan dikirim untuk pemeriksaan histopatologi",
+      "tujuan": "Mengangkat benjolan untuk menegakkan diagnosis pasti dan/atau mengobati sambil mempertahankan bentuk payudara",
+      "resiko": "Nyeri, memar, perdarahan, infeksi luka",
+      "komplikasi": "Hematoma, seroma, perubahan bentuk atau lekukan payudara, jaringan parut, mati rasa di sekitar luka, tumor tidak terangkat seluruhnya sehingga memerlukan operasi ulang bila hasil ganas",
+      "prognosis": "Baik pada benjolan jinak; pada keganasan bergantung pada stadium dan terapi lanjutan",
+      "alternatif": "Observasi dengan USG berkala pada fibroadenoma kecil, biopsi jarum saja, atau mastektomi sesuai kondisi",
+      "lain_lain": "Hasil histopatologi akan menentukan tatalaksana selanjutnya. Pada kanker, lumpektomi umumnya perlu dilanjutkan dengan radioterapi",
+      "checklist": false
     },
     "Tindakan Eksplorasi Duktus Koledokus": {
       "alternatif": "ERCP atau terapi konservatif sesuai kondisi.",
@@ -1627,6 +1683,20 @@
       "tindakan": "Tindakan Ligasi Vaskular Emergensi",
       "tujuan": "Menghentikan perdarahan secepat mungkin sebagai tindakan penyelamatan nyawa, terutama pada strategi damage control surgery"
     },
+    "Tindakan Ligasi dan Stripping Vena Varises Tungkai": {
+      "package": "Vascular Surgery",
+      "tindakan": "Tindakan Ligasi dan Stripping Vena Varises Tungkai",
+      "indikasi": "Varises tungkai (pelebaran vena) yang menimbulkan nyeri, rasa berat, bengkak, perubahan warna kulit, luka (ulkus) yang tidak sembuh, perdarahan, atau tromboflebitis berulang, disertai kebocoran katup vena safena",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik tungkai, dan USG Doppler vena untuk menilai kebocoran katup dan memastikan vena dalam tidak tersumbat",
+      "tata_cara": "Dengan anestesi spinal, umum, atau tumesen, dibuat sayatan di lipat paha dan/atau belakang lutut, pangkal vena safena diikat (ligasi), batang vena ditarik keluar dengan alat khusus (stripping), dan cabang varises diangkat melalui sayatan kecil (flebektomi), lalu tungkai dibalut dengan perban elastis",
+      "tujuan": "Menghilangkan vena yang bocor untuk mengurangi keluhan, mencegah komplikasi, dan memperbaiki penampilan tungkai",
+      "resiko": "Nyeri, memar luas di sepanjang tungkai, bengkak, perdarahan, infeksi luka",
+      "komplikasi": "Mati rasa atau kesemutan akibat cedera saraf kulit (saraf safena atau suralis), trombosis vena dalam dan emboli paru (jarang), hematoma, kebocoran limfe, kekambuhan varises",
+      "prognosis": "Baik; kekambuhan dapat terjadi dalam beberapa tahun",
+      "alternatif": "Stoking kompresi, ablasi vena dengan laser atau radiofrekuensi (endovena), skleroterapi, atau obat-obatan",
+      "lain_lain": "Pasien dianjurkan memakai stoking kompresi dan berjalan sejak hari pertama sesuai anjuran untuk mencegah bekuan darah, serta segera melapor bila tungkai bengkak hebat, nyeri betis, atau sesak napas",
+      "checklist": false
+    },
     "Tindakan Lumbar Drain": {
       "alternatif": "EVD pada kasus tertentu.",
       "checklist": false,
@@ -1710,6 +1780,20 @@
       "tata_cara": "Pemberian produk darah secara terkoordinasi sesuai rasio protokol rumah sakit.",
       "tindakan": "Tindakan Massive Transfusion Protocol (MTP)",
       "tujuan": "Mengganti kehilangan darah dan mempertahankan perfusi organ."
+    },
+    "Tindakan Mastektomi": {
+      "package": "Bedah Onkologi",
+      "tindakan": "Tindakan Mastektomi",
+      "indikasi": "Kanker payudara yang tidak sesuai untuk operasi pertahanan payudara, tumor payudara besar atau multipel, kekambuhan setelah operasi sebelumnya, atau tindakan pencegahan pada risiko sangat tinggi sesuai keputusan dokter",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik payudara dan ketiak, mamografi dan/atau USG payudara, biopsi dengan konfirmasi histopatologi, serta pemeriksaan penentuan stadium",
+      "tata_cara": "Pasien dipuasakan sesuai protokol dan menjalani pemeriksaan pra-anestesi, kemudian dengan anestesi umum seluruh jaringan payudara diangkat (mastektomi simpel), dapat disertai pengangkatan kelenjar getah bening ketiak (mastektomi radikal modifikasi) atau biopsi kelenjar sentinel, dipasang drain, lalu luka dijahit; jaringan dikirim untuk pemeriksaan histopatologi",
+      "tujuan": "Mengangkat tumor dan jaringan payudara untuk mengobati kanker atau mencegah penyebarannya, serta menentukan stadium penyakit",
+      "resiko": "Nyeri luka operasi, perdarahan, infeksi luka, mati rasa di dada dan lengan atas bagian dalam, keterbatasan gerak bahu sementara",
+      "komplikasi": "Seroma (penumpukan cairan) yang memerlukan aspirasi berulang, nekrosis tepi kulit, limfedema (bengkak lengan) terutama bila kelenjar ketiak diangkat, cedera saraf di ketiak, kekakuan bahu, nyeri kronis, perubahan citra tubuh dan dampak psikologis",
+      "prognosis": "Bergantung pada jenis, stadium, dan biologi tumor serta terapi lanjutan",
+      "alternatif": "Operasi pertahanan payudara (lumpektomi) disertai radioterapi bila memenuhi syarat, kemoterapi atau terapi hormonal sebelum operasi, atau terapi non-bedah sesuai kondisi",
+      "lain_lain": "Terapi lanjutan seperti kemoterapi, radioterapi, atau terapi hormonal dapat diperlukan sesuai hasil histopatologi. Rekonstruksi payudara dapat didiskusikan. Pasien diajarkan perawatan drain dan latihan gerak lengan",
+      "checklist": false
     },
     "Tindakan Monitoring Hemodinamik Lanjutan (Advanced Hemodynamic Monitoring)": {
       "alternatif": "Monitoring klinis dan non-invasif.",
@@ -2325,6 +2409,20 @@
       "prognosis": "Sangat baik, efektif mencegah perdarahan defisiensi vitamin K",
       "alternatif": "Pemberian vitamin K oral (efektivitas lebih rendah dan memerlukan dosis berulang)",
       "lain_lain": "-",
+      "checklist": false
+    },
+    "Tindakan Pembuatan Akses Vaskular Hemodialisa (AV Shunt/Cimino)": {
+      "package": "Vascular Surgery",
+      "tindakan": "Tindakan Pembuatan Akses Vaskular Hemodialisa (AV Shunt/Cimino)",
+      "indikasi": "Penyakit ginjal kronis yang sedang atau akan menjalani hemodialisa jangka panjang dan memerlukan akses pembuluh darah permanen",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik pembuluh darah lengan (nadi, uji Allen), dan USG Doppler untuk menilai ukuran dan kualitas arteri serta vena",
+      "tata_cara": "Dengan anestesi lokal atau blok saraf lengan, dibuat sayatan di pergelangan tangan atau siku, kemudian vena disambungkan langsung ke arteri (fistula arteri-vena) atau melalui pembuluh darah sintetis (graft), lalu luka dijahit; fistula memerlukan waktu beberapa minggu untuk matang sebelum dapat digunakan",
+      "tujuan": "Membuat akses pembuluh darah yang kuat dan tahan lama untuk hemodialisa sehingga mengurangi kebutuhan kateter",
+      "resiko": "Nyeri, bengkak, memar di lengan, infeksi luka",
+      "komplikasi": "Fistula tidak matang atau tersumbat (trombosis), perdarahan, aneurisma atau pelebaran pembuluh darah, sindrom steal (tangan dingin, nyeri, atau kesemutan karena aliran darah tangan berkurang), bengkak lengan akibat hipertensi vena, gagal jantung pada aliran fistula yang sangat besar, infeksi terutama pada graft",
+      "prognosis": "Baik; sebagian fistula memerlukan tindakan tambahan untuk dapat digunakan atau dipertahankan",
+      "alternatif": "Kateter hemodialisa (double lumen/CDL) jangka panjang, dialisis peritoneal, atau transplantasi ginjal",
+      "lain_lain": "Lengan yang dipasang fistula tidak boleh digunakan untuk pengukuran tekanan darah, pengambilan darah, atau pemasangan infus, dan tidak boleh tertekan saat tidur. Pasien diajarkan memeriksa getaran (thrill) fistula setiap hari dan segera melapor bila getaran hilang, perdarahan, atau tangan menjadi dingin dan nyeri",
       "checklist": false
     },
     "Tindakan Pemeriksaan Dalam (Vaginal Toucher) pada Pasien Belum Menikah": {
@@ -3838,6 +3936,34 @@
       "tata_cara": "Pasien diposisikan duduk membungkuk ke depan, lokasi tusukan ditentukan dengan pemeriksaan fisik dan/atau panduan USG, dilakukan tindakan aseptik dan anestesi lokal, kemudian jarum atau kateter dimasukkan melalui sela iga tepat di atas tepi atas iga ke rongga pleura untuk mengaspirasi cairan, lalu jarum dicabut dan bekas tusukan ditutup dengan balutan steril",
       "tindakan": "Tindakan Thorakosentesis (Pungsi Pleura)",
       "tujuan": "Mendapatkan sampel cairan pleura untuk pemeriksaan penunjang diagnosis dan/atau mengurangi sesak napas dengan mengeluarkan cairan dari rongga pleura"
+    },
+    "Tindakan Tiroidektomi": {
+      "package": "Bedah Onkologi",
+      "tindakan": "Tindakan Tiroidektomi",
+      "indikasi": "Nodul tiroid yang dicurigai atau terbukti ganas, struma (pembesaran kelenjar tiroid) yang menekan saluran napas atau kerongkongan, struma yang mengganggu penampilan, atau hipertiroid yang tidak terkontrol dengan obat maupun terapi lain",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik leher, pemeriksaan fungsi tiroid (TSH, FT4), USG tiroid, dan biopsi aspirasi jarum halus (FNAB) sesuai indikasi, serta pemeriksaan pita suara bila diperlukan",
+      "tata_cara": "Pasien dipuasakan sesuai protokol dan menjalani pemeriksaan pra-anestesi, kemudian dengan anestesi umum dibuat sayatan melintang di leher bagian bawah, sebagian kelenjar tiroid (lobektomi/hemitiroidektomi) atau seluruhnya (tiroidektomi total) diangkat dengan menjaga saraf pita suara dan kelenjar paratiroid, dapat dipasang drain, lalu luka dijahit; jaringan dikirim untuk pemeriksaan histopatologi",
+      "tujuan": "Mengangkat jaringan tiroid yang sakit untuk menegakkan diagnosis, mengobati keganasan, menghilangkan penekanan, atau mengendalikan hipertiroid",
+      "resiko": "Nyeri luka operasi, nyeri saat menelan, suara serak sementara, perdarahan, infeksi luka, mual pascaanestesi",
+      "komplikasi": "Perdarahan atau hematoma leher yang dapat menekan jalan napas dan memerlukan operasi ulang segera, cedera saraf pita suara (suara serak atau hilang menetap, gangguan napas bila kedua sisi), hipokalsemia sementara atau menetap akibat gangguan kelenjar paratiroid (kesemutan, kram), hipotiroid yang memerlukan obat hormon tiroid seumur hidup, krisis tiroid pada pasien hipertiroid, jaringan parut",
+      "prognosis": "Baik pada sebagian besar kelainan jinak; pada keganasan bergantung pada jenis dan stadium tumor",
+      "alternatif": "Observasi berkala, obat antitiroid, terapi iodium radioaktif, atau ablasi sesuai jenis kelainan",
+      "lain_lain": "Pasien perlu kontrol kadar kalsium dan hormon tiroid setelah operasi. Pasien diminta segera melapor bila leher membengkak, sesak napas, atau kesemutan di sekitar bibir dan jari",
+      "checklist": false
+    },
+    "Tindakan Tonsilektomi": {
+      "package": "ENT Advanced",
+      "tindakan": "Tindakan Tonsilektomi",
+      "indikasi": "Tonsilitis (radang amandel) berulang, pembesaran amandel yang menyebabkan gangguan napas saat tidur (mendengkur, henti napas) atau sulit menelan, abses peritonsil berulang, atau kecurigaan tumor amandel",
+      "dasar_diagnosis": "Anamnesis riwayat radang amandel, pemeriksaan fisik tenggorokan, serta pemeriksaan laboratorium (darah lengkap, faal hemostasis) sebelum operasi",
+      "tata_cara": "Pasien dipuasakan sesuai protokol dan menjalani pemeriksaan pra-anestesi, kemudian dengan anestesi umum mulut dibuka dengan alat khusus dan kedua amandel diangkat menggunakan teknik diseksi, elektrokauter, atau alat lain, perdarahan dirawat hingga berhenti, dapat disertai pengangkatan adenoid (adenotonsilektomi) sesuai indikasi",
+      "tujuan": "Menghilangkan sumber infeksi berulang dan memperbaiki gangguan napas atau menelan",
+      "resiko": "Nyeri tenggorokan yang cukup berat selama 1 hingga 2 minggu, nyeri telinga, sulit menelan sementara, mual dan muntah, bau mulut, perubahan suara sementara",
+      "komplikasi": "Perdarahan setelah operasi (terutama dalam 24 jam pertama atau hari ke-5 hingga ke-10) yang dapat memerlukan tindakan ulang, dehidrasi akibat sulit makan dan minum, cedera gigi, bibir, atau lidah, gangguan napas setelah operasi terutama pada anak dengan sleep apnea, komplikasi anestesi",
+      "prognosis": "Baik; sebagian besar pasien pulih dalam 2 minggu",
+      "alternatif": "Pengobatan antibiotik saat infeksi dan observasi, atau pengobatan gangguan napas tidur nonbedah",
+      "lain_lain": "Pasien dianjurkan banyak minum, makan makanan lunak dan dingin, serta menghindari makanan keras dan pedas selama masa penyembuhan. Pasien atau keluarga diminta segera ke IGD bila terjadi perdarahan dari mulut atau muntah darah",
+      "checklist": false
     },
     "Tindakan Torakotomi Emergensi": {
       "alternatif": "Resusitasi jantung paru standar tanpa torakotomi (tidak efektif mengatasi tamponade/perdarahan intratoraks masif), atau rujuk ke kamar operasi bila pasien cukup stabil untuk transport",
