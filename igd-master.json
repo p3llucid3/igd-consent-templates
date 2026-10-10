@@ -759,6 +759,20 @@
       "tindakan": "Tindakan Eksisi Nevus / Lesi Pigmentasi",
       "tujuan": "Menghilangkan lesi dan/atau pemeriksaan histopatologi."
     },
+    "Tindakan Eksisi Sinus Pilonidal": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Eksisi Sinus Pilonidal",
+      "indikasi": "Sinus pilonidal (saluran atau kista berisi rambut di lipatan bokong) yang bergejala, terinfeksi berulang, atau mengeluarkan cairan",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik daerah lipatan bokong",
+      "tata_cara": "Dengan anestesi lokal, spinal, atau umum, saluran sinus dan jaringan yang terinfeksi diangkat seluruhnya, kemudian luka dibiarkan terbuka, dijahit tertutup, atau ditutup dengan teknik flap untuk menggeser luka dari garis tengah",
+      "tujuan": "Menghilangkan sinus beserta rambut dan jaringan terinfeksi untuk mencegah infeksi berulang",
+      "resiko": "Nyeri, perdarahan, keluarnya cairan dari luka, rasa tidak nyaman saat duduk",
+      "komplikasi": "Infeksi luka, luka terbuka kembali, penyembuhan luka lama (terutama bila dibiarkan terbuka), kekambuhan sinus, seroma, jaringan parut",
+      "prognosis": "Baik; kekambuhan dapat terjadi dan dipengaruhi teknik operasi serta perawatan pascaoperasi",
+      "alternatif": "Insisi dan drainase pada fase abses akut, perawatan konservatif dengan pencukuran dan kebersihan, atau teknik minimal invasif",
+      "lain_lain": "Pasien dianjurkan menjaga kebersihan, menghindari duduk lama, dan mencukur atau menghilangkan rambut di daerah tersebut secara berkala untuk mencegah kekambuhan",
+      "checklist": false
+    },
     "Tindakan Eksisi Tumor Jaringan Lunak": {
       "package": "Bedah Onkologi",
       "tindakan": "Tindakan Eksisi Tumor Jaringan Lunak",
@@ -1123,6 +1137,20 @@
       "tindakan": "Tindakan Fasciotomi",
       "tujuan": "Menurunkan tekanan intrakompartemen untuk mencegah iskemia otot dan saraf ireversibel serta kehilangan fungsi ekstremitas"
     },
+    "Tindakan Fistulektomi/Fistulotomi Ani": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Fistulektomi/Fistulotomi Ani",
+      "indikasi": "Fistula ani (saluran abnormal antara saluran anus dan kulit di sekitar anus) yang menimbulkan keluarnya nanah atau cairan berulang, nyeri, atau abses berulang",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik daerah anus dan colok dubur, serta pemeriksaan penunjang seperti MRI atau USG endoanal pada fistula kompleks",
+      "tata_cara": "Dengan anestesi spinal atau umum, saluran fistula ditelusuri dengan sonde, kemudian saluran dibuka sepanjang alurnya (fistulotomi) atau diangkat seluruhnya (fistulektomi), dapat disertai pemasangan seton pada fistula yang melibatkan banyak otot sfingter, lalu luka dibiarkan terbuka untuk sembuh dari dasar",
+      "tujuan": "Menghilangkan saluran fistula untuk menghentikan keluarnya nanah dan mencegah abses berulang",
+      "resiko": "Nyeri, perdarahan ringan, keluarnya cairan dari luka selama penyembuhan, rasa tidak nyaman saat buang air besar",
+      "komplikasi": "Kekambuhan fistula, gangguan menahan buang angin atau buang air besar (inkontinensia) terutama pada fistula yang melibatkan otot sfingter, penyembuhan luka lambat, infeksi, penyempitan anus",
+      "prognosis": "Baik pada fistula sederhana; fistula kompleks dapat memerlukan beberapa tahap operasi",
+      "alternatif": "Pemasangan seton jangka panjang, flap pergeseran mukosa, teknik LIFT, atau observasi pada fistula tanpa gejala",
+      "lain_lain": "Perawatan luka dengan rendam duduk air hangat dan menjaga kebersihan diperlukan hingga luka sembuh. Pasien dianjurkan makan tinggi serat dan cukup minum",
+      "checklist": false
+    },
     "Tindakan Fototerapi pada Hiperbilirubinemia Neonatus": {
       "package": "Perinatologi",
       "tindakan": "Tindakan Fototerapi pada Hiperbilirubinemia Neonatus",
@@ -1346,6 +1374,20 @@
       "tata_cara": "Dilakukan tindakan aseptik dan anestesi lokal atau umum sesuai ukuran abses, insisi kulit dibuat di atas abses mengikuti garis kulit (radial atau sirkumareolar) dan menjauhi areola bila memungkinkan, nanah dikeluarkan dan sekat-sekat abses dibuka, rongga abses diirigasi, dapat dipasang drain atau tampon, kemudian luka dibalut; sampel nanah dapat dikirim untuk kultur",
       "tindakan": "Tindakan Insisi dan Drainase Abses Payudara (Mastotomi)",
       "tujuan": "Mengeluarkan nanah, menghilangkan sumber infeksi, mengurangi nyeri, dan mencegah penyebaran infeksi"
+    },
+    "Tindakan Insisi dan Drainase Abses Perianal": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Insisi dan Drainase Abses Perianal",
+      "indikasi": "Abses (kumpulan nanah) di sekitar anus atau rektum yang ditandai nyeri, bengkak, kemerahan, demam, atau benjolan berfluktuasi",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik daerah anus termasuk colok dubur, dan pemeriksaan penunjang seperti USG atau MRI pada abses dalam",
+      "tata_cara": "Dengan anestesi lokal, spinal, atau umum sesuai lokasi dan ukuran abses, dibuat sayatan di atas abses, nanah dikeluarkan dan sekat abses dibuka, rongga abses diirigasi, dapat dipasang tampon atau drain, lalu luka dibiarkan terbuka dan dibalut; sampel nanah dapat dikirim untuk kultur",
+      "tujuan": "Mengeluarkan nanah untuk mengatasi infeksi, mengurangi nyeri, dan mencegah penyebaran infeksi",
+      "resiko": "Nyeri, perdarahan ringan, keluarnya cairan dari luka selama penyembuhan",
+      "komplikasi": "Abses berulang, terbentuknya fistula ani (cukup sering) yang memerlukan operasi lanjutan, infeksi meluas, gangguan menahan buang air besar (jarang), penyembuhan luka lambat terutama pada penderita diabetes",
+      "prognosis": "Baik bila drainase adekuat; sebagian pasien dapat mengalami fistula di kemudian hari",
+      "alternatif": "Antibiotik saja tidak cukup untuk abses yang sudah terbentuk; aspirasi jarum pada kasus terbatas",
+      "lain_lain": "Perawatan luka dengan rendam duduk air hangat dan penggantian balutan diperlukan hingga luka sembuh. Pasien diminta kembali bila keluar nanah berulang dari sekitar anus setelah luka sembuh, yang dapat menandakan fistula",
+      "checklist": false
     },
     "Tindakan Insisi dan Kuretase Hordeolum/Kalazion": {
       "package": "THT & Mata",
@@ -1655,6 +1697,20 @@
       "tindakan": "Tindakan Laminektomi Dekompresi Emergensi",
       "tujuan": "Mendekompresi medula spinalis secepat mungkin untuk memaksimalkan potensi pemulihan fungsi neurologis"
     },
+    "Tindakan Laparoskopi Diagnostik": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Laparoskopi Diagnostik",
+      "indikasi": "Nyeri perut atau kelainan rongga perut yang belum dapat ditegakkan diagnosisnya dengan pemeriksaan noninvasif, evaluasi trauma abdomen tertentu, penentuan stadium keganasan, atau pengambilan biopsi organ rongga perut",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium, dan pencitraan (USG, CT scan) yang belum memberikan diagnosis pasti",
+      "tata_cara": "Pasien dipuasakan sesuai protokol dan menjalani pemeriksaan pra-anestesi, kemudian dengan anestesi umum dibuat sayatan kecil di pusar dan dimasukkan gas karbon dioksida untuk mengembangkan rongga perut, kamera laparoskop dan alat kecil dimasukkan melalui beberapa sayatan kecil untuk melihat organ dalam perut, dapat dilakukan biopsi atau tindakan terapeutik sesuai temuan, dan bila diperlukan operasi dapat dikonversi menjadi operasi terbuka",
+      "tujuan": "Melihat langsung organ rongga perut untuk menegakkan diagnosis dan bila memungkinkan melakukan pengobatan sekaligus",
+      "resiko": "Nyeri luka, nyeri bahu akibat gas, perut kembung, mual, perdarahan atau infeksi luka kecil",
+      "komplikasi": "Cedera usus, kandung kemih, atau pembuluh darah saat memasukkan alat, perdarahan, konversi ke operasi terbuka, hernia di bekas sayatan, emboli gas (sangat jarang), komplikasi anestesi",
+      "prognosis": "Baik; prognosis selanjutnya bergantung pada temuan dan penyakit yang mendasari",
+      "alternatif": "Observasi dan pemeriksaan pencitraan ulang, biopsi dengan panduan pencitraan, atau laparotomi (operasi terbuka)",
+      "lain_lain": "Tindakan lanjutan dapat dilakukan pada saat yang sama bila ditemukan kelainan yang memerlukan penanganan segera dan sesuai persetujuan",
+      "checklist": false
+    },
     "Tindakan Laparotomi": {
       "alternatif": "Laparoskopi bila memungkinkan.",
       "checklist": false,
@@ -1668,6 +1724,20 @@
       "tata_cara": "Operasi membuka dinding perut untuk eksplorasi dan penanganan penyebab.",
       "tindakan": "Tindakan Laparotomi",
       "tujuan": "Menangani kegawatan intraabdomen."
+    },
+    "Tindakan Ligasi Hemoroid (Rubber Band Ligation)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Ligasi Hemoroid (Rubber Band Ligation)",
+      "indikasi": "Hemoroid internal derajat I hingga III yang menimbulkan perdarahan atau benjolan keluar saat buang air besar dan tidak membaik dengan pengobatan konservatif",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik daerah anus, colok dubur, dan anoskopi; pemeriksaan kolonoskopi dapat dipertimbangkan untuk menyingkirkan penyebab perdarahan lain",
+      "tata_cara": "Tanpa atau dengan sedikit analgesia, alat anoskop dimasukkan ke anus, kemudian jaringan hemoroid ditarik ke dalam alat ligator dan diikat pada pangkalnya dengan karet khusus sehingga aliran darahnya terhenti; hemoroid akan mengering dan lepas dalam 1 hingga 2 minggu",
+      "tujuan": "Mengecilkan dan menghilangkan hemoroid untuk menghentikan perdarahan dan benjolan tanpa operasi",
+      "resiko": "Rasa penuh, nyeri ringan, atau tidak nyaman di anus, perdarahan ringan terutama saat karet terlepas",
+      "komplikasi": "Nyeri hebat bila ikatan terlalu dekat dengan garis anus, perdarahan bermakna saat jaringan terlepas, retensi urin, trombosis hemoroid, infeksi panggul (sangat jarang, ditandai demam, nyeri hebat, dan sulit buang air kecil), kekambuhan",
+      "prognosis": "Baik; beberapa sesi mungkin diperlukan",
+      "alternatif": "Pengobatan konservatif (makanan tinggi serat, obat), skleroterapi, koagulasi inframerah, atau hemoroidektomi",
+      "lain_lain": "Pasien diminta segera kembali bila demam, nyeri hebat, sulit buang air kecil, atau perdarahan banyak. Pasien yang mengonsumsi obat pengencer darah wajib menginformasikannya",
+      "checklist": false
     },
     "Tindakan Ligasi Vaskular Emergensi": {
       "alternatif": "Repair vaskular definitif (primer, patch, atau graft) bila kondisi pasien memungkinkan; ligasi hanya dipilih sebagai damage control sementara",
@@ -2887,6 +2957,20 @@
       "tindakan": "Tindakan Penutupan Luka dengan Lem Jaringan (Tissue Adhesive)",
       "tujuan": "Menutup luka tanpa jahitan."
     },
+    "Tindakan Penutupan Stoma (Tutup Kolostomi/Ileostomi)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Penutupan Stoma (Tutup Kolostomi/Ileostomi)",
+      "indikasi": "Pasien dengan stoma usus sementara (kolostomi atau ileostomi) yang penyakit dasarnya telah teratasi dan kondisi umumnya memungkinkan penyambungan kembali usus",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, pemeriksaan laboratorium, dan pemeriksaan kontinuitas usus distal (foto kontras melalui stoma atau anus, atau endoskopi) untuk memastikan sambungan aman",
+      "tata_cara": "Pasien dipuasakan sesuai protokol dan menjalani pemeriksaan pra-anestesi dan persiapan usus, kemudian dengan anestesi umum dilakukan pembebasan stoma dari dinding perut (atau melalui laparotomi bila diperlukan), kedua ujung usus disambung kembali (anastomosis), lalu dinding perut dan kulit ditutup",
+      "tujuan": "Mengembalikan jalur buang air besar normal melalui anus sehingga kantong stoma tidak lagi diperlukan",
+      "resiko": "Nyeri luka, perdarahan, infeksi luka operasi, mual, perut kembung sementara",
+      "komplikasi": "Kebocoran sambungan usus yang dapat menyebabkan infeksi rongga perut dan memerlukan operasi ulang atau stoma kembali, sumbatan usus, hernia di bekas stoma, gangguan pola buang air besar (lebih sering, mendesak, atau sulit menahan) terutama pada sambungan rendah, perdarahan dari sambungan",
+      "prognosis": "Baik pada sebagian besar pasien dengan persiapan yang adekuat",
+      "alternatif": "Mempertahankan stoma secara permanen atau menunda penutupan hingga kondisi lebih optimal",
+      "lain_lain": "Pasien akan dipuasakan dan diberi makan bertahap setelah operasi sesuai fungsi usus. Pasien diminta segera melapor bila nyeri perut hebat, demam, perut kembung disertai muntah, atau tidak bisa buang angin",
+      "checklist": false
+    },
     "Tindakan Perawatan HCU": {
       "alternatif": "Rawat inap biasa atau ICU sesuai kondisi.",
       "checklist": false,
@@ -3516,6 +3600,20 @@
       "tata_cara": "Pengambilan kultur sebelum antibiotik, pemberian antibiotik spektrum luas, resusitasi cairan awal, dan pemantauan laktat.",
       "tindakan": "Tindakan Sepsis Bundle Awal (1 Jam Pertama)",
       "tujuan": "Menghentikan progresi sepsis dan mencegah syok septik."
+    },
+    "Tindakan Sfingterotomi Lateral Internal (Fisura Ani)": {
+      "package": "Digestive Surgery",
+      "tindakan": "Tindakan Sfingterotomi Lateral Internal (Fisura Ani)",
+      "indikasi": "Fisura ani (robekan pada saluran anus) kronis yang menimbulkan nyeri hebat saat buang air besar dan/atau perdarahan, yang tidak membaik dengan pengobatan konservatif selama beberapa minggu",
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik daerah anus yang menunjukkan fisura kronis, dengan atau tanpa skin tag atau papila hipertrofik",
+      "tata_cara": "Dengan anestesi spinal, umum, atau lokal, dibuat sayatan kecil di sisi anus untuk memotong sebagian otot sfingter ani interna secara terukur sehingga tekanan otot berkurang, dapat disertai pengangkatan skin tag atau jaringan parut fisura",
+      "tujuan": "Mengurangi kekejangan otot sfingter anus sehingga aliran darah membaik dan fisura dapat sembuh serta nyeri berkurang",
+      "resiko": "Nyeri, perdarahan ringan, rasa tidak nyaman saat buang air besar beberapa hari pertama",
+      "komplikasi": "Gangguan menahan buang angin atau buang air besar (umumnya ringan dan sementara, jarang menetap), hematoma atau abses, fistula, kekambuhan fisura",
+      "prognosis": "Baik; tingkat kesembuhan tinggi",
+      "alternatif": "Terapi konservatif lanjutan (makanan tinggi serat, pelunak tinja, rendam duduk), salep topikal nitrat atau penghambat kalsium, injeksi toksin botulinum, atau dilatasi anus",
+      "lain_lain": "Pasien dianjurkan makan tinggi serat, cukup minum, dan menghindari mengejan berlebihan untuk mencegah kekambuhan",
+      "checklist": false
     },
     "Tindakan Sirkumsisi (Khitan)": {
       "alternatif": "Terapi topikal pada fimosis ringan.",
