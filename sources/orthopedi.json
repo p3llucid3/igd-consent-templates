@@ -180,5 +180,47 @@
     "alternatif": "Pemeriksaan pencitraan dan laboratorium tanpa aspirasi, terapi obat sesuai dugaan penyebab, atau tindakan bedah (washout sendi) pada artritis septik",
     "lain_lain": "Pasien diminta mengistirahatkan sendi selama 24 jam setelah tindakan dan kembali bila muncul demam, nyeri bertambah, kemerahan, atau bengkak memburuk",
     "checklist": false
+  },
+  "Tindakan Release Trigger Finger": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Release Trigger Finger",
+    "indikasi": "Trigger finger (jari pelatuk) yang menyebabkan jari terkunci, nyeri, atau sulit diluruskan dan tidak membaik dengan istirahat, obat, atau suntikan kortikosteroid",
+    "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik jari dan telapak tangan",
+    "tata_cara": "Dengan anestesi lokal dibuat sayatan kecil di telapak tangan pada pangkal jari yang terkena, selubung tendon yang menyempit (pulley A1) dipotong sehingga tendon dapat bergerak bebas, lalu luka dijahit dan dibalut; dapat juga dilakukan secara perkutan dengan jarum",
+    "tujuan": "Membebaskan gerakan tendon sehingga jari tidak lagi terkunci dan nyeri berkurang",
+    "resiko": "Nyeri, bengkak, memar di telapak tangan, kekakuan sementara",
+    "komplikasi": "Infeksi, cedera saraf atau pembuluh darah jari (kesemutan atau mati rasa), pelepasan tidak lengkap sehingga gejala menetap, bowstringing tendon, jaringan parut yang nyeri, kekakuan jari",
+    "prognosis": "Baik; sebagian besar pasien sembuh dengan satu kali tindakan",
+    "alternatif": "Istirahat dan pembidaian, obat antiinflamasi, atau suntikan kortikosteroid pada selubung tendon",
+    "lain_lain": "Pasien dianjurkan menggerakkan jari secara aktif sejak awal sesuai instruksi untuk mencegah kekakuan, dan menjaga luka tetap kering hingga jahitan dilepas",
+    "checklist": false
+  },
+  "Tindakan Release Carpal Tunnel": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Release Carpal Tunnel",
+    "indikasi": "Sindrom terowongan karpal (carpal tunnel syndrome) dengan kesemutan, mati rasa, atau nyeri tangan yang menetap, kelemahan atau pengecilan otot ibu jari, atau tidak membaik dengan pengobatan konservatif",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik tangan (uji Tinel, Phalen), dan pemeriksaan konduksi saraf (EMG/NCV) sesuai indikasi",
+    "tata_cara": "Dengan anestesi lokal atau regional, dibuat sayatan di telapak tangan bagian bawah (terbuka) atau sayatan kecil dengan kamera (endoskopik), kemudian ligamen yang menutupi terowongan karpal dipotong sehingga tekanan pada saraf medianus berkurang, lalu luka dijahit dan dibalut",
+    "tujuan": "Mengurangi tekanan pada saraf medianus untuk menghilangkan kesemutan, nyeri, dan mencegah kerusakan saraf permanen",
+    "resiko": "Nyeri dan bengkak di telapak tangan, nyeri saat menggenggam beberapa minggu, kekakuan jari sementara",
+    "komplikasi": "Infeksi, cedera saraf medianus atau cabangnya, gejala tidak membaik terutama bila kerusakan saraf sudah lama, nyeri di sekitar bekas luka (pillar pain), kelemahan genggaman sementara, sindrom nyeri regional kompleks (jarang), kekambuhan",
+    "prognosis": "Baik; perbaikan kesemutan biasanya cepat, sedangkan pemulihan kekuatan otot dapat berlangsung berbulan-bulan dan tidak selalu sempurna pada kasus berat",
+    "alternatif": "Pembidaian pergelangan tangan saat malam, obat antiinflamasi, fisioterapi, suntikan kortikosteroid, dan modifikasi aktivitas",
+    "lain_lain": "Pasien dianjurkan meninggikan tangan dan menggerakkan jari setelah operasi, serta menghindari mengangkat beban berat beberapa minggu",
+    "checklist": false
+  },
+  "Tindakan Pengangkatan Implan Ortopedi (Removal of Implant)": {
+    "package": "Orthopedi",
+    "tindakan": "Tindakan Pengangkatan Implan Ortopedi (Removal of Implant)",
+    "indikasi": "Implan ortopedi (plate, screw, kawat, nail, atau pen) yang menimbulkan nyeri, iritasi, infeksi, implan patah atau bergeser, tulang telah menyambung dan implan tidak lagi diperlukan, atau atas pertimbangan dokter",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik, dan foto rontgen untuk menilai penyambungan tulang serta posisi implan",
+    "tata_cara": "Dengan anestesi regional atau umum, dibuat sayatan umumnya pada bekas luka operasi sebelumnya, implan diidentifikasi dan dilepas dengan alat khusus, dapat dibantu fluoroskopi, lalu luka dijahit",
+    "tujuan": "Melepas implan yang sudah tidak diperlukan atau menimbulkan keluhan",
+    "resiko": "Nyeri, perdarahan, bengkak, infeksi luka",
+    "komplikasi": "Patah tulang ulang di bekas lubang sekrup terutama beberapa minggu setelah pelepasan, sekrup sulit dilepas, patah, atau tertinggal sebagian, cedera saraf atau pembuluh darah di sekitar implan, infeksi, keluhan tidak sepenuhnya hilang",
+    "prognosis": "Baik pada sebagian besar pasien",
+    "alternatif": "Membiarkan implan tetap terpasang bila tidak menimbulkan keluhan",
+    "lain_lain": "Pasien perlu membatasi aktivitas berat dan benturan selama beberapa minggu setelah implan dilepas sesuai anjuran karena tulang masih dalam proses penguatan",
+    "checklist": false
   }
 }
