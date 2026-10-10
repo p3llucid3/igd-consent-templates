@@ -857,6 +857,20 @@
       "tindakan": "Tindakan Eksplorasi dan Repair Saraf Perifer Traumatik",
       "tujuan": "Memulihkan kontinuitas saraf untuk memaksimalkan potensi pemulihan fungsi motorik dan sensorik"
     },
+    "Tindakan Ekstirpasi Kuku (Wedge Resection Unguis Inkarnatus)": {
+      "alternatif": "Perawatan konservatif (merendam kaki, mengganjal tepi kuku, alas kaki longgar), antibiotik untuk infeksi, atau pencabutan kuku seluruhnya",
+      "checklist": false,
+      "dasar_diagnosis": "Anamnesis dan pemeriksaan fisik jari kaki atau tangan yang terkena",
+      "indikasi": "Kuku tumbuh ke dalam (unguis inkarnatus) yang menimbulkan nyeri, peradangan, infeksi, atau jaringan granulasi berulang dan tidak membaik dengan perawatan konservatif",
+      "komplikasi": "Infeksi, kekambuhan kuku tumbuh ke dalam, bentuk kuku menjadi lebih sempit, pertumbuhan kuku yang tidak normal, penyembuhan luka lambat terutama pada penderita diabetes atau gangguan aliran darah",
+      "lain_lain": "Pasien dianjurkan memotong kuku lurus dan tidak terlalu pendek serta memakai alas kaki yang longgar. Penderita diabetes perlu kontrol luka lebih ketat",
+      "package": "Bedah Umum",
+      "prognosis": "Baik; angka kekambuhan rendah bila akar kuku sisi tersebut diangkat",
+      "resiko": "Nyeri setelah efek bius habis, perdarahan ringan, keluarnya cairan dari luka selama beberapa hari",
+      "tata_cara": "Dilakukan blok saraf jari (anestesi digital) dan tindakan aseptik, kemudian sisi kuku yang tumbuh ke dalam dipotong memanjang hingga pangkalnya beserta jaringan granulasi, akar kuku di sisi tersebut diangkat atau dirusak secara kimiawi (fenol) atau bedah untuk mencegah tumbuh kembali, lalu luka dibalut",
+      "tindakan": "Tindakan Ekstirpasi Kuku (Wedge Resection Unguis Inkarnatus)",
+      "tujuan": "Menghilangkan bagian kuku yang tumbuh ke dalam untuk mengatasi nyeri dan infeksi serta mencegah kekambuhan"
+    },
     "Tindakan Ekstraksi Benda Asing Esofagus": {
       "alternatif": "Observasi dengan pemantauan pada benda asing tumpul kecil yang berpotensi melewati saluran cerna secara spontan tanpa tanda obstruksi atau komplikasi",
       "checklist": false,
