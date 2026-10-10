@@ -54,5 +54,19 @@
     "tata_cara": "Dilakukan di bawah anestesi regional atau umum, debridement dan preparasi tunggul serta bagian teramputasi, fiksasi tulang, dilanjutkan reanastomosis pembuluh darah (arteri dan vena) secara mikrosurgis, repair tendon dan saraf, serta penutupan kulit",
     "tindakan": "Tindakan Replantasi Digit Traumatik",
     "tujuan": "Mengembalikan kontinuitas dan fungsi digit yang teramputasi sebisa mungkin, termasuk sensibilitas dan mobilitas"
+  },
+  "Tindakan Eksisi Keloid": {
+    "package": "Plastic Surgery",
+    "tindakan": "Tindakan Eksisi Keloid",
+    "indikasi": "Keloid (pertumbuhan jaringan parut berlebih) yang besar, nyeri, gatal, mengganggu gerak, atau mengganggu penampilan dan tidak membaik dengan pengobatan nonbedah",
+    "dasar_diagnosis": "Anamnesis riwayat luka sebelumnya dan pemeriksaan fisik jaringan parut",
+    "tata_cara": "Dengan anestesi lokal, jaringan keloid diangkat (eksisi seluruhnya atau di dalam batas keloid), luka dijahit dengan teknik bebas tegangan, dan umumnya dilanjutkan dengan terapi tambahan seperti suntikan kortikosteroid ke luka, radioterapi, atau penekanan (pressure therapy) untuk mencegah kekambuhan",
+    "tujuan": "Mengurangi ukuran keloid dan keluhannya serta memperbaiki penampilan",
+    "resiko": "Nyeri, perdarahan ringan, infeksi luka",
+    "komplikasi": "Kekambuhan keloid yang sering terjadi dan dapat lebih besar dari sebelumnya bila tanpa terapi tambahan, luka terbuka kembali, perubahan warna kulit, efek samping suntikan kortikosteroid (penipisan kulit, perubahan warna)",
+    "prognosis": "Kekambuhan cukup tinggi; hasil lebih baik bila dikombinasikan dengan terapi tambahan",
+    "alternatif": "Suntikan kortikosteroid ke dalam keloid, silikon gel atau lembar silikon, krioterapi, laser, penekanan, atau observasi",
+    "lain_lain": "Pasien perlu kontrol rutin dan menjalani terapi pencegahan kekambuhan sesuai jadwal. Pasien dengan riwayat keloid sebaiknya menghindari tindik atau luka yang tidak perlu",
+    "checklist": false
   }
 }

@@ -54,5 +54,33 @@
     "tata_cara": "Dilakukan anestesi lokal, regional, atau umum, arteriotomi pada lokasi akses, ekstraksi trombus/embolus menggunakan kateter Fogarty, dilanjutkan konfirmasi aliran balik yang adekuat dan penutupan arteriotomi",
     "tindakan": "Tindakan Trombektomi Arterial",
     "tujuan": "Mengembalikan perfusi arteri ke ekstremitas secepat mungkin untuk mencegah iskemia ireversibel dan kehilangan ekstremitas"
+  },
+  "Tindakan Pembuatan Akses Vaskular Hemodialisa (AV Shunt/Cimino)": {
+    "package": "Vascular Surgery",
+    "tindakan": "Tindakan Pembuatan Akses Vaskular Hemodialisa (AV Shunt/Cimino)",
+    "indikasi": "Penyakit ginjal kronis yang sedang atau akan menjalani hemodialisa jangka panjang dan memerlukan akses pembuluh darah permanen",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik pembuluh darah lengan (nadi, uji Allen), dan USG Doppler untuk menilai ukuran dan kualitas arteri serta vena",
+    "tata_cara": "Dengan anestesi lokal atau blok saraf lengan, dibuat sayatan di pergelangan tangan atau siku, kemudian vena disambungkan langsung ke arteri (fistula arteri-vena) atau melalui pembuluh darah sintetis (graft), lalu luka dijahit; fistula memerlukan waktu beberapa minggu untuk matang sebelum dapat digunakan",
+    "tujuan": "Membuat akses pembuluh darah yang kuat dan tahan lama untuk hemodialisa sehingga mengurangi kebutuhan kateter",
+    "resiko": "Nyeri, bengkak, memar di lengan, infeksi luka",
+    "komplikasi": "Fistula tidak matang atau tersumbat (trombosis), perdarahan, aneurisma atau pelebaran pembuluh darah, sindrom steal (tangan dingin, nyeri, atau kesemutan karena aliran darah tangan berkurang), bengkak lengan akibat hipertensi vena, gagal jantung pada aliran fistula yang sangat besar, infeksi terutama pada graft",
+    "prognosis": "Baik; sebagian fistula memerlukan tindakan tambahan untuk dapat digunakan atau dipertahankan",
+    "alternatif": "Kateter hemodialisa (double lumen/CDL) jangka panjang, dialisis peritoneal, atau transplantasi ginjal",
+    "lain_lain": "Lengan yang dipasang fistula tidak boleh digunakan untuk pengukuran tekanan darah, pengambilan darah, atau pemasangan infus, dan tidak boleh tertekan saat tidur. Pasien diajarkan memeriksa getaran (thrill) fistula setiap hari dan segera melapor bila getaran hilang, perdarahan, atau tangan menjadi dingin dan nyeri",
+    "checklist": false
+  },
+  "Tindakan Ligasi dan Stripping Vena Varises Tungkai": {
+    "package": "Vascular Surgery",
+    "tindakan": "Tindakan Ligasi dan Stripping Vena Varises Tungkai",
+    "indikasi": "Varises tungkai (pelebaran vena) yang menimbulkan nyeri, rasa berat, bengkak, perubahan warna kulit, luka (ulkus) yang tidak sembuh, perdarahan, atau tromboflebitis berulang, disertai kebocoran katup vena safena",
+    "dasar_diagnosis": "Anamnesis, pemeriksaan fisik tungkai, dan USG Doppler vena untuk menilai kebocoran katup dan memastikan vena dalam tidak tersumbat",
+    "tata_cara": "Dengan anestesi spinal, umum, atau tumesen, dibuat sayatan di lipat paha dan/atau belakang lutut, pangkal vena safena diikat (ligasi), batang vena ditarik keluar dengan alat khusus (stripping), dan cabang varises diangkat melalui sayatan kecil (flebektomi), lalu tungkai dibalut dengan perban elastis",
+    "tujuan": "Menghilangkan vena yang bocor untuk mengurangi keluhan, mencegah komplikasi, dan memperbaiki penampilan tungkai",
+    "resiko": "Nyeri, memar luas di sepanjang tungkai, bengkak, perdarahan, infeksi luka",
+    "komplikasi": "Mati rasa atau kesemutan akibat cedera saraf kulit (saraf safena atau suralis), trombosis vena dalam dan emboli paru (jarang), hematoma, kebocoran limfe, kekambuhan varises",
+    "prognosis": "Baik; kekambuhan dapat terjadi dalam beberapa tahun",
+    "alternatif": "Stoking kompresi, ablasi vena dengan laser atau radiofrekuensi (endovena), skleroterapi, atau obat-obatan",
+    "lain_lain": "Pasien dianjurkan memakai stoking kompresi dan berjalan sejak hari pertama sesuai anjuran untuk mencegah bekuan darah, serta segera melapor bila tungkai bengkak hebat, nyeri betis, atau sesak napas",
+    "checklist": false
   }
 }

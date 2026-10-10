@@ -54,5 +54,19 @@
     "tata_cara": "Dilakukan anestesi lokal atau umum, reduksi manual fragmen tulang hidung menggunakan instrumen elevator nasal, koreksi deviasi septum bila ada, dilanjutkan pemasangan splint eksterna atau tampon intranasal untuk mempertahankan posisi",
     "tindakan": "Tindakan Reduksi Fraktur Nasal Tertutup",
     "tujuan": "Mengembalikan bentuk dan fungsi hidung (jalan napas) yang optimal serta mencegah deformitas permanen"
+  },
+  "Tindakan Tonsilektomi": {
+    "package": "ENT Advanced",
+    "tindakan": "Tindakan Tonsilektomi",
+    "indikasi": "Tonsilitis (radang amandel) berulang, pembesaran amandel yang menyebabkan gangguan napas saat tidur (mendengkur, henti napas) atau sulit menelan, abses peritonsil berulang, atau kecurigaan tumor amandel",
+    "dasar_diagnosis": "Anamnesis riwayat radang amandel, pemeriksaan fisik tenggorokan, serta pemeriksaan laboratorium (darah lengkap, faal hemostasis) sebelum operasi",
+    "tata_cara": "Pasien dipuasakan sesuai protokol dan menjalani pemeriksaan pra-anestesi, kemudian dengan anestesi umum mulut dibuka dengan alat khusus dan kedua amandel diangkat menggunakan teknik diseksi, elektrokauter, atau alat lain, perdarahan dirawat hingga berhenti, dapat disertai pengangkatan adenoid (adenotonsilektomi) sesuai indikasi",
+    "tujuan": "Menghilangkan sumber infeksi berulang dan memperbaiki gangguan napas atau menelan",
+    "resiko": "Nyeri tenggorokan yang cukup berat selama 1 hingga 2 minggu, nyeri telinga, sulit menelan sementara, mual dan muntah, bau mulut, perubahan suara sementara",
+    "komplikasi": "Perdarahan setelah operasi (terutama dalam 24 jam pertama atau hari ke-5 hingga ke-10) yang dapat memerlukan tindakan ulang, dehidrasi akibat sulit makan dan minum, cedera gigi, bibir, atau lidah, gangguan napas setelah operasi terutama pada anak dengan sleep apnea, komplikasi anestesi",
+    "prognosis": "Baik; sebagian besar pasien pulih dalam 2 minggu",
+    "alternatif": "Pengobatan antibiotik saat infeksi dan observasi, atau pengobatan gangguan napas tidur nonbedah",
+    "lain_lain": "Pasien dianjurkan banyak minum, makan makanan lunak dan dingin, serta menghindari makanan keras dan pedas selama masa penyembuhan. Pasien atau keluarga diminta segera ke IGD bila terjadi perdarahan dari mulut atau muntah darah",
+    "checklist": false
   }
 }
