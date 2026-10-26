@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-26",
   "version": "1.2.11",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
@@ -1346,6 +1346,34 @@
       "tata_cara": "Pemberian oksigen aliran tinggi melalui kanul nasal khusus dengan humidifikasi.",
       "tindakan": "Tindakan High Flow Nasal Cannula (HFNC)",
       "tujuan": "Meningkatkan oksigenasi dan kenyamanan pasien."
+    },
+    "Tindakan Histerektomi": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Histerektomi",
+      "indikasi": "Mioma uteri simtomatik atau berukuran besar, adenomiosis, perdarahan uterus abnormal yang tidak teratasi dengan terapi lain, prolaps uteri, nyeri panggul kronis akibat kelainan rahim, lesi prakanker serviks atau endometrium, atau keganasan organ reproduksi sesuai indikasi",
+      "dasar_diagnosis": "Anamnesis, pemeriksaan fisik dan ginekologis, USG transvaginal atau transabdominal, pemeriksaan laboratorium, serta pemeriksaan penunjang lain seperti pap smear, biopsi endometrium, atau pencitraan lanjutan sesuai indikasi",
+      "tata_cara": "Pasien dipuasakan sesuai protokol dan menjalani pemeriksaan pra-anestesi, kemudian dengan anestesi umum atau spinal rahim diangkat seluruhnya (histerektomi total) atau hanya bagian badan rahim (histerektomi subtotal), dengan atau tanpa pengangkatan tuba falopi dan indung telur (salpingo-ooforektomi), melalui sayatan perut (abdominal), melalui vagina (vaginal), atau secara laparoskopi; dapat dipasang kateter urin dan drain; jaringan dikirim untuk pemeriksaan histopatologi",
+      "tujuan": "Mengangkat rahim yang sakit untuk menghilangkan keluhan seperti perdarahan, nyeri, atau benjolan, serta mengobati atau mencegah perkembangan keganasan",
+      "resiko": "Nyeri luka operasi, perdarahan, infeksi luka atau saluran kemih, mual pascaanestesi, gangguan berkemih atau buang air besar sementara",
+      "komplikasi": "Perdarahan yang memerlukan transfusi atau operasi ulang, cedera kandung kemih, ureter, atau usus, infeksi panggul atau abses, trombosis vena dalam dan emboli paru, ileus, hernia insisional, prolaps puncak vagina, gangguan fungsi seksual, menopause dini bila kedua indung telur diangkat, komplikasi anestesi",
+      "prognosis": "Baik pada sebagian besar kelainan jinak; pada keganasan bergantung pada jenis dan stadium penyakit",
+      "alternatif": "Terapi obat hormonal, pemasangan IUD hormonal, miomektomi, ablasi endometrium, embolisasi arteri uterina, pessarium pada prolaps, atau observasi sesuai kondisi",
+      "lain_lain": "Setelah histerektomi pasien tidak akan mengalami menstruasi dan tidak dapat hamil lagi. Bila kedua indung telur diangkat sebelum menopause, keluhan menopause dapat muncul. Pasien dianjurkan tidak berhubungan suami istri dan tidak mengangkat beban berat selama 6 minggu atau sesuai anjuran dokter. Pemeriksaan histopatologi menentukan tatalaksana lanjutan",
+      "checklist": false
+    },
+    "Tindakan Histerektomi Peripartum (Emergensi Obstetri)": {
+      "package": "Obstetri & Ginekologi",
+      "tindakan": "Tindakan Histerektomi Peripartum (Emergensi Obstetri)",
+      "indikasi": "Perdarahan pascapersalinan masif yang tidak teratasi dengan uterotonika, kompresi bimanual, tamponade, maupun tindakan bedah konservatif; ruptur uteri yang tidak dapat diperbaiki; plasenta akreta, inkreta, atau perkreta; atau infeksi rahim berat yang mengancam nyawa",
+      "dasar_diagnosis": "Penilaian klinis kegawatdaruratan obstetri, jumlah perdarahan dan kondisi hemodinamik, temuan saat persalinan atau operasi sesar, serta pencitraan antenatal (USG atau MRI) pada kecurigaan plasenta akreta",
+      "tata_cara": "Dengan anestesi umum atau spinal, rahim diangkat seluruhnya atau sebagian (subtotal) melalui sayatan perut, umumnya pada saat atau segera setelah persalinan atau operasi sesar, disertai pemberian transfusi darah dan komponen darah, pemasangan kateter urin, dan perawatan intensif bila diperlukan",
+      "tujuan": "Menghentikan perdarahan atau mengatasi sumber infeksi yang mengancam nyawa ibu",
+      "resiko": "Perdarahan lanjutan, kebutuhan transfusi masif, infeksi, nyeri luka operasi",
+      "komplikasi": "Cedera kandung kemih, ureter, atau usus, gangguan pembekuan darah, syok, gagal ginjal, kebutuhan perawatan intensif dan ventilator, trombosis vena dalam dan emboli paru, operasi ulang, kematian ibu",
+      "prognosis": "Bergantung pada jumlah perdarahan, kecepatan tindakan, dan kondisi ibu; tindakan ini bersifat penyelamatan nyawa",
+      "alternatif": "Uterotonika, kompresi bimanual, tamponade balon uterus, jahitan kompresi uterus (B-Lynch), ligasi arteri uterina atau iliaka interna, atau embolisasi arteri bila tersedia dan kondisi memungkinkan",
+      "lain_lain": "Tindakan ini bersifat penyelamatan nyawa; pada kondisi darurat persetujuan dapat diberikan oleh suami atau keluarga. Setelah histerektomi ibu tidak dapat hamil lagi dan tidak akan mengalami menstruasi. Bila plasenta akreta sudah diketahui sebelumnya, tindakan sebaiknya direncanakan di fasilitas dengan kesiapan bank darah dan perawatan intensif",
+      "checklist": false
     },
     "Tindakan Induksi Persalinan": {
       "alternatif": "Observasi lanjutan, tindakan operatif (sectio caesarea), atau metode lain sesuai pertimbangan klinis.",
