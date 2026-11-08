@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-11-08",
   "version": "1.2.11",
   "description": "Clean and non-redundant informed consent templates categorized by medical package",
   "templates": {
@@ -814,6 +814,20 @@
       "tata_cara": "Pembukaan dan eksplorasi saluran empedu utama untuk mengeluarkan batu atau mengatasi sumbatan.",
       "tindakan": "Tindakan Eksplorasi Duktus Koledokus",
       "tujuan": "Memperlancar aliran empedu dan mencegah infeksi atau kerusakan hati."
+    },
+    "Tindakan Eksplorasi Penis pada Komplikasi Sirkumsisi": {
+      "package": "Urologi",
+      "tindakan": "Tindakan Eksplorasi Penis pada Komplikasi Sirkumsisi",
+      "indikasi": "Komplikasi setelah sirkumsisi seperti perdarahan yang tidak berhenti dengan penekanan, hematoma penis, jahitan terlepas, kulit penis terangkat berlebihan, sisa kulit kulup berlebih atau tidak simetris, jembatan kulit (skin bridge), cedera kepala penis (glans) atau saluran kencing (uretra), fistula uretra, penyempitan lubang kencing (stenosis meatus), atau infeksi luka yang memerlukan tindakan bedah",
+      "dasar_diagnosis": "Anamnesis riwayat sirkumsisi (waktu, teknik, dan pelaksana), pemeriksaan fisik penis termasuk kondisi luka, kepala penis, lubang kencing, dan kemampuan berkemih, serta pemeriksaan laboratorium (darah lengkap, faal pembekuan) bila terdapat perdarahan",
+      "tata_cara": "Dengan anestesi lokal (blok penis), regional, atau umum sesuai usia dan kondisi pasien, jahitan dan bekuan darah dibuka, luka dieksplorasi untuk mencari sumber perdarahan dan menilai cedera, perdarahan dihentikan dengan ikatan atau kauter, jaringan mati dibersihkan, cedera kepala penis atau uretra diperbaiki bila ada, sisa kulit kulup dirapikan atau jembatan kulit dipisahkan, lalu luka dijahit kembali; dapat dipasang kateter urin sementara bila diperlukan",
+      "tujuan": "Menghentikan perdarahan, memperbaiki cedera, dan mengembalikan bentuk serta fungsi penis termasuk fungsi berkemih",
+      "resiko": "Nyeri, bengkak, perdarahan ringan, rasa tidak nyaman saat berkemih",
+      "komplikasi": "Perdarahan berulang, infeksi luka, jaringan parut, hasil kosmetik kurang sempurna, penyempitan lubang kencing, fistula uretra, gangguan sensasi kepala penis, kebutuhan tindakan perbaikan lanjutan atau rekonstruksi bertahap",
+      "prognosis": "Baik pada komplikasi ringan seperti perdarahan atau sisa kulit berlebih; pada cedera kepala penis atau uretra bergantung pada luas cedera",
+      "alternatif": "Penekanan langsung dan pembalutan pada perdarahan ringan, perawatan luka konservatif pada infeksi ringan, atau perbaikan elektif tertunda setelah bengkak dan peradangan mereda",
+      "lain_lain": "Pada anak dengan perdarahan berulang atau berlebihan perlu dipertimbangkan pemeriksaan kelainan pembekuan darah (misalnya hemofilia). Pasien atau orang tua diminta segera kembali bila terjadi perdarahan, sulit atau tidak bisa buang air kecil, demam, atau luka bernanah. Pada cedera kepala penis atau uretra yang luas, pasien dapat dirujuk ke dokter spesialis urologi",
+      "checklist": false
     },
     "Tindakan Eksplorasi Skrotum pada Torsio Testis": {
       "package": "Urologi",
