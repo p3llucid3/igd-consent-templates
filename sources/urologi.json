@@ -236,5 +236,19 @@
     "alternatif": "Penekanan langsung dan pembalutan pada perdarahan ringan, perawatan luka konservatif pada infeksi ringan, atau perbaikan elektif tertunda setelah bengkak dan peradangan mereda",
     "lain_lain": "Pada anak dengan perdarahan berulang atau berlebihan perlu dipertimbangkan pemeriksaan kelainan pembekuan darah (misalnya hemofilia). Pasien atau orang tua diminta segera kembali bila terjadi perdarahan, sulit atau tidak bisa buang air kecil, demam, atau luka bernanah. Pada cedera kepala penis atau uretra yang luas, pasien dapat dirujuk ke dokter spesialis urologi",
     "checklist": false
+  },
+  "Tindakan Eksplorasi Penis (Kalau Perlu Sirkumsisi)": {
+    "package": "Urologi",
+    "tindakan": "Tindakan Eksplorasi Penis (Kalau Perlu Sirkumsisi)",
+    "indikasi": "Trauma atau kelainan penis yang memerlukan eksplorasi bedah, seperti luka robek atau luka tusuk penis, kulit penis terjepit risleting (zipper injury) yang tidak dapat dilepas, cincin atau benda asing penjerat penis (strangulasi), hematoma penis luas, kecurigaan fraktur penis (robekan tunika albuginea), abses atau infeksi jaringan lunak penis, atau fimosis maupun parafimosis dengan komplikasi; sirkumsisi dilakukan bila kulit kulup rusak, nekrotik, terinfeksi, atau menjadi penyebab masalah",
+    "dasar_diagnosis": "Anamnesis mekanisme cedera atau keluhan, pemeriksaan fisik penis termasuk kondisi kulit, kepala penis, lubang kencing, dan kemampuan berkemih, serta pemeriksaan penunjang seperti USG penis atau uretrografi bila dicurigai cedera korpus kavernosum atau uretra",
+    "tata_cara": "Dengan anestesi lokal (blok penis), regional, atau umum sesuai kondisi dan usia pasien, dilakukan pembersihan dan eksplorasi luka atau penis untuk menilai cedera kulit, jaringan di bawah kulit, korpus kavernosum, dan uretra; benda penjerat atau risleting dilepaskan, hematoma dievakuasi, perdarahan dihentikan, jaringan mati dibersihkan, robekan tunika albuginea atau uretra diperbaiki bila ditemukan, dan bila diperlukan kulit kulup diangkat (sirkumsisi); luka kemudian dijahit dan dapat dipasang kateter urin sementara",
+    "tujuan": "Menilai dan memperbaiki cedera atau kelainan penis untuk menghentikan perdarahan, mencegah infeksi dan kerusakan jaringan, serta mempertahankan fungsi berkemih dan fungsi seksual",
+    "resiko": "Nyeri, bengkak, memar, perdarahan ringan, rasa tidak nyaman saat berkemih",
+    "komplikasi": "Infeksi luka, perdarahan berulang, jaringan parut, kelengkungan penis, gangguan ereksi, penyempitan atau fistula uretra, gangguan sensasi, hasil kosmetik kurang sempurna, kebutuhan tindakan lanjutan atau rekonstruksi",
+    "prognosis": "Baik pada cedera ringan dan kelainan kulit; pada cedera korpus kavernosum atau uretra bergantung pada luas cedera dan kecepatan penanganan",
+    "alternatif": "Pelepasan risleting atau benda penjerat tanpa operasi bila memungkinkan, penekanan dan kompres dingin pada hematoma ringan, antibiotik dan perawatan luka pada infeksi ringan, atau observasi sesuai kondisi",
+    "lain_lain": "Sirkumsisi hanya dilakukan bila diperlukan berdasarkan temuan saat tindakan dan akan dijelaskan kepada pasien atau keluarga. Pada kecurigaan fraktur penis atau cedera uretra, tindakan sebaiknya dilakukan segera dan dapat memerlukan rujukan ke dokter spesialis urologi. Pasien diminta kembali bila terjadi perdarahan, sulit buang air kecil, demam, atau bengkak memburuk",
+    "checklist": false
   }
 }
